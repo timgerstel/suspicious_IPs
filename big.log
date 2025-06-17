@@ -4553,3 +4553,13 @@
 [6/17/2025 8:02:51 PM] 81.29.134.51 >>> Disconnected.
 [6/17/2025 8:06:19 PM] ***REJECTED*** {ip: "49.73.43.201", user: "root", pass:"9"}
 [6/17/2025 8:06:19 PM] 49.73.43.201 >>> Disconnected.
+[6/17/2025 8:21:19 PM] Connection attempt from IP: 49.73.43.201...
+[6/17/2025 8:21:19 PM] 49.73.43.201 >>> Disconnected.
+[6/17/2025 8:21:20 PM] Connection attempt from IP: 49.73.43.201...
+[6/17/2025 8:21:22 PM] ***REJECTED*** {ip: "49.73.43.201", user: "root", pass:"night"}
+[6/17/2025 8:21:22 PM] 49.73.43.201 >>> Disconnected.
+[6/17/2025 8:26:55 PM] Connection attempt from IP: 64.62.156.58...
+[6/17/2025 8:26:59 PM] 64.62.156.58 >>> Disconnected.
+[6/17/2025 8:29:47 PM] Connection attempt from IP: 78.128.112.74...
+[6/17/2025 8:29:49 PM] ***REJECTED*** {ip: "78.128.112.74", user: "root", pass:"admin123"}
+[6/17/2025 8:29:49 PM] 78.128.112.74 >>> Disconnected.
