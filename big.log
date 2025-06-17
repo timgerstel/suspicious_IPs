@@ -4650,3 +4650,6 @@
 [6/17/2025 9:09:57 PM] 195.178.110.160 >>> Disconnected.
 [6/17/2025 9:12:54 PM] Connection attempt from IP: 103.13.206.197...
 [6/17/2025 9:13:02 PM] 103.13.206.197 >>> Disconnected.
+[6/17/2025 9:40:24 PM] Connection attempt from IP: 78.128.112.74...
+[6/17/2025 9:40:26 PM] ***REJECTED*** {ip: "78.128.112.74", user: "telecomadmin", pass:"admintelecom"}
+[6/17/2025 9:40:26 PM] 78.128.112.74 >>> Disconnected.
