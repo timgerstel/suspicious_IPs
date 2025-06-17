@@ -4243,3 +4243,6 @@
 [6/17/2025 5:44:23 PM] Connection attempt from IP: 185.93.89.118...
 [6/17/2025 5:44:42 PM] ***REJECTED*** {ip: "185.93.89.118", user: "ftpuser", pass:"admin"}
 [6/17/2025 5:44:43 PM] 185.93.89.118 >>> Disconnected.
+[6/17/2025 6:07:36 PM] Connection attempt from IP: 78.128.112.74...
+[6/17/2025 6:07:37 PM] ***REJECTED*** {ip: "78.128.112.74", user: "admin", pass:"admin123"}
+[6/17/2025 6:07:37 PM] 78.128.112.74 >>> Disconnected.
