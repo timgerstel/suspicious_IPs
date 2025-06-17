@@ -4549,3 +4549,7 @@
 [6/17/2025 7:51:18 PM] ***REJECTED*** {ip: "49.73.43.201", user: "root", pass:"8"}
 [6/17/2025 7:51:18 PM] 49.73.43.201 >>> Disconnected.
 [6/17/2025 7:51:19 PM] Connection attempt from IP: 49.73.43.201...
+[6/17/2025 8:02:51 PM] Connection attempt from IP: 81.29.134.51...
+[6/17/2025 8:02:51 PM] 81.29.134.51 >>> Disconnected.
+[6/17/2025 8:06:19 PM] ***REJECTED*** {ip: "49.73.43.201", user: "root", pass:"9"}
+[6/17/2025 8:06:19 PM] 49.73.43.201 >>> Disconnected.
