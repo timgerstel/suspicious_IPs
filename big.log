@@ -4734,3 +4734,6 @@
 [6/18/2025 2:01:05 AM] Connection attempt from IP: 176.65.148.55...
 [6/18/2025 2:01:06 AM] ***REJECTED*** {ip: "176.65.148.55", user: "root", pass:"Zte521"}
 [6/18/2025 2:01:07 AM] 176.65.148.55 >>> Disconnected.
+[6/18/2025 2:18:46 AM] Connection attempt from IP: 78.128.112.74...
+[6/18/2025 2:18:48 AM] ***REJECTED*** {ip: "78.128.112.74", user: "admin", pass:"1111"}
+[6/18/2025 2:18:48 AM] 78.128.112.74 >>> Disconnected.
