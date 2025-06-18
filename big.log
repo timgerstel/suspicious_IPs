@@ -6271,3 +6271,6 @@
 [6/18/2025 8:48:04 AM] 156.238.240.254 >>> Disconnected.
 [6/18/2025 9:02:04 AM] Connection attempt from IP: 170.64.199.14...
 [6/18/2025 9:02:12 AM] 170.64.199.14 >>> Disconnected.
+[6/18/2025 9:30:50 AM] Connection attempt from IP: 8.213.220.43...
+[6/18/2025 9:30:53 AM] ***REJECTED*** {ip: "8.213.220.43", user: "root", pass:" "}
+[6/18/2025 9:30:53 AM] 8.213.220.43 >>> Disconnected.
