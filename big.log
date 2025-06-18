@@ -6950,3 +6950,20 @@
 [6/18/2025 5:29:48 PM] ***REJECTED*** {ip: "36.249.100.146", user: "root", pass:"rootroot"}
 [6/18/2025 5:29:49 PM] 36.249.100.146 >>> Disconnected.
 [6/18/2025 5:29:57 PM] Connection attempt from IP: 36.249.100.146...
+[6/18/2025 5:30:03 PM] ***REJECTED*** {ip: "36.249.100.146", user: "root", pass:"root123456"}
+[6/18/2025 5:30:04 PM] 36.249.100.146 >>> Disconnected.
+[6/18/2025 5:30:10 PM] Connection attempt from IP: 36.249.100.146...
+[6/18/2025 5:30:13 PM] ***REJECTED*** {ip: "36.249.100.146", user: "root", pass:"hope"}
+[6/18/2025 5:30:14 PM] 36.249.100.146 >>> Disconnected.
+[6/18/2025 5:30:14 PM] Connection attempt from IP: 36.249.100.146...
+[6/18/2025 5:30:17 PM] ***REJECTED*** {ip: "36.249.100.146", user: "root", pass:"fdk23E4ej#Md%28@1"}
+[6/18/2025 5:30:17 PM] 36.249.100.146 >>> Disconnected.
+[6/18/2025 5:30:18 PM] Connection attempt from IP: 36.249.100.146...
+[6/18/2025 5:30:21 PM] ***REJECTED*** {ip: "36.249.100.146", user: "root", pass:"7ujMko0admin123"}
+[6/18/2025 5:30:21 PM] 36.249.100.146 >>> Disconnected.
+[6/18/2025 5:30:27 PM] Connection attempt from IP: 36.249.100.146...
+[6/18/2025 5:30:29 PM] ***REJECTED*** {ip: "36.249.100.146", user: "root", pass:"team2"}
+[6/18/2025 5:30:30 PM] 36.249.100.146 >>> Disconnected.
+[6/18/2025 5:30:30 PM] Connection attempt from IP: 36.249.100.146...
+[6/18/2025 5:30:33 PM] ***REJECTED*** {ip: "36.249.100.146", user: "root", pass:"5nWt3P-fF4WosQm5O"}
+[6/18/2025 5:30:34 PM] 36.249.100.146 >>> Disconnected.
