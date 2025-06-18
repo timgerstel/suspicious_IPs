@@ -6569,3 +6569,9 @@
 [6/18/2025 10:33:44 AM] 206.168.34.112 >>> Disconnected.
 [6/18/2025 10:38:38 AM] Connection attempt from IP: 147.185.132.102...
 [6/18/2025 10:38:40 AM] 147.185.132.102 >>> Disconnected.
+[6/18/2025 10:48:41 AM] Connection attempt from IP: 87.152.15.225...
+[6/18/2025 10:48:41 AM] Connection attempt from IP: 87.152.15.225...
+[6/18/2025 10:48:42 AM] ***REJECTED*** {ip: "87.152.15.225", user: "pi", pass:"raspberryraspberry993311"}
+[6/18/2025 10:48:43 AM] ***REJECTED*** {ip: "87.152.15.225", user: "pi", pass:"raspberry"}
+[6/18/2025 10:48:43 AM] 87.152.15.225 >>> Disconnected.
+[6/18/2025 10:48:43 AM] 87.152.15.225 >>> Disconnected.
