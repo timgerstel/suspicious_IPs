@@ -8270,3 +8270,8 @@
 [6/18/2025 9:46:50 PM] ***REJECTED*** {ip: "112.112.11.250", user: "oracle", pass:"12345"}
 [6/18/2025 9:46:50 PM] ***ACCEPTED*** {ip: "112.112.11.250", user: "oracle", pass:"root"}
 [6/18/2025 9:47:12 PM] 112.112.11.250 >>> Disconnected.
+[6/18/2025 10:33:55 PM] Connection attempt from IP: 198.235.24.111...
+[6/18/2025 10:33:57 PM] 198.235.24.111 >>> Disconnected.
+[6/18/2025 10:44:07 PM] Connection attempt from IP: 181.41.22.233...
+[6/18/2025 10:44:09 PM] ***REJECTED*** {ip: "181.41.22.233", user: "root", pass:"password321"}
+[6/18/2025 10:44:09 PM] 181.41.22.233 >>> Disconnected.
