@@ -8277,3 +8277,10 @@
 [6/18/2025 10:44:09 PM] 181.41.22.233 >>> Disconnected.
 [6/18/2025 10:54:44 PM] Connection attempt from IP: 147.139.164.196...
 [6/18/2025 10:54:50 PM] 147.139.164.196 >>> Disconnected.
+[6/18/2025 11:08:46 PM] Connection attempt from IP: 80.94.95.15...
+[6/18/2025 11:08:47 PM] ***REJECTED*** {ip: "80.94.95.15", user: "root", pass:"admin"}
+[6/18/2025 11:08:47 PM] ***REJECTED*** {ip: "80.94.95.15", user: "root", pass:"root"}
+[6/18/2025 11:08:48 PM] ***REJECTED*** {ip: "80.94.95.15", user: "root", pass:"password"}
+[6/18/2025 11:08:48 PM] ***REJECTED*** {ip: "80.94.95.15", user: "root", pass:"abcd1234"}
+[6/18/2025 11:08:49 PM] ***REJECTED*** {ip: "80.94.95.15", user: "root", pass:"123456"}
+[6/18/2025 11:08:49 PM] 80.94.95.15 >>> Disconnected.
