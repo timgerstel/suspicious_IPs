@@ -6878,3 +6878,6 @@
 [6/18/2025 4:15:36 PM] 171.251.22.116 >>> Disconnected.
 [6/18/2025 4:26:51 PM] Connection attempt from IP: 170.64.224.31...
 [6/18/2025 4:26:59 PM] 170.64.224.31 >>> Disconnected.
+[6/18/2025 4:43:53 PM] Connection attempt from IP: 112.6.14.93...
+[6/18/2025 4:43:56 PM] ***REJECTED*** {ip: "112.6.14.93", user: "root", pass:"------fuck------"}
+[6/18/2025 4:43:57 PM] 112.6.14.93 >>> Disconnected.
