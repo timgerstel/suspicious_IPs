@@ -6605,3 +6605,14 @@
 [6/18/2025 11:29:56 AM] ***REJECTED*** {ip: "61.183.42.168", user: "root", pass:"Aa112211"}
 [6/18/2025 11:29:57 AM] 61.183.42.168 >>> Disconnected.
 [6/18/2025 11:29:57 AM] Connection attempt from IP: 61.183.42.168...
+[6/18/2025 11:30:04 AM] ***REJECTED*** {ip: "61.183.42.168", user: "root", pass:"pgj-heu05HQM=bMvz"}
+[6/18/2025 11:30:04 AM] 61.183.42.168 >>> Disconnected.
+[6/18/2025 11:30:05 AM] Connection attempt from IP: 61.183.42.168...
+[6/18/2025 11:30:09 AM] ***REJECTED*** {ip: "61.183.42.168", user: "root", pass:"IZAK%s^&OzNgG%wm*teASED7E9zPoB&E%Pc"}
+[6/18/2025 11:30:10 AM] 61.183.42.168 >>> Disconnected.
+[6/18/2025 11:30:13 AM] Connection attempt from IP: 61.183.42.168...
+[6/18/2025 11:30:17 AM] ***REJECTED*** {ip: "61.183.42.168", user: "root", pass:"Aa@147258"}
+[6/18/2025 11:30:17 AM] 61.183.42.168 >>> Disconnected.
+[6/18/2025 11:30:18 AM] Connection attempt from IP: 61.183.42.168...
+[6/18/2025 11:30:20 AM] ***ACCEPTED*** {ip: "61.183.42.168", user: "root", pass:"1qaz@WSX"}
+[6/18/2025 11:30:22 AM] 61.183.42.168 >>> Disconnected.
