@@ -8311,3 +8311,6 @@
 [6/19/2025 12:14:48 AM] 80.94.95.15 >>> Disconnected.
 [6/19/2025 12:34:31 AM] Connection attempt from IP: 52.87.167.11...
 [6/19/2025 12:34:31 AM] 52.87.167.11 >>> Disconnected.
+[6/19/2025 1:13:52 AM] Connection attempt from IP: 176.65.148.55...
+[6/19/2025 1:13:53 AM] ***REJECTED*** {ip: "176.65.148.55", user: "root", pass:"root"}
+[6/19/2025 1:13:54 AM] 176.65.148.55 >>> Disconnected.
