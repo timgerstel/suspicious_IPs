@@ -9861,3 +9861,17 @@
 [6/19/2025 12:26:15 PM] ***REJECTED*** {ip: "80.94.95.15", user: "esther", pass:"esther1234"}
 [6/19/2025 12:26:16 PM] ***REJECTED*** {ip: "80.94.95.15", user: "esther", pass:"esther12345"}
 [6/19/2025 12:26:16 PM] 80.94.95.15 >>> Disconnected.
+[6/19/2025 12:47:41 PM] Connection attempt from IP: 80.94.95.15...
+[6/19/2025 12:47:42 PM] ***REJECTED*** {ip: "80.94.95.15", user: "root", pass:"tara"}
+[6/19/2025 12:47:42 PM] ***REJECTED*** {ip: "80.94.95.15", user: "root", pass:"starship"}
+[6/19/2025 12:47:43 PM] ***REJECTED*** {ip: "80.94.95.15", user: "root", pass:"slave"}
+[6/19/2025 12:47:43 PM] ***REJECTED*** {ip: "80.94.95.15", user: "root", pass:"saratoga"}
+[6/19/2025 12:47:44 PM] ***REJECTED*** {ip: "80.94.95.15", user: "root", pass:"romance"}
+[6/19/2025 12:47:44 PM] 80.94.95.15 >>> Disconnected.
+[6/19/2025 12:57:29 PM] Connection attempt from IP: 80.94.95.15...
+[6/19/2025 12:57:30 PM] ***REJECTED*** {ip: "80.94.95.15", user: "ftp", pass:"ftp"}
+[6/19/2025 12:57:31 PM] ***REJECTED*** {ip: "80.94.95.15", user: "ftp", pass:"123456"}
+[6/19/2025 12:57:31 PM] ***REJECTED*** {ip: "80.94.95.15", user: "ftp", pass:"12345"}
+[6/19/2025 12:57:32 PM] ***REJECTED*** {ip: "80.94.95.15", user: "ftp", pass:"ftp123"}
+[6/19/2025 12:57:32 PM] ***REJECTED*** {ip: "80.94.95.15", user: "ftp", pass:"abc123"}
+[6/19/2025 12:57:33 PM] 80.94.95.15 >>> Disconnected.
