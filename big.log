@@ -11239,3 +11239,12 @@
 [6/19/2025 6:15:08 PM] ***REJECTED*** {ip: "80.94.95.15", user: "ftpuser", pass:"1234"}
 [6/19/2025 6:15:08 PM] ***REJECTED*** {ip: "80.94.95.15", user: "ftpuser", pass:"ftp"}
 [6/19/2025 6:15:09 PM] 80.94.95.15 >>> Disconnected.
+[6/19/2025 6:34:24 PM] Connection attempt from IP: 81.29.134.51...
+[6/19/2025 6:34:24 PM] 81.29.134.51 >>> Disconnected.
+[6/19/2025 6:41:24 PM] Connection attempt from IP: 80.94.95.15...
+[6/19/2025 6:41:25 PM] ***REJECTED*** {ip: "80.94.95.15", user: "root", pass:"dammit"}
+[6/19/2025 6:41:25 PM] ***REJECTED*** {ip: "80.94.95.15", user: "root", pass:"dale"}
+[6/19/2025 6:41:26 PM] ***REJECTED*** {ip: "80.94.95.15", user: "root", pass:"crysis"}
+[6/19/2025 6:41:26 PM] ***REJECTED*** {ip: "80.94.95.15", user: "root", pass:"bogart"}
+[6/19/2025 6:41:27 PM] ***REJECTED*** {ip: "80.94.95.15", user: "root", pass:"anaconda"}
+[6/19/2025 6:41:27 PM] 80.94.95.15 >>> Disconnected.
