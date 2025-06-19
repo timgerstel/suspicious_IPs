@@ -10786,3 +10786,5 @@
 [6/19/2025 2:44:20 PM] ***REJECTED*** {ip: "80.94.95.15", user: "ubnt", pass:"password"}
 [6/19/2025 2:44:20 PM] ***REJECTED*** {ip: "80.94.95.15", user: "ubnt", pass:"ubnt123"}
 [6/19/2025 2:44:21 PM] 80.94.95.15 >>> Disconnected.
+[6/19/2025 3:12:59 PM] Connection attempt from IP: 115.32.10.102...
+[6/19/2025 3:13:07 PM] 115.32.10.102 >>> Disconnected.
