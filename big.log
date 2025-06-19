@@ -11403,3 +11403,16 @@
 [6/19/2025 7:57:20 PM] Connection attempt from IP: 178.20.55.16...
 [6/19/2025 7:57:22 PM] ***REJECTED*** {ip: "178.20.55.16", user: "admin", pass:"admin"}
 [6/19/2025 7:57:22 PM] 178.20.55.16 >>> Disconnected.
+[6/19/2025 8:00:18 PM] Connection attempt from IP: 66.240.236.109...
+[6/19/2025 8:00:28 PM] 66.240.236.109 >>> Disconnected.
+[6/19/2025 8:01:04 PM] Connection attempt from IP: 39.91.138.130...
+[6/19/2025 8:01:07 PM] 39.91.138.130 >>> Disconnected.
+[6/19/2025 8:01:45 PM] Connection attempt from IP: 80.94.95.15...
+[6/19/2025 8:01:47 PM] ***REJECTED*** {ip: "80.94.95.15", user: "magdalena", pass:"7777777"}
+[6/19/2025 8:01:48 PM] ***REJECTED*** {ip: "80.94.95.15", user: "magdalena", pass:"abc123"}
+[6/19/2025 8:01:48 PM] ***REJECTED*** {ip: "80.94.95.15", user: "magdalena", pass:"abcd123"}
+[6/19/2025 8:01:49 PM] ***REJECTED*** {ip: "80.94.95.15", user: "magdalena", pass:"abcd1234"}
+[6/19/2025 8:01:49 PM] ***REJECTED*** {ip: "80.94.95.15", user: "magdalena", pass:"abc1234"}
+[6/19/2025 8:01:50 PM] 80.94.95.15 >>> Disconnected.
+[6/19/2025 8:07:33 PM] Connection attempt from IP: 64.62.197.116...
+[6/19/2025 8:07:37 PM] 64.62.197.116 >>> Disconnected.
