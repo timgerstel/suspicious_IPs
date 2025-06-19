@@ -11248,3 +11248,10 @@
 [6/19/2025 6:41:26 PM] ***REJECTED*** {ip: "80.94.95.15", user: "root", pass:"bogart"}
 [6/19/2025 6:41:27 PM] ***REJECTED*** {ip: "80.94.95.15", user: "root", pass:"anaconda"}
 [6/19/2025 6:41:27 PM] 80.94.95.15 >>> Disconnected.
+[6/19/2025 7:08:30 PM] Connection attempt from IP: 80.94.95.15...
+[6/19/2025 7:08:32 PM] ***REJECTED*** {ip: "80.94.95.15", user: "vpn", pass:"vpn"}
+[6/19/2025 7:08:32 PM] ***REJECTED*** {ip: "80.94.95.15", user: "vpn", pass:"1234"}
+[6/19/2025 7:08:33 PM] ***REJECTED*** {ip: "80.94.95.15", user: "vpn", pass:"123456"}
+[6/19/2025 7:08:33 PM] ***REJECTED*** {ip: "80.94.95.15", user: "vpn", pass:"abc123"}
+[6/19/2025 7:08:34 PM] ***REJECTED*** {ip: "80.94.95.15", user: "vpn", pass:"abcd123"}
+[6/19/2025 7:08:34 PM] 80.94.95.15 >>> Disconnected.
