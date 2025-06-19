@@ -11540,3 +11540,131 @@
 [6/19/2025 9:59:13 PM] ***REJECTED*** {ip: "80.94.95.15", user: "root", pass:"rachael"}
 [6/19/2025 9:59:14 PM] ***REJECTED*** {ip: "80.94.95.15", user: "root", pass:"pussie"}
 [6/19/2025 9:59:14 PM] 80.94.95.15 >>> Disconnected.
+[6/19/2025 10:03:58 PM] Connection attempt from IP: 119.207.7.206...
+[6/19/2025 10:04:00 PM] ***REJECTED*** {ip: "119.207.7.206", user: "root", pass:"root"}
+[6/19/2025 10:04:01 PM] ***REJECTED*** {ip: "119.207.7.206", user: "root", pass:"admin"}
+[6/19/2025 10:04:01 PM] ***REJECTED*** {ip: "119.207.7.206", user: "root", pass:"12345"}
+[6/19/2025 10:04:02 PM] ***REJECTED*** {ip: "119.207.7.206", user: "root", pass:"guest"}
+[6/19/2025 10:04:02 PM] ***REJECTED*** {ip: "119.207.7.206", user: "root", pass:"123456"}
+[6/19/2025 10:04:03 PM] ***REJECTED*** {ip: "119.207.7.206", user: "root", pass:"1234"}
+[6/19/2025 10:04:03 PM] ***REJECTED*** {ip: "119.207.7.206", user: "root", pass:"123"}
+[6/19/2025 10:04:04 PM] ***REJECTED*** {ip: "119.207.7.206", user: "root", pass:"hlL0mlNAabiR"}
+[6/19/2025 10:04:04 PM] ***REJECTED*** {ip: "119.207.7.206", user: "root", pass:"test"}
+[6/19/2025 10:04:04 PM] ***REJECTED*** {ip: "119.207.7.206", user: "root", pass:"toor"}
+[6/19/2025 10:04:05 PM] ***REJECTED*** {ip: "119.207.7.206", user: "root", pass:"qwerty"}
+[6/19/2025 10:04:05 PM] ***REJECTED*** {ip: "119.207.7.206", user: "root", pass:"pfsense"}
+[6/19/2025 10:04:06 PM] ***REJECTED*** {ip: "119.207.7.206", user: "root", pass:"ubuntu"}
+[6/19/2025 10:04:06 PM] ***REJECTED*** {ip: "119.207.7.206", user: "root", pass:"2glehe5t24th1issZs"}
+[6/19/2025 10:04:07 PM] ***REJECTED*** {ip: "119.207.7.206", user: "root", pass:"5nWt3P-fF4WosQm5O"}
+[6/19/2025 10:04:07 PM] ***REJECTED*** {ip: "119.207.7.206", user: "root", pass:"FAqY7=MZk66k-ob3Rmk"}
+[6/19/2025 10:04:08 PM] 119.207.7.206 >>> Disconnected.
+[6/19/2025 10:04:08 PM] Connection attempt from IP: 119.207.7.206...
+[6/19/2025 10:04:10 PM] ***REJECTED*** {ip: "119.207.7.206", user: "admin", pass:"admin"}
+[6/19/2025 10:04:10 PM] ***REJECTED*** {ip: "119.207.7.206", user: "admin", pass:"123456"}
+[6/19/2025 10:04:11 PM] ***REJECTED*** {ip: "119.207.7.206", user: "admin", pass:"12345"}
+[6/19/2025 10:04:11 PM] ***REJECTED*** {ip: "119.207.7.206", user: "admin", pass:"root"}
+[6/19/2025 10:04:12 PM] ***REJECTED*** {ip: "119.207.7.206", user: "admin", pass:"guest"}
+[6/19/2025 10:04:12 PM] ***REJECTED*** {ip: "119.207.7.206", user: "admin", pass:"1234"}
+[6/19/2025 10:04:13 PM] ***REJECTED*** {ip: "119.207.7.206", user: "admin", pass:"123"}
+[6/19/2025 10:04:13 PM] ***REJECTED*** {ip: "119.207.7.206", user: "admin", pass:"qwerty"}
+[6/19/2025 10:04:13 PM] ***REJECTED*** {ip: "119.207.7.206", user: "admin", pass:"test"}
+[6/19/2025 10:04:14 PM] ***REJECTED*** {ip: "119.207.7.206", user: "admin", pass:"toor"}
+[6/19/2025 10:04:14 PM] ***REJECTED*** {ip: "119.207.7.206", user: "admin", pass:"pfsense"}
+[6/19/2025 10:04:15 PM] ***REJECTED*** {ip: "119.207.7.206", user: "admin", pass:"ubuntu"}
+[6/19/2025 10:04:15 PM] ***REJECTED*** {ip: "119.207.7.206", user: "admin", pass:"5nWt3P-fF4WosQm5O"}
+[6/19/2025 10:04:16 PM] ***REJECTED*** {ip: "119.207.7.206", user: "admin", pass:"FAqY7=MZk66k-ob3Rmk"}
+[6/19/2025 10:04:16 PM] 119.207.7.206 >>> Disconnected.
+[6/19/2025 10:04:16 PM] Connection attempt from IP: 119.207.7.206...
+[6/19/2025 10:04:18 PM] ***REJECTED*** {ip: "119.207.7.206", user: "oracle", pass:"oracle"}
+[6/19/2025 10:04:19 PM] ***REJECTED*** {ip: "119.207.7.206", user: "oracle", pass:"123456"}
+[6/19/2025 10:04:19 PM] ***REJECTED*** {ip: "119.207.7.206", user: "oracle", pass:"123"}
+[6/19/2025 10:04:20 PM] ***REJECTED*** {ip: "119.207.7.206", user: "oracle", pass:"1234"}
+[6/19/2025 10:04:20 PM] ***REJECTED*** {ip: "119.207.7.206", user: "oracle", pass:"admin"}
+[6/19/2025 10:04:21 PM] ***REJECTED*** {ip: "119.207.7.206", user: "oracle", pass:"12345"}
+[6/19/2025 10:04:21 PM] ***REJECTED*** {ip: "119.207.7.206", user: "oracle", pass:"root"}
+[6/19/2025 10:04:22 PM] ***REJECTED*** {ip: "119.207.7.206", user: "oracle", pass:"guest"}
+[6/19/2025 10:04:22 PM] ***REJECTED*** {ip: "119.207.7.206", user: "oracle", pass:"qwerty"}
+[6/19/2025 10:04:23 PM] ***REJECTED*** {ip: "119.207.7.206", user: "oracle", pass:"test"}
+[6/19/2025 10:04:23 PM] ***REJECTED*** {ip: "119.207.7.206", user: "oracle", pass:"toor"}
+[6/19/2025 10:04:24 PM] ***REJECTED*** {ip: "119.207.7.206", user: "oracle", pass:"ubuntu"}
+[6/19/2025 10:04:24 PM] 119.207.7.206 >>> Disconnected.
+[6/19/2025 10:04:24 PM] Connection attempt from IP: 119.207.7.206...
+[6/19/2025 10:04:26 PM] ***REJECTED*** {ip: "119.207.7.206", user: "usuario", pass:"usuario"}
+[6/19/2025 10:04:27 PM] ***REJECTED*** {ip: "119.207.7.206", user: "usuario", pass:"123456"}
+[6/19/2025 10:04:27 PM] ***REJECTED*** {ip: "119.207.7.206", user: "usuario", pass:"1234"}
+[6/19/2025 10:04:27 PM] ***REJECTED*** {ip: "119.207.7.206", user: "usuario", pass:"admin"}
+[6/19/2025 10:04:28 PM] ***REJECTED*** {ip: "119.207.7.206", user: "usuario", pass:"12345"}
+[6/19/2025 10:04:28 PM] ***REJECTED*** {ip: "119.207.7.206", user: "usuario", pass:"root"}
+[6/19/2025 10:04:29 PM] ***REJECTED*** {ip: "119.207.7.206", user: "usuario", pass:"guest"}
+[6/19/2025 10:04:29 PM] ***REJECTED*** {ip: "119.207.7.206", user: "usuario", pass:"123"}
+[6/19/2025 10:04:30 PM] ***REJECTED*** {ip: "119.207.7.206", user: "usuario", pass:"qwerty"}
+[6/19/2025 10:04:30 PM] ***REJECTED*** {ip: "119.207.7.206", user: "usuario", pass:"test"}
+[6/19/2025 10:04:30 PM] ***REJECTED*** {ip: "119.207.7.206", user: "usuario", pass:"toor"}
+[6/19/2025 10:04:31 PM] ***REJECTED*** {ip: "119.207.7.206", user: "usuario", pass:"ubuntu"}
+[6/19/2025 10:04:31 PM] 119.207.7.206 >>> Disconnected.
+[6/19/2025 10:04:31 PM] Connection attempt from IP: 119.207.7.206...
+[6/19/2025 10:04:34 PM] ***REJECTED*** {ip: "119.207.7.206", user: "test", pass:"test"}
+[6/19/2025 10:04:35 PM] ***REJECTED*** {ip: "119.207.7.206", user: "test", pass:"123456"}
+[6/19/2025 10:04:35 PM] ***REJECTED*** {ip: "119.207.7.206", user: "test", pass:"1234"}
+[6/19/2025 10:04:36 PM] ***REJECTED*** {ip: "119.207.7.206", user: "test", pass:"123"}
+[6/19/2025 10:04:36 PM] ***REJECTED*** {ip: "119.207.7.206", user: "test", pass:"root"}
+[6/19/2025 10:04:37 PM] ***REJECTED*** {ip: "119.207.7.206", user: "test", pass:"toor"}
+[6/19/2025 10:04:37 PM] ***REJECTED*** {ip: "119.207.7.206", user: "test", pass:"admin"}
+[6/19/2025 10:04:37 PM] ***REJECTED*** {ip: "119.207.7.206", user: "test", pass:"12345"}
+[6/19/2025 10:04:38 PM] ***REJECTED*** {ip: "119.207.7.206", user: "test", pass:"guest"}
+[6/19/2025 10:04:38 PM] ***REJECTED*** {ip: "119.207.7.206", user: "test", pass:"qwerty"}
+[6/19/2025 10:04:39 PM] ***REJECTED*** {ip: "119.207.7.206", user: "test", pass:"test"}
+[6/19/2025 10:04:39 PM] ***REJECTED*** {ip: "119.207.7.206", user: "test", pass:"ubuntu"}
+[6/19/2025 10:04:40 PM] 119.207.7.206 >>> Disconnected.
+[6/19/2025 10:04:40 PM] Connection attempt from IP: 119.207.7.206...
+[6/19/2025 10:04:41 PM] ***REJECTED*** {ip: "119.207.7.206", user: "user", pass:"123456"}
+[6/19/2025 10:04:41 PM] ***REJECTED*** {ip: "119.207.7.206", user: "user", pass:"12345"}
+[6/19/2025 10:04:42 PM] ***REJECTED*** {ip: "119.207.7.206", user: "user", pass:"user"}
+[6/19/2025 10:04:42 PM] ***REJECTED*** {ip: "119.207.7.206", user: "user", pass:"root"}
+[6/19/2025 10:04:43 PM] ***REJECTED*** {ip: "119.207.7.206", user: "user", pass:"admin"}
+[6/19/2025 10:04:43 PM] ***REJECTED*** {ip: "119.207.7.206", user: "user", pass:"guest"}
+[6/19/2025 10:04:44 PM] ***REJECTED*** {ip: "119.207.7.206", user: "user", pass:"1234"}
+[6/19/2025 10:04:44 PM] ***REJECTED*** {ip: "119.207.7.206", user: "user", pass:"123"}
+[6/19/2025 10:04:45 PM] ***REJECTED*** {ip: "119.207.7.206", user: "user", pass:"qwerty"}
+[6/19/2025 10:04:45 PM] ***REJECTED*** {ip: "119.207.7.206", user: "user", pass:"test"}
+[6/19/2025 10:04:45 PM] ***REJECTED*** {ip: "119.207.7.206", user: "user", pass:"toor"}
+[6/19/2025 10:04:46 PM] ***REJECTED*** {ip: "119.207.7.206", user: "user", pass:"ubuntu"}
+[6/19/2025 10:04:46 PM] ***REJECTED*** {ip: "119.207.7.206", user: "user", pass:"5nWt3P-fF4WosQm5O"}
+[6/19/2025 10:04:47 PM] ***REJECTED*** {ip: "119.207.7.206", user: "user", pass:"FAqY7=MZk66k-ob3Rmk"}
+[6/19/2025 10:04:47 PM] 119.207.7.206 >>> Disconnected.
+[6/19/2025 10:04:47 PM] Connection attempt from IP: 119.207.7.206...
+[6/19/2025 10:04:48 PM] Connection attempt from IP: 45.156.128.113...
+[6/19/2025 10:04:50 PM] ***REJECTED*** {ip: "119.207.7.206", user: "ftpuser", pass:"ftpuser"}
+[6/19/2025 10:04:50 PM] ***REJECTED*** {ip: "119.207.7.206", user: "ftpuser", pass:"123456"}
+[6/19/2025 10:04:50 PM] ***REJECTED*** {ip: "119.207.7.206", user: "ftpuser", pass:"1234"}
+[6/19/2025 10:04:51 PM] ***REJECTED*** {ip: "119.207.7.206", user: "ftpuser", pass:"123"}
+[6/19/2025 10:04:51 PM] ***REJECTED*** {ip: "119.207.7.206", user: "ftpuser", pass:"admin"}
+[6/19/2025 10:04:52 PM] ***REJECTED*** {ip: "119.207.7.206", user: "ftpuser", pass:"12345"}
+[6/19/2025 10:04:52 PM] ***REJECTED*** {ip: "119.207.7.206", user: "ftpuser", pass:"root"}
+[6/19/2025 10:04:53 PM] ***REJECTED*** {ip: "119.207.7.206", user: "ftpuser", pass:"guest"}
+[6/19/2025 10:04:53 PM] 45.156.128.113 >>> Disconnected.
+[6/19/2025 10:04:53 PM] ***REJECTED*** {ip: "119.207.7.206", user: "ftpuser", pass:"qwerty"}
+[6/19/2025 10:04:54 PM] ***REJECTED*** {ip: "119.207.7.206", user: "ftpuser", pass:"test"}
+[6/19/2025 10:04:54 PM] ***REJECTED*** {ip: "119.207.7.206", user: "ftpuser", pass:"toor"}
+[6/19/2025 10:04:55 PM] ***REJECTED*** {ip: "119.207.7.206", user: "ftpuser", pass:"ubuntu"}
+[6/19/2025 10:04:55 PM] ***REJECTED*** {ip: "119.207.7.206", user: "ftpuser", pass:"5nWt3P-fF4WosQm5O"}
+[6/19/2025 10:04:55 PM] ***REJECTED*** {ip: "119.207.7.206", user: "ftpuser", pass:"FAqY7=MZk66k-ob3Rmk"}
+[6/19/2025 10:04:56 PM] 119.207.7.206 >>> Disconnected.
+[6/19/2025 10:04:56 PM] Connection attempt from IP: 119.207.7.206...
+[6/19/2025 10:05:00 PM] ***REJECTED*** {ip: "119.207.7.206", user: "test1", pass:"test1"}
+[6/19/2025 10:05:00 PM] ***REJECTED*** {ip: "119.207.7.206", user: "test1", pass:"123456"}
+[6/19/2025 10:05:01 PM] ***REJECTED*** {ip: "119.207.7.206", user: "test1", pass:"12345"}
+[6/19/2025 10:05:01 PM] ***REJECTED*** {ip: "119.207.7.206", user: "test1", pass:"root"}
+[6/19/2025 10:05:02 PM] ***REJECTED*** {ip: "119.207.7.206", user: "test1", pass:"guest"}
+[6/19/2025 10:05:02 PM] ***REJECTED*** {ip: "119.207.7.206", user: "test1", pass:"1234"}
+[6/19/2025 10:05:03 PM] ***REJECTED*** {ip: "119.207.7.206", user: "test1", pass:"123"}
+[6/19/2025 10:05:03 PM] ***REJECTED*** {ip: "119.207.7.206", user: "test1", pass:"admin"}
+[6/19/2025 10:05:04 PM] ***REJECTED*** {ip: "119.207.7.206", user: "test1", pass:"qwerty"}
+[6/19/2025 10:05:04 PM] ***REJECTED*** {ip: "119.207.7.206", user: "test1", pass:"test"}
+[6/19/2025 10:05:04 PM] ***REJECTED*** {ip: "119.207.7.206", user: "test1", pass:"toor"}
+[6/19/2025 10:05:05 PM] ***ACCEPTED*** {ip: "119.207.7.206", user: "test1", pass:"ubuntu"}
+[6/19/2025 10:05:26 PM] 119.207.7.206 >>> Disconnected.
+[6/19/2025 10:10:55 PM] Connection attempt from IP: 159.223.73.195...
+[6/19/2025 10:11:00 PM] 159.223.73.195 >>> Disconnected.
+[6/19/2025 10:17:08 PM] Connection attempt from IP: 147.185.132.72...
+[6/19/2025 10:17:09 PM] 147.185.132.72 >>> Disconnected.
