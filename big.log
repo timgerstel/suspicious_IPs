@@ -11186,3 +11186,10 @@
 [6/19/2025 5:01:41 PM] ***REJECTED*** {ip: "80.94.95.15", user: "root", pass:"ghetto"}
 [6/19/2025 5:01:41 PM] ***REJECTED*** {ip: "80.94.95.15", user: "root", pass:"fortune"}
 [6/19/2025 5:01:42 PM] 80.94.95.15 >>> Disconnected.
+[6/19/2025 5:23:29 PM] Connection attempt from IP: 80.94.95.15...
+[6/19/2025 5:23:30 PM] ***REJECTED*** {ip: "80.94.95.15", user: "admin", pass:"admins"}
+[6/19/2025 5:23:31 PM] ***REJECTED*** {ip: "80.94.95.15", user: "admin", pass:"12345678"}
+[6/19/2025 5:23:31 PM] ***REJECTED*** {ip: "80.94.95.15", user: "admin", pass:""}
+[6/19/2025 5:23:32 PM] ***REJECTED*** {ip: "80.94.95.15", user: "admin", pass:"7ujMko0admin"}
+[6/19/2025 5:23:32 PM] ***REJECTED*** {ip: "80.94.95.15", user: "admin", pass:"Admin@1234"}
+[6/19/2025 5:23:33 PM] 80.94.95.15 >>> Disconnected.
