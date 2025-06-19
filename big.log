@@ -11164,3 +11164,10 @@
 [6/19/2025 4:11:31 PM] ***REJECTED*** {ip: "80.94.95.15", user: "root", pass:"jenny1"}
 [6/19/2025 4:11:32 PM] ***REJECTED*** {ip: "80.94.95.15", user: "root", pass:"irish1"}
 [6/19/2025 4:11:32 PM] 80.94.95.15 >>> Disconnected.
+[6/19/2025 4:34:11 PM] Connection attempt from IP: 80.94.95.15...
+[6/19/2025 4:34:12 PM] ***REJECTED*** {ip: "80.94.95.15", user: "root", pass:"admin123"}
+[6/19/2025 4:34:12 PM] ***REJECTED*** {ip: "80.94.95.15", user: "root", pass:"hacker123"}
+[6/19/2025 4:34:13 PM] ***REJECTED*** {ip: "80.94.95.15", user: "root", pass:"Aa112233"}
+[6/19/2025 4:34:13 PM] ***REJECTED*** {ip: "80.94.95.15", user: "root", pass:"root123"}
+[6/19/2025 4:34:13 PM] ***REJECTED*** {ip: "80.94.95.15", user: "root", pass:"Admin1234"}
+[6/19/2025 4:34:14 PM] 80.94.95.15 >>> Disconnected.
