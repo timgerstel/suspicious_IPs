@@ -9852,3 +9852,12 @@
 [6/19/2025 12:04:08 PM] ***REJECTED*** {ip: "80.94.95.15", user: "guest", pass:"guest@123"}
 [6/19/2025 12:04:09 PM] ***REJECTED*** {ip: "80.94.95.15", user: "guest", pass:"abc123"}
 [6/19/2025 12:04:09 PM] 80.94.95.15 >>> Disconnected.
+[6/19/2025 12:21:57 PM] Connection attempt from IP: 176.65.148.55...
+[6/19/2025 12:21:58 PM] ***REJECTED*** {ip: "176.65.148.55", user: "root", pass:"root"}
+[6/19/2025 12:21:59 PM] 176.65.148.55 >>> Disconnected.
+[6/19/2025 12:26:14 PM] Connection attempt from IP: 80.94.95.15...
+[6/19/2025 12:26:15 PM] ***REJECTED*** {ip: "80.94.95.15", user: "esther", pass:"esther1"}
+[6/19/2025 12:26:15 PM] ***REJECTED*** {ip: "80.94.95.15", user: "esther", pass:"esther123"}
+[6/19/2025 12:26:15 PM] ***REJECTED*** {ip: "80.94.95.15", user: "esther", pass:"esther1234"}
+[6/19/2025 12:26:16 PM] ***REJECTED*** {ip: "80.94.95.15", user: "esther", pass:"esther12345"}
+[6/19/2025 12:26:16 PM] 80.94.95.15 >>> Disconnected.
