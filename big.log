@@ -8545,3 +8545,11 @@
 [6/19/2025 1:59:40 AM] ***REJECTED*** {ip: "185.93.89.118", user: "guest", pass:"1111"}
 [6/19/2025 1:59:40 AM] 185.93.89.118 >>> Disconnected.
 [6/19/2025 1:59:47 AM] Connection attempt from IP: 185.93.89.118...
+[6/19/2025 2:00:06 AM] ***REJECTED*** {ip: "185.93.89.118", user: "git", pass:"git-123"}
+[6/19/2025 2:00:07 AM] 185.93.89.118 >>> Disconnected.
+[6/19/2025 2:00:13 AM] Connection attempt from IP: 185.93.89.118...
+[6/19/2025 2:00:30 AM] ***REJECTED*** {ip: "185.93.89.118", user: "git", pass:"git123"}
+[6/19/2025 2:00:34 AM] 185.93.89.118 >>> Disconnected.
+[6/19/2025 2:00:39 AM] Connection attempt from IP: 185.93.89.118...
+[6/19/2025 2:00:41 AM] ***REJECTED*** {ip: "185.93.89.118", user: "gitlab", pass:"a"}
+[6/19/2025 2:00:41 AM] 185.93.89.118 >>> Disconnected.
