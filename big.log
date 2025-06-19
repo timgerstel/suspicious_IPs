@@ -10788,3 +10788,10 @@
 [6/19/2025 2:44:21 PM] 80.94.95.15 >>> Disconnected.
 [6/19/2025 3:12:59 PM] Connection attempt from IP: 115.32.10.102...
 [6/19/2025 3:13:07 PM] 115.32.10.102 >>> Disconnected.
+[6/19/2025 3:20:39 PM] Connection attempt from IP: 80.94.95.15...
+[6/19/2025 3:20:40 PM] ***REJECTED*** {ip: "80.94.95.15", user: "root", pass:"milena"}
+[6/19/2025 3:20:40 PM] ***REJECTED*** {ip: "80.94.95.15", user: "root", pass:"midget"}
+[6/19/2025 3:20:41 PM] ***REJECTED*** {ip: "80.94.95.15", user: "root", pass:"megapass"}
+[6/19/2025 3:20:41 PM] ***REJECTED*** {ip: "80.94.95.15", user: "root", pass:"lucky13"}
+[6/19/2025 3:20:42 PM] ***REJECTED*** {ip: "80.94.95.15", user: "root", pass:"lolipop"}
+[6/19/2025 3:20:42 PM] 80.94.95.15 >>> Disconnected.
