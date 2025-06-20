@@ -14748,3 +14748,16 @@
 [6/20/2025 9:49:58 PM] 80.94.95.15 >>> Disconnected.
 [6/20/2025 9:52:46 PM] Connection attempt from IP: 196.251.84.225...
 [6/20/2025 9:52:54 PM] 196.251.84.225 >>> Disconnected.
+[6/20/2025 10:01:53 PM] Connection attempt from IP: 104.248.242.198...
+[6/20/2025 10:02:01 PM] 104.248.242.198 >>> Disconnected.
+[6/20/2025 10:07:35 PM] Connection attempt from IP: 80.94.95.112...
+[6/20/2025 10:07:36 PM] ***REJECTED*** {ip: "80.94.95.112", user: "admin", pass:"honeybee"}
+[6/20/2025 10:07:36 PM] ***REJECTED*** {ip: "80.94.95.112", user: "admin", pass:"hola"}
+[6/20/2025 10:07:36 PM] ***REJECTED*** {ip: "80.94.95.112", user: "admin", pass:"highlander"}
+[6/20/2025 10:07:37 PM] ***REJECTED*** {ip: "80.94.95.112", user: "admin", pass:"helper"}
+[6/20/2025 10:07:37 PM] ***REJECTED*** {ip: "80.94.95.112", user: "admin", pass:"hejsan"}
+[6/20/2025 10:07:37 PM] 80.94.95.112 >>> Disconnected.
+[6/20/2025 10:12:32 PM] Connection attempt from IP: 194.0.234.125...
+[6/20/2025 10:12:42 PM] 194.0.234.125 >>> Disconnected.
+[6/20/2025 10:23:44 PM] Connection attempt from IP: 104.248.235.219...
+[6/20/2025 10:23:46 PM] 104.248.235.219 >>> Disconnected.
