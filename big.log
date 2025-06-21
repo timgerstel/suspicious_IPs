@@ -14955,3 +14955,19 @@
 [6/21/2025 1:53:59 AM] ***REJECTED*** {ip: "80.94.95.112", user: "admin", pass:"casper1"}
 [6/21/2025 1:54:00 AM] ***REJECTED*** {ip: "80.94.95.112", user: "admin", pass:"carnival"}
 [6/21/2025 1:54:00 AM] 80.94.95.112 >>> Disconnected.
+[6/21/2025 2:21:56 AM] Connection attempt from IP: 80.94.95.15...
+[6/21/2025 2:21:57 AM] ***REJECTED*** {ip: "80.94.95.15", user: "root", pass:"chemical"}
+[6/21/2025 2:21:58 AM] ***REJECTED*** {ip: "80.94.95.15", user: "root", pass:"chainsaw"}
+[6/21/2025 2:21:58 AM] ***REJECTED*** {ip: "80.94.95.15", user: "root", pass:"caveman"}
+[6/21/2025 2:21:58 AM] ***REJECTED*** {ip: "80.94.95.15", user: "root", pass:"catherine"}
+[6/21/2025 2:21:59 AM] ***REJECTED*** {ip: "80.94.95.15", user: "root", pass:"carrera"}
+[6/21/2025 2:21:59 AM] 80.94.95.15 >>> Disconnected.
+[6/21/2025 2:26:10 AM] Connection attempt from IP: 194.0.234.125...
+[6/21/2025 2:26:20 AM] 194.0.234.125 >>> Disconnected.
+[6/21/2025 2:26:21 AM] Connection attempt from IP: 80.94.95.15...
+[6/21/2025 2:26:22 AM] ***REJECTED*** {ip: "80.94.95.15", user: "frappe", pass:"frappe"}
+[6/21/2025 2:26:23 AM] ***REJECTED*** {ip: "80.94.95.15", user: "frappe", pass:"123456"}
+[6/21/2025 2:26:23 AM] ***REJECTED*** {ip: "80.94.95.15", user: "frappe", pass:"12345"}
+[6/21/2025 2:26:24 AM] ***REJECTED*** {ip: "80.94.95.15", user: "frappe", pass:"abc123"}
+[6/21/2025 2:26:24 AM] ***REJECTED*** {ip: "80.94.95.15", user: "frappe", pass:"abcd123"}
+[6/21/2025 2:26:24 AM] 80.94.95.15 >>> Disconnected.
