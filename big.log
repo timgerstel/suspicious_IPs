@@ -14840,3 +14840,26 @@
 [6/20/2025 11:52:43 PM] Connection attempt from IP: 93.123.109.191...
 [6/20/2025 11:52:46 PM] ***REJECTED*** {ip: "93.123.109.191", user: "root", pass:"1234"}
 [6/20/2025 11:52:47 PM] 93.123.109.191 >>> Disconnected.
+[6/21/2025 12:04:52 AM] Connection attempt from IP: 80.94.95.15...
+[6/21/2025 12:04:53 AM] ***REJECTED*** {ip: "80.94.95.15", user: "ubuntu", pass:"ubuntu@1234"}
+[6/21/2025 12:04:53 AM] ***REJECTED*** {ip: "80.94.95.15", user: "ubuntu", pass:"abc123"}
+[6/21/2025 12:04:53 AM] ***REJECTED*** {ip: "80.94.95.15", user: "ubuntu", pass:"abcd123"}
+[6/21/2025 12:04:54 AM] ***REJECTED*** {ip: "80.94.95.15", user: "ubuntu", pass:"abcd1234"}
+[6/21/2025 12:04:54 AM] ***REJECTED*** {ip: "80.94.95.15", user: "ubuntu", pass:"abc1234"}
+[6/21/2025 12:04:55 AM] 80.94.95.15 >>> Disconnected.
+[6/21/2025 12:06:27 AM] Connection attempt from IP: 80.94.95.15...
+[6/21/2025 12:06:28 AM] ***REJECTED*** {ip: "80.94.95.15", user: "root", pass:"magick"}
+[6/21/2025 12:06:29 AM] ***REJECTED*** {ip: "80.94.95.15", user: "root", pass:"library"}
+[6/21/2025 12:06:29 AM] ***REJECTED*** {ip: "80.94.95.15", user: "root", pass:"kungfu"}
+[6/21/2025 12:06:30 AM] ***REJECTED*** {ip: "80.94.95.15", user: "root", pass:"kirsten"}
+[6/21/2025 12:06:30 AM] ***REJECTED*** {ip: "80.94.95.15", user: "root", pass:"kimber"}
+[6/21/2025 12:06:30 AM] 80.94.95.15 >>> Disconnected.
+[6/21/2025 12:20:48 AM] Connection attempt from IP: 3.94.114.20...
+[6/21/2025 12:20:48 AM] 3.94.114.20 >>> Disconnected.
+[6/21/2025 12:23:32 AM] Connection attempt from IP: 80.94.95.112...
+[6/21/2025 12:23:33 AM] ***REJECTED*** {ip: "80.94.95.112", user: "admin", pass:"earthlink"}
+[6/21/2025 12:23:34 AM] ***REJECTED*** {ip: "80.94.95.112", user: "admin", pass:"draven"}
+[6/21/2025 12:23:34 AM] ***REJECTED*** {ip: "80.94.95.112", user: "admin", pass:"dmitriy"}
+[6/21/2025 12:23:34 AM] ***REJECTED*** {ip: "80.94.95.112", user: "admin", pass:"dkflbr"}
+[6/21/2025 12:23:35 AM] ***REJECTED*** {ip: "80.94.95.112", user: "admin", pass:"dimples"}
+[6/21/2025 12:23:35 AM] 80.94.95.112 >>> Disconnected.
