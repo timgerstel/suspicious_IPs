@@ -16690,3 +16690,26 @@
 [6/21/2025 2:54:11 PM] Connection attempt from IP: 193.32.162.157...
 [6/21/2025 2:54:12 PM] ***REJECTED*** {ip: "193.32.162.157", user: "hadoop", pass:"123"}
 [6/21/2025 2:54:12 PM] 193.32.162.157 >>> Disconnected.
+[6/21/2025 3:13:59 PM] Connection attempt from IP: 80.94.95.112...
+[6/21/2025 3:13:59 PM] ***REJECTED*** {ip: "80.94.95.112", user: "admin", pass:"salope"}
+[6/21/2025 3:14:00 PM] ***REJECTED*** {ip: "80.94.95.112", user: "admin", pass:"rusty2"}
+[6/21/2025 3:14:00 PM] ***REJECTED*** {ip: "80.94.95.112", user: "admin", pass:"right"}
+[6/21/2025 3:14:00 PM] ***REJECTED*** {ip: "80.94.95.112", user: "admin", pass:"repair"}
+[6/21/2025 3:14:01 PM] ***REJECTED*** {ip: "80.94.95.112", user: "admin", pass:"referee"}
+[6/21/2025 3:14:01 PM] 80.94.95.112 >>> Disconnected.
+[6/21/2025 3:25:02 PM] Connection attempt from IP: 80.94.95.15...
+[6/21/2025 3:25:03 PM] ***REJECTED*** {ip: "80.94.95.15", user: "root", pass:"trader"}
+[6/21/2025 3:25:04 PM] ***REJECTED*** {ip: "80.94.95.15", user: "root", pass:"summer1"}
+[6/21/2025 3:25:04 PM] ***REJECTED*** {ip: "80.94.95.15", user: "root", pass:"stereo"}
+[6/21/2025 3:25:04 PM] ***REJECTED*** {ip: "80.94.95.15", user: "root", pass:"spurs"}
+[6/21/2025 3:25:05 PM] ***REJECTED*** {ip: "80.94.95.15", user: "root", pass:"solnce"}
+[6/21/2025 3:25:05 PM] 80.94.95.15 >>> Disconnected.
+[6/21/2025 3:25:14 PM] Connection attempt from IP: 80.94.95.15...
+[6/21/2025 3:25:15 PM] ***REJECTED*** {ip: "80.94.95.15", user: "admin", pass:"<Nopass>"}
+[6/21/2025 3:25:16 PM] ***REJECTED*** {ip: "80.94.95.15", user: "admin", pass:"qa6yo9km"}
+[6/21/2025 3:25:16 PM] ***REJECTED*** {ip: "80.94.95.15", user: "admin", pass:"P@$$w0rd"}
+[6/21/2025 3:25:16 PM] ***REJECTED*** {ip: "80.94.95.15", user: "admin", pass:"super"}
+[6/21/2025 3:25:17 PM] ***REJECTED*** {ip: "80.94.95.15", user: "admin", pass:"1qaz@WSX"}
+[6/21/2025 3:25:17 PM] 80.94.95.15 >>> Disconnected.
+[6/21/2025 3:25:41 PM] Connection attempt from IP: 104.223.122.114...
+[6/21/2025 3:25:49 PM] 104.223.122.114 >>> Disconnected.
