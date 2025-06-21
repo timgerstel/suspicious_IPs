@@ -18759,3 +18759,17 @@
 [6/21/2025 9:54:40 PM] ***REJECTED*** {ip: "80.94.95.15", user: "root", pass:"seeker"}
 [6/21/2025 9:54:40 PM] ***REJECTED*** {ip: "80.94.95.15", user: "root", pass:"scania"}
 [6/21/2025 9:54:40 PM] 80.94.95.15 >>> Disconnected.
+[6/21/2025 10:16:51 PM] Connection attempt from IP: 80.94.95.15...
+[6/21/2025 10:16:52 PM] ***REJECTED*** {ip: "80.94.95.15", user: "root", pass:"123456789"}
+[6/21/2025 10:16:52 PM] ***REJECTED*** {ip: "80.94.95.15", user: "root", pass:"kingsoft"}
+[6/21/2025 10:16:53 PM] ***REJECTED*** {ip: "80.94.95.15", user: "root", pass:"102030"}
+[6/21/2025 10:16:54 PM] ***REJECTED*** {ip: "80.94.95.15", user: "root", pass:"changeme"}
+[6/21/2025 10:16:55 PM] ***REJECTED*** {ip: "80.94.95.15", user: "root", pass:"123qweasd"}
+[6/21/2025 10:16:55 PM] 80.94.95.15 >>> Disconnected.
+[6/21/2025 10:28:39 PM] Connection attempt from IP: 80.94.95.112...
+[6/21/2025 10:28:39 PM] ***REJECTED*** {ip: "80.94.95.112", user: "admin", pass:"gideon"}
+[6/21/2025 10:28:40 PM] ***REJECTED*** {ip: "80.94.95.112", user: "admin", pass:"ghhh47hj7649"}
+[6/21/2025 10:28:40 PM] ***REJECTED*** {ip: "80.94.95.112", user: "admin", pass:"flip"}
+[6/21/2025 10:28:40 PM] ***REJECTED*** {ip: "80.94.95.112", user: "admin", pass:"flame"}
+[6/21/2025 10:28:41 PM] ***REJECTED*** {ip: "80.94.95.112", user: "admin", pass:"fkbyjxrf"}
+[6/21/2025 10:28:41 PM] 80.94.95.112 >>> Disconnected.
