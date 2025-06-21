@@ -16588,3 +16588,30 @@
 [6/21/2025 1:14:37 PM] 80.94.95.15 >>> Disconnected.
 [6/21/2025 1:21:03 PM] Connection attempt from IP: 161.132.43.198...
 [6/21/2025 1:21:11 PM] 161.132.43.198 >>> Disconnected.
+[6/21/2025 1:46:09 PM] Connection attempt from IP: 80.94.95.112...
+[6/21/2025 1:46:10 PM] ***REJECTED*** {ip: "80.94.95.112", user: "admin", pass:"synergy"}
+[6/21/2025 1:46:10 PM] ***REJECTED*** {ip: "80.94.95.112", user: "admin", pass:"style"}
+[6/21/2025 1:46:11 PM] ***REJECTED*** {ip: "80.94.95.112", user: "admin", pass:"spud"}
+[6/21/2025 1:46:11 PM] ***REJECTED*** {ip: "80.94.95.112", user: "admin", pass:"smackdow"}
+[6/21/2025 1:46:11 PM] ***REJECTED*** {ip: "80.94.95.112", user: "admin", pass:"slammer"}
+[6/21/2025 1:46:12 PM] 80.94.95.112 >>> Disconnected.
+[6/21/2025 1:52:43 PM] Connection attempt from IP: 80.94.95.15...
+[6/21/2025 1:52:44 PM] ***REJECTED*** {ip: "80.94.95.15", user: "tiana", pass:"tiana1"}
+[6/21/2025 1:52:44 PM] ***REJECTED*** {ip: "80.94.95.15", user: "tiana", pass:"tiana123"}
+[6/21/2025 1:52:45 PM] ***REJECTED*** {ip: "80.94.95.15", user: "tiana", pass:"tiana1234"}
+[6/21/2025 1:52:45 PM] ***REJECTED*** {ip: "80.94.95.15", user: "tiana", pass:"tiana12345"}
+[6/21/2025 1:52:46 PM] 80.94.95.15 >>> Disconnected.
+[6/21/2025 1:53:27 PM] Connection attempt from IP: 80.94.95.15...
+[6/21/2025 1:53:28 PM] ***REJECTED*** {ip: "80.94.95.15", user: "root", pass:"1qaz@WSX"}
+[6/21/2025 1:53:28 PM] ***REJECTED*** {ip: "80.94.95.15", user: "root", pass:"1111"}
+[6/21/2025 1:53:29 PM] ***REJECTED*** {ip: "80.94.95.15", user: "root", pass:"123654"}
+[6/21/2025 1:53:29 PM] ***REJECTED*** {ip: "80.94.95.15", user: "root", pass:"Aa123456."}
+[6/21/2025 1:53:29 PM] ***REJECTED*** {ip: "80.94.95.15", user: "root", pass:"P@ssw0rd"}
+[6/21/2025 1:53:30 PM] 80.94.95.15 >>> Disconnected.
+[6/21/2025 1:58:09 PM] Connection attempt from IP: 80.94.95.15...
+[6/21/2025 1:58:11 PM] ***REJECTED*** {ip: "80.94.95.15", user: "root", pass:"bob123"}
+[6/21/2025 1:58:11 PM] ***REJECTED*** {ip: "80.94.95.15", user: "root", pass:"blueboy"}
+[6/21/2025 1:58:12 PM] ***REJECTED*** {ip: "80.94.95.15", user: "root", pass:"believe"}
+[6/21/2025 1:58:12 PM] ***REJECTED*** {ip: "80.94.95.15", user: "root", pass:"becky"}
+[6/21/2025 1:58:12 PM] ***REJECTED*** {ip: "80.94.95.15", user: "root", pass:"beanie"}
+[6/21/2025 1:58:13 PM] 80.94.95.15 >>> Disconnected.
