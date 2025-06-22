@@ -22340,3 +22340,10 @@
 [6/22/2025 8:58:57 PM] ***REJECTED*** {ip: "80.94.95.112", user: "admin", pass:"hugo"}
 [6/22/2025 8:58:58 PM] ***REJECTED*** {ip: "80.94.95.112", user: "admin", pass:"hopkins"}
 [6/22/2025 8:58:58 PM] 80.94.95.112 >>> Disconnected.
+[6/22/2025 9:07:57 PM] Connection attempt from IP: 80.94.95.15...
+[6/22/2025 9:07:58 PM] ***REJECTED*** {ip: "80.94.95.15", user: "uucp", pass:"uucp"}
+[6/22/2025 9:07:59 PM] ***REJECTED*** {ip: "80.94.95.15", user: "uucp", pass:"abc123"}
+[6/22/2025 9:07:59 PM] ***REJECTED*** {ip: "80.94.95.15", user: "uucp", pass:"abcd123"}
+[6/22/2025 9:08:00 PM] ***REJECTED*** {ip: "80.94.95.15", user: "uucp", pass:"abcd1234"}
+[6/22/2025 9:08:00 PM] ***REJECTED*** {ip: "80.94.95.15", user: "uucp", pass:"abc1234"}
+[6/22/2025 9:08:01 PM] 80.94.95.15 >>> Disconnected.
