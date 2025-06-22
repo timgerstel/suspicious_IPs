@@ -22004,3 +22004,27 @@
 [6/22/2025 4:12:34 PM] Connection attempt from IP: 176.65.148.55...
 [6/22/2025 4:12:35 PM] ***REJECTED*** {ip: "176.65.148.55", user: "root", pass:"7ujMko0admin"}
 [6/22/2025 4:12:35 PM] 176.65.148.55 >>> Disconnected.
+[6/22/2025 4:31:07 PM] Connection attempt from IP: 164.92.210.70...
+[6/22/2025 4:31:10 PM] 164.92.210.70 >>> Disconnected.
+[6/22/2025 4:45:24 PM] Connection attempt from IP: 80.94.95.15...
+[6/22/2025 4:45:25 PM] ***REJECTED*** {ip: "80.94.95.15", user: "root", pass:"P@ssw0rd@123"}
+[6/22/2025 4:45:25 PM] ***REJECTED*** {ip: "80.94.95.15", user: "root", pass:"Qq112233"}
+[6/22/2025 4:45:26 PM] ***REJECTED*** {ip: "80.94.95.15", user: "root", pass:"oelinux123"}
+[6/22/2025 4:45:26 PM] ***REJECTED*** {ip: "80.94.95.15", user: "root", pass:"a123456."}
+[6/22/2025 4:45:26 PM] ***REJECTED*** {ip: "80.94.95.15", user: "root", pass:"asdf"}
+[6/22/2025 4:45:27 PM] 80.94.95.15 >>> Disconnected.
+[6/22/2025 4:48:46 PM] Connection attempt from IP: 80.94.95.15...
+[6/22/2025 4:48:47 PM] ***REJECTED*** {ip: "80.94.95.15", user: "daniella", pass:"daniella1"}
+[6/22/2025 4:48:48 PM] ***REJECTED*** {ip: "80.94.95.15", user: "daniella", pass:"daniella123"}
+[6/22/2025 4:48:48 PM] ***REJECTED*** {ip: "80.94.95.15", user: "daniella", pass:"daniella1234"}
+[6/22/2025 4:48:48 PM] ***REJECTED*** {ip: "80.94.95.15", user: "daniella", pass:"daniella12345"}
+[6/22/2025 4:48:49 PM] 80.94.95.15 >>> Disconnected.
+[6/22/2025 4:49:53 PM] Connection attempt from IP: 80.94.95.112...
+[6/22/2025 4:49:54 PM] ***REJECTED*** {ip: "80.94.95.112", user: "admin", pass:"peppe"}
+[6/22/2025 4:49:54 PM] ***REJECTED*** {ip: "80.94.95.112", user: "admin", pass:"penguin1"}
+[6/22/2025 4:49:54 PM] ***REJECTED*** {ip: "80.94.95.112", user: "admin", pass:"pain"}
+[6/22/2025 4:49:55 PM] ***REJECTED*** {ip: "80.94.95.112", user: "admin", pass:"optimist"}
+[6/22/2025 4:49:55 PM] ***REJECTED*** {ip: "80.94.95.112", user: "admin", pass:"onion"}
+[6/22/2025 4:49:56 PM] 80.94.95.112 >>> Disconnected.
+[6/22/2025 4:59:29 PM] Connection attempt from IP: 147.185.132.81...
+[6/22/2025 4:59:31 PM] 147.185.132.81 >>> Disconnected.
