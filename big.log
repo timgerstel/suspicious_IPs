@@ -22426,3 +22426,10 @@
 [6/22/2025 10:28:20 PM] ***REJECTED*** {ip: "80.94.95.15", user: "branden", pass:"branden1234"}
 [6/22/2025 10:28:21 PM] ***REJECTED*** {ip: "80.94.95.15", user: "branden", pass:"branden12345"}
 [6/22/2025 10:28:21 PM] 80.94.95.15 >>> Disconnected.
+[6/22/2025 10:34:10 PM] Connection attempt from IP: 80.94.95.15...
+[6/22/2025 10:34:11 PM] ***REJECTED*** {ip: "80.94.95.15", user: "zhihong", pass:"password"}
+[6/22/2025 10:34:11 PM] ***REJECTED*** {ip: "80.94.95.15", user: "zhihong", pass:"abc123"}
+[6/22/2025 10:34:12 PM] ***REJECTED*** {ip: "80.94.95.15", user: "zhihong", pass:"abcd123"}
+[6/22/2025 10:34:12 PM] ***REJECTED*** {ip: "80.94.95.15", user: "zhihong", pass:"abcd1234"}
+[6/22/2025 10:34:13 PM] ***REJECTED*** {ip: "80.94.95.15", user: "zhihong", pass:"abc1234"}
+[6/22/2025 10:34:13 PM] 80.94.95.15 >>> Disconnected.
