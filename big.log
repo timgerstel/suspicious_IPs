@@ -24436,3 +24436,27 @@
 [6/23/2025 12:29:43 PM] ***REJECTED*** {ip: "80.94.95.112", user: "admin", pass:"rockie"}
 [6/23/2025 12:29:43 PM] ***REJECTED*** {ip: "80.94.95.112", user: "admin", pass:"reilly"}
 [6/23/2025 12:29:43 PM] 80.94.95.112 >>> Disconnected.
+[6/23/2025 12:30:03 PM] Connection attempt from IP: 80.94.95.15...
+[6/23/2025 12:30:04 PM] ***REJECTED*** {ip: "80.94.95.15", user: "adrian", pass:"adrian123"}
+[6/23/2025 12:30:04 PM] ***REJECTED*** {ip: "80.94.95.15", user: "adrian", pass:"abc123"}
+[6/23/2025 12:30:05 PM] ***REJECTED*** {ip: "80.94.95.15", user: "adrian", pass:"abcd123"}
+[6/23/2025 12:30:05 PM] ***REJECTED*** {ip: "80.94.95.15", user: "adrian", pass:"abcd1234"}
+[6/23/2025 12:30:05 PM] ***REJECTED*** {ip: "80.94.95.15", user: "adrian", pass:"abc1234"}
+[6/23/2025 12:30:06 PM] 80.94.95.15 >>> Disconnected.
+[6/23/2025 12:32:18 PM] Connection attempt from IP: 185.156.73.234...
+[6/23/2025 12:32:19 PM] ***REJECTED*** {ip: "185.156.73.234", user: "array", pass:"admin"}
+[6/23/2025 12:32:19 PM] 185.156.73.234 >>> Disconnected.
+[6/23/2025 12:39:52 PM] Connection attempt from IP: 185.156.73.233...
+[6/23/2025 12:39:53 PM] ***REJECTED*** {ip: "185.156.73.233", user: "root", pass:"qwe123"}
+[6/23/2025 12:39:53 PM] 185.156.73.233 >>> Disconnected.
+[6/23/2025 12:46:33 PM] Connection attempt from IP: 194.0.234.125...
+[6/23/2025 12:46:43 PM] 194.0.234.125 >>> Disconnected.
+[6/23/2025 12:51:23 PM] Connection attempt from IP: 80.94.95.115...
+[6/23/2025 12:51:25 PM] ***REJECTED*** {ip: "80.94.95.115", user: "usuario", pass:"usuario"}
+[6/23/2025 12:51:25 PM] 80.94.95.115 >>> Disconnected.
+[6/23/2025 12:58:12 PM] Connection attempt from IP: 80.94.95.15...
+[6/23/2025 12:58:13 PM] ***REJECTED*** {ip: "80.94.95.15", user: "brendon", pass:"brendon1"}
+[6/23/2025 12:58:14 PM] ***REJECTED*** {ip: "80.94.95.15", user: "brendon", pass:"brendon123"}
+[6/23/2025 12:58:14 PM] ***REJECTED*** {ip: "80.94.95.15", user: "brendon", pass:"brendon1234"}
+[6/23/2025 12:58:14 PM] ***ACCEPTED*** {ip: "80.94.95.15", user: "brendon", pass:"brendon12345"}
+[6/23/2025 12:58:15 PM] 80.94.95.15 >>> Disconnected.
