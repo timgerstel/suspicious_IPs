@@ -30737,3 +30737,5 @@
 [6/23/2025 6:17:00 PM] ***REJECTED*** {ip: "80.94.95.112", user: "admin", pass:"doggies"}
 [6/23/2025 6:17:01 PM] ***REJECTED*** {ip: "80.94.95.112", user: "admin", pass:"dfktynby"}
 [6/23/2025 6:17:01 PM] 80.94.95.112 >>> Disconnected.
+[6/23/2025 7:13:23 PM] Connection attempt from IP: 146.190.174.211...
+[6/23/2025 7:13:25 PM] 146.190.174.211 >>> Disconnected.
