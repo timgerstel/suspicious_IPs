@@ -33868,3 +33868,11 @@
 [6/24/2025 1:23:05 PM] ***REJECTED*** {ip: "80.94.95.112", user: "admin", pass:"17031987"}
 [6/24/2025 1:23:05 PM] ***REJECTED*** {ip: "80.94.95.112", user: "admin", pass:"16051990"}
 [6/24/2025 1:23:06 PM] 80.94.95.112 >>> Disconnected.
+[6/24/2025 1:43:53 PM] Connection attempt from IP: 80.94.95.15...
+[6/24/2025 1:43:55 PM] ***REJECTED*** {ip: "80.94.95.15", user: "kaylie", pass:"kaylie1"}
+[6/24/2025 1:43:56 PM] ***REJECTED*** {ip: "80.94.95.15", user: "kaylie", pass:"kaylie123"}
+[6/24/2025 1:43:56 PM] ***REJECTED*** {ip: "80.94.95.15", user: "kaylie", pass:"kaylie1234"}
+[6/24/2025 1:43:57 PM] ***REJECTED*** {ip: "80.94.95.15", user: "kaylie", pass:"kaylie12345"}
+[6/24/2025 1:43:58 PM] 80.94.95.15 >>> Disconnected.
+[6/24/2025 1:48:17 PM] Connection attempt from IP: 119.3.237.48...
+[6/24/2025 1:48:19 PM] Connection attempt from IP: 119.3.237.48...
