@@ -33876,3 +33876,10 @@
 [6/24/2025 1:43:58 PM] 80.94.95.15 >>> Disconnected.
 [6/24/2025 1:48:17 PM] Connection attempt from IP: 119.3.237.48...
 [6/24/2025 1:48:19 PM] Connection attempt from IP: 119.3.237.48...
+[6/24/2025 2:00:50 PM] Connection attempt from IP: 80.94.95.112...
+[6/24/2025 2:00:51 PM] ***REJECTED*** {ip: "80.94.95.112", user: "admin", pass:"15021986"}
+[6/24/2025 2:00:52 PM] ***REJECTED*** {ip: "80.94.95.112", user: "admin", pass:"14031988"}
+[6/24/2025 2:00:52 PM] ***REJECTED*** {ip: "80.94.95.112", user: "admin", pass:"14021987"}
+[6/24/2025 2:00:52 PM] ***REJECTED*** {ip: "80.94.95.112", user: "admin", pass:"14011989"}
+[6/24/2025 2:00:53 PM] ***REJECTED*** {ip: "80.94.95.112", user: "admin", pass:"1220"}
+[6/24/2025 2:00:53 PM] 80.94.95.112 >>> Disconnected.
