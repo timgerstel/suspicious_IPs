@@ -33165,3 +33165,10 @@
 [6/24/2025 11:57:50 AM] Connection attempt from IP: 194.0.234.21...
 [6/24/2025 11:57:51 AM] ***REJECTED*** {ip: "194.0.234.21", user: "ftpuser", pass:"123456"}
 [6/24/2025 11:57:52 AM] 194.0.234.21 >>> Disconnected.
+[6/24/2025 12:07:27 PM] Connection attempt from IP: 80.94.95.112...
+[6/24/2025 12:07:28 PM] ***REJECTED*** {ip: "80.94.95.112", user: "admin", pass:"25061985"}
+[6/24/2025 12:07:28 PM] ***REJECTED*** {ip: "80.94.95.112", user: "admin", pass:"25011986"}
+[6/24/2025 12:07:29 PM] ***REJECTED*** {ip: "80.94.95.112", user: "admin", pass:"24091986"}
+[6/24/2025 12:07:29 PM] ***REJECTED*** {ip: "80.94.95.112", user: "admin", pass:"24061988"}
+[6/24/2025 12:07:29 PM] ***REJECTED*** {ip: "80.94.95.112", user: "admin", pass:"24031990"}
+[6/24/2025 12:07:30 PM] 80.94.95.112 >>> Disconnected.
