@@ -32894,3 +32894,12 @@
 [6/24/2025 8:20:12 AM] ***REJECTED*** {ip: "80.94.95.112", user: "admin", pass:"cheddar"}
 [6/24/2025 8:20:12 AM] ***REJECTED*** {ip: "80.94.95.112", user: "admin", pass:"cbr900rr"}
 [6/24/2025 8:20:13 AM] 80.94.95.112 >>> Disconnected.
+[6/24/2025 8:36:59 AM] Connection attempt from IP: 8.219.146.194...
+[6/24/2025 8:37:07 AM] 8.219.146.194 >>> Disconnected.
+[6/24/2025 8:58:03 AM] Connection attempt from IP: 80.94.95.112...
+[6/24/2025 8:58:03 AM] ***REJECTED*** {ip: "80.94.95.112", user: "admin", pass:"carroll"}
+[6/24/2025 8:58:04 AM] ***REJECTED*** {ip: "80.94.95.112", user: "admin", pass:"canucks"}
+[6/24/2025 8:58:04 AM] ***REJECTED*** {ip: "80.94.95.112", user: "admin", pass:"buste"}
+[6/24/2025 8:58:04 AM] ***REJECTED*** {ip: "80.94.95.112", user: "admin", pass:"bukkake"}
+[6/24/2025 8:58:05 AM] ***REJECTED*** {ip: "80.94.95.112", user: "admin", pass:"boyboy"}
+[6/24/2025 8:58:05 AM] 80.94.95.112 >>> Disconnected.
