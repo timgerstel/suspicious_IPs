@@ -34001,3 +34001,25 @@
 [6/24/2025 5:25:47 PM] ***REJECTED*** {ip: "80.94.95.15", user: "root", pass:"fuckher"}
 [6/24/2025 5:25:48 PM] ***ACCEPTED*** {ip: "80.94.95.15", user: "root", pass:"florian"}
 [6/24/2025 5:25:49 PM] 80.94.95.15 >>> Disconnected.
+[6/24/2025 5:45:02 PM] Connection attempt from IP: 80.94.95.15...
+[6/24/2025 5:45:05 PM] ***REJECTED*** {ip: "80.94.95.15", user: "jaden", pass:"jaden1"}
+[6/24/2025 5:45:06 PM] ***REJECTED*** {ip: "80.94.95.15", user: "jaden", pass:"jaden123"}
+[6/24/2025 5:45:07 PM] ***REJECTED*** {ip: "80.94.95.15", user: "jaden", pass:"jaden1234"}
+[6/24/2025 5:45:07 PM] ***REJECTED*** {ip: "80.94.95.15", user: "jaden", pass:"jaden12345"}
+[6/24/2025 5:45:08 PM] Connection attempt from IP: 80.94.95.15...
+[6/24/2025 5:45:09 PM] 80.94.95.15 >>> Disconnected.
+[6/24/2025 5:45:12 PM] ***REJECTED*** {ip: "80.94.95.15", user: "telecomadmin", pass:"admintelecom"}
+[6/24/2025 5:45:13 PM] ***REJECTED*** {ip: "80.94.95.15", user: "telecomadmin", pass:"1234"}
+[6/24/2025 5:45:15 PM] ***REJECTED*** {ip: "80.94.95.15", user: "telecomadmin", pass:"abc123"}
+[6/24/2025 5:45:16 PM] ***REJECTED*** {ip: "80.94.95.15", user: "telecomadmin", pass:"abcd123"}
+[6/24/2025 5:45:17 PM] ***REJECTED*** {ip: "80.94.95.15", user: "telecomadmin", pass:"abcd1234"}
+[6/24/2025 5:45:19 PM] 80.94.95.15 >>> Disconnected.
+[6/24/2025 5:46:05 PM] Connection attempt from IP: 80.94.95.112...
+[6/24/2025 5:46:06 PM] ***REJECTED*** {ip: "80.94.95.112", user: "admin", pass:"washingt"}
+[6/24/2025 5:46:06 PM] ***REJECTED*** {ip: "80.94.95.112", user: "admin", pass:"warrior1"}
+[6/24/2025 5:46:07 PM] ***REJECTED*** {ip: "80.94.95.112", user: "admin", pass:"vickie"}
+[6/24/2025 5:46:07 PM] ***REJECTED*** {ip: "80.94.95.112", user: "admin", pass:"vader1"}
+[6/24/2025 5:46:08 PM] ***REJECTED*** {ip: "80.94.95.112", user: "admin", pass:"uuuuuu"}
+[6/24/2025 5:46:08 PM] 80.94.95.112 >>> Disconnected.
+[6/24/2025 5:54:01 PM] Connection attempt from IP: 64.62.197.103...
+[6/24/2025 5:54:05 PM] 64.62.197.103 >>> Disconnected.
