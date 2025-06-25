@@ -34444,3 +34444,29 @@
 [6/24/2025 11:57:28 PM] ***REJECTED*** {ip: "80.94.95.112", user: "admin", pass:"klizma"}
 [6/24/2025 11:57:28 PM] ***REJECTED*** {ip: "80.94.95.112", user: "admin", pass:"kimkim"}
 [6/24/2025 11:57:28 PM] 80.94.95.112 >>> Disconnected.
+[6/25/2025 12:07:39 AM] Connection attempt from IP: 206.189.224.163...
+[6/25/2025 12:07:41 AM] 206.189.224.163 >>> Disconnected.
+[6/25/2025 12:10:57 AM] Connection attempt from IP: 195.178.110.160...
+[6/25/2025 12:10:58 AM] ***REJECTED*** {ip: "195.178.110.160", user: "root", pass:"123456"}
+[6/25/2025 12:10:59 AM] 195.178.110.160 >>> Disconnected.
+[6/25/2025 12:11:01 AM] Connection attempt from IP: 195.178.110.160...
+[6/25/2025 12:11:02 AM] ***ACCEPTED*** {ip: "195.178.110.160", user: "root", pass:"admin"}
+[6/25/2025 12:11:03 AM] 195.178.110.160 >>> Disconnected.
+[6/25/2025 12:14:42 AM] Connection attempt from IP: 43.163.97.137...
+[6/25/2025 12:14:50 AM] 43.163.97.137 >>> Disconnected.
+[6/25/2025 12:14:58 AM] Connection attempt from IP: 80.94.95.15...
+[6/25/2025 12:14:59 AM] ***REJECTED*** {ip: "80.94.95.15", user: "root", pass:"dada"}
+[6/25/2025 12:15:00 AM] ***REJECTED*** {ip: "80.94.95.15", user: "root", pass:"charley"}
+[6/25/2025 12:15:00 AM] ***REJECTED*** {ip: "80.94.95.15", user: "root", pass:"bimmer"}
+[6/25/2025 12:15:01 AM] ***REJECTED*** {ip: "80.94.95.15", user: "root", pass:"bike"}
+[6/25/2025 12:15:01 AM] ***REJECTED*** {ip: "80.94.95.15", user: "root", pass:"bigbear"}
+[6/25/2025 12:15:01 AM] 80.94.95.15 >>> Disconnected.
+[6/25/2025 12:18:50 AM] Connection attempt from IP: 80.94.95.15...
+[6/25/2025 12:18:51 AM] ***REJECTED*** {ip: "80.94.95.15", user: "telnet", pass:"telnet"}
+[6/25/2025 12:18:52 AM] ***REJECTED*** {ip: "80.94.95.15", user: "telnet", pass:"abc123"}
+[6/25/2025 12:18:53 AM] ***REJECTED*** {ip: "80.94.95.15", user: "telnet", pass:"abcd123"}
+[6/25/2025 12:18:53 AM] ***REJECTED*** {ip: "80.94.95.15", user: "telnet", pass:"abcd1234"}
+[6/25/2025 12:18:54 AM] ***REJECTED*** {ip: "80.94.95.15", user: "telnet", pass:"abc1234"}
+[6/25/2025 12:18:55 AM] 80.94.95.15 >>> Disconnected.
+[6/25/2025 12:23:41 AM] Connection attempt from IP: 104.223.122.114...
+[6/25/2025 12:23:49 AM] 104.223.122.114 >>> Disconnected.
