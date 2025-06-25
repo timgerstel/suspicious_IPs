@@ -35718,3 +35718,27 @@
 [6/25/2025 5:48:04 PM] 80.94.95.15 >>> Disconnected.
 [6/25/2025 5:50:19 PM] Connection attempt from IP: 159.223.73.195...
 [6/25/2025 5:50:20 PM] 159.223.73.195 >>> Disconnected.
+[6/25/2025 6:05:30 PM] Connection attempt from IP: 80.94.95.112...
+[6/25/2025 6:05:31 PM] ***REJECTED*** {ip: "80.94.95.112", user: "admin", pass:"spence"}
+[6/25/2025 6:05:31 PM] ***REJECTED*** {ip: "80.94.95.112", user: "admin", pass:"sixty"}
+[6/25/2025 6:05:32 PM] ***REJECTED*** {ip: "80.94.95.112", user: "admin", pass:"sheepdog"}
+[6/25/2025 6:05:32 PM] ***REJECTED*** {ip: "80.94.95.112", user: "admin", pass:"services"}
+[6/25/2025 6:05:32 PM] ***REJECTED*** {ip: "80.94.95.112", user: "admin", pass:"sawyer"}
+[6/25/2025 6:05:33 PM] 80.94.95.112 >>> Disconnected.
+[6/25/2025 6:06:30 PM] Connection attempt from IP: 80.94.95.15...
+[6/25/2025 6:06:31 PM] ***REJECTED*** {ip: "80.94.95.15", user: "root", pass:"assholes"}
+[6/25/2025 6:06:31 PM] ***REJECTED*** {ip: "80.94.95.15", user: "root", pass:"allmine"}
+[6/25/2025 6:06:31 PM] ***REJECTED*** {ip: "80.94.95.15", user: "root", pass:"aaliyah"}
+[6/25/2025 6:06:32 PM] ***REJECTED*** {ip: "80.94.95.15", user: "root", pass:"100100"}
+[6/25/2025 6:06:32 PM] ***REJECTED*** {ip: "80.94.95.15", user: "root", pass:"zigzag"}
+[6/25/2025 6:06:33 PM] 80.94.95.15 >>> Disconnected.
+[6/25/2025 6:09:06 PM] Connection attempt from IP: 194.0.234.21...
+[6/25/2025 6:09:07 PM] ***REJECTED*** {ip: "194.0.234.21", user: "ftpuser", pass:"123456"}
+[6/25/2025 6:09:07 PM] 194.0.234.21 >>> Disconnected.
+[6/25/2025 6:14:51 PM] Connection attempt from IP: 45.146.130.113...
+[6/25/2025 6:14:52 PM] ***REJECTED*** {ip: "45.146.130.113", user: "ali", pass:"password"}
+[6/25/2025 6:14:52 PM] ***REJECTED*** {ip: "45.146.130.113", user: "ali", pass:"12345678"}
+[6/25/2025 6:14:52 PM] ***REJECTED*** {ip: "45.146.130.113", user: "ali", pass:"qwerty"}
+[6/25/2025 6:14:53 PM] ***REJECTED*** {ip: "45.146.130.113", user: "ali", pass:"123456789"}
+[6/25/2025 6:14:53 PM] ***REJECTED*** {ip: "45.146.130.113", user: "ali", pass:"111111"}
+[6/25/2025 6:14:53 PM] 45.146.130.113 >>> Disconnected.
