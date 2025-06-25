@@ -34827,3 +34827,26 @@
 [6/25/2025 6:57:53 AM] ***REJECTED*** {ip: "80.94.95.15", user: "root", pass:"abraham"}
 [6/25/2025 6:57:53 AM] ***REJECTED*** {ip: "80.94.95.15", user: "root", pass:"585858"}
 [6/25/2025 6:57:53 AM] 80.94.95.15 >>> Disconnected.
+[6/25/2025 7:03:34 AM] Connection attempt from IP: 47.81.35.1...
+[6/25/2025 7:03:36 AM] ***REJECTED*** {ip: "47.81.35.1", user: "root", pass:" "}
+[6/25/2025 7:03:36 AM] 47.81.35.1 >>> Disconnected.
+[6/25/2025 7:05:43 AM] Connection attempt from IP: 47.81.35.1...
+[6/25/2025 7:05:45 AM] ***REJECTED*** {ip: "47.81.35.1", user: "root", pass:"!Q2w3e4r"}
+[6/25/2025 7:05:46 AM] 47.81.35.1 >>> Disconnected.
+[6/25/2025 7:05:52 AM] Connection attempt from IP: 185.156.73.233...
+[6/25/2025 7:05:53 AM] ***REJECTED*** {ip: "185.156.73.233", user: "ftpuser", pass:"123456"}
+[6/25/2025 7:05:53 AM] 185.156.73.233 >>> Disconnected.
+[6/25/2025 7:17:24 AM] Connection attempt from IP: 80.94.95.112...
+[6/25/2025 7:17:25 AM] ***REJECTED*** {ip: "80.94.95.112", user: "admin", pass:"aileen"}
+[6/25/2025 7:17:25 AM] ***REJECTED*** {ip: "80.94.95.112", user: "admin", pass:"a1234"}
+[6/25/2025 7:17:26 AM] ***REJECTED*** {ip: "80.94.95.112", user: "admin", pass:"996633"}
+[6/25/2025 7:17:26 AM] ***REJECTED*** {ip: "80.94.95.112", user: "admin", pass:"556677"}
+[6/25/2025 7:17:26 AM] ***REJECTED*** {ip: "80.94.95.112", user: "admin", pass:"5329"}
+[6/25/2025 7:17:27 AM] 80.94.95.112 >>> Disconnected.
+[6/25/2025 7:26:03 AM] Connection attempt from IP: 45.146.130.113...
+[6/25/2025 7:26:04 AM] ***REJECTED*** {ip: "45.146.130.113", user: "ahmed", pass:"1234567"}
+[6/25/2025 7:26:04 AM] ***REJECTED*** {ip: "45.146.130.113", user: "ahmed", pass:"dragon"}
+[6/25/2025 7:26:05 AM] ***REJECTED*** {ip: "45.146.130.113", user: "ahmed", pass:"123123"}
+[6/25/2025 7:26:05 AM] ***REJECTED*** {ip: "45.146.130.113", user: "ahmed", pass:"baseball"}
+[6/25/2025 7:26:05 AM] ***REJECTED*** {ip: "45.146.130.113", user: "ahmed", pass:"abc123"}
+[6/25/2025 7:26:05 AM] 45.146.130.113 >>> Disconnected.
