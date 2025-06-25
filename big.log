@@ -35548,3 +35548,26 @@
 [6/25/2025 3:22:13 PM] Connection attempt from IP: 194.0.234.21...
 [6/25/2025 3:22:14 PM] ***REJECTED*** {ip: "194.0.234.21", user: "ftpuser", pass:"123456"}
 [6/25/2025 3:22:14 PM] 194.0.234.21 >>> Disconnected.
+[6/25/2025 3:31:02 PM] Connection attempt from IP: 80.94.95.15...
+[6/25/2025 3:31:03 PM] ***REJECTED*** {ip: "80.94.95.15", user: "root", pass:"moose1"}
+[6/25/2025 3:31:03 PM] ***REJECTED*** {ip: "80.94.95.15", user: "root", pass:"mondeo"}
+[6/25/2025 3:31:04 PM] ***REJECTED*** {ip: "80.94.95.15", user: "root", pass:"mmmm"}
+[6/25/2025 3:31:04 PM] ***REJECTED*** {ip: "80.94.95.15", user: "root", pass:"knickers"}
+[6/25/2025 3:31:04 PM] ***REJECTED*** {ip: "80.94.95.15", user: "root", pass:"hoosier"}
+[6/25/2025 3:31:05 PM] 80.94.95.15 >>> Disconnected.
+[6/25/2025 3:36:59 PM] Connection attempt from IP: 80.94.95.15...
+[6/25/2025 3:37:01 PM] ***REJECTED*** {ip: "80.94.95.15", user: "jamal", pass:"jamal1"}
+[6/25/2025 3:37:02 PM] ***REJECTED*** {ip: "80.94.95.15", user: "jamal", pass:"jamal123"}
+[6/25/2025 3:37:03 PM] ***REJECTED*** {ip: "80.94.95.15", user: "jamal", pass:"jamal1234"}
+[6/25/2025 3:37:03 PM] ***REJECTED*** {ip: "80.94.95.15", user: "jamal", pass:"jamal12345"}
+[6/25/2025 3:37:04 PM] 80.94.95.15 >>> Disconnected.
+[6/25/2025 3:42:36 PM] Connection attempt from IP: 80.94.95.112...
+[6/25/2025 3:42:37 PM] ***REJECTED*** {ip: "80.94.95.112", user: "admin", pass:"02021971"}
+[6/25/2025 3:42:38 PM] ***REJECTED*** {ip: "80.94.95.112", user: "admin", pass:"zouzou"}
+[6/25/2025 3:42:38 PM] ***ACCEPTED*** {ip: "80.94.95.112", user: "admin", pass:"yaya"}
+[6/25/2025 3:42:39 PM] 80.94.95.112 >>> Disconnected.
+[6/25/2025 3:48:33 PM] Connection attempt from IP: 45.146.130.113...
+[6/25/2025 3:48:34 PM] ***REJECTED*** {ip: "45.146.130.113", user: "yan", pass:"1234567890"}
+[6/25/2025 3:48:34 PM] ***REJECTED*** {ip: "45.146.130.113", user: "yan", pass:"654321"}
+[6/25/2025 3:48:34 PM] ***ACCEPTED*** {ip: "45.146.130.113", user: "yan", pass:"pussy"}
+[6/25/2025 3:48:35 PM] 45.146.130.113 >>> Disconnected.
