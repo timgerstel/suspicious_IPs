@@ -35066,3 +35066,23 @@
 [6/25/2025 8:17:49 AM] 80.94.95.15 >>> Disconnected.
 [6/25/2025 8:27:43 AM] Connection attempt from IP: 206.168.34.36...
 [6/25/2025 8:27:58 AM] 206.168.34.36 >>> Disconnected.
+[6/25/2025 8:30:10 AM] Connection attempt from IP: 80.94.95.112...
+[6/25/2025 8:30:11 AM] ***REJECTED*** {ip: "80.94.95.112", user: "admin", pass:"25101989"}
+[6/25/2025 8:30:11 AM] ***REJECTED*** {ip: "80.94.95.112", user: "admin", pass:"25061986"}
+[6/25/2025 8:30:11 AM] ***REJECTED*** {ip: "80.94.95.112", user: "admin", pass:"25041985"}
+[6/25/2025 8:30:12 AM] ***REJECTED*** {ip: "80.94.95.112", user: "admin", pass:"25011985"}
+[6/25/2025 8:30:12 AM] ***REJECTED*** {ip: "80.94.95.112", user: "admin", pass:"24061987"}
+[6/25/2025 8:30:12 AM] 80.94.95.112 >>> Disconnected.
+[6/25/2025 8:47:04 AM] Connection attempt from IP: 80.94.95.15...
+[6/25/2025 8:47:06 AM] ***REJECTED*** {ip: "80.94.95.15", user: "cara", pass:"cara1"}
+[6/25/2025 8:47:07 AM] ***REJECTED*** {ip: "80.94.95.15", user: "cara", pass:"cara123"}
+[6/25/2025 8:47:07 AM] ***REJECTED*** {ip: "80.94.95.15", user: "cara", pass:"cara1234"}
+[6/25/2025 8:47:08 AM] ***REJECTED*** {ip: "80.94.95.15", user: "cara", pass:"cara12345"}
+[6/25/2025 8:47:09 AM] 80.94.95.15 >>> Disconnected.
+[6/25/2025 8:57:27 AM] Connection attempt from IP: 80.94.95.15...
+[6/25/2025 8:57:29 AM] ***REJECTED*** {ip: "80.94.95.15", user: "root", pass:"thursday"}
+[6/25/2025 8:57:29 AM] ***REJECTED*** {ip: "80.94.95.15", user: "root", pass:"thirteen"}
+[6/25/2025 8:57:29 AM] ***REJECTED*** {ip: "80.94.95.15", user: "root", pass:"tazmania"}
+[6/25/2025 8:57:30 AM] ***REJECTED*** {ip: "80.94.95.15", user: "root", pass:"steel"}
+[6/25/2025 8:57:30 AM] ***REJECTED*** {ip: "80.94.95.15", user: "root", pass:"starfire"}
+[6/25/2025 8:57:31 AM] 80.94.95.15 >>> Disconnected.
