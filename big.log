@@ -35836,3 +35836,27 @@
 [6/25/2025 8:27:42 PM] ***REJECTED*** {ip: "80.94.95.112", user: "admin", pass:"nazgul"}
 [6/25/2025 8:27:42 PM] ***REJECTED*** {ip: "80.94.95.112", user: "admin", pass:"mizzou"}
 [6/25/2025 8:27:43 PM] 80.94.95.112 >>> Disconnected.
+[6/25/2025 8:41:07 PM] Connection attempt from IP: 80.94.95.15...
+[6/25/2025 8:41:08 PM] ***REJECTED*** {ip: "80.94.95.15", user: "root", pass:"mommy"}
+[6/25/2025 8:41:09 PM] ***REJECTED*** {ip: "80.94.95.15", user: "root", pass:"mittens"}
+[6/25/2025 8:41:09 PM] ***REJECTED*** {ip: "80.94.95.15", user: "root", pass:"micheal"}
+[6/25/2025 8:41:10 PM] ***REJECTED*** {ip: "80.94.95.15", user: "root", pass:"maggot"}
+[6/25/2025 8:41:10 PM] ***REJECTED*** {ip: "80.94.95.15", user: "root", pass:"loco"}
+[6/25/2025 8:41:10 PM] 80.94.95.15 >>> Disconnected.
+[6/25/2025 8:44:44 PM] Connection attempt from IP: 80.94.95.15...
+[6/25/2025 8:44:46 PM] ***REJECTED*** {ip: "80.94.95.15", user: "melody", pass:"melody"}
+[6/25/2025 8:44:47 PM] ***REJECTED*** {ip: "80.94.95.15", user: "melody", pass:"melody1"}
+[6/25/2025 8:44:47 PM] ***REJECTED*** {ip: "80.94.95.15", user: "melody", pass:"melody123"}
+[6/25/2025 8:44:48 PM] ***REJECTED*** {ip: "80.94.95.15", user: "melody", pass:"melody1234"}
+[6/25/2025 8:44:49 PM] ***REJECTED*** {ip: "80.94.95.15", user: "melody", pass:"melody12345"}
+[6/25/2025 8:44:49 PM] 80.94.95.15 >>> Disconnected.
+[6/25/2025 8:50:40 PM] Connection attempt from IP: 45.146.130.113...
+[6/25/2025 8:50:40 PM] ***REJECTED*** {ip: "45.146.130.113", user: "NetLinx", pass:"password"}
+[6/25/2025 8:50:41 PM] ***REJECTED*** {ip: "45.146.130.113", user: "NetLinx", pass:"NetLinx1"}
+[6/25/2025 8:50:41 PM] ***REJECTED*** {ip: "45.146.130.113", user: "NetLinx", pass:"NetLinx123"}
+[6/25/2025 8:50:41 PM] ***REJECTED*** {ip: "45.146.130.113", user: "NetLinx", pass:"NetLinx1234"}
+[6/25/2025 8:50:41 PM] ***REJECTED*** {ip: "45.146.130.113", user: "NetLinx", pass:"NetLinx12345"}
+[6/25/2025 8:50:42 PM] 45.146.130.113 >>> Disconnected.
+[6/25/2025 8:58:05 PM] Connection attempt from IP: 194.0.234.21...
+[6/25/2025 8:58:06 PM] ***REJECTED*** {ip: "194.0.234.21", user: "ftpuser", pass:"123456"}
+[6/25/2025 8:58:06 PM] 194.0.234.21 >>> Disconnected.
