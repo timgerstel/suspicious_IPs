@@ -36091,3 +36091,22 @@
 [6/25/2025 11:59:34 PM] ***REJECTED*** {ip: "80.94.95.112", user: "admin", pass:"evolutio"}
 [6/25/2025 11:59:34 PM] ***REJECTED*** {ip: "80.94.95.112", user: "admin", pass:"dukeduke"}
 [6/25/2025 11:59:34 PM] 80.94.95.112 >>> Disconnected.
+[6/26/2025 12:01:56 AM] Connection attempt from IP: 45.146.130.113...
+[6/26/2025 12:01:57 AM] ***REJECTED*** {ip: "45.146.130.113", user: "cisco", pass:"cisco"}
+[6/26/2025 12:01:57 AM] ***REJECTED*** {ip: "45.146.130.113", user: "cisco", pass:"cisco1"}
+[6/26/2025 12:01:58 AM] ***REJECTED*** {ip: "45.146.130.113", user: "cisco", pass:"cisco123"}
+[6/26/2025 12:01:58 AM] ***REJECTED*** {ip: "45.146.130.113", user: "cisco", pass:"cisco1234"}
+[6/26/2025 12:01:58 AM] ***REJECTED*** {ip: "45.146.130.113", user: "cisco", pass:"cisco12345"}
+[6/26/2025 12:01:58 AM] 45.146.130.113 >>> Disconnected.
+[6/26/2025 12:09:20 AM] Connection attempt from IP: 152.67.167.117...
+[6/26/2025 12:09:22 AM] ***REJECTED*** {ip: "152.67.167.117", user: "root", pass:"vivek"}
+[6/26/2025 12:09:22 AM] 152.67.167.117 >>> Disconnected.
+[6/26/2025 12:10:28 AM] Connection attempt from IP: 152.67.167.117...
+[6/26/2025 12:10:30 AM] ***REJECTED*** {ip: "152.67.167.117", user: "fax", pass:"fax123"}
+[6/26/2025 12:10:30 AM] 152.67.167.117 >>> Disconnected.
+[6/26/2025 12:15:53 AM] Connection attempt from IP: 80.94.95.15...
+[6/26/2025 12:15:54 AM] ***ACCEPTED*** {ip: "80.94.95.15", user: "admin1", pass:"admin1"}
+[6/26/2025 12:15:56 AM] 80.94.95.15 >>> Disconnected.
+[6/26/2025 12:29:32 AM] Connection attempt from IP: 45.78.192.81...
+[6/26/2025 12:29:36 AM] ***REJECTED*** {ip: "45.78.192.81", user: "root", pass:" "}
+[6/26/2025 12:29:37 AM] 45.78.192.81 >>> Disconnected.
