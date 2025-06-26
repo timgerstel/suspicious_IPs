@@ -39666,3 +39666,10 @@
 [6/26/2025 6:29:46 PM] ***REJECTED*** {ip: "45.146.130.113", user: "root", pass:"stxadmin"}
 [6/26/2025 6:29:47 PM] ***REJECTED*** {ip: "45.146.130.113", user: "root", pass:"nosoup4u"}
 [6/26/2025 6:29:47 PM] 45.146.130.113 >>> Disconnected.
+[6/26/2025 6:36:07 PM] Connection attempt from IP: 80.94.95.15...
+[6/26/2025 6:36:08 PM] ***REJECTED*** {ip: "80.94.95.15", user: "root", pass:"02071982"}
+[6/26/2025 6:36:08 PM] ***REJECTED*** {ip: "80.94.95.15", user: "root", pass:"zxcvbnm1"}
+[6/26/2025 6:36:09 PM] ***REJECTED*** {ip: "80.94.95.15", user: "root", pass:"zhong"}
+[6/26/2025 6:36:09 PM] ***REJECTED*** {ip: "80.94.95.15", user: "root", pass:"woohoo"}
+[6/26/2025 6:36:09 PM] ***REJECTED*** {ip: "80.94.95.15", user: "root", pass:"welder"}
+[6/26/2025 6:36:10 PM] 80.94.95.15 >>> Disconnected.
