@@ -38095,3 +38095,17 @@
 [6/26/2025 7:28:43 AM] ***REJECTED*** {ip: "80.94.95.15", user: "root", pass:"volvo"}
 [6/26/2025 7:28:43 AM] ***REJECTED*** {ip: "80.94.95.15", user: "root", pass:"ufkbyf"}
 [6/26/2025 7:28:44 AM] 80.94.95.15 >>> Disconnected.
+[6/26/2025 7:35:15 AM] Connection attempt from IP: 80.94.95.112...
+[6/26/2025 7:35:16 AM] ***REJECTED*** {ip: "80.94.95.112", user: "admin", pass:"16031990"}
+[6/26/2025 7:35:16 AM] ***REJECTED*** {ip: "80.94.95.112", user: "admin", pass:"159357a"}
+[6/26/2025 7:35:17 AM] ***REJECTED*** {ip: "80.94.95.112", user: "admin", pass:"15091987"}
+[6/26/2025 7:35:17 AM] ***REJECTED*** {ip: "80.94.95.112", user: "admin", pass:"15081988"}
+[6/26/2025 7:35:17 AM] ***REJECTED*** {ip: "80.94.95.112", user: "admin", pass:"15071985"}
+[6/26/2025 7:35:17 AM] 80.94.95.112 >>> Disconnected.
+[6/26/2025 7:50:25 AM] Connection attempt from IP: 45.146.130.113...
+[6/26/2025 7:50:26 AM] ***REJECTED*** {ip: "45.146.130.113", user: "device", pass:"apc"}
+[6/26/2025 7:50:26 AM] ***REJECTED*** {ip: "45.146.130.113", user: "device", pass:"device1"}
+[6/26/2025 7:50:26 AM] ***REJECTED*** {ip: "45.146.130.113", user: "device", pass:"device123"}
+[6/26/2025 7:50:26 AM] ***REJECTED*** {ip: "45.146.130.113", user: "device", pass:"device1234"}
+[6/26/2025 7:50:27 AM] ***REJECTED*** {ip: "45.146.130.113", user: "device", pass:"device12345"}
+[6/26/2025 7:50:27 AM] 45.146.130.113 >>> Disconnected.
