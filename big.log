@@ -39799,3 +39799,24 @@
 [6/26/2025 9:53:55 PM] ***REJECTED*** {ip: "80.94.95.112", user: "admin", pass:"camden"}
 [6/26/2025 9:53:56 PM] ***REJECTED*** {ip: "80.94.95.112", user: "admin", pass:"cabernet"}
 [6/26/2025 9:53:56 PM] 80.94.95.112 >>> Disconnected.
+[6/26/2025 10:05:30 PM] Connection attempt from IP: 45.146.130.113...
+[6/26/2025 10:05:31 PM] ***REJECTED*** {ip: "45.146.130.113", user: "ftp", pass:"video"}
+[6/26/2025 10:05:31 PM] ***REJECTED*** {ip: "45.146.130.113", user: "ftp", pass:"ftp1"}
+[6/26/2025 10:05:31 PM] ***REJECTED*** {ip: "45.146.130.113", user: "ftp", pass:"ftp123"}
+[6/26/2025 10:05:31 PM] ***REJECTED*** {ip: "45.146.130.113", user: "ftp", pass:"ftp1234"}
+[6/26/2025 10:05:32 PM] ***REJECTED*** {ip: "45.146.130.113", user: "ftp", pass:"ftp12345"}
+[6/26/2025 10:05:32 PM] 45.146.130.113 >>> Disconnected.
+[6/26/2025 10:11:05 PM] Connection attempt from IP: 167.94.146.57...
+[6/26/2025 10:11:20 PM] 167.94.146.57 >>> Disconnected.
+[6/26/2025 10:16:50 PM] Connection attempt from IP: 117.50.192.225...
+[6/26/2025 10:17:03 PM] 117.50.192.225 >>> Disconnected.
+[6/26/2025 10:25:54 PM] Connection attempt from IP: 194.0.234.21...
+[6/26/2025 10:25:55 PM] ***REJECTED*** {ip: "194.0.234.21", user: "ftpuser", pass:"123456"}
+[6/26/2025 10:25:55 PM] 194.0.234.21 >>> Disconnected.
+[6/26/2025 10:27:39 PM] Connection attempt from IP: 80.94.95.112...
+[6/26/2025 10:27:40 PM] ***REJECTED*** {ip: "80.94.95.112", user: "admin", pass:"burns"}
+[6/26/2025 10:27:40 PM] ***REJECTED*** {ip: "80.94.95.112", user: "admin", pass:"bugs"}
+[6/26/2025 10:27:40 PM] ***REJECTED*** {ip: "80.94.95.112", user: "admin", pass:"budweiser"}
+[6/26/2025 10:27:41 PM] ***REJECTED*** {ip: "80.94.95.112", user: "admin", pass:"boxcar"}
+[6/26/2025 10:27:41 PM] ***REJECTED*** {ip: "80.94.95.112", user: "admin", pass:"boulder"}
+[6/26/2025 10:27:41 PM] 80.94.95.112 >>> Disconnected.
