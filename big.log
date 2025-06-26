@@ -39820,3 +39820,21 @@
 [6/26/2025 10:27:41 PM] ***REJECTED*** {ip: "80.94.95.112", user: "admin", pass:"boxcar"}
 [6/26/2025 10:27:41 PM] ***REJECTED*** {ip: "80.94.95.112", user: "admin", pass:"boulder"}
 [6/26/2025 10:27:41 PM] 80.94.95.112 >>> Disconnected.
+[6/26/2025 10:34:53 PM] Connection attempt from IP: 182.92.202.149...
+[6/26/2025 10:34:56 PM] 182.92.202.149 >>> Disconnected.
+[6/26/2025 10:44:36 PM] Connection attempt from IP: 80.94.95.15...
+[6/26/2025 10:44:37 PM] ***REJECTED*** {ip: "80.94.95.15", user: "krista", pass:"krista"}
+[6/26/2025 10:44:38 PM] ***REJECTED*** {ip: "80.94.95.15", user: "krista", pass:"krista1"}
+[6/26/2025 10:44:38 PM] ***REJECTED*** {ip: "80.94.95.15", user: "krista", pass:"krista123"}
+[6/26/2025 10:44:39 PM] ***REJECTED*** {ip: "80.94.95.15", user: "krista", pass:"krista1234"}
+[6/26/2025 10:44:39 PM] ***REJECTED*** {ip: "80.94.95.15", user: "krista", pass:"krista12345"}
+[6/26/2025 10:44:40 PM] 80.94.95.15 >>> Disconnected.
+[6/26/2025 10:49:19 PM] Connection attempt from IP: 45.146.130.113...
+[6/26/2025 10:49:20 PM] ***REJECTED*** {ip: "45.146.130.113", user: "nexthink", pass:"123456"}
+[6/26/2025 10:49:20 PM] ***REJECTED*** {ip: "45.146.130.113", user: "nexthink", pass:"nexthink1"}
+[6/26/2025 10:49:21 PM] ***REJECTED*** {ip: "45.146.130.113", user: "nexthink", pass:"nexthink123"}
+[6/26/2025 10:49:21 PM] ***REJECTED*** {ip: "45.146.130.113", user: "nexthink", pass:"nexthink1234"}
+[6/26/2025 10:49:21 PM] ***REJECTED*** {ip: "45.146.130.113", user: "nexthink", pass:"nexthink12345"}
+[6/26/2025 10:49:22 PM] 45.146.130.113 >>> Disconnected.
+[6/26/2025 10:51:00 PM] Connection attempt from IP: 198.235.24.95...
+[6/26/2025 10:51:03 PM] 198.235.24.95 >>> Disconnected.
