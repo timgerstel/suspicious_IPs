@@ -39703,3 +39703,22 @@
 [6/26/2025 7:14:48 PM] 45.146.130.113 >>> Disconnected.
 [6/26/2025 7:22:29 PM] Connection attempt from IP: 64.62.197.35...
 [6/26/2025 7:22:33 PM] 64.62.197.35 >>> Disconnected.
+[6/26/2025 7:35:28 PM] Connection attempt from IP: 185.156.73.234...
+[6/26/2025 7:35:29 PM] ***REJECTED*** {ip: "185.156.73.234", user: "ftpuser", pass:"123456"}
+[6/26/2025 7:35:29 PM] 185.156.73.234 >>> Disconnected.
+[6/26/2025 7:37:43 PM] Connection attempt from IP: 80.94.95.112...
+[6/26/2025 7:37:44 PM] ***REJECTED*** {ip: "80.94.95.112", user: "admin", pass:"fuck69"}
+[6/26/2025 7:37:44 PM] ***REJECTED*** {ip: "80.94.95.112", user: "admin", pass:"footjob"}
+[6/26/2025 7:37:45 PM] ***REJECTED*** {ip: "80.94.95.112", user: "admin", pass:"flasher"}
+[6/26/2025 7:37:45 PM] ***REJECTED*** {ip: "80.94.95.112", user: "admin", pass:"females"}
+[6/26/2025 7:37:46 PM] ***REJECTED*** {ip: "80.94.95.112", user: "admin", pass:"fellow"}
+[6/26/2025 7:37:46 PM] 80.94.95.112 >>> Disconnected.
+[6/26/2025 7:57:27 PM] Connection attempt from IP: 170.64.167.72...
+[6/26/2025 7:57:32 PM] 170.64.167.72 >>> Disconnected.
+[6/26/2025 7:59:32 PM] Connection attempt from IP: 45.146.130.113...
+[6/26/2025 7:59:32 PM] ***REJECTED*** {ip: "45.146.130.113", user: "stackato", pass:"stackato"}
+[6/26/2025 7:59:33 PM] ***REJECTED*** {ip: "45.146.130.113", user: "stackato", pass:"stackato1"}
+[6/26/2025 7:59:33 PM] ***REJECTED*** {ip: "45.146.130.113", user: "stackato", pass:"stackato123"}
+[6/26/2025 7:59:33 PM] ***REJECTED*** {ip: "45.146.130.113", user: "stackato", pass:"stackato1234"}
+[6/26/2025 7:59:33 PM] ***REJECTED*** {ip: "45.146.130.113", user: "stackato", pass:"stackato12345"}
+[6/26/2025 7:59:34 PM] 45.146.130.113 >>> Disconnected.
