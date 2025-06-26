@@ -38317,3 +38317,12 @@
 [6/26/2025 12:27:23 PM] ***REJECTED*** {ip: "45.146.130.113", user: "cirros", pass:"cirros1234"}
 [6/26/2025 12:27:24 PM] ***REJECTED*** {ip: "45.146.130.113", user: "cirros", pass:"cirros12345"}
 [6/26/2025 12:27:24 PM] 45.146.130.113 >>> Disconnected.
+[6/26/2025 12:46:46 PM] Connection attempt from IP: 80.94.95.112...
+[6/26/2025 12:46:47 PM] ***REJECTED*** {ip: "80.94.95.112", user: "admin", pass:"thedon"}
+[6/26/2025 12:46:47 PM] ***REJECTED*** {ip: "80.94.95.112", user: "admin", pass:"tender"}
+[6/26/2025 12:46:47 PM] ***REJECTED*** {ip: "80.94.95.112", user: "admin", pass:"taekwondo"}
+[6/26/2025 12:46:48 PM] ***REJECTED*** {ip: "80.94.95.112", user: "admin", pass:"starwar"}
+[6/26/2025 12:46:48 PM] ***REJECTED*** {ip: "80.94.95.112", user: "admin", pass:"start1"}
+[6/26/2025 12:46:49 PM] 80.94.95.112 >>> Disconnected.
+[6/26/2025 12:57:54 PM] Connection attempt from IP: 44.220.185.63...
+[6/26/2025 12:57:55 PM] 44.220.185.63 >>> Disconnected.
