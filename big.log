@@ -40430,3 +40430,10 @@
 [6/27/2025 8:26:20 AM] Connection attempt from IP: 193.32.162.157...
 [6/27/2025 8:26:26 AM] ***REJECTED*** {ip: "193.32.162.157", user: "student", pass:"tneduts"}
 [6/27/2025 8:26:26 AM] 193.32.162.157 >>> Disconnected.
+[6/27/2025 8:32:19 AM] Connection attempt from IP: 80.94.95.112...
+[6/27/2025 8:32:20 AM] ***REJECTED*** {ip: "80.94.95.112", user: "admin", pass:"02071977"}
+[6/27/2025 8:32:20 AM] ***REJECTED*** {ip: "80.94.95.112", user: "admin", pass:"02071971"}
+[6/27/2025 8:32:21 AM] ***REJECTED*** {ip: "80.94.95.112", user: "admin", pass:"0192837465"}
+[6/27/2025 8:32:21 AM] ***REJECTED*** {ip: "80.94.95.112", user: "admin", pass:"01051988"}
+[6/27/2025 8:32:21 AM] ***REJECTED*** {ip: "80.94.95.112", user: "admin", pass:"01051986"}
+[6/27/2025 8:32:22 AM] 80.94.95.112 >>> Disconnected.
