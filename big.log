@@ -41345,3 +41345,13 @@
 [6/27/2025 2:44:04 PM] ***REJECTED*** {ip: "45.146.130.113", user: "nao", pass:"nao1234"}
 [6/27/2025 2:44:04 PM] ***REJECTED*** {ip: "45.146.130.113", user: "nao", pass:"nao12345"}
 [6/27/2025 2:44:05 PM] 45.146.130.113 >>> Disconnected.
+[6/27/2025 3:04:14 PM] Connection attempt from IP: 80.94.95.15...
+[6/27/2025 3:04:15 PM] ***ACCEPTED*** {ip: "80.94.95.15", user: "rodrigo", pass:"rodrigo"}
+[6/27/2025 3:04:16 PM] 80.94.95.15 >>> Disconnected.
+[6/27/2025 3:26:15 PM] Connection attempt from IP: 45.146.130.113...
+[6/27/2025 3:26:16 PM] ***REJECTED*** {ip: "45.146.130.113", user: "support", pass:"symantec"}
+[6/27/2025 3:26:16 PM] ***REJECTED*** {ip: "45.146.130.113", user: "support", pass:"support1"}
+[6/27/2025 3:26:16 PM] ***REJECTED*** {ip: "45.146.130.113", user: "support", pass:"support123"}
+[6/27/2025 3:26:16 PM] ***REJECTED*** {ip: "45.146.130.113", user: "support", pass:"support1234"}
+[6/27/2025 3:26:17 PM] ***REJECTED*** {ip: "45.146.130.113", user: "support", pass:"support12345"}
+[6/27/2025 3:26:17 PM] 45.146.130.113 >>> Disconnected.
