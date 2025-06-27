@@ -41338,3 +41338,10 @@
 [6/27/2025 1:59:21 PM] 45.146.130.113 >>> Disconnected.
 [6/27/2025 2:28:44 PM] Connection attempt from IP: 47.237.89.84...
 [6/27/2025 2:28:52 PM] 47.237.89.84 >>> Disconnected.
+[6/27/2025 2:44:02 PM] Connection attempt from IP: 45.146.130.113...
+[6/27/2025 2:44:03 PM] ***REJECTED*** {ip: "45.146.130.113", user: "nao", pass:"nao"}
+[6/27/2025 2:44:03 PM] ***REJECTED*** {ip: "45.146.130.113", user: "nao", pass:"nao1"}
+[6/27/2025 2:44:04 PM] ***REJECTED*** {ip: "45.146.130.113", user: "nao", pass:"nao123"}
+[6/27/2025 2:44:04 PM] ***REJECTED*** {ip: "45.146.130.113", user: "nao", pass:"nao1234"}
+[6/27/2025 2:44:04 PM] ***REJECTED*** {ip: "45.146.130.113", user: "nao", pass:"nao12345"}
+[6/27/2025 2:44:05 PM] 45.146.130.113 >>> Disconnected.
