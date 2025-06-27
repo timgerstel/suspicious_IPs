@@ -42192,3 +42192,10 @@
 [6/27/2025 6:29:41 PM] Connection attempt from IP: 194.0.234.21...
 [6/27/2025 6:29:42 PM] ***REJECTED*** {ip: "194.0.234.21", user: "ftpuser", pass:"123456"}
 [6/27/2025 6:29:43 PM] 194.0.234.21 >>> Disconnected.
+[6/27/2025 6:55:15 PM] Connection attempt from IP: 45.146.130.113...
+[6/27/2025 6:55:15 PM] ***REJECTED*** {ip: "45.146.130.113", user: "hacker", pass:"compass"}
+[6/27/2025 6:55:16 PM] ***REJECTED*** {ip: "45.146.130.113", user: "hacker", pass:"hacker1"}
+[6/27/2025 6:55:16 PM] ***REJECTED*** {ip: "45.146.130.113", user: "hacker", pass:"hacker123"}
+[6/27/2025 6:55:16 PM] ***REJECTED*** {ip: "45.146.130.113", user: "hacker", pass:"hacker1234"}
+[6/27/2025 6:55:16 PM] ***REJECTED*** {ip: "45.146.130.113", user: "hacker", pass:"hacker12345"}
+[6/27/2025 6:55:17 PM] 45.146.130.113 >>> Disconnected.
