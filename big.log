@@ -42340,3 +42340,17 @@
 [6/27/2025 9:41:23 PM] 164.92.249.174 >>> Disconnected.
 [6/27/2025 9:50:46 PM] Connection attempt from IP: 154.83.15.158...
 [6/27/2025 9:50:54 PM] 154.83.15.158 >>> Disconnected.
+[6/27/2025 10:05:38 PM] Connection attempt from IP: 80.94.95.112...
+[6/27/2025 10:05:39 PM] ***REJECTED*** {ip: "80.94.95.112", user: "admin", pass:"rated"}
+[6/27/2025 10:05:40 PM] ***REJECTED*** {ip: "80.94.95.112", user: "admin", pass:"rainyday"}
+[6/27/2025 10:05:40 PM] ***REJECTED*** {ip: "80.94.95.112", user: "admin", pass:"q123456789"}
+[6/27/2025 10:05:40 PM] ***REJECTED*** {ip: "80.94.95.112", user: "admin", pass:"purpl"}
+[6/27/2025 10:05:41 PM] ***REJECTED*** {ip: "80.94.95.112", user: "admin", pass:"puppydog"}
+[6/27/2025 10:05:41 PM] 80.94.95.112 >>> Disconnected.
+[6/27/2025 10:21:07 PM] Connection attempt from IP: 45.146.130.113...
+[6/27/2025 10:21:07 PM] ***REJECTED*** {ip: "45.146.130.113", user: "centos", pass:"reverse"}
+[6/27/2025 10:21:08 PM] ***REJECTED*** {ip: "45.146.130.113", user: "centos", pass:"centos1"}
+[6/27/2025 10:21:08 PM] ***REJECTED*** {ip: "45.146.130.113", user: "centos", pass:"centos123"}
+[6/27/2025 10:21:08 PM] ***REJECTED*** {ip: "45.146.130.113", user: "centos", pass:"centos1234"}
+[6/27/2025 10:21:08 PM] ***REJECTED*** {ip: "45.146.130.113", user: "centos", pass:"centos12345"}
+[6/27/2025 10:21:09 PM] 45.146.130.113 >>> Disconnected.
