@@ -40458,3 +40458,15 @@
 [6/27/2025 9:18:08 AM] 80.94.95.15 >>> Disconnected.
 [6/27/2025 9:26:23 AM] Connection attempt from IP: 8.216.86.134...
 [6/27/2025 9:26:31 AM] 8.216.86.134 >>> Disconnected.
+[6/27/2025 9:43:39 AM] Connection attempt from IP: 45.146.130.113...
+[6/27/2025 9:43:39 AM] ***REJECTED*** {ip: "45.146.130.113", user: "remnux", pass:"malware"}
+[6/27/2025 9:43:39 AM] ***REJECTED*** {ip: "45.146.130.113", user: "remnux", pass:"remnux1"}
+[6/27/2025 9:43:40 AM] ***REJECTED*** {ip: "45.146.130.113", user: "remnux", pass:"remnux123"}
+[6/27/2025 9:43:40 AM] ***REJECTED*** {ip: "45.146.130.113", user: "remnux", pass:"remnux1234"}
+[6/27/2025 9:43:40 AM] ***REJECTED*** {ip: "45.146.130.113", user: "remnux", pass:"remnux12345"}
+[6/27/2025 9:43:41 AM] 45.146.130.113 >>> Disconnected.
+[6/27/2025 9:45:44 AM] Connection attempt from IP: 164.92.210.70...
+[6/27/2025 9:45:47 AM] 164.92.210.70 >>> Disconnected.
+[6/27/2025 9:53:29 AM] Connection attempt from IP: 194.0.234.21...
+[6/27/2025 9:53:30 AM] ***REJECTED*** {ip: "194.0.234.21", user: "ftpuser", pass:"123456"}
+[6/27/2025 9:53:31 AM] 194.0.234.21 >>> Disconnected.
