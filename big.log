@@ -39973,3 +39973,17 @@
 [6/27/2025 1:19:50 AM] Connection attempt from IP: 172.245.11.43...
 [6/27/2025 1:20:09 AM] ***ACCEPTED*** {ip: "172.245.11.43", user: "root", pass:"AA123456"}
 [6/27/2025 1:20:28 AM] 172.245.11.43 >>> Disconnected.
+[6/27/2025 1:43:43 AM] Connection attempt from IP: 45.146.130.113...
+[6/27/2025 1:43:44 AM] ***REJECTED*** {ip: "45.146.130.113", user: "osboxes", pass:"osboxes.org"}
+[6/27/2025 1:43:44 AM] ***REJECTED*** {ip: "45.146.130.113", user: "osboxes", pass:"osboxes1"}
+[6/27/2025 1:43:44 AM] ***REJECTED*** {ip: "45.146.130.113", user: "osboxes", pass:"osboxes123"}
+[6/27/2025 1:43:45 AM] ***REJECTED*** {ip: "45.146.130.113", user: "osboxes", pass:"osboxes1234"}
+[6/27/2025 1:43:45 AM] ***REJECTED*** {ip: "45.146.130.113", user: "osboxes", pass:"osboxes12345"}
+[6/27/2025 1:43:45 AM] 45.146.130.113 >>> Disconnected.
+[6/27/2025 1:50:34 AM] Connection attempt from IP: 80.94.95.112...
+[6/27/2025 1:50:35 AM] ***REJECTED*** {ip: "80.94.95.112", user: "admin", pass:"25011993"}
+[6/27/2025 1:50:35 AM] ***REJECTED*** {ip: "80.94.95.112", user: "admin", pass:"24121986"}
+[6/27/2025 1:50:36 AM] ***REJECTED*** {ip: "80.94.95.112", user: "admin", pass:"24061992"}
+[6/27/2025 1:50:36 AM] ***REJECTED*** {ip: "80.94.95.112", user: "admin", pass:"24021991"}
+[6/27/2025 1:50:36 AM] ***REJECTED*** {ip: "80.94.95.112", user: "admin", pass:"24011990"}
+[6/27/2025 1:50:36 AM] 80.94.95.112 >>> Disconnected.
