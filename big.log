@@ -42130,3 +42130,17 @@
 [6/27/2025 4:50:06 PM] Connection attempt from IP: 45.146.130.113...
 [6/27/2025 4:50:07 PM] ***ACCEPTED*** {ip: "45.146.130.113", user: "root", pass:"cxlinux"}
 [6/27/2025 4:50:07 PM] 45.146.130.113 >>> Disconnected.
+[6/27/2025 5:16:19 PM] Connection attempt from IP: 80.94.95.15...
+[6/27/2025 5:16:20 PM] ***REJECTED*** {ip: "80.94.95.15", user: "admin", pass:"atjp4CDA"}
+[6/27/2025 5:16:21 PM] ***REJECTED*** {ip: "80.94.95.15", user: "admin", pass:"123456789"}
+[6/27/2025 5:16:21 PM] ***REJECTED*** {ip: "80.94.95.15", user: "admin", pass:"Enercon24"}
+[6/27/2025 5:16:22 PM] ***REJECTED*** {ip: "80.94.95.15", user: "admin", pass:"1150221410*"}
+[6/27/2025 5:16:22 PM] ***REJECTED*** {ip: "80.94.95.15", user: "admin", pass:"admin12345"}
+[6/27/2025 5:16:22 PM] 80.94.95.15 >>> Disconnected.
+[6/27/2025 5:22:24 PM] Connection attempt from IP: 80.94.95.15...
+[6/27/2025 5:22:25 PM] ***REJECTED*** {ip: "80.94.95.15", user: "theresa", pass:"theresa"}
+[6/27/2025 5:22:25 PM] ***REJECTED*** {ip: "80.94.95.15", user: "theresa", pass:"theresa1"}
+[6/27/2025 5:22:26 PM] ***REJECTED*** {ip: "80.94.95.15", user: "theresa", pass:"theresa123"}
+[6/27/2025 5:22:26 PM] ***REJECTED*** {ip: "80.94.95.15", user: "theresa", pass:"theresa1234"}
+[6/27/2025 5:22:27 PM] ***REJECTED*** {ip: "80.94.95.15", user: "theresa", pass:"theresa12345"}
+[6/27/2025 5:22:27 PM] 80.94.95.15 >>> Disconnected.
