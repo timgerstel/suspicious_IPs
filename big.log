@@ -39924,3 +39924,10 @@
 [6/27/2025 12:16:44 AM] ***REJECTED*** {ip: "45.146.130.113", user: "sansforensics", pass:"sansforensics1234"}
 [6/27/2025 12:16:44 AM] ***REJECTED*** {ip: "45.146.130.113", user: "sansforensics", pass:"sansforensics12345"}
 [6/27/2025 12:16:45 AM] 45.146.130.113 >>> Disconnected.
+[6/27/2025 12:43:04 AM] Connection attempt from IP: 80.94.95.112...
+[6/27/2025 12:43:05 AM] ***REJECTED*** {ip: "80.94.95.112", user: "admin", pass:"45454545"}
+[6/27/2025 12:43:05 AM] ***REJECTED*** {ip: "80.94.95.112", user: "admin", pass:"31011990"}
+[6/27/2025 12:43:06 AM] ***REJECTED*** {ip: "80.94.95.112", user: "admin", pass:"29011987"}
+[6/27/2025 12:43:06 AM] ***REJECTED*** {ip: "80.94.95.112", user: "admin", pass:"28071986"}
+[6/27/2025 12:43:07 AM] ***REJECTED*** {ip: "80.94.95.112", user: "admin", pass:"28021986"}
+[6/27/2025 12:43:07 AM] 80.94.95.112 >>> Disconnected.
