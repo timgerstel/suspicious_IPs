@@ -42329,3 +42329,14 @@
 [6/27/2025 9:23:24 PM] Connection attempt from IP: 185.156.73.233...
 [6/27/2025 9:23:25 PM] ***REJECTED*** {ip: "185.156.73.233", user: "ftpuser", pass:"123456"}
 [6/27/2025 9:23:25 PM] 185.156.73.233 >>> Disconnected.
+[6/27/2025 9:40:05 PM] Connection attempt from IP: 45.146.130.113...
+[6/27/2025 9:40:06 PM] ***REJECTED*** {ip: "45.146.130.113", user: "student", pass:"password123"}
+[6/27/2025 9:40:06 PM] ***REJECTED*** {ip: "45.146.130.113", user: "student", pass:"student1"}
+[6/27/2025 9:40:07 PM] ***REJECTED*** {ip: "45.146.130.113", user: "student", pass:"student123"}
+[6/27/2025 9:40:07 PM] ***REJECTED*** {ip: "45.146.130.113", user: "student", pass:"student1234"}
+[6/27/2025 9:40:07 PM] ***REJECTED*** {ip: "45.146.130.113", user: "student", pass:"student12345"}
+[6/27/2025 9:40:07 PM] 45.146.130.113 >>> Disconnected.
+[6/27/2025 9:41:15 PM] Connection attempt from IP: 164.92.249.174...
+[6/27/2025 9:41:23 PM] 164.92.249.174 >>> Disconnected.
+[6/27/2025 9:50:46 PM] Connection attempt from IP: 154.83.15.158...
+[6/27/2025 9:50:54 PM] 154.83.15.158 >>> Disconnected.
