@@ -42199,3 +42199,12 @@
 [6/27/2025 6:55:16 PM] ***REJECTED*** {ip: "45.146.130.113", user: "hacker", pass:"hacker1234"}
 [6/27/2025 6:55:16 PM] ***REJECTED*** {ip: "45.146.130.113", user: "hacker", pass:"hacker12345"}
 [6/27/2025 6:55:17 PM] 45.146.130.113 >>> Disconnected.
+[6/27/2025 7:05:26 PM] Connection attempt from IP: 80.94.95.112...
+[6/27/2025 7:05:27 PM] ***REJECTED*** {ip: "80.94.95.112", user: "admin", pass:"tokiohotel"}
+[6/27/2025 7:05:27 PM] ***REJECTED*** {ip: "80.94.95.112", user: "admin", pass:"suslik"}
+[6/27/2025 7:05:28 PM] ***REJECTED*** {ip: "80.94.95.112", user: "admin", pass:"supernov"}
+[6/27/2025 7:05:28 PM] ***REJECTED*** {ip: "80.94.95.112", user: "admin", pass:"steffen"}
+[6/27/2025 7:05:28 PM] ***REJECTED*** {ip: "80.94.95.112", user: "admin", pass:"spider1"}
+[6/27/2025 7:05:29 PM] 80.94.95.112 >>> Disconnected.
+[6/27/2025 7:19:43 PM] Connection attempt from IP: 43.163.97.137...
+[6/27/2025 7:19:51 PM] 43.163.97.137 >>> Disconnected.
