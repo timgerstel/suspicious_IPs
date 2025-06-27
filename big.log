@@ -42208,3 +42208,17 @@
 [6/27/2025 7:05:29 PM] 80.94.95.112 >>> Disconnected.
 [6/27/2025 7:19:43 PM] Connection attempt from IP: 43.163.97.137...
 [6/27/2025 7:19:51 PM] 43.163.97.137 >>> Disconnected.
+[6/27/2025 7:32:04 PM] Connection attempt from IP: 216.218.206.80...
+[6/27/2025 7:32:08 PM] 216.218.206.80 >>> Disconnected.
+[6/27/2025 7:36:29 PM] Connection attempt from IP: 45.146.130.113...
+[6/27/2025 7:36:30 PM] ***REJECTED*** {ip: "45.146.130.113", user: "samurai", pass:"samurai"}
+[6/27/2025 7:36:30 PM] ***REJECTED*** {ip: "45.146.130.113", user: "samurai", pass:"samurai1"}
+[6/27/2025 7:36:30 PM] ***REJECTED*** {ip: "45.146.130.113", user: "samurai", pass:"samurai123"}
+[6/27/2025 7:36:30 PM] ***REJECTED*** {ip: "45.146.130.113", user: "samurai", pass:"samurai1234"}
+[6/27/2025 7:36:31 PM] ***REJECTED*** {ip: "45.146.130.113", user: "samurai", pass:"samurai12345"}
+[6/27/2025 7:36:31 PM] 45.146.130.113 >>> Disconnected.
+[6/27/2025 7:50:36 PM] Connection attempt from IP: 80.94.95.112...
+[6/27/2025 7:50:37 PM] ***REJECTED*** {ip: "80.94.95.112", user: "admin", pass:"speakers"}
+[6/27/2025 7:50:37 PM] ***REJECTED*** {ip: "80.94.95.112", user: "admin", pass:"spartan1"}
+[6/27/2025 7:50:37 PM] ***ACCEPTED*** {ip: "80.94.95.112", user: "admin", pass:"sofia"}
+[6/27/2025 7:50:38 PM] 80.94.95.112 >>> Disconnected.
