@@ -42310,3 +42310,22 @@
 [6/27/2025 8:58:53 PM] ***REJECTED*** {ip: "45.146.130.113", user: "root", pass:"root1"}
 [6/27/2025 8:58:53 PM] ***REJECTED*** {ip: "45.146.130.113", user: "root", pass:"root123"}
 [6/27/2025 8:58:53 PM] 45.146.130.113 >>> Disconnected.
+[6/27/2025 9:08:51 PM] Connection attempt from IP: 47.237.126.162...
+[6/27/2025 9:08:53 PM] ***REJECTED*** {ip: "47.237.126.162", user: "root", pass:" "}
+[6/27/2025 9:08:54 PM] 47.237.126.162 >>> Disconnected.
+[6/27/2025 9:11:05 PM] Connection attempt from IP: 47.237.126.162...
+[6/27/2025 9:11:08 PM] ***REJECTED*** {ip: "47.237.126.162", user: "root", pass:"!Q2w3e4r"}
+[6/27/2025 9:11:09 PM] 47.237.126.162 >>> Disconnected.
+[6/27/2025 9:11:11 PM] Connection attempt from IP: 47.237.126.162...
+[6/27/2025 9:11:20 PM] ***REJECTED*** {ip: "47.237.126.162", user: "pi", pass:"raspberry"}
+[6/27/2025 9:11:20 PM] 47.237.126.162 >>> Disconnected.
+[6/27/2025 9:20:42 PM] Connection attempt from IP: 80.94.95.112...
+[6/27/2025 9:20:43 PM] ***REJECTED*** {ip: "80.94.95.112", user: "admin", pass:"roger1"}
+[6/27/2025 9:20:44 PM] ***REJECTED*** {ip: "80.94.95.112", user: "admin", pass:"rocknroll"}
+[6/27/2025 9:20:44 PM] ***REJECTED*** {ip: "80.94.95.112", user: "admin", pass:"rockin"}
+[6/27/2025 9:20:44 PM] ***REJECTED*** {ip: "80.94.95.112", user: "admin", pass:"road"}
+[6/27/2025 9:20:45 PM] ***REJECTED*** {ip: "80.94.95.112", user: "admin", pass:"reserve"}
+[6/27/2025 9:20:45 PM] 80.94.95.112 >>> Disconnected.
+[6/27/2025 9:23:24 PM] Connection attempt from IP: 185.156.73.233...
+[6/27/2025 9:23:25 PM] ***REJECTED*** {ip: "185.156.73.233", user: "ftpuser", pass:"123456"}
+[6/27/2025 9:23:25 PM] 185.156.73.233 >>> Disconnected.
