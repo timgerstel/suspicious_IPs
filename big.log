@@ -44338,3 +44338,14 @@
 [6/28/2025 6:52:16 PM] ***REJECTED*** {ip: "80.94.95.15", user: "root", pass:"juliette"}
 [6/28/2025 6:52:17 PM] ***REJECTED*** {ip: "80.94.95.15", user: "root", pass:"james007"}
 [6/28/2025 6:52:17 PM] 80.94.95.15 >>> Disconnected.
+[6/28/2025 7:04:35 PM] Connection attempt from IP: 8.219.86.58...
+[6/28/2025 7:04:43 PM] 8.219.86.58 >>> Disconnected.
+[6/28/2025 7:17:56 PM] Connection attempt from IP: 64.62.197.96...
+[6/28/2025 7:18:00 PM] 64.62.197.96 >>> Disconnected.
+[6/28/2025 7:21:33 PM] Connection attempt from IP: 80.94.95.112...
+[6/28/2025 7:21:34 PM] ***REJECTED*** {ip: "80.94.95.112", user: "admin", pass:"15091988"}
+[6/28/2025 7:21:34 PM] ***REJECTED*** {ip: "80.94.95.112", user: "admin", pass:"15061988"}
+[6/28/2025 7:21:35 PM] ***REJECTED*** {ip: "80.94.95.112", user: "admin", pass:"15031988"}
+[6/28/2025 7:21:35 PM] ***REJECTED*** {ip: "80.94.95.112", user: "admin", pass:"15021983"}
+[6/28/2025 7:21:36 PM] ***REJECTED*** {ip: "80.94.95.112", user: "admin", pass:"14021989"}
+[6/28/2025 7:21:36 PM] 80.94.95.112 >>> Disconnected.
