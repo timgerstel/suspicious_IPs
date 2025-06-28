@@ -43975,3 +43975,8 @@
 [6/28/2025 2:27:26 PM] ***REJECTED*** {ip: "80.94.95.15", user: "leo", pass:"leo1234"}
 [6/28/2025 2:27:27 PM] ***REJECTED*** {ip: "80.94.95.15", user: "leo", pass:"leo12345"}
 [6/28/2025 2:27:27 PM] 80.94.95.15 >>> Disconnected.
+[6/28/2025 2:40:32 PM] Connection attempt from IP: 80.94.95.118...
+[6/28/2025 2:40:33 PM] ***REJECTED*** {ip: "80.94.95.118", user: "ftpuser", pass:"123456"}
+[6/28/2025 2:40:33 PM] 80.94.95.118 >>> Disconnected.
+[6/28/2025 2:52:32 PM] Connection attempt from IP: 147.139.164.196...
+[6/28/2025 2:52:38 PM] 147.139.164.196 >>> Disconnected.
