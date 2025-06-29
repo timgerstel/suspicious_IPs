@@ -47889,3 +47889,12 @@
 [6/29/2025 5:26:45 PM] Connection attempt from IP: 14.18.41.55...
 [6/29/2025 5:26:47 PM] ***REJECTED*** {ip: "14.18.41.55", user: "root", pass:"passwd"}
 [6/29/2025 5:26:48 PM] 14.18.41.55 >>> Disconnected.
+[6/29/2025 5:47:05 PM] Connection attempt from IP: 80.94.95.112...
+[6/29/2025 5:47:06 PM] ***REJECTED*** {ip: "80.94.95.112", user: "admin", pass:"31031987"}
+[6/29/2025 5:47:06 PM] ***REJECTED*** {ip: "80.94.95.112", user: "admin", pass:"30111987"}
+[6/29/2025 5:47:07 PM] ***REJECTED*** {ip: "80.94.95.112", user: "admin", pass:"30071986"}
+[6/29/2025 5:47:07 PM] ***REJECTED*** {ip: "80.94.95.112", user: "admin", pass:"30061983"}
+[6/29/2025 5:47:07 PM] ***REJECTED*** {ip: "80.94.95.112", user: "admin", pass:"30051989"}
+[6/29/2025 5:47:08 PM] 80.94.95.112 >>> Disconnected.
+[6/29/2025 5:57:47 PM] Connection attempt from IP: 54.227.100.6...
+[6/29/2025 5:57:47 PM] 54.227.100.6 >>> Disconnected.
