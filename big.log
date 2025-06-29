@@ -46724,3 +46724,12 @@
 [6/29/2025 12:56:11 PM] 80.94.95.112 >>> Disconnected.
 [6/29/2025 12:56:18 PM] Connection attempt from IP: 206.189.224.163...
 [6/29/2025 12:56:18 PM] 206.189.224.163 >>> Disconnected.
+[6/29/2025 1:23:54 PM] Connection attempt from IP: 148.113.214.206...
+[6/29/2025 1:24:04 PM] 148.113.214.206 >>> Disconnected.
+[6/29/2025 1:26:51 PM] Connection attempt from IP: 80.94.95.15...
+[6/29/2025 1:26:52 PM] ***REJECTED*** {ip: "80.94.95.15", user: "test", pass:"test"}
+[6/29/2025 1:26:53 PM] ***REJECTED*** {ip: "80.94.95.15", user: "test", pass:"test1234"}
+[6/29/2025 1:26:53 PM] ***REJECTED*** {ip: "80.94.95.15", user: "test", pass:"test123"}
+[6/29/2025 1:26:54 PM] ***REJECTED*** {ip: "80.94.95.15", user: "test", pass:"123"}
+[6/29/2025 1:26:54 PM] ***REJECTED*** {ip: "80.94.95.15", user: "test", pass:"1234"}
+[6/29/2025 1:26:54 PM] 80.94.95.15 >>> Disconnected.
