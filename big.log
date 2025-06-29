@@ -46822,3 +46822,10 @@
 [6/29/2025 2:24:36 PM] ***REJECTED*** {ip: "80.94.95.15", user: "pritchard", pass:"abcd1234"}
 [6/29/2025 2:24:37 PM] ***REJECTED*** {ip: "80.94.95.15", user: "pritchard", pass:"abc1234"}
 [6/29/2025 2:24:37 PM] 80.94.95.15 >>> Disconnected.
+[6/29/2025 2:40:54 PM] Connection attempt from IP: 80.94.95.15...
+[6/29/2025 2:40:55 PM] ***REJECTED*** {ip: "80.94.95.15", user: "root", pass:"gaston"}
+[6/29/2025 2:40:55 PM] ***REJECTED*** {ip: "80.94.95.15", user: "root", pass:"f**k"}
+[6/29/2025 2:40:55 PM] ***REJECTED*** {ip: "80.94.95.15", user: "root", pass:"death1"}
+[6/29/2025 2:40:56 PM] ***REJECTED*** {ip: "80.94.95.15", user: "root", pass:"chao"}
+[6/29/2025 2:40:56 PM] ***REJECTED*** {ip: "80.94.95.15", user: "root", pass:"cfitymrf"}
+[6/29/2025 2:40:57 PM] 80.94.95.15 >>> Disconnected.
