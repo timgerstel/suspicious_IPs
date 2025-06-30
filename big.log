@@ -48590,3 +48590,91 @@
 [6/29/2025 11:56:20 PM] ***REJECTED*** {ip: "80.94.95.112", user: "admin", pass:"15091989"}
 [6/29/2025 11:56:20 PM] ***REJECTED*** {ip: "80.94.95.112", user: "admin", pass:"15081990"}
 [6/29/2025 11:56:21 PM] 80.94.95.112 >>> Disconnected.
+[6/30/2025 12:15:00 AM] Connection attempt from IP: 51.8.224.231...
+[6/30/2025 12:15:16 AM] ***REJECTED*** {ip: "51.8.224.231", user: "root", pass:"﻿---fuck_you----"}
+[6/30/2025 12:15:21 AM] 51.8.224.231 >>> Disconnected.
+[6/30/2025 12:15:37 AM] Connection attempt from IP: 51.8.224.231...
+[6/30/2025 12:16:04 AM] ***REJECTED*** {ip: "51.8.224.231", user: "root", pass:"123456"}
+[6/30/2025 12:16:09 AM] 51.8.224.231 >>> Disconnected.
+[6/30/2025 12:16:31 AM] Connection attempt from IP: 51.8.224.231...
+[6/30/2025 12:16:52 AM] ***REJECTED*** {ip: "51.8.224.231", user: "root", pass:"root"}
+[6/30/2025 12:16:56 AM] 51.8.224.231 >>> Disconnected.
+[6/30/2025 12:17:02 AM] Connection attempt from IP: 51.8.224.231...
+[6/30/2025 12:17:40 AM] ***REJECTED*** {ip: "51.8.224.231", user: "root", pass:"admin"}
+[6/30/2025 12:17:46 AM] 51.8.224.231 >>> Disconnected.
+[6/30/2025 12:17:51 AM] Connection attempt from IP: 51.8.224.231...
+[6/30/2025 12:18:08 AM] ***REJECTED*** {ip: "51.8.224.231", user: "root", pass:"1234"}
+[6/30/2025 12:18:13 AM] 51.8.224.231 >>> Disconnected.
+[6/30/2025 12:18:25 AM] Connection attempt from IP: 51.8.224.231...
+[6/30/2025 12:18:53 AM] ***REJECTED*** {ip: "51.8.224.231", user: "root", pass:"Diesel1982"}
+[6/30/2025 12:18:58 AM] 51.8.224.231 >>> Disconnected.
+[6/30/2025 12:19:08 AM] Connection attempt from IP: 51.8.224.231...
+[6/30/2025 12:19:25 AM] ***REJECTED*** {ip: "51.8.224.231", user: "root", pass:"12345678"}
+[6/30/2025 12:19:30 AM] 51.8.224.231 >>> Disconnected.
+[6/30/2025 12:19:36 AM] Connection attempt from IP: 51.8.224.231...
+[6/30/2025 12:20:04 AM] ***REJECTED*** {ip: "51.8.224.231", user: "root", pass:"12345"}
+[6/30/2025 12:20:09 AM] 51.8.224.231 >>> Disconnected.
+[6/30/2025 12:20:26 AM] Connection attempt from IP: 51.8.224.231...
+[6/30/2025 12:20:53 AM] ***REJECTED*** {ip: "51.8.224.231", user: "root", pass:"password"}
+[6/30/2025 12:20:58 AM] 51.8.224.231 >>> Disconnected.
+[6/30/2025 12:21:14 AM] Connection attempt from IP: 51.8.224.231...
+[6/30/2025 12:21:36 AM] Connection attempt from IP: 80.94.95.15...
+[6/30/2025 12:21:37 AM] ***REJECTED*** {ip: "80.94.95.15", user: "root", pass:"Aa112211"}
+[6/30/2025 12:21:37 AM] ***REJECTED*** {ip: "80.94.95.15", user: "root", pass:""}
+[6/30/2025 12:21:38 AM] ***REJECTED*** {ip: "80.94.95.15", user: "root", pass:"Aa123123"}
+[6/30/2025 12:21:38 AM] ***REJECTED*** {ip: "80.94.95.15", user: "root", pass:"11111"}
+[6/30/2025 12:21:38 AM] ***REJECTED*** {ip: "80.94.95.15", user: "root", pass:"0"}
+[6/30/2025 12:21:39 AM] 80.94.95.15 >>> Disconnected.
+[6/30/2025 12:21:40 AM] ***REJECTED*** {ip: "51.8.224.231", user: "root", pass:"toor"}
+[6/30/2025 12:21:45 AM] 51.8.224.231 >>> Disconnected.
+[6/30/2025 12:21:50 AM] Connection attempt from IP: 51.8.224.231...
+[6/30/2025 12:22:17 AM] ***REJECTED*** {ip: "51.8.224.231", user: "root", pass:"ubuntu"}
+[6/30/2025 12:22:21 AM] 51.8.224.231 >>> Disconnected.
+[6/30/2025 12:22:27 AM] Connection attempt from IP: 51.8.224.231...
+[6/30/2025 12:22:48 AM] ***REJECTED*** {ip: "51.8.224.231", user: "root", pass:"qwerty"}
+[6/30/2025 12:22:54 AM] 51.8.224.231 >>> Disconnected.
+[6/30/2025 12:22:59 AM] Connection attempt from IP: 51.8.224.231...
+[6/30/2025 12:23:15 AM] ***REJECTED*** {ip: "51.8.224.231", user: "root", pass:"TheArmorOfGod"}
+[6/30/2025 12:23:20 AM] 51.8.224.231 >>> Disconnected.
+[6/30/2025 12:23:25 AM] Connection attempt from IP: 51.8.224.231...
+[6/30/2025 12:23:42 AM] ***REJECTED*** {ip: "51.8.224.231", user: "root", pass:"1"}
+[6/30/2025 12:23:46 AM] 51.8.224.231 >>> Disconnected.
+[6/30/2025 12:23:51 AM] Connection attempt from IP: 51.8.224.231...
+[6/30/2025 12:24:22 AM] ***REJECTED*** {ip: "51.8.224.231", user: "root", pass:"test"}
+[6/30/2025 12:24:28 AM] 51.8.224.231 >>> Disconnected.
+[6/30/2025 12:24:34 AM] Connection attempt from IP: 51.8.224.231...
+[6/30/2025 12:25:05 AM] ***REJECTED*** {ip: "51.8.224.231", user: "root", pass:"123"}
+[6/30/2025 12:25:10 AM] 51.8.224.231 >>> Disconnected.
+[6/30/2025 12:25:15 AM] Connection attempt from IP: 51.8.224.231...
+[6/30/2025 12:25:37 AM] ***REJECTED*** {ip: "51.8.224.231", user: "root", pass:"root123"}
+[6/30/2025 12:25:42 AM] 51.8.224.231 >>> Disconnected.
+[6/30/2025 12:25:48 AM] Connection attempt from IP: 51.8.224.231...
+[6/30/2025 12:26:15 AM] ***REJECTED*** {ip: "51.8.224.231", user: "root", pass:"123456789"}
+[6/30/2025 12:26:20 AM] 51.8.224.231 >>> Disconnected.
+[6/30/2025 12:26:26 AM] Connection attempt from IP: 51.8.224.231...
+[6/30/2025 12:26:47 AM] ***REJECTED*** {ip: "51.8.224.231", user: "root", pass:"admin123"}
+[6/30/2025 12:26:49 AM] Connection attempt from IP: 80.94.95.15...
+[6/30/2025 12:26:50 AM] ***REJECTED*** {ip: "80.94.95.15", user: "felicity", pass:"felicity"}
+[6/30/2025 12:26:50 AM] ***REJECTED*** {ip: "80.94.95.15", user: "felicity", pass:"felicity1"}
+[6/30/2025 12:26:51 AM] ***REJECTED*** {ip: "80.94.95.15", user: "felicity", pass:"felicity123"}
+[6/30/2025 12:26:51 AM] ***REJECTED*** {ip: "80.94.95.15", user: "felicity", pass:"felicity1234"}
+[6/30/2025 12:26:51 AM] ***REJECTED*** {ip: "80.94.95.15", user: "felicity", pass:"felicity12345"}
+[6/30/2025 12:26:52 AM] 80.94.95.15 >>> Disconnected.
+[6/30/2025 12:26:53 AM] 51.8.224.231 >>> Disconnected.
+[6/30/2025 12:26:58 AM] Connection attempt from IP: 51.8.224.231...
+[6/30/2025 12:27:21 AM] ***REJECTED*** {ip: "51.8.224.231", user: "root", pass:"default"}
+[6/30/2025 12:27:26 AM] 51.8.224.231 >>> Disconnected.
+[6/30/2025 12:27:30 AM] Connection attempt from IP: 51.8.224.231...
+[6/30/2025 12:27:53 AM] ***REJECTED*** {ip: "51.8.224.231", user: "root", pass:"root@123"}
+[6/30/2025 12:27:57 AM] 51.8.224.231 >>> Disconnected.
+[6/30/2025 12:28:02 AM] Connection attempt from IP: 51.8.224.231...
+[6/30/2025 12:28:24 AM] ***REJECTED*** {ip: "51.8.224.231", user: "root", pass:"Aa123456"}
+[6/30/2025 12:28:31 AM] 51.8.224.231 >>> Disconnected.
+[6/30/2025 12:28:36 AM] Connection attempt from IP: 51.8.224.231...
+[6/30/2025 12:29:03 AM] ***REJECTED*** {ip: "51.8.224.231", user: "root", pass:"centos"}
+[6/30/2025 12:29:08 AM] 51.8.224.231 >>> Disconnected.
+[6/30/2025 12:29:13 AM] Connection attempt from IP: 51.8.224.231...
+[6/30/2025 12:29:25 AM] ***REJECTED*** {ip: "51.8.224.231", user: "root", pass:"abc123"}
+[6/30/2025 12:29:29 AM] 51.8.224.231 >>> Disconnected.
+[6/30/2025 12:29:40 AM] Connection attempt from IP: 51.8.224.231...
+[6/30/2025 12:30:00 AM] ***REJECTED*** {ip: "51.8.224.231", user: "root", pass:"Huawei@123"}
