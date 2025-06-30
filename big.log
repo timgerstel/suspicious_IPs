@@ -50341,3 +50341,17 @@
 [6/30/2025 1:24:06 PM] ***REJECTED*** {ip: "80.94.95.112", user: "admin", pass:"pantera1"}
 [6/30/2025 1:24:06 PM] ***REJECTED*** {ip: "80.94.95.112", user: "admin", pass:"pancake"}
 [6/30/2025 1:24:06 PM] 80.94.95.112 >>> Disconnected.
+[6/30/2025 1:43:15 PM] Connection attempt from IP: 80.94.95.15...
+[6/30/2025 1:43:16 PM] ***REJECTED*** {ip: "80.94.95.15", user: "root", pass:"dkagh"}
+[6/30/2025 1:43:17 PM] ***REJECTED*** {ip: "80.94.95.15", user: "root", pass:"asdqwe"}
+[6/30/2025 1:43:17 PM] ***REJECTED*** {ip: "80.94.95.15", user: "root", pass:"rootpass"}
+[6/30/2025 1:43:18 PM] ***REJECTED*** {ip: "80.94.95.15", user: "root", pass:"7ujMko0admin123"}
+[6/30/2025 1:43:18 PM] ***REJECTED*** {ip: "80.94.95.15", user: "root", pass:"samsung"}
+[6/30/2025 1:43:19 PM] 80.94.95.15 >>> Disconnected.
+[6/30/2025 1:46:13 PM] Connection attempt from IP: 80.94.95.15...
+[6/30/2025 1:46:15 PM] ***REJECTED*** {ip: "80.94.95.15", user: "madisyn", pass:"madisyn"}
+[6/30/2025 1:46:15 PM] ***REJECTED*** {ip: "80.94.95.15", user: "madisyn", pass:"madisyn1"}
+[6/30/2025 1:46:15 PM] ***REJECTED*** {ip: "80.94.95.15", user: "madisyn", pass:"madisyn123"}
+[6/30/2025 1:46:16 PM] ***REJECTED*** {ip: "80.94.95.15", user: "madisyn", pass:"madisyn1234"}
+[6/30/2025 1:46:16 PM] ***REJECTED*** {ip: "80.94.95.15", user: "madisyn", pass:"madisyn12345"}
+[6/30/2025 1:46:17 PM] 80.94.95.15 >>> Disconnected.
