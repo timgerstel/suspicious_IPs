@@ -1918,3 +1918,25 @@
 [7/12/2025 9:15:04 AM] ***REJECTED*** {ip: "45.146.130.113", user: "76047", pass:"760471234"}
 [7/12/2025 9:15:04 AM] ***REJECTED*** {ip: "45.146.130.113", user: "76047", pass:"7604712345"}
 [7/12/2025 9:15:05 AM] 45.146.130.113 >>> Disconnected.
+[7/12/2025 9:40:22 AM] Connection attempt from IP: 45.146.130.113...
+[7/12/2025 9:40:23 AM] ***REJECTED*** {ip: "45.146.130.113", user: "mfsadOGoL", pass:"mfsadOGoL123"}
+[7/12/2025 9:40:23 AM] ***REJECTED*** {ip: "45.146.130.113", user: "mfsadOGoL", pass:"mfsadOGoL1234"}
+[7/12/2025 9:40:23 AM] ***REJECTED*** {ip: "45.146.130.113", user: "mfsadOGoL", pass:"mfsadOGoL12345"}
+[7/12/2025 9:40:24 AM] 45.146.130.113 >>> Disconnected.
+[7/12/2025 9:46:55 AM] Connection attempt from IP: 78.128.112.74...
+[7/12/2025 9:46:56 AM] ***REJECTED*** {ip: "78.128.112.74", user: "admin", pass:"super"}
+[7/12/2025 9:46:56 AM] 78.128.112.74 >>> Disconnected.
+[7/12/2025 9:53:44 AM] Connection attempt from IP: 80.94.95.15...
+[7/12/2025 9:53:45 AM] ***REJECTED*** {ip: "80.94.95.15", user: "root", pass:"admin123@"}
+[7/12/2025 9:53:46 AM] ***REJECTED*** {ip: "80.94.95.15", user: "root", pass:"31415926"}
+[7/12/2025 9:53:46 AM] ***REJECTED*** {ip: "80.94.95.15", user: "root", pass:"4321"}
+[7/12/2025 9:53:47 AM] ***REJECTED*** {ip: "80.94.95.15", user: "root", pass:"Aa12341234"}
+[7/12/2025 9:53:47 AM] ***REJECTED*** {ip: "80.94.95.15", user: "root", pass:"openvpnas"}
+[7/12/2025 9:53:47 AM] 80.94.95.15 >>> Disconnected.
+[7/12/2025 9:55:48 AM] Connection attempt from IP: 80.94.95.112...
+[7/12/2025 9:55:49 AM] ***REJECTED*** {ip: "80.94.95.112", user: "admin", pass:"2012"}
+[7/12/2025 9:55:49 AM] ***REJECTED*** {ip: "80.94.95.112", user: "admin", pass:"20091984"}
+[7/12/2025 9:55:50 AM] ***REJECTED*** {ip: "80.94.95.112", user: "admin", pass:"20071990"}
+[7/12/2025 9:55:50 AM] ***REJECTED*** {ip: "80.94.95.112", user: "admin", pass:"20071981"}
+[7/12/2025 9:55:50 AM] ***REJECTED*** {ip: "80.94.95.112", user: "admin", pass:"20061989"}
+[7/12/2025 9:55:51 AM] 80.94.95.112 >>> Disconnected.
