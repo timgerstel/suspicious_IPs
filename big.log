@@ -2329,3 +2329,29 @@
 [7/12/2025 12:24:54 PM] ***REJECTED*** {ip: "45.146.130.113", user: "admin", pass:"netadmin"}
 [7/12/2025 12:24:54 PM] ***REJECTED*** {ip: "45.146.130.113", user: "admin", pass:"no"}
 [7/12/2025 12:24:54 PM] 45.146.130.113 >>> Disconnected.
+[7/12/2025 12:44:52 PM] Connection attempt from IP: 140.246.94.138...
+[7/12/2025 12:45:24 PM] Connection attempt from IP: 195.178.110.160...
+[7/12/2025 12:45:25 PM] ***REJECTED*** {ip: "195.178.110.160", user: "root", pass:"FattMan1234567890"}
+[7/12/2025 12:45:25 PM] 195.178.110.160 >>> Disconnected.
+[7/12/2025 12:45:26 PM] Connection attempt from IP: 195.178.110.160...
+[7/12/2025 12:45:26 PM] ***REJECTED*** {ip: "195.178.110.160", user: "root", pass:"123456"}
+[7/12/2025 12:45:27 PM] 195.178.110.160 >>> Disconnected.
+[7/12/2025 12:45:27 PM] Connection attempt from IP: 195.178.110.160...
+[7/12/2025 12:45:28 PM] ***REJECTED*** {ip: "195.178.110.160", user: "root", pass:"admin"}
+[7/12/2025 12:45:28 PM] 195.178.110.160 >>> Disconnected.
+[7/12/2025 12:45:28 PM] Connection attempt from IP: 195.178.110.160...
+[7/12/2025 12:45:29 PM] ***REJECTED*** {ip: "195.178.110.160", user: "root", pass:"12345678"}
+[7/12/2025 12:45:29 PM] 195.178.110.160 >>> Disconnected.
+[7/12/2025 12:45:29 PM] Connection attempt from IP: 195.178.110.160...
+[7/12/2025 12:45:30 PM] ***REJECTED*** {ip: "195.178.110.160", user: "root", pass:"123456789"}
+[7/12/2025 12:45:31 PM] 195.178.110.160 >>> Disconnected.
+[7/12/2025 12:47:38 PM] Connection attempt from IP: 80.94.95.112...
+[7/12/2025 12:47:39 PM] ***REJECTED*** {ip: "80.94.95.112", user: "admin", pass:"17031991"}
+[7/12/2025 12:47:40 PM] ***REJECTED*** {ip: "80.94.95.112", user: "admin", pass:"17021988"}
+[7/12/2025 12:47:40 PM] ***REJECTED*** {ip: "80.94.95.112", user: "admin", pass:"16111987"}
+[7/12/2025 12:47:40 PM] ***REJECTED*** {ip: "80.94.95.112", user: "admin", pass:"16031987"}
+[7/12/2025 12:47:41 PM] ***REJECTED*** {ip: "80.94.95.112", user: "admin", pass:"16021983"}
+[7/12/2025 12:47:41 PM] 80.94.95.112 >>> Disconnected.
+[7/12/2025 12:56:09 PM] Connection attempt from IP: 171.254.92.61...
+[7/12/2025 12:56:11 PM] ***REJECTED*** {ip: "171.254.92.61", user: "root", pass:"Datnguyentv.com"}
+[7/12/2025 12:56:12 PM] 171.254.92.61 >>> Disconnected.
