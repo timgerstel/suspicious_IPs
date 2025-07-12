@@ -5016,3 +5016,25 @@
 [7/12/2025 9:53:51 PM] ***REJECTED*** {ip: "45.146.130.113", user: "7", pass:"71234"}
 [7/12/2025 9:53:51 PM] ***REJECTED*** {ip: "45.146.130.113", user: "7", pass:"712345"}
 [7/12/2025 9:53:52 PM] 45.146.130.113 >>> Disconnected.
+[7/12/2025 10:00:29 PM] Connection attempt from IP: 80.94.95.112...
+[7/12/2025 10:00:30 PM] ***REJECTED*** {ip: "80.94.95.112", user: "admin", pass:"04011987"}
+[7/12/2025 10:00:30 PM] ***REJECTED*** {ip: "80.94.95.112", user: "admin", pass:"03101989"}
+[7/12/2025 10:00:31 PM] ***REJECTED*** {ip: "80.94.95.112", user: "admin", pass:"03101988"}
+[7/12/2025 10:00:31 PM] ***REJECTED*** {ip: "80.94.95.112", user: "admin", pass:"03091991"}
+[7/12/2025 10:00:31 PM] ***REJECTED*** {ip: "80.94.95.112", user: "admin", pass:"03081990"}
+[7/12/2025 10:00:32 PM] 80.94.95.112 >>> Disconnected.
+[7/12/2025 10:02:46 PM] Connection attempt from IP: 206.189.224.163...
+[7/12/2025 10:02:47 PM] 206.189.224.163 >>> Disconnected.
+[7/12/2025 10:03:57 PM] Connection attempt from IP: 80.94.95.118...
+[7/12/2025 10:03:59 PM] ***REJECTED*** {ip: "80.94.95.118", user: "admin", pass:"pfsense"}
+[7/12/2025 10:03:59 PM] 80.94.95.118 >>> Disconnected.
+[7/12/2025 10:15:13 PM] Connection attempt from IP: 80.94.95.15...
+[7/12/2025 10:15:14 PM] ***REJECTED*** {ip: "80.94.95.15", user: "hadoop", pass:"hadoop"}
+[7/12/2025 10:15:15 PM] ***REJECTED*** {ip: "80.94.95.15", user: "hadoop", pass:"abc123"}
+[7/12/2025 10:15:16 PM] ***REJECTED*** {ip: "80.94.95.15", user: "hadoop", pass:"abcd123"}
+[7/12/2025 10:15:16 PM] ***REJECTED*** {ip: "80.94.95.15", user: "hadoop", pass:"abcd1234"}
+[7/12/2025 10:15:16 PM] ***REJECTED*** {ip: "80.94.95.15", user: "hadoop", pass:"abc1234"}
+[7/12/2025 10:15:17 PM] 80.94.95.15 >>> Disconnected.
+[7/12/2025 10:27:11 PM] Connection attempt from IP: 78.128.112.74...
+[7/12/2025 10:27:12 PM] ***REJECTED*** {ip: "78.128.112.74", user: "admin", pass:"modem"}
+[7/12/2025 10:27:12 PM] 78.128.112.74 >>> Disconnected.
