@@ -6679,3 +6679,27 @@
 [7/13/2025 12:28:38 PM] ***REJECTED*** {ip: "80.94.95.15", user: "pi", pass:"abcd1234"}
 [7/13/2025 12:28:39 PM] ***REJECTED*** {ip: "80.94.95.15", user: "pi", pass:"abc1234"}
 [7/13/2025 12:28:39 PM] 80.94.95.15 >>> Disconnected.
+[7/13/2025 12:35:12 PM] Connection attempt from IP: 80.94.95.112...
+[7/13/2025 12:35:13 PM] ***REJECTED*** {ip: "80.94.95.112", user: "admin", pass:"manunited"}
+[7/13/2025 12:35:13 PM] ***REJECTED*** {ip: "80.94.95.112", user: "admin", pass:"manu"}
+[7/13/2025 12:35:14 PM] ***REJECTED*** {ip: "80.94.95.112", user: "admin", pass:"mangos"}
+[7/13/2025 12:35:14 PM] ***REJECTED*** {ip: "80.94.95.112", user: "admin", pass:"magic123"}
+[7/13/2025 12:35:15 PM] ***REJECTED*** {ip: "80.94.95.112", user: "admin", pass:"lululu"}
+[7/13/2025 12:35:15 PM] 80.94.95.112 >>> Disconnected.
+[7/13/2025 12:41:38 PM] Connection attempt from IP: 45.146.130.113...
+[7/13/2025 12:41:38 PM] ***REJECTED*** {ip: "45.146.130.113", user: "PRIV", pass:"PRIV"}
+[7/13/2025 12:41:39 PM] ***REJECTED*** {ip: "45.146.130.113", user: "PRIV", pass:"PRIV1"}
+[7/13/2025 12:41:39 PM] ***REJECTED*** {ip: "45.146.130.113", user: "PRIV", pass:"PRIV123"}
+[7/13/2025 12:41:39 PM] ***REJECTED*** {ip: "45.146.130.113", user: "PRIV", pass:"PRIV1234"}
+[7/13/2025 12:41:40 PM] ***REJECTED*** {ip: "45.146.130.113", user: "PRIV", pass:"PRIV12345"}
+[7/13/2025 12:41:40 PM] 45.146.130.113 >>> Disconnected.
+[7/13/2025 12:45:50 PM] Connection attempt from IP: 164.92.210.70...
+[7/13/2025 12:45:53 PM] 164.92.210.70 >>> Disconnected.
+[7/13/2025 12:51:44 PM] Connection attempt from IP: 138.124.30.225...
+[7/13/2025 12:51:45 PM] ***REJECTED*** {ip: "138.124.30.225", user: "root", pass:" "}
+[7/13/2025 12:51:45 PM] 138.124.30.225 >>> Disconnected.
+[7/13/2025 12:53:56 PM] Connection attempt from IP: 138.124.30.225...
+[7/13/2025 12:54:00 PM] Connection attempt from IP: 138.124.30.225...
+[7/13/2025 12:54:02 PM] ***REJECTED*** {ip: "138.124.30.225", user: "root", pass:"!Q2w3e4r"}
+[7/13/2025 12:57:18 PM] Connection attempt from IP: 68.187.14.212...
+[7/13/2025 12:57:26 PM] 68.187.14.212 >>> Disconnected.
