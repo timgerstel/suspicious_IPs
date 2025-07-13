@@ -7952,3 +7952,26 @@
 [7/13/2025 10:20:25 PM] ***REJECTED*** {ip: "45.146.130.113", user: "INGRES", pass:"INGRES1"}
 [7/13/2025 10:20:26 PM] ***ACCEPTED*** {ip: "45.146.130.113", user: "INGRES", pass:"INGRES123"}
 [7/13/2025 10:20:26 PM] 45.146.130.113 >>> Disconnected.
+[7/13/2025 10:46:04 PM] Connection attempt from IP: 80.94.95.112...
+[7/13/2025 10:46:05 PM] ***REJECTED*** {ip: "80.94.95.112", user: "admin", pass:"blonds"}
+[7/13/2025 10:46:05 PM] ***REJECTED*** {ip: "80.94.95.112", user: "admin", pass:"blazers"}
+[7/13/2025 10:46:06 PM] ***REJECTED*** {ip: "80.94.95.112", user: "admin", pass:"blackbird"}
+[7/13/2025 10:46:06 PM] ***REJECTED*** {ip: "80.94.95.112", user: "admin", pass:"blackberry"}
+[7/13/2025 10:46:06 PM] ***REJECTED*** {ip: "80.94.95.112", user: "admin", pass:"bizzare"}
+[7/13/2025 10:46:07 PM] 80.94.95.112 >>> Disconnected.
+[7/13/2025 10:55:54 PM] Connection attempt from IP: 45.78.196.241...
+[7/13/2025 10:56:02 PM] 45.78.196.241 >>> Disconnected.
+[7/13/2025 10:58:24 PM] Connection attempt from IP: 45.146.130.113...
+[7/13/2025 10:58:25 PM] ***REJECTED*** {ip: "45.146.130.113", user: "LINK", pass:"LINK"}
+[7/13/2025 10:58:25 PM] ***REJECTED*** {ip: "45.146.130.113", user: "LINK", pass:"LINK1"}
+[7/13/2025 10:58:25 PM] ***REJECTED*** {ip: "45.146.130.113", user: "LINK", pass:"LINK123"}
+[7/13/2025 10:58:25 PM] ***REJECTED*** {ip: "45.146.130.113", user: "LINK", pass:"LINK1234"}
+[7/13/2025 10:58:26 PM] ***REJECTED*** {ip: "45.146.130.113", user: "LINK", pass:"LINK12345"}
+[7/13/2025 10:58:26 PM] 45.146.130.113 >>> Disconnected.
+[7/13/2025 10:59:04 PM] Connection attempt from IP: 80.94.95.15...
+[7/13/2025 10:59:05 PM] ***REJECTED*** {ip: "80.94.95.15", user: "root", pass:"123000"}
+[7/13/2025 10:59:05 PM] ***REJECTED*** {ip: "80.94.95.15", user: "root", pass:"02091984"}
+[7/13/2025 10:59:05 PM] ***REJECTED*** {ip: "80.94.95.15", user: "root", pass:"02091981"}
+[7/13/2025 10:59:06 PM] ***REJECTED*** {ip: "80.94.95.15", user: "root", pass:"02091980"}
+[7/13/2025 10:59:06 PM] ***REJECTED*** {ip: "80.94.95.15", user: "root", pass:"02061983"}
+[7/13/2025 10:59:07 PM] 80.94.95.15 >>> Disconnected.
