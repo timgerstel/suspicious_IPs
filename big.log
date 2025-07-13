@@ -7914,3 +7914,13 @@
 [7/13/2025 9:25:19 PM] Connection attempt from IP: 80.94.95.112...
 [7/13/2025 9:25:20 PM] ***ACCEPTED*** {ip: "80.94.95.112", user: "admin", pass:"darkone"}
 [7/13/2025 9:25:20 PM] 80.94.95.112 >>> Disconnected.
+[7/13/2025 9:36:17 PM] Connection attempt from IP: 78.128.112.74...
+[7/13/2025 9:36:20 PM] ***REJECTED*** {ip: "78.128.112.74", user: "admin", pass:"password!"}
+[7/13/2025 9:36:20 PM] 78.128.112.74 >>> Disconnected.
+[7/13/2025 9:42:15 PM] Connection attempt from IP: 45.146.130.113...
+[7/13/2025 9:42:15 PM] ***REJECTED*** {ip: "45.146.130.113", user: "INFO", pass:"INFO"}
+[7/13/2025 9:42:16 PM] ***REJECTED*** {ip: "45.146.130.113", user: "INFO", pass:"INFO1"}
+[7/13/2025 9:42:16 PM] ***REJECTED*** {ip: "45.146.130.113", user: "INFO", pass:"INFO123"}
+[7/13/2025 9:42:16 PM] ***REJECTED*** {ip: "45.146.130.113", user: "INFO", pass:"INFO1234"}
+[7/13/2025 9:42:17 PM] ***REJECTED*** {ip: "45.146.130.113", user: "INFO", pass:"INFO12345"}
+[7/13/2025 9:42:17 PM] 45.146.130.113 >>> Disconnected.
