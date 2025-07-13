@@ -7090,3 +7090,14 @@
 [7/13/2025 3:29:18 PM] Connection attempt from IP: 195.178.110.125...
 [7/13/2025 3:29:19 PM] ***REJECTED*** {ip: "195.178.110.125", user: "root", pass:"123456789"}
 [7/13/2025 3:29:19 PM] 195.178.110.125 >>> Disconnected.
+[7/13/2025 3:30:50 PM] Connection attempt from IP: 117.50.192.225...
+[7/13/2025 3:31:00 PM] 117.50.192.225 >>> Disconnected.
+[7/13/2025 3:42:10 PM] Connection attempt from IP: 42.51.44.148...
+[7/13/2025 3:42:18 PM] 42.51.44.148 >>> Disconnected.
+[7/13/2025 3:56:13 PM] Connection attempt from IP: 45.146.130.113...
+[7/13/2025 3:56:14 PM] ***REJECTED*** {ip: "45.146.130.113", user: "SYSMAINT", pass:"SYSMAINT"}
+[7/13/2025 3:56:14 PM] ***REJECTED*** {ip: "45.146.130.113", user: "SYSMAINT", pass:"SERVICE"}
+[7/13/2025 3:56:14 PM] ***REJECTED*** {ip: "45.146.130.113", user: "SYSMAINT", pass:"DIGITAL"}
+[7/13/2025 3:56:15 PM] ***REJECTED*** {ip: "45.146.130.113", user: "SYSMAINT", pass:"SYSMAINT1"}
+[7/13/2025 3:56:15 PM] ***REJECTED*** {ip: "45.146.130.113", user: "SYSMAINT", pass:"SYSMAINT123"}
+[7/13/2025 3:56:15 PM] 45.146.130.113 >>> Disconnected.
