@@ -7511,3 +7511,27 @@
 [7/13/2025 7:29:17 PM] Connection attempt from IP: 78.128.112.74...
 [7/13/2025 7:29:20 PM] ***REJECTED*** {ip: "78.128.112.74", user: "admin", pass:"pass!"}
 [7/13/2025 7:29:20 PM] 78.128.112.74 >>> Disconnected.
+[7/13/2025 7:34:09 PM] Connection attempt from IP: 80.94.95.15...
+[7/13/2025 7:34:10 PM] 80.94.95.15 >>> Disconnected.
+[7/13/2025 7:47:22 PM] Connection attempt from IP: 45.146.130.113...
+[7/13/2025 7:47:22 PM] ***REJECTED*** {ip: "45.146.130.113", user: "HELP", pass:"HELP"}
+[7/13/2025 7:47:23 PM] ***REJECTED*** {ip: "45.146.130.113", user: "HELP", pass:"HELP1"}
+[7/13/2025 7:47:23 PM] ***REJECTED*** {ip: "45.146.130.113", user: "HELP", pass:"HELP123"}
+[7/13/2025 7:47:23 PM] ***REJECTED*** {ip: "45.146.130.113", user: "HELP", pass:"HELP1234"}
+[7/13/2025 7:47:23 PM] ***REJECTED*** {ip: "45.146.130.113", user: "HELP", pass:"HELP12345"}
+[7/13/2025 7:47:24 PM] 45.146.130.113 >>> Disconnected.
+[7/13/2025 7:55:06 PM] Connection attempt from IP: 195.178.110.160...
+[7/13/2025 7:55:07 PM] ***REJECTED*** {ip: "195.178.110.160", user: "root", pass:"FattMan1234567890"}
+[7/13/2025 7:55:07 PM] 195.178.110.160 >>> Disconnected.
+[7/13/2025 7:55:07 PM] Connection attempt from IP: 195.178.110.160...
+[7/13/2025 7:55:08 PM] ***REJECTED*** {ip: "195.178.110.160", user: "root", pass:"123456"}
+[7/13/2025 7:55:08 PM] 195.178.110.160 >>> Disconnected.
+[7/13/2025 7:55:08 PM] Connection attempt from IP: 195.178.110.160...
+[7/13/2025 7:55:09 PM] ***REJECTED*** {ip: "195.178.110.160", user: "root", pass:"admin"}
+[7/13/2025 7:55:10 PM] 195.178.110.160 >>> Disconnected.
+[7/13/2025 7:55:10 PM] Connection attempt from IP: 195.178.110.160...
+[7/13/2025 7:55:11 PM] ***REJECTED*** {ip: "195.178.110.160", user: "root", pass:"12345678"}
+[7/13/2025 7:55:11 PM] 195.178.110.160 >>> Disconnected.
+[7/13/2025 7:55:11 PM] Connection attempt from IP: 195.178.110.160...
+[7/13/2025 7:55:12 PM] ***REJECTED*** {ip: "195.178.110.160", user: "root", pass:"123456789"}
+[7/13/2025 7:55:12 PM] 195.178.110.160 >>> Disconnected.
