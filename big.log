@@ -5472,3 +5472,10 @@
 [7/13/2025 2:54:51 AM] ***REJECTED*** {ip: "80.94.95.15", user: "root", pass:"chloe1"}
 [7/13/2025 2:54:52 AM] ***REJECTED*** {ip: "80.94.95.15", user: "root", pass:"chantal"}
 [7/13/2025 2:54:52 AM] 80.94.95.15 >>> Disconnected.
+[7/13/2025 3:05:48 AM] Connection attempt from IP: 45.146.130.113...
+[7/13/2025 3:05:49 AM] ***REJECTED*** {ip: "45.146.130.113", user: "BATCH", pass:"BATCH"}
+[7/13/2025 3:05:49 AM] ***REJECTED*** {ip: "45.146.130.113", user: "BATCH", pass:""}
+[7/13/2025 3:05:50 AM] ***REJECTED*** {ip: "45.146.130.113", user: "BATCH", pass:"BATCH1"}
+[7/13/2025 3:05:50 AM] ***REJECTED*** {ip: "45.146.130.113", user: "BATCH", pass:"BATCH123"}
+[7/13/2025 3:05:50 AM] ***REJECTED*** {ip: "45.146.130.113", user: "BATCH", pass:"BATCH1234"}
+[7/13/2025 3:05:51 AM] 45.146.130.113 >>> Disconnected.
