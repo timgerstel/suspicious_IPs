@@ -5149,3 +5149,17 @@
 [7/12/2025 11:52:15 PM] ***REJECTED*** {ip: "45.146.130.113", user: "demo", pass:"demo123"}
 [7/12/2025 11:52:15 PM] ***REJECTED*** {ip: "45.146.130.113", user: "demo", pass:"demo1234"}
 [7/12/2025 11:52:16 PM] 45.146.130.113 >>> Disconnected.
+[7/13/2025 12:06:41 AM] Connection attempt from IP: 80.94.95.112...
+[7/13/2025 12:06:42 AM] ***REJECTED*** {ip: "80.94.95.112", user: "admin", pass:"02081990"}
+[7/13/2025 12:06:42 AM] ***REJECTED*** {ip: "80.94.95.112", user: "admin", pass:"02081972"}
+[7/13/2025 12:06:42 AM] ***REJECTED*** {ip: "80.94.95.112", user: "admin", pass:"02081971"}
+[7/13/2025 12:06:43 AM] ***REJECTED*** {ip: "80.94.95.112", user: "admin", pass:"02061992"}
+[7/13/2025 12:06:43 AM] ***REJECTED*** {ip: "80.94.95.112", user: "admin", pass:"02061975"}
+[7/13/2025 12:06:43 AM] 80.94.95.112 >>> Disconnected.
+[7/13/2025 12:28:16 AM] Connection attempt from IP: 45.146.130.113...
+[7/13/2025 12:28:17 AM] ***REJECTED*** {ip: "45.146.130.113", user: "PDP11", pass:"PDP11"}
+[7/13/2025 12:28:17 AM] ***REJECTED*** {ip: "45.146.130.113", user: "PDP11", pass:"PDP111"}
+[7/13/2025 12:28:17 AM] ***REJECTED*** {ip: "45.146.130.113", user: "PDP11", pass:"PDP11123"}
+[7/13/2025 12:28:18 AM] ***REJECTED*** {ip: "45.146.130.113", user: "PDP11", pass:"PDP111234"}
+[7/13/2025 12:28:18 AM] ***REJECTED*** {ip: "45.146.130.113", user: "PDP11", pass:"PDP1112345"}
+[7/13/2025 12:28:18 AM] 45.146.130.113 >>> Disconnected.
