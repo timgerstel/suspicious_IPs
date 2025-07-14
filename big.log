@@ -10301,3 +10301,10 @@
 [7/14/2025 8:53:30 AM] ***REJECTED*** {ip: "80.94.95.15", user: "elliott", pass:"elliott1234"}
 [7/14/2025 8:53:31 AM] ***REJECTED*** {ip: "80.94.95.15", user: "elliott", pass:"elliott12345"}
 [7/14/2025 8:53:31 AM] 80.94.95.15 >>> Disconnected.
+[7/14/2025 9:24:36 AM] Connection attempt from IP: 80.94.95.112...
+[7/14/2025 9:24:37 AM] ***REJECTED*** {ip: "80.94.95.112", user: "admin", pass:"24041991"}
+[7/14/2025 9:24:37 AM] ***REJECTED*** {ip: "80.94.95.112", user: "admin", pass:"24021987"}
+[7/14/2025 9:24:37 AM] ***REJECTED*** {ip: "80.94.95.112", user: "admin", pass:"24021986"}
+[7/14/2025 9:24:38 AM] ***REJECTED*** {ip: "80.94.95.112", user: "admin", pass:"23101988"}
+[7/14/2025 9:24:38 AM] ***REJECTED*** {ip: "80.94.95.112", user: "admin", pass:"23081984"}
+[7/14/2025 9:24:39 AM] 80.94.95.112 >>> Disconnected.
