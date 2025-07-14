@@ -9159,3 +9159,24 @@
 [7/14/2025 2:11:26 AM] 104.236.70.6 >>> Disconnected.
 [7/14/2025 2:26:56 AM] Connection attempt from IP: 209.38.128.112...
 [7/14/2025 2:27:04 AM] 209.38.128.112 >>> Disconnected.
+[7/14/2025 2:45:29 AM] Connection attempt from IP: 45.146.130.113...
+[7/14/2025 2:45:29 AM] ***REJECTED*** {ip: "45.146.130.113", user: "NETNONPRIV", pass:"NETNONPRIV"}
+[7/14/2025 2:45:30 AM] ***REJECTED*** {ip: "45.146.130.113", user: "NETNONPRIV", pass:"NETNONPRIV1"}
+[7/14/2025 2:45:30 AM] ***REJECTED*** {ip: "45.146.130.113", user: "NETNONPRIV", pass:"NETNONPRIV123"}
+[7/14/2025 2:45:30 AM] ***REJECTED*** {ip: "45.146.130.113", user: "NETNONPRIV", pass:"NETNONPRIV1234"}
+[7/14/2025 2:45:30 AM] ***REJECTED*** {ip: "45.146.130.113", user: "NETNONPRIV", pass:"NETNONPRIV12345"}
+[7/14/2025 2:45:31 AM] 45.146.130.113 >>> Disconnected.
+[7/14/2025 2:46:42 AM] Connection attempt from IP: 80.94.95.112...
+[7/14/2025 2:46:43 AM] ***REJECTED*** {ip: "80.94.95.112", user: "admin", pass:"abraxas"}
+[7/14/2025 2:46:43 AM] ***REJECTED*** {ip: "80.94.95.112", user: "admin", pass:"aaa123"}
+[7/14/2025 2:46:44 AM] ***REJECTED*** {ip: "80.94.95.112", user: "admin", pass:"a1a2a3a4"}
+[7/14/2025 2:46:44 AM] ***REJECTED*** {ip: "80.94.95.112", user: "admin", pass:"999000"}
+[7/14/2025 2:46:45 AM] ***REJECTED*** {ip: "80.94.95.112", user: "admin", pass:"99762000"}
+[7/14/2025 2:46:45 AM] 80.94.95.112 >>> Disconnected.
+[7/14/2025 2:53:09 AM] Connection attempt from IP: 80.94.95.15...
+[7/14/2025 2:53:11 AM] ***REJECTED*** {ip: "80.94.95.15", user: "root", pass:"senators"}
+[7/14/2025 2:53:11 AM] ***REJECTED*** {ip: "80.94.95.15", user: "root", pass:"scott1"}
+[7/14/2025 2:53:12 AM] ***REJECTED*** {ip: "80.94.95.15", user: "root", pass:"sausages"}
+[7/14/2025 2:53:12 AM] ***REJECTED*** {ip: "80.94.95.15", user: "root", pass:"radical"}
+[7/14/2025 2:53:13 AM] ***REJECTED*** {ip: "80.94.95.15", user: "root", pass:"qwer12"}
+[7/14/2025 2:53:13 AM] 80.94.95.15 >>> Disconnected.
