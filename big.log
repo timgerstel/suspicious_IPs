@@ -16554,3 +16554,12 @@
 [7/15/2025 7:28:42 PM] ***REJECTED*** {ip: "80.94.95.112", user: "admin", pass:"werwer"}
 [7/15/2025 7:28:42 PM] ***REJECTED*** {ip: "80.94.95.112", user: "admin", pass:"werter"}
 [7/15/2025 7:28:42 PM] 80.94.95.112 >>> Disconnected.
+[7/15/2025 7:39:27 PM] 36.155.130.71 >>> Disconnected.
+[7/15/2025 7:39:56 PM] 36.155.130.71 >>> Disconnected.
+[7/15/2025 7:57:23 PM] Connection attempt from IP: 80.94.95.15...
+[7/15/2025 7:57:24 PM] ***REJECTED*** {ip: "80.94.95.15", user: "root", pass:"gay"}
+[7/15/2025 7:57:25 PM] ***REJECTED*** {ip: "80.94.95.15", user: "root", pass:"fa"}
+[7/15/2025 7:57:25 PM] ***REJECTED*** {ip: "80.94.95.15", user: "root", pass:"12345678"}
+[7/15/2025 7:57:26 PM] ***REJECTED*** {ip: "80.94.95.15", user: "root", pass:"Aa111111."}
+[7/15/2025 7:57:26 PM] ***REJECTED*** {ip: "80.94.95.15", user: "root", pass:"dreambox"}
+[7/15/2025 7:57:26 PM] 80.94.95.15 >>> Disconnected.
