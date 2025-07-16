@@ -20423,3 +20423,10 @@
 [7/15/2025 11:59:42 PM] Connection attempt from IP: 222.101.130.179...
 [7/15/2025 11:59:44 PM] ***ACCEPTED*** {ip: "222.101.130.179", user: "root", pass:"11451419194545810"}
 [7/15/2025 11:59:45 PM] 222.101.130.179 >>> Disconnected.
+[7/16/2025 12:05:32 AM] Connection attempt from IP: 80.94.95.112...
+[7/16/2025 12:05:33 AM] ***REJECTED*** {ip: "80.94.95.112", user: "admin", pass:"sluttey"}
+[7/16/2025 12:05:33 AM] ***REJECTED*** {ip: "80.94.95.112", user: "admin", pass:"silicon"}
+[7/16/2025 12:05:34 AM] ***REJECTED*** {ip: "80.94.95.112", user: "admin", pass:"shot"}
+[7/16/2025 12:05:34 AM] ***REJECTED*** {ip: "80.94.95.112", user: "admin", pass:"shine"}
+[7/16/2025 12:05:34 AM] ***REJECTED*** {ip: "80.94.95.112", user: "admin", pass:"sebora"}
+[7/16/2025 12:05:35 AM] 80.94.95.112 >>> Disconnected.
