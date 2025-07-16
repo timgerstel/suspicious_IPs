@@ -25573,3 +25573,25 @@
 [7/16/2025 1:56:16 PM] Connection attempt from IP: 64.68.174.101...
 [7/16/2025 1:56:24 PM] ***REJECTED*** {ip: "64.68.174.101", user: "admin", pass:"7ujMko0admin"}
 [7/16/2025 1:56:26 PM] 64.68.174.101 >>> Disconnected.
+[7/16/2025 2:11:07 PM] Connection attempt from IP: 80.94.95.112...
+[7/16/2025 2:11:08 PM] ***REJECTED*** {ip: "80.94.95.112", user: "admin", pass:"crumbs"}
+[7/16/2025 2:11:09 PM] ***REJECTED*** {ip: "80.94.95.112", user: "admin", pass:"creepers"}
+[7/16/2025 2:11:09 PM] ***REJECTED*** {ip: "80.94.95.112", user: "admin", pass:"cool123"}
+[7/16/2025 2:11:09 PM] ***REJECTED*** {ip: "80.94.95.112", user: "admin", pass:"commander"}
+[7/16/2025 2:11:10 PM] ***REJECTED*** {ip: "80.94.95.112", user: "admin", pass:"climbing"}
+[7/16/2025 2:11:10 PM] 80.94.95.112 >>> Disconnected.
+[7/16/2025 2:18:56 PM] Connection attempt from IP: 80.94.95.15...
+[7/16/2025 2:18:57 PM] ***REJECTED*** {ip: "80.94.95.15", user: "braydon", pass:"braydon"}
+[7/16/2025 2:18:57 PM] ***REJECTED*** {ip: "80.94.95.15", user: "braydon", pass:"braydon1"}
+[7/16/2025 2:18:58 PM] ***REJECTED*** {ip: "80.94.95.15", user: "braydon", pass:"braydon123"}
+[7/16/2025 2:18:58 PM] ***REJECTED*** {ip: "80.94.95.15", user: "braydon", pass:"braydon1234"}
+[7/16/2025 2:18:58 PM] ***REJECTED*** {ip: "80.94.95.15", user: "braydon", pass:"braydon12345"}
+[7/16/2025 2:18:59 PM] 80.94.95.15 >>> Disconnected.
+[7/16/2025 2:26:30 PM] Connection attempt from IP: 206.189.1.27...
+[7/16/2025 2:27:46 PM] Connection attempt from IP: 80.94.95.15...
+[7/16/2025 2:27:47 PM] ***REJECTED*** {ip: "80.94.95.15", user: "root", pass:"killer12"}
+[7/16/2025 2:27:48 PM] ***REJECTED*** {ip: "80.94.95.15", user: "root", pass:"kellie"}
+[7/16/2025 2:27:48 PM] ***REJECTED*** {ip: "80.94.95.15", user: "root", pass:"julie1"}
+[7/16/2025 2:27:48 PM] ***REJECTED*** {ip: "80.94.95.15", user: "root", pass:"jarvis"}
+[7/16/2025 2:27:49 PM] ***REJECTED*** {ip: "80.94.95.15", user: "root", pass:"iloveyou2"}
+[7/16/2025 2:27:49 PM] 80.94.95.15 >>> Disconnected.
