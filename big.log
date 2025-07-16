@@ -25813,3 +25813,15 @@
 [7/16/2025 3:55:11 PM] Connection attempt from IP: 195.178.110.160...
 [7/16/2025 3:55:12 PM] ***REJECTED*** {ip: "195.178.110.160", user: "root", pass:"123456789"}
 [7/16/2025 3:55:12 PM] 195.178.110.160 >>> Disconnected.
+[7/16/2025 4:20:30 PM] Connection attempt from IP: 80.94.95.118...
+[7/16/2025 4:20:31 PM] ***REJECTED*** {ip: "80.94.95.118", user: "admin", pass:"pfsense"}
+[7/16/2025 4:20:31 PM] 80.94.95.118 >>> Disconnected.
+[7/16/2025 4:21:05 PM] Connection attempt from IP: 80.94.95.112...
+[7/16/2025 4:21:06 PM] ***REJECTED*** {ip: "80.94.95.112", user: "admin", pass:"bisexual"}
+[7/16/2025 4:21:07 PM] ***REJECTED*** {ip: "80.94.95.112", user: "admin", pass:"asses"}
+[7/16/2025 4:21:07 PM] ***REJECTED*** {ip: "80.94.95.112", user: "admin", pass:"aragon"}
+[7/16/2025 4:21:07 PM] ***REJECTED*** {ip: "80.94.95.112", user: "admin", pass:"angell"}
+[7/16/2025 4:21:08 PM] ***REJECTED*** {ip: "80.94.95.112", user: "admin", pass:"amatory"}
+[7/16/2025 4:21:08 PM] 80.94.95.112 >>> Disconnected.
+[7/16/2025 4:28:04 PM] Connection attempt from IP: 79.175.176.177...
+[7/16/2025 4:28:12 PM] 79.175.176.177 >>> Disconnected.
