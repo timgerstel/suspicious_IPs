@@ -29383,3 +29383,26 @@
 [7/17/2025 4:54:56 PM] Connection attempt from IP: 78.128.112.74...
 [7/17/2025 4:54:58 PM] ***REJECTED*** {ip: "78.128.112.74", user: "root", pass:"admin123456"}
 [7/17/2025 4:54:58 PM] 78.128.112.74 >>> Disconnected.
+[7/17/2025 5:07:15 PM] Connection attempt from IP: 87.236.176.252...
+[7/17/2025 5:07:16 PM] 87.236.176.252 >>> Disconnected.
+[7/17/2025 5:08:48 PM] Connection attempt from IP: 80.94.95.15...
+[7/17/2025 5:08:49 PM] ***REJECTED*** {ip: "80.94.95.15", user: "joyce", pass:"joyce"}
+[7/17/2025 5:08:50 PM] ***REJECTED*** {ip: "80.94.95.15", user: "joyce", pass:"joyce1"}
+[7/17/2025 5:08:50 PM] ***REJECTED*** {ip: "80.94.95.15", user: "joyce", pass:"joyce123"}
+[7/17/2025 5:08:51 PM] ***REJECTED*** {ip: "80.94.95.15", user: "joyce", pass:"joyce1234"}
+[7/17/2025 5:08:51 PM] ***REJECTED*** {ip: "80.94.95.15", user: "joyce", pass:"joyce12345"}
+[7/17/2025 5:08:51 PM] 80.94.95.15 >>> Disconnected.
+[7/17/2025 5:27:29 PM] Connection attempt from IP: 80.94.95.112...
+[7/17/2025 5:27:30 PM] ***REJECTED*** {ip: "80.94.95.112", user: "admin", pass:"02121990"}
+[7/17/2025 5:27:30 PM] ***REJECTED*** {ip: "80.94.95.112", user: "admin", pass:"02121983"}
+[7/17/2025 5:27:30 PM] ***REJECTED*** {ip: "80.94.95.112", user: "admin", pass:"02041970"}
+[7/17/2025 5:27:31 PM] ***REJECTED*** {ip: "80.94.95.112", user: "admin", pass:"02031993"}
+[7/17/2025 5:27:31 PM] ***REJECTED*** {ip: "80.94.95.112", user: "admin", pass:"02011974"}
+[7/17/2025 5:27:31 PM] Connection attempt from IP: 185.93.89.52...
+[7/17/2025 5:27:31 PM] 80.94.95.112 >>> Disconnected.
+[7/17/2025 5:27:32 PM] ***REJECTED*** {ip: "185.93.89.52", user: "admin", pass:"rosaleen"}
+[7/17/2025 5:27:32 PM] ***REJECTED*** {ip: "185.93.89.52", user: "admin", pass:"rosale"}
+[7/17/2025 5:27:32 PM] ***REJECTED*** {ip: "185.93.89.52", user: "admin", pass:"roping"}
+[7/17/2025 5:27:33 PM] ***REJECTED*** {ip: "185.93.89.52", user: "admin", pass:"ropers"}
+[7/17/2025 5:27:33 PM] ***REJECTED*** {ip: "185.93.89.52", user: "admin", pass:"root66"}
+[7/17/2025 5:27:33 PM] 185.93.89.52 >>> Disconnected.
