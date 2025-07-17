@@ -27863,3 +27863,31 @@
 [7/17/2025 4:58:24 AM] ***REJECTED*** {ip: "185.93.89.52", user: "MGR", pass:"SYS"}
 [7/17/2025 4:58:24 AM] ***REJECTED*** {ip: "185.93.89.52", user: "MGR", pass:"CAROLIAN"}
 [7/17/2025 4:58:24 AM] 185.93.89.52 >>> Disconnected.
+[7/17/2025 5:01:15 AM] Connection attempt from IP: 159.253.46.173...
+[7/17/2025 5:01:17 AM] 159.253.46.173 >>> Disconnected.
+[7/17/2025 5:01:17 AM] Connection attempt from IP: 159.253.46.173...
+[7/17/2025 5:01:19 AM] 159.253.46.173 >>> Disconnected.
+[7/17/2025 5:05:42 AM] Connection attempt from IP: 80.94.95.112...
+[7/17/2025 5:05:43 AM] ***REJECTED*** {ip: "80.94.95.112", user: "admin", pass:"18031993"}
+[7/17/2025 5:05:43 AM] ***REJECTED*** {ip: "80.94.95.112", user: "admin", pass:"18021982"}
+[7/17/2025 5:05:43 AM] ***REJECTED*** {ip: "80.94.95.112", user: "admin", pass:"17111986"}
+[7/17/2025 5:05:44 AM] ***REJECTED*** {ip: "80.94.95.112", user: "admin", pass:"17081984"}
+[7/17/2025 5:05:44 AM] ***REJECTED*** {ip: "80.94.95.112", user: "admin", pass:"17011701"}
+[7/17/2025 5:05:44 AM] 80.94.95.112 >>> Disconnected.
+[7/17/2025 5:12:12 AM] Connection attempt from IP: 42.51.44.148...
+[7/17/2025 5:12:20 AM] 42.51.44.148 >>> Disconnected.
+[7/17/2025 5:17:57 AM] Connection attempt from IP: 176.65.148.61...
+[7/17/2025 5:17:57 AM] Connection attempt from IP: 176.65.148.61...
+[7/17/2025 5:17:57 AM] Connection attempt from IP: 176.65.148.61...
+[7/17/2025 5:17:57 AM] Connection attempt from IP: 176.65.148.61...
+[7/17/2025 5:17:57 AM] Connection attempt from IP: 176.65.148.61...
+[7/17/2025 5:17:58 AM] ***REJECTED*** {ip: "176.65.148.61", user: "root", pass:"ubuntu"}
+[7/17/2025 5:17:58 AM] ***REJECTED*** {ip: "176.65.148.61", user: "root", pass:"root"}
+[7/17/2025 5:17:58 AM] ***REJECTED*** {ip: "176.65.148.61", user: "root", pass:"debian"}
+[7/17/2025 5:17:58 AM] ***REJECTED*** {ip: "176.65.148.61", user: "root", pass:"admin"}
+[7/17/2025 5:17:58 AM] ***REJECTED*** {ip: "176.65.148.61", user: "root", pass:"password"}
+[7/17/2025 5:17:59 AM] 176.65.148.61 >>> Disconnected.
+[7/17/2025 5:17:59 AM] 176.65.148.61 >>> Disconnected.
+[7/17/2025 5:17:59 AM] 176.65.148.61 >>> Disconnected.
+[7/17/2025 5:17:59 AM] 176.65.148.61 >>> Disconnected.
+[7/17/2025 5:17:59 AM] 176.65.148.61 >>> Disconnected.
