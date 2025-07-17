@@ -30018,3 +30018,20 @@
 [7/17/2025 9:59:20 PM] Connection attempt from IP: 78.128.112.74...
 [7/17/2025 9:59:21 PM] ***REJECTED*** {ip: "78.128.112.74", user: "root", pass:"adminpass"}
 [7/17/2025 9:59:22 PM] 78.128.112.74 >>> Disconnected.
+[7/17/2025 10:06:06 PM] Connection attempt from IP: 39.99.212.219...
+[7/17/2025 10:09:52 PM] Connection attempt from IP: 80.94.95.112...
+[7/17/2025 10:09:53 PM] ***REJECTED*** {ip: "80.94.95.112", user: "admin", pass:"taylo"}
+[7/17/2025 10:09:53 PM] ***REJECTED*** {ip: "80.94.95.112", user: "admin", pass:"tadpole"}
+[7/17/2025 10:09:53 PM] ***REJECTED*** {ip: "80.94.95.112", user: "admin", pass:"surveyor"}
+[7/17/2025 10:09:54 PM] ***REJECTED*** {ip: "80.94.95.112", user: "admin", pass:"squerting"}
+[7/17/2025 10:09:54 PM] ***REJECTED*** {ip: "80.94.95.112", user: "admin", pass:"spooner"}
+[7/17/2025 10:09:55 PM] 80.94.95.112 >>> Disconnected.
+[7/17/2025 10:18:54 PM] Connection attempt from IP: 80.94.95.15...
+[7/17/2025 10:18:56 PM] ***REJECTED*** {ip: "80.94.95.15", user: "lexus", pass:"lexus"}
+[7/17/2025 10:18:56 PM] ***REJECTED*** {ip: "80.94.95.15", user: "lexus", pass:"lexus1"}
+[7/17/2025 10:18:56 PM] ***REJECTED*** {ip: "80.94.95.15", user: "lexus", pass:"lexus123"}
+[7/17/2025 10:18:57 PM] ***REJECTED*** {ip: "80.94.95.15", user: "lexus", pass:"lexus1234"}
+[7/17/2025 10:18:57 PM] ***REJECTED*** {ip: "80.94.95.15", user: "lexus", pass:"lexus12345"}
+[7/17/2025 10:18:58 PM] 80.94.95.15 >>> Disconnected.
+[7/17/2025 10:20:46 PM] Connection attempt from IP: 8.222.180.222...
+[7/17/2025 10:20:54 PM] 8.222.180.222 >>> Disconnected.
