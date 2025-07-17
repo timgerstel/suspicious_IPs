@@ -28647,3 +28647,14 @@
 [7/17/2025 9:56:42 AM] ***REJECTED*** {ip: "80.94.95.112", user: "admin", pass:"120986"}
 [7/17/2025 9:56:42 AM] ***REJECTED*** {ip: "80.94.95.112", user: "admin", pass:"12041994"}
 [7/17/2025 9:56:43 AM] 80.94.95.112 >>> Disconnected.
+[7/17/2025 10:09:05 AM] Connection attempt from IP: 196.251.84.225...
+[7/17/2025 10:09:13 AM] 196.251.84.225 >>> Disconnected.
+[7/17/2025 10:17:59 AM] Connection attempt from IP: 147.185.132.225...
+[7/17/2025 10:18:01 AM] 147.185.132.225 >>> Disconnected.
+[7/17/2025 10:18:46 AM] Connection attempt from IP: 185.93.89.52...
+[7/17/2025 10:18:47 AM] ***REJECTED*** {ip: "185.93.89.52", user: "FIELD", pass:"HPONLY"}
+[7/17/2025 10:18:48 AM] ***REJECTED*** {ip: "185.93.89.52", user: "FIELD", pass:"FIELD1"}
+[7/17/2025 10:18:48 AM] ***REJECTED*** {ip: "185.93.89.52", user: "FIELD", pass:"FIELD123"}
+[7/17/2025 10:18:48 AM] ***REJECTED*** {ip: "185.93.89.52", user: "FIELD", pass:"FIELD1234"}
+[7/17/2025 10:18:49 AM] ***REJECTED*** {ip: "185.93.89.52", user: "FIELD", pass:"FIELD12345"}
+[7/17/2025 10:18:49 AM] 185.93.89.52 >>> Disconnected.
