@@ -28003,3 +28003,10 @@
 [7/17/2025 6:58:58 AM] ***REJECTED*** {ip: "185.93.89.52", user: "RSBCMON", pass:"RSBCMON1234"}
 [7/17/2025 6:58:59 AM] ***REJECTED*** {ip: "185.93.89.52", user: "RSBCMON", pass:"RSBCMON12345"}
 [7/17/2025 6:58:59 AM] 185.93.89.52 >>> Disconnected.
+[7/17/2025 7:10:55 AM] Connection attempt from IP: 80.94.95.112...
+[7/17/2025 7:10:56 AM] ***REJECTED*** {ip: "80.94.95.112", user: "admin", pass:"15071989"}
+[7/17/2025 7:10:57 AM] ***REJECTED*** {ip: "80.94.95.112", user: "admin", pass:"15061983"}
+[7/17/2025 7:10:57 AM] ***REJECTED*** {ip: "80.94.95.112", user: "admin", pass:"15041993"}
+[7/17/2025 7:10:58 AM] ***REJECTED*** {ip: "80.94.95.112", user: "admin", pass:"15041989"}
+[7/17/2025 7:10:58 AM] ***REJECTED*** {ip: "80.94.95.112", user: "admin", pass:"15041982"}
+[7/17/2025 7:10:58 AM] 80.94.95.112 >>> Disconnected.
