@@ -30603,3 +30603,10 @@
 [7/18/2025 12:28:21 AM] ***REJECTED*** {ip: "185.93.89.52", user: "admin", pass:"rikitikitavi"}
 [7/18/2025 12:28:21 AM] ***REJECTED*** {ip: "185.93.89.52", user: "admin", pass:"ridder"}
 [7/18/2025 12:28:22 AM] 185.93.89.52 >>> Disconnected.
+[7/18/2025 12:49:14 AM] Connection attempt from IP: 80.94.95.112...
+[7/18/2025 12:49:15 AM] ***REJECTED*** {ip: "80.94.95.112", user: "admin", pass:"quant4307s"}
+[7/18/2025 12:49:16 AM] ***REJECTED*** {ip: "80.94.95.112", user: "admin", pass:"qaywsx"}
+[7/18/2025 12:49:16 AM] ***REJECTED*** {ip: "80.94.95.112", user: "admin", pass:"prototype"}
+[7/18/2025 12:49:16 AM] ***REJECTED*** {ip: "80.94.95.112", user: "admin", pass:"protocol"}
+[7/18/2025 12:49:17 AM] ***REJECTED*** {ip: "80.94.95.112", user: "admin", pass:"princesa"}
+[7/18/2025 12:49:17 AM] 80.94.95.112 >>> Disconnected.
