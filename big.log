@@ -32820,3 +32820,14 @@
 [7/18/2025 5:49:34 PM] ***REJECTED*** {ip: "80.94.95.112", user: "admin", pass:"29091985"}
 [7/18/2025 5:49:34 PM] ***REJECTED*** {ip: "80.94.95.112", user: "admin", pass:"29091982"}
 [7/18/2025 5:49:34 PM] 80.94.95.112 >>> Disconnected.
+[7/18/2025 6:07:14 PM] Connection attempt from IP: 80.94.95.15...
+[7/18/2025 6:07:20 PM] 80.94.95.15 >>> Disconnected.
+[7/18/2025 6:11:38 PM] Connection attempt from IP: 36.106.167.35...
+[7/18/2025 6:11:53 PM] 36.106.167.35 >>> Disconnected.
+[7/18/2025 6:28:11 PM] Connection attempt from IP: 80.94.95.112...
+[7/18/2025 6:28:12 PM] ***REJECTED*** {ip: "80.94.95.112", user: "admin", pass:"29051988"}
+[7/18/2025 6:28:12 PM] ***REJECTED*** {ip: "80.94.95.112", user: "admin", pass:"29051986"}
+[7/18/2025 6:28:13 PM] ***REJECTED*** {ip: "80.94.95.112", user: "admin", pass:"29051984"}
+[7/18/2025 6:28:13 PM] ***REJECTED*** {ip: "80.94.95.112", user: "admin", pass:"29031989"}
+[7/18/2025 6:28:14 PM] ***REJECTED*** {ip: "80.94.95.112", user: "admin", pass:"29031986"}
+[7/18/2025 6:28:14 PM] 80.94.95.112 >>> Disconnected.
