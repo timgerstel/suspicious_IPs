@@ -30850,3 +30850,14 @@
 [7/18/2025 4:25:26 AM] 80.94.95.15 >>> Disconnected.
 [7/18/2025 4:26:17 AM] Connection attempt from IP: 147.185.132.118...
 [7/18/2025 4:26:19 AM] 147.185.132.118 >>> Disconnected.
+[7/18/2025 4:31:46 AM] Connection attempt from IP: 167.94.138.178...
+[7/18/2025 4:32:02 AM] 167.94.138.178 >>> Disconnected.
+[7/18/2025 4:47:20 AM] Connection attempt from IP: 80.94.95.112...
+[7/18/2025 4:47:21 AM] ***REJECTED*** {ip: "80.94.95.112", user: "admin", pass:"libertad"}
+[7/18/2025 4:47:22 AM] ***REJECTED*** {ip: "80.94.95.112", user: "admin", pass:"legman"}
+[7/18/2025 4:47:22 AM] ***REJECTED*** {ip: "80.94.95.112", user: "admin", pass:"kristie"}
+[7/18/2025 4:47:23 AM] ***REJECTED*** {ip: "80.94.95.112", user: "admin", pass:"kenzie"}
+[7/18/2025 4:47:23 AM] ***REJECTED*** {ip: "80.94.95.112", user: "admin", pass:"kenny1"}
+[7/18/2025 4:47:23 AM] 80.94.95.112 >>> Disconnected.
+[7/18/2025 4:56:06 AM] Connection attempt from IP: 106.75.13.68...
+[7/18/2025 4:56:21 AM] 106.75.13.68 >>> Disconnected.
