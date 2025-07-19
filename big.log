@@ -34158,3 +34158,10 @@
 [7/19/2025 5:14:29 AM] Connection attempt from IP: 78.128.112.74...
 [7/19/2025 5:14:31 AM] ***REJECTED*** {ip: "78.128.112.74", user: "root", pass:"admin5555"}
 [7/19/2025 5:14:31 AM] 78.128.112.74 >>> Disconnected.
+[7/19/2025 5:52:02 AM] Connection attempt from IP: 185.93.89.52...
+[7/19/2025 5:52:03 AM] ***REJECTED*** {ip: "185.93.89.52", user: "admin", pass:"repo"}
+[7/19/2025 5:52:03 AM] ***REJECTED*** {ip: "185.93.89.52", user: "admin", pass:"repmvtyrj"}
+[7/19/2025 5:52:03 AM] ***REJECTED*** {ip: "185.93.89.52", user: "admin", pass:"repete"}
+[7/19/2025 5:52:04 AM] ***REJECTED*** {ip: "185.93.89.52", user: "admin", pass:"repeat99"}
+[7/19/2025 5:52:04 AM] ***REJECTED*** {ip: "185.93.89.52", user: "admin", pass:"renzo"}
+[7/19/2025 5:52:04 AM] 185.93.89.52 >>> Disconnected.
