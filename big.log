@@ -1925,3 +1925,12 @@
 [7/26/2025 2:55:32 PM] 80.94.95.112 >>> Disconnected.
 [7/26/2025 2:58:22 PM] Connection attempt from IP: 8.209.252.62...
 [7/26/2025 2:58:30 PM] 8.209.252.62 >>> Disconnected.
+[7/26/2025 3:04:46 PM] Connection attempt from IP: 124.71.151.104...
+[7/26/2025 3:04:53 PM] 124.71.151.104 >>> Disconnected.
+[7/26/2025 3:11:40 PM] Connection attempt from IP: 185.93.89.24...
+[7/26/2025 3:11:41 PM] ***REJECTED*** {ip: "185.93.89.24", user: "user", pass:"muffin"}
+[7/26/2025 3:11:41 PM] ***REJECTED*** {ip: "185.93.89.24", user: "user", pass:"johnson"}
+[7/26/2025 3:11:42 PM] ***REJECTED*** {ip: "185.93.89.24", user: "user", pass:"murphy"}
+[7/26/2025 3:11:42 PM] ***REJECTED*** {ip: "185.93.89.24", user: "user", pass:"cooper"}
+[7/26/2025 3:11:42 PM] ***REJECTED*** {ip: "185.93.89.24", user: "user", pass:"liverpoo"}
+[7/26/2025 3:11:43 PM] 185.93.89.24 >>> Disconnected.
