@@ -2294,3 +2294,30 @@
 [7/26/2025 10:53:56 PM] Connection attempt from IP: 80.94.95.15...
 [7/26/2025 10:53:57 PM] ***REJECTED*** {ip: "80.94.95.15", user: "", pass:""}
 [7/26/2025 10:53:58 PM] 80.94.95.15 >>> Disconnected.
+[7/26/2025 11:09:45 PM] Connection attempt from IP: 185.93.89.24...
+[7/26/2025 11:09:46 PM] ***REJECTED*** {ip: "185.93.89.24", user: "user", pass:"blue"}
+[7/26/2025 11:09:46 PM] ***REJECTED*** {ip: "185.93.89.24", user: "user", pass:"theman"}
+[7/26/2025 11:09:47 PM] ***REJECTED*** {ip: "185.93.89.24", user: "user", pass:"bandit"}
+[7/26/2025 11:09:47 PM] ***REJECTED*** {ip: "185.93.89.24", user: "user", pass:"dolphins"}
+[7/26/2025 11:09:47 PM] ***REJECTED*** {ip: "185.93.89.24", user: "user", pass:"maddog"}
+[7/26/2025 11:09:47 PM] 185.93.89.24 >>> Disconnected.
+[7/26/2025 11:20:49 PM] Connection attempt from IP: 206.189.224.163...
+[7/26/2025 11:20:51 PM] 206.189.224.163 >>> Disconnected.
+[7/26/2025 11:21:16 PM] Connection attempt from IP: 179.43.189.98...
+[7/26/2025 11:21:17 PM] ***REJECTED*** {ip: "179.43.189.98", user: "root", pass:"0"}
+[7/26/2025 11:21:18 PM] 179.43.189.98 >>> Disconnected.
+[7/26/2025 11:21:18 PM] Connection attempt from IP: 179.43.189.98...
+[7/26/2025 11:21:19 PM] ***REJECTED*** {ip: "179.43.189.98", user: "root", pass:"eve"}
+[7/26/2025 11:21:19 PM] 179.43.189.98 >>> Disconnected.
+[7/26/2025 11:21:19 PM] Connection attempt from IP: 179.43.189.98...
+[7/26/2025 11:21:20 PM] ***REJECTED*** {ip: "179.43.189.98", user: "root", pass:"root"}
+[7/26/2025 11:21:21 PM] 179.43.189.98 >>> Disconnected.
+[7/26/2025 11:21:21 PM] Connection attempt from IP: 179.43.189.98...
+[7/26/2025 11:21:22 PM] ***REJECTED*** {ip: "179.43.189.98", user: "root", pass:"1"}
+[7/26/2025 11:21:22 PM] 179.43.189.98 >>> Disconnected.
+[7/26/2025 11:21:22 PM] Connection attempt from IP: 179.43.189.98...
+[7/26/2025 11:21:23 PM] ***ACCEPTED*** {ip: "179.43.189.98", user: "root", pass:"123"}
+[7/26/2025 11:21:25 PM] 179.43.189.98 >>> Disconnected.
+[7/26/2025 11:23:02 PM] Connection attempt from IP: 78.128.112.74...
+[7/26/2025 11:23:03 PM] ***ACCEPTED*** {ip: "78.128.112.74", user: "root", pass:"0001"}
+[7/26/2025 11:23:05 PM] 78.128.112.74 >>> Disconnected.
