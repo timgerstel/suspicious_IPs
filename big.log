@@ -451,3 +451,13 @@
 [7/26/2025 7:27:34 AM] ***REJECTED*** {ip: "80.94.95.112", user: "admin", pass:"42424242"}
 [7/26/2025 7:27:34 AM] ***REJECTED*** {ip: "80.94.95.112", user: "admin", pass:"333999"}
 [7/26/2025 7:27:34 AM] 80.94.95.112 >>> Disconnected.
+[7/26/2025 7:36:02 AM] Connection attempt from IP: 185.93.89.24...
+[7/26/2025 7:36:03 AM] ***REJECTED*** {ip: "185.93.89.24", user: "user", pass:"rabbit"}
+[7/26/2025 7:36:03 AM] ***REJECTED*** {ip: "185.93.89.24", user: "user", pass:"wizard"}
+[7/26/2025 7:36:04 AM] ***REJECTED*** {ip: "185.93.89.24", user: "user", pass:"bigdick"}
+[7/26/2025 7:36:04 AM] ***REJECTED*** {ip: "185.93.89.24", user: "user", pass:"jasper"}
+[7/26/2025 7:36:04 AM] ***REJECTED*** {ip: "185.93.89.24", user: "user", pass:"enter"}
+[7/26/2025 7:36:05 AM] 185.93.89.24 >>> Disconnected.
+[7/26/2025 7:37:07 AM] Connection attempt from IP: 78.128.112.74...
+[7/26/2025 7:37:09 AM] ***REJECTED*** {ip: "78.128.112.74", user: "root", pass:"welcome"}
+[7/26/2025 7:37:09 AM] 78.128.112.74 >>> Disconnected.
