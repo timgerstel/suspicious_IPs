@@ -2353,3 +2353,14 @@
 [7/26/2025 11:58:07 PM] ***REJECTED*** {ip: "185.93.89.24", user: "user", pass:"nicholas"}
 [7/26/2025 11:58:08 PM] ***REJECTED*** {ip: "185.93.89.24", user: "user", pass:"united"}
 [7/26/2025 11:58:08 PM] 185.93.89.24 >>> Disconnected.
+[7/27/2025 12:14:06 AM] Connection attempt from IP: 164.92.255.234...
+[7/27/2025 12:14:26 AM] 164.92.255.234 >>> Disconnected.
+[7/27/2025 12:18:14 AM] Connection attempt from IP: 45.156.87.36...
+[7/27/2025 12:18:16 AM] ***REJECTED*** {ip: "45.156.87.36", user: "root", pass:"Aa000000"}
+[7/27/2025 12:18:16 AM] 45.156.87.36 >>> Disconnected.
+[7/27/2025 12:19:11 AM] Connection attempt from IP: 45.156.87.36...
+[7/27/2025 12:19:18 AM] ***REJECTED*** {ip: "45.156.87.36", user: "root", pass:"1q2w3e4r.."}
+[7/27/2025 12:19:18 AM] 45.156.87.36 >>> Disconnected.
+[7/27/2025 12:25:27 AM] Connection attempt from IP: 80.94.95.15...
+[7/27/2025 12:25:28 AM] ***REJECTED*** {ip: "80.94.95.15", user: "", pass:""}
+[7/27/2025 12:25:29 AM] 80.94.95.15 >>> Disconnected.
