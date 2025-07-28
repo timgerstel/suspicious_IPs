@@ -13937,3 +13937,60 @@
 [7/28/2025 4:29:01 PM] ***REJECTED*** {ip: "80.94.95.112", user: "admin", pass:"hugetits"}
 [7/28/2025 4:29:01 PM] ***REJECTED*** {ip: "80.94.95.112", user: "admin", pass:"hotspur"}
 [7/28/2025 4:29:02 PM] 80.94.95.112 >>> Disconnected.
+[7/28/2025 4:39:15 PM] Connection attempt from IP: 80.94.95.15...
+[7/28/2025 4:39:16 PM] ***REJECTED*** {ip: "80.94.95.15", user: "celina", pass:"celina"}
+[7/28/2025 4:39:16 PM] ***REJECTED*** {ip: "80.94.95.15", user: "celina", pass:"celina1"}
+[7/28/2025 4:39:17 PM] ***REJECTED*** {ip: "80.94.95.15", user: "celina", pass:"celina123"}
+[7/28/2025 4:39:17 PM] ***REJECTED*** {ip: "80.94.95.15", user: "celina", pass:"celina1234"}
+[7/28/2025 4:39:18 PM] ***REJECTED*** {ip: "80.94.95.15", user: "celina", pass:"celina12345"}
+[7/28/2025 4:39:18 PM] 80.94.95.15 >>> Disconnected.
+[7/28/2025 4:43:42 PM] Connection attempt from IP: 45.10.175.17...
+[7/28/2025 4:43:44 PM] ***REJECTED*** {ip: "45.10.175.17", user: "root", pass:"ubuntu"}
+[7/28/2025 4:43:45 PM] 45.10.175.17 >>> Disconnected.
+[7/28/2025 4:43:46 PM] Connection attempt from IP: 45.10.175.17...
+[7/28/2025 4:43:48 PM] ***REJECTED*** {ip: "45.10.175.17", user: "root", pass:"debian"}
+[7/28/2025 4:43:48 PM] 45.10.175.17 >>> Disconnected.
+[7/28/2025 4:43:48 PM] Connection attempt from IP: 45.10.175.17...
+[7/28/2025 4:43:50 PM] ***REJECTED*** {ip: "45.10.175.17", user: "root", pass:"centos"}
+[7/28/2025 4:43:51 PM] 45.10.175.17 >>> Disconnected.
+[7/28/2025 4:43:52 PM] Connection attempt from IP: 45.10.175.17...
+[7/28/2025 4:43:54 PM] ***REJECTED*** {ip: "45.10.175.17", user: "root", pass:"linux"}
+[7/28/2025 4:43:54 PM] 45.10.175.17 >>> Disconnected.
+[7/28/2025 4:43:56 PM] Connection attempt from IP: 45.10.175.17...
+[7/28/2025 4:43:58 PM] ***REJECTED*** {ip: "45.10.175.17", user: "root", pass:"nginx"}
+[7/28/2025 4:43:58 PM] 45.10.175.17 >>> Disconnected.
+[7/28/2025 4:43:58 PM] Connection attempt from IP: 45.10.175.17...
+[7/28/2025 4:44:00 PM] ***REJECTED*** {ip: "45.10.175.17", user: "root", pass:"mysql"}
+[7/28/2025 4:44:01 PM] 45.10.175.17 >>> Disconnected.
+[7/28/2025 4:44:01 PM] Connection attempt from IP: 45.10.175.17...
+[7/28/2025 4:44:03 PM] ***REJECTED*** {ip: "45.10.175.17", user: "root", pass:"apache"}
+[7/28/2025 4:44:03 PM] 45.10.175.17 >>> Disconnected.
+[7/28/2025 4:44:03 PM] Connection attempt from IP: 185.93.89.24...
+[7/28/2025 4:44:03 PM] Connection attempt from IP: 45.10.175.17...
+[7/28/2025 4:44:04 PM] ***REJECTED*** {ip: "185.93.89.24", user: "user", pass:"mozart"}
+[7/28/2025 4:44:04 PM] ***REJECTED*** {ip: "185.93.89.24", user: "user", pass:"buddha"}
+[7/28/2025 4:44:04 PM] ***REJECTED*** {ip: "185.93.89.24", user: "user", pass:"anderson"}
+[7/28/2025 4:44:05 PM] ***REJECTED*** {ip: "185.93.89.24", user: "user", pass:"melanie"}
+[7/28/2025 4:44:05 PM] ***REJECTED*** {ip: "45.10.175.17", user: "root", pass:"docker"}
+[7/28/2025 4:44:05 PM] ***REJECTED*** {ip: "185.93.89.24", user: "user", pass:"abcdefg"}
+[7/28/2025 4:44:05 PM] 185.93.89.24 >>> Disconnected.
+[7/28/2025 4:44:05 PM] 45.10.175.17 >>> Disconnected.
+[7/28/2025 4:44:06 PM] Connection attempt from IP: 45.10.175.17...
+[7/28/2025 4:44:07 PM] ***REJECTED*** {ip: "45.10.175.17", user: "root", pass:"vps"}
+[7/28/2025 4:44:08 PM] 45.10.175.17 >>> Disconnected.
+[7/28/2025 4:44:08 PM] Connection attempt from IP: 45.10.175.17...
+[7/28/2025 4:44:10 PM] ***REJECTED*** {ip: "45.10.175.17", user: "root", pass:"host"}
+[7/28/2025 4:44:10 PM] 45.10.175.17 >>> Disconnected.
+[7/28/2025 4:44:11 PM] Connection attempt from IP: 45.10.175.17...
+[7/28/2025 4:44:12 PM] ***REJECTED*** {ip: "45.10.175.17", user: "root", pass:"www"}
+[7/28/2025 4:44:13 PM] 45.10.175.17 >>> Disconnected.
+[7/28/2025 4:44:20 PM] Connection attempt from IP: 45.10.175.17...
+[7/28/2025 4:44:22 PM] ***REJECTED*** {ip: "45.10.175.17", user: "root", pass:"web"}
+[7/28/2025 4:44:22 PM] 45.10.175.17 >>> Disconnected.
+[7/28/2025 4:54:13 PM] Connection attempt from IP: 80.94.95.15...
+[7/28/2025 4:54:15 PM] ***REJECTED*** {ip: "80.94.95.15", user: "admin", pass:"atjp4CDA"}
+[7/28/2025 4:54:15 PM] ***REJECTED*** {ip: "80.94.95.15", user: "admin", pass:"123456789"}
+[7/28/2025 4:54:16 PM] ***REJECTED*** {ip: "80.94.95.15", user: "admin", pass:"Enercon24"}
+[7/28/2025 4:54:16 PM] ***REJECTED*** {ip: "80.94.95.15", user: "admin", pass:"1150221410*"}
+[7/28/2025 4:54:17 PM] ***REJECTED*** {ip: "80.94.95.15", user: "admin", pass:"admin12345"}
+[7/28/2025 4:54:17 PM] 80.94.95.15 >>> Disconnected.
