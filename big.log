@@ -13532,3 +13532,23 @@
 [7/28/2025 12:28:35 PM] ***REJECTED*** {ip: "80.94.95.112", user: "admin", pass:"marta"}
 [7/28/2025 12:28:35 PM] ***REJECTED*** {ip: "80.94.95.112", user: "admin", pass:"maker"}
 [7/28/2025 12:28:36 PM] 80.94.95.112 >>> Disconnected.
+[7/28/2025 12:47:46 PM] Connection attempt from IP: 185.93.89.24...
+[7/28/2025 12:47:47 PM] ***REJECTED*** {ip: "185.93.89.24", user: "user", pass:"billy"}
+[7/28/2025 12:47:47 PM] ***REJECTED*** {ip: "185.93.89.24", user: "user", pass:"147852"}
+[7/28/2025 12:47:48 PM] ***REJECTED*** {ip: "185.93.89.24", user: "user", pass:"rock"}
+[7/28/2025 12:47:48 PM] ***REJECTED*** {ip: "185.93.89.24", user: "user", pass:"hawaii"}
+[7/28/2025 12:47:48 PM] ***REJECTED*** {ip: "185.93.89.24", user: "user", pass:"badass"}
+[7/28/2025 12:47:48 PM] 185.93.89.24 >>> Disconnected.
+[7/28/2025 12:51:46 PM] Connection attempt from IP: 23.137.255.140...
+[7/28/2025 12:52:01 PM] ***REJECTED*** {ip: "23.137.255.140", user: "root", pass:"password"}
+[7/28/2025 12:52:05 PM] 23.137.255.140 >>> Disconnected.
+[7/28/2025 12:53:23 PM] Connection attempt from IP: 80.94.95.15...
+[7/28/2025 12:53:24 PM] ***REJECTED*** {ip: "80.94.95.15", user: "catalina", pass:"catalina"}
+[7/28/2025 12:53:24 PM] ***REJECTED*** {ip: "80.94.95.15", user: "catalina", pass:"catalina1"}
+[7/28/2025 12:53:25 PM] ***REJECTED*** {ip: "80.94.95.15", user: "catalina", pass:"catalina123"}
+[7/28/2025 12:53:25 PM] ***REJECTED*** {ip: "80.94.95.15", user: "catalina", pass:"catalina1234"}
+[7/28/2025 12:53:25 PM] ***REJECTED*** {ip: "80.94.95.15", user: "catalina", pass:"catalina12345"}
+[7/28/2025 12:53:26 PM] 80.94.95.15 >>> Disconnected.
+[7/28/2025 12:53:36 PM] Connection attempt from IP: 80.94.95.118...
+[7/28/2025 12:53:37 PM] ***REJECTED*** {ip: "80.94.95.118", user: "root", pass:"!QAZ2wsx#EDC"}
+[7/28/2025 12:53:37 PM] 80.94.95.118 >>> Disconnected.
