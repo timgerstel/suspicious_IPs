@@ -13783,3 +13783,10 @@
 [7/28/2025 2:29:48 PM] ***REJECTED*** {ip: "185.93.89.24", user: "user", pass:"shorty"}
 [7/28/2025 2:29:48 PM] ***REJECTED*** {ip: "185.93.89.24", user: "user", pass:"westside"}
 [7/28/2025 2:29:48 PM] 185.93.89.24 >>> Disconnected.
+[7/28/2025 2:53:13 PM] Connection attempt from IP: 80.94.95.112...
+[7/28/2025 2:53:14 PM] ***REJECTED*** {ip: "80.94.95.112", user: "admin", pass:"komputer"}
+[7/28/2025 2:53:14 PM] ***REJECTED*** {ip: "80.94.95.112", user: "admin", pass:"klaus"}
+[7/28/2025 2:53:14 PM] ***REJECTED*** {ip: "80.94.95.112", user: "admin", pass:"kickflip"}
+[7/28/2025 2:53:15 PM] ***REJECTED*** {ip: "80.94.95.112", user: "admin", pass:"katelyn"}
+[7/28/2025 2:53:15 PM] ***REJECTED*** {ip: "80.94.95.112", user: "admin", pass:"justinbieber"}
+[7/28/2025 2:53:15 PM] 80.94.95.112 >>> Disconnected.
