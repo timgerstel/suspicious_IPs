@@ -16294,3 +16294,25 @@
 [7/29/2025 8:55:52 AM] ***REJECTED*** {ip: "185.93.89.24", user: "user", pass:"bigred"}
 [7/29/2025 8:55:52 AM] ***REJECTED*** {ip: "185.93.89.24", user: "user", pass:"assman"}
 [7/29/2025 8:55:52 AM] 185.93.89.24 >>> Disconnected.
+[7/29/2025 9:00:41 AM] Connection attempt from IP: 80.94.95.15...
+[7/29/2025 9:00:42 AM] ***REJECTED*** {ip: "80.94.95.15", user: "joyce", pass:"7777777"}
+[7/29/2025 9:00:43 AM] ***REJECTED*** {ip: "80.94.95.15", user: "joyce", pass:"abc123"}
+[7/29/2025 9:00:43 AM] ***REJECTED*** {ip: "80.94.95.15", user: "joyce", pass:"abcd123"}
+[7/29/2025 9:00:43 AM] ***REJECTED*** {ip: "80.94.95.15", user: "joyce", pass:"abcd1234"}
+[7/29/2025 9:00:44 AM] ***REJECTED*** {ip: "80.94.95.15", user: "joyce", pass:"abc1234"}
+[7/29/2025 9:00:44 AM] 80.94.95.15 >>> Disconnected.
+[7/29/2025 9:02:33 AM] Connection attempt from IP: 146.190.241.67...
+[7/29/2025 9:02:41 AM] 146.190.241.67 >>> Disconnected.
+[7/29/2025 9:04:45 AM] Connection attempt from IP: 80.94.95.118...
+[7/29/2025 9:04:46 AM] ***REJECTED*** {ip: "80.94.95.118", user: "root", pass:"!QAZ2wsx#EDC"}
+[7/29/2025 9:04:47 AM] 80.94.95.118 >>> Disconnected.
+[7/29/2025 9:20:35 AM] Connection attempt from IP: 78.128.112.74...
+[7/29/2025 9:20:38 AM] ***REJECTED*** {ip: "78.128.112.74", user: "root", pass:"@123!"}
+[7/29/2025 9:20:38 AM] 78.128.112.74 >>> Disconnected.
+[7/29/2025 9:28:07 AM] Connection attempt from IP: 80.94.95.15...
+[7/29/2025 9:28:08 AM] ***REJECTED*** {ip: "80.94.95.15", user: "rocio", pass:"rocio"}
+[7/29/2025 9:28:09 AM] ***REJECTED*** {ip: "80.94.95.15", user: "rocio", pass:"rocio1"}
+[7/29/2025 9:28:09 AM] ***REJECTED*** {ip: "80.94.95.15", user: "rocio", pass:"rocio123"}
+[7/29/2025 9:28:10 AM] ***REJECTED*** {ip: "80.94.95.15", user: "rocio", pass:"rocio1234"}
+[7/29/2025 9:28:10 AM] ***REJECTED*** {ip: "80.94.95.15", user: "rocio", pass:"rocio12345"}
+[7/29/2025 9:28:10 AM] 80.94.95.15 >>> Disconnected.
