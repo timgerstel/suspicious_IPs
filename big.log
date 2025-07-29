@@ -16107,3 +16107,13 @@
 [7/29/2025 6:28:21 AM] ***REJECTED*** {ip: "80.94.95.112", user: "admin", pass:"30091986"}
 [7/29/2025 6:28:21 AM] ***REJECTED*** {ip: "80.94.95.112", user: "admin", pass:"30081982"}
 [7/29/2025 6:28:22 AM] 80.94.95.112 >>> Disconnected.
+[7/29/2025 6:44:36 AM] Connection attempt from IP: 185.93.89.24...
+[7/29/2025 6:44:37 AM] ***REJECTED*** {ip: "185.93.89.24", user: "user", pass:"leslie"}
+[7/29/2025 6:44:37 AM] ***REJECTED*** {ip: "185.93.89.24", user: "user", pass:"antonio"}
+[7/29/2025 6:44:37 AM] ***REJECTED*** {ip: "185.93.89.24", user: "user", pass:"98765432"}
+[7/29/2025 6:44:38 AM] ***REJECTED*** {ip: "185.93.89.24", user: "user", pass:"4321"}
+[7/29/2025 6:44:38 AM] ***REJECTED*** {ip: "185.93.89.24", user: "user", pass:"softball"}
+[7/29/2025 6:44:38 AM] 185.93.89.24 >>> Disconnected.
+[7/29/2025 6:47:32 AM] Connection attempt from IP: 185.156.73.233...
+[7/29/2025 6:47:33 AM] ***REJECTED*** {ip: "185.156.73.233", user: "root", pass:"!QAZ2wsx#EDC"}
+[7/29/2025 6:47:34 AM] 185.156.73.233 >>> Disconnected.
