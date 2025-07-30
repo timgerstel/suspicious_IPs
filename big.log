@@ -25573,3 +25573,15 @@
 [7/30/2025 2:55:08 PM] Connection attempt from IP: 80.94.95.15...
 [7/30/2025 2:55:09 PM] ***REJECTED*** {ip: "80.94.95.15", user: "admin", pass:"Abc@123456"}
 [7/30/2025 2:55:09 PM] 80.94.95.15 >>> Disconnected.
+[7/30/2025 3:15:09 PM] Connection attempt from IP: 89.32.41.118...
+[7/30/2025 3:15:16 PM] 89.32.41.118 >>> Disconnected.
+[7/30/2025 3:20:00 PM] Connection attempt from IP: 80.94.95.15...
+[7/30/2025 3:20:01 PM] ***REJECTED*** {ip: "80.94.95.15", user: "root", pass:"hate"}
+[7/30/2025 3:20:01 PM] ***REJECTED*** {ip: "80.94.95.15", user: "root", pass:"hardone"}
+[7/30/2025 3:20:02 PM] ***REJECTED*** {ip: "80.94.95.15", user: "root", pass:"gustavo"}
+[7/30/2025 3:20:02 PM] ***REJECTED*** {ip: "80.94.95.15", user: "root", pass:"grinch"}
+[7/30/2025 3:20:02 PM] ***REJECTED*** {ip: "80.94.95.15", user: "root", pass:"gratis"}
+[7/30/2025 3:20:03 PM] 80.94.95.15 >>> Disconnected.
+[7/30/2025 3:25:23 PM] Connection attempt from IP: 78.128.112.74...
+[7/30/2025 3:25:26 PM] ***REJECTED*** {ip: "78.128.112.74", user: "support", pass:"admin12345"}
+[7/30/2025 3:25:27 PM] 78.128.112.74 >>> Disconnected.
