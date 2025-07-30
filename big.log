@@ -26659,3 +26659,26 @@
 [7/30/2025 9:57:41 PM] ***REJECTED*** {ip: "185.93.89.24", user: "ping", pass:"abcd123"}
 [7/30/2025 9:57:52 PM] ***REJECTED*** {ip: "185.93.89.24", user: "ping", pass:"abc1234"}
 [7/30/2025 9:57:52 PM] 185.93.89.24 >>> Disconnected.
+[7/30/2025 10:12:21 PM] Connection attempt from IP: 185.93.89.24...
+[7/30/2025 10:12:23 PM] ***REJECTED*** {ip: "185.93.89.24", user: "joyce", pass:"7777777"}
+[7/30/2025 10:12:24 PM] ***REJECTED*** {ip: "185.93.89.24", user: "joyce", pass:"abc123"}
+[7/30/2025 10:12:24 PM] ***REJECTED*** {ip: "185.93.89.24", user: "joyce", pass:"abcd123"}
+[7/30/2025 10:12:24 PM] ***REJECTED*** {ip: "185.93.89.24", user: "joyce", pass:"abcd1234"}
+[7/30/2025 10:12:25 PM] ***REJECTED*** {ip: "185.93.89.24", user: "joyce", pass:"abc1234"}
+[7/30/2025 10:12:27 PM] 185.93.89.24 >>> Disconnected.
+[7/30/2025 10:18:27 PM] Connection attempt from IP: 89.32.41.118...
+[7/30/2025 10:18:28 PM] 89.32.41.118 >>> Disconnected.
+[7/30/2025 10:19:07 PM] Connection attempt from IP: 185.93.89.24...
+[7/30/2025 10:19:08 PM] ***REJECTED*** {ip: "185.93.89.24", user: "user", pass:"galina"}
+[7/30/2025 10:19:08 PM] ***REJECTED*** {ip: "185.93.89.24", user: "user", pass:"bobby"}
+[7/30/2025 10:19:09 PM] ***REJECTED*** {ip: "185.93.89.24", user: "user", pass:"newport"}
+[7/30/2025 10:19:09 PM] ***REJECTED*** {ip: "185.93.89.24", user: "user", pass:"manutd"}
+[7/30/2025 10:19:09 PM] ***REJECTED*** {ip: "185.93.89.24", user: "user", pass:"daddy"}
+[7/30/2025 10:19:10 PM] 185.93.89.24 >>> Disconnected.
+[7/30/2025 10:19:46 PM] Connection attempt from IP: 80.94.95.112...
+[7/30/2025 10:19:47 PM] ***REJECTED*** {ip: "80.94.95.112", user: "admin", pass:"01051993"}
+[7/30/2025 10:19:47 PM] ***REJECTED*** {ip: "80.94.95.112", user: "admin", pass:"01051984"}
+[7/30/2025 10:19:47 PM] ***REJECTED*** {ip: "80.94.95.112", user: "admin", pass:"01021995"}
+[7/30/2025 10:19:48 PM] ***REJECTED*** {ip: "80.94.95.112", user: "admin", pass:"01011998"}
+[7/30/2025 10:19:48 PM] ***REJECTED*** {ip: "80.94.95.112", user: "admin", pass:"zorro1"}
+[7/30/2025 10:19:48 PM] 80.94.95.112 >>> Disconnected.
