@@ -23644,3 +23644,26 @@
 [7/30/2025 1:28:07 AM] 114.112.96.35 >>> Disconnected.
 [7/30/2025 1:28:12 AM] Connection attempt from IP: 207.154.232.101...
 [7/30/2025 1:28:16 AM] 207.154.232.101 >>> Disconnected.
+[7/30/2025 1:35:17 AM] Connection attempt from IP: 80.94.95.112...
+[7/30/2025 1:35:18 AM] ***REJECTED*** {ip: "80.94.95.112", user: "admin", pass:"17031993"}
+[7/30/2025 1:35:18 AM] ***REJECTED*** {ip: "80.94.95.112", user: "admin", pass:"17011989"}
+[7/30/2025 1:35:18 AM] ***REJECTED*** {ip: "80.94.95.112", user: "admin", pass:"17011983"}
+[7/30/2025 1:35:19 AM] ***REJECTED*** {ip: "80.94.95.112", user: "admin", pass:"16121990"}
+[7/30/2025 1:35:19 AM] ***REJECTED*** {ip: "80.94.95.112", user: "admin", pass:"16121983"}
+[7/30/2025 1:35:19 AM] 80.94.95.112 >>> Disconnected.
+[7/30/2025 1:44:45 AM] Connection attempt from IP: 80.94.95.15...
+[7/30/2025 1:44:46 AM] ***REJECTED*** {ip: "80.94.95.15", user: "kennedi", pass:"kennedi"}
+[7/30/2025 1:44:46 AM] ***REJECTED*** {ip: "80.94.95.15", user: "kennedi", pass:"kennedi1"}
+[7/30/2025 1:44:47 AM] ***REJECTED*** {ip: "80.94.95.15", user: "kennedi", pass:"kennedi123"}
+[7/30/2025 1:44:47 AM] ***REJECTED*** {ip: "80.94.95.15", user: "kennedi", pass:"kennedi1234"}
+[7/30/2025 1:44:48 AM] ***REJECTED*** {ip: "80.94.95.15", user: "kennedi", pass:"kennedi12345"}
+[7/30/2025 1:44:48 AM] 80.94.95.15 >>> Disconnected.
+[7/30/2025 1:45:22 AM] Connection attempt from IP: 185.93.89.24...
+[7/30/2025 1:45:23 AM] ***REJECTED*** {ip: "185.93.89.24", user: "user", pass:"boogie"}
+[7/30/2025 1:45:23 AM] ***REJECTED*** {ip: "185.93.89.24", user: "user", pass:"zombie"}
+[7/30/2025 1:45:23 AM] ***REJECTED*** {ip: "185.93.89.24", user: "user", pass:"accord"}
+[7/30/2025 1:45:23 AM] ***REJECTED*** {ip: "185.93.89.24", user: "user", pass:"vision"}
+[7/30/2025 1:45:24 AM] ***REJECTED*** {ip: "185.93.89.24", user: "user", pass:"bradley"}
+[7/30/2025 1:45:24 AM] 185.93.89.24 >>> Disconnected.
+[7/30/2025 1:59:32 AM] Connection attempt from IP: 89.32.41.25...
+[7/30/2025 1:59:34 AM] 89.32.41.25 >>> Disconnected.
