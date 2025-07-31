@@ -31479,3 +31479,39 @@
 [7/31/2025 8:55:54 PM] 80.94.95.112 >>> Disconnected.
 [7/31/2025 8:57:41 PM] Connection attempt from IP: 43.229.153.64...
 [7/31/2025 8:57:42 PM] 43.229.153.64 >>> Disconnected.
+[7/31/2025 9:00:10 PM] Connection attempt from IP: 185.93.89.24...
+[7/31/2025 9:00:10 PM] ***REJECTED*** {ip: "185.93.89.24", user: "user", pass:"maria"}
+[7/31/2025 9:00:11 PM] ***REJECTED*** {ip: "185.93.89.24", user: "user", pass:"kramer"}
+[7/31/2025 9:00:11 PM] ***REJECTED*** {ip: "185.93.89.24", user: "user", pass:"girl"}
+[7/31/2025 9:00:11 PM] ***REJECTED*** {ip: "185.93.89.24", user: "user", pass:"popeye"}
+[7/31/2025 9:00:12 PM] ***REJECTED*** {ip: "185.93.89.24", user: "user", pass:"pontiac"}
+[7/31/2025 9:00:12 PM] 185.93.89.24 >>> Disconnected.
+[7/31/2025 9:03:01 PM] Connection attempt from IP: 80.94.95.15...
+[7/31/2025 9:03:02 PM] ***REJECTED*** {ip: "80.94.95.15", user: "anne", pass:"anne"}
+[7/31/2025 9:03:02 PM] ***REJECTED*** {ip: "80.94.95.15", user: "anne", pass:"anne1"}
+[7/31/2025 9:03:03 PM] ***REJECTED*** {ip: "80.94.95.15", user: "anne", pass:"anne123"}
+[7/31/2025 9:03:03 PM] ***ACCEPTED*** {ip: "80.94.95.15", user: "anne", pass:"anne1234"}
+[7/31/2025 9:03:04 PM] 80.94.95.15 >>> Disconnected.
+[7/31/2025 9:03:22 PM] Connection attempt from IP: 148.178.22.40...
+[7/31/2025 9:03:23 PM] 148.178.22.40 >>> Disconnected.
+[7/31/2025 9:04:57 PM] Connection attempt from IP: 109.120.137.7...
+[7/31/2025 9:05:05 PM] 109.120.137.7 >>> Disconnected.
+[7/31/2025 9:09:11 PM] Connection attempt from IP: 43.229.153.82...
+[7/31/2025 9:09:11 PM] Connection attempt from IP: 43.229.153.64...
+[7/31/2025 9:09:12 PM] 43.229.153.64 >>> Disconnected.
+[7/31/2025 9:09:12 PM] ***REJECTED*** {ip: "43.229.153.82", user: "root", pass:"pa55word"}
+[7/31/2025 9:09:13 PM] ***REJECTED*** {ip: "43.229.153.82", user: "root", pass:"1qa2ws3ed"}
+[7/31/2025 9:09:13 PM] ***REJECTED*** {ip: "43.229.153.82", user: "root", pass:"1qazXSW@"}
+[7/31/2025 9:09:13 PM] 43.229.153.82 >>> Disconnected.
+[7/31/2025 9:14:58 PM] Connection attempt from IP: 148.178.22.40...
+[7/31/2025 9:14:59 PM] 148.178.22.40 >>> Disconnected.
+[7/31/2025 9:15:07 PM] Connection attempt from IP: 80.94.95.15...
+[7/31/2025 9:15:09 PM] ***REJECTED*** {ip: "80.94.95.15", user: "", pass:""}
+[7/31/2025 9:15:09 PM] 80.94.95.15 >>> Disconnected.
+[7/31/2025 9:20:54 PM] Connection attempt from IP: 148.178.22.86...
+[7/31/2025 9:20:55 PM] 148.178.22.86 >>> Disconnected.
+[7/31/2025 9:20:57 PM] Connection attempt from IP: 78.128.112.74...
+[7/31/2025 9:20:58 PM] ***REJECTED*** {ip: "78.128.112.74", user: "support", pass:"admin3333"}
+[7/31/2025 9:20:58 PM] 78.128.112.74 >>> Disconnected.
+[7/31/2025 9:26:56 PM] Connection attempt from IP: 148.178.22.40...
+[7/31/2025 9:26:58 PM] 148.178.22.40 >>> Disconnected.
