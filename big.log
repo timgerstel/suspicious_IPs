@@ -32929,3 +32929,32 @@
 [8/1/2025 5:58:49 AM] Connection attempt from IP: 80.94.95.116...
 [8/1/2025 5:58:51 AM] ***REJECTED*** {ip: "80.94.95.116", user: "admin", pass:"password"}
 [8/1/2025 5:58:51 AM] 80.94.95.116 >>> Disconnected.
+[8/1/2025 6:08:59 AM] Connection attempt from IP: 80.94.95.15...
+[8/1/2025 6:09:00 AM] ***REJECTED*** {ip: "80.94.95.15", user: "marisa", pass:"marisa"}
+[8/1/2025 6:09:00 AM] ***REJECTED*** {ip: "80.94.95.15", user: "marisa", pass:"marisa1"}
+[8/1/2025 6:09:01 AM] ***REJECTED*** {ip: "80.94.95.15", user: "marisa", pass:"marisa123"}
+[8/1/2025 6:09:01 AM] ***REJECTED*** {ip: "80.94.95.15", user: "marisa", pass:"marisa1234"}
+[8/1/2025 6:09:01 AM] ***REJECTED*** {ip: "80.94.95.15", user: "marisa", pass:"marisa12345"}
+[8/1/2025 6:09:02 AM] 80.94.95.15 >>> Disconnected.
+[8/1/2025 6:10:26 AM] Connection attempt from IP: 185.156.73.233...
+[8/1/2025 6:10:28 AM] ***REJECTED*** {ip: "185.156.73.233", user: "root", pass:"P@ssw0rd"}
+[8/1/2025 6:10:29 AM] 185.156.73.233 >>> Disconnected.
+[8/1/2025 6:10:41 AM] Connection attempt from IP: 134.199.232.95...
+[8/1/2025 6:10:49 AM] 134.199.232.95 >>> Disconnected.
+[8/1/2025 6:11:00 AM] Connection attempt from IP: 80.94.95.112...
+[8/1/2025 6:11:01 AM] ***REJECTED*** {ip: "80.94.95.112", user: "admin", pass:"pro1234"}
+[8/1/2025 6:11:01 AM] ***REJECTED*** {ip: "80.94.95.112", user: "admin", pass:"dirt1234"}
+[8/1/2025 6:11:01 AM] ***REJECTED*** {ip: "80.94.95.112", user: "admin", pass:"minceraft"}
+[8/1/2025 6:11:02 AM] ***REJECTED*** {ip: "80.94.95.112", user: "admin", pass:"cantor"}
+[8/1/2025 6:11:02 AM] ***REJECTED*** {ip: "80.94.95.112", user: "admin", pass:"cacaca"}
+[8/1/2025 6:11:02 AM] 80.94.95.112 >>> Disconnected.
+[8/1/2025 6:21:58 AM] Connection attempt from IP: 194.0.234.19...
+[8/1/2025 6:22:00 AM] ***REJECTED*** {ip: "194.0.234.19", user: "ubnt", pass:"davo13579"}
+[8/1/2025 6:22:00 AM] 194.0.234.19 >>> Disconnected.
+[8/1/2025 6:25:39 AM] Connection attempt from IP: 111.173.104.178...
+[8/1/2025 6:25:43 AM] Connection attempt from IP: 43.229.153.82...
+[8/1/2025 6:25:45 AM] ***REJECTED*** {ip: "43.229.153.82", user: "root", pass:"!@#!@#"}
+[8/1/2025 6:25:45 AM] ***REJECTED*** {ip: "43.229.153.82", user: "root", pass:"!@#!@#!@#"}
+[8/1/2025 6:25:46 AM] ***REJECTED*** {ip: "43.229.153.82", user: "root", pass:"!@#$"}
+[8/1/2025 6:25:46 AM] 43.229.153.82 >>> Disconnected.
+[8/1/2025 6:25:47 AM] 111.173.104.178 >>> Disconnected.
