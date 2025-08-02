@@ -37243,3 +37243,24 @@
 [8/2/2025 2:19:27 AM] 80.94.95.112 >>> Disconnected.
 [8/2/2025 2:24:55 AM] Connection attempt from IP: 194.0.234.124...
 [8/2/2025 2:25:04 AM] 194.0.234.124 >>> Disconnected.
+[8/2/2025 2:44:36 AM] Connection attempt from IP: 185.93.89.24...
+[8/2/2025 2:44:37 AM] Connection attempt from IP: 185.93.89.4...
+[8/2/2025 2:44:37 AM] ***REJECTED*** {ip: "185.93.89.24", user: "user", pass:"testtest"}
+[8/2/2025 2:44:37 AM] ***REJECTED*** {ip: "185.93.89.24", user: "user", pass:"peewee"}
+[8/2/2025 2:44:38 AM] ***REJECTED*** {ip: "185.93.89.24", user: "user", pass:"moose"}
+[8/2/2025 2:44:38 AM] ***REJECTED*** {ip: "185.93.89.24", user: "user", pass:"microsoft"}
+[8/2/2025 2:44:38 AM] ***REJECTED*** {ip: "185.93.89.24", user: "user", pass:"teacher"}
+[8/2/2025 2:44:39 AM] 185.93.89.24 >>> Disconnected.
+[8/2/2025 2:44:40 AM] ***REJECTED*** {ip: "185.93.89.4", user: "admin", pass:"admin11"}
+[8/2/2025 2:44:41 AM] ***REJECTED*** {ip: "185.93.89.4", user: "admin", pass:"avocent"}
+[8/2/2025 2:44:42 AM] ***REJECTED*** {ip: "185.93.89.4", user: "admin", pass:"changeme"}
+[8/2/2025 2:44:42 AM] ***REJECTED*** {ip: "185.93.89.4", user: "admin", pass:"power"}
+[8/2/2025 2:44:43 AM] ***REJECTED*** {ip: "185.93.89.4", user: "admin", pass:"qwer1234"}
+[8/2/2025 2:44:44 AM] 185.93.89.4 >>> Disconnected.
+[8/2/2025 2:58:19 AM] Connection attempt from IP: 185.93.89.4...
+[8/2/2025 2:58:20 AM] ***REJECTED*** {ip: "185.93.89.4", user: "admin", pass:"topo133"}
+[8/2/2025 2:58:20 AM] ***REJECTED*** {ip: "185.93.89.4", user: "admin", pass:"0l0ctyQh243O63uD"}
+[8/2/2025 2:58:21 AM] ***REJECTED*** {ip: "185.93.89.4", user: "admin", pass:"1qaz@WSX3edc"}
+[8/2/2025 2:58:21 AM] ***REJECTED*** {ip: "185.93.89.4", user: "admin", pass:"1111"}
+[8/2/2025 2:58:21 AM] ***REJECTED*** {ip: "185.93.89.4", user: "admin", pass:"system"}
+[8/2/2025 2:58:22 AM] 185.93.89.4 >>> Disconnected.
