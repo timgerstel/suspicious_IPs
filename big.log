@@ -37305,3 +37305,36 @@
 [8/2/2025 3:29:40 AM] ***REJECTED*** {ip: "185.93.89.24", user: "user", pass:"stacey"}
 [8/2/2025 3:29:40 AM] ***ACCEPTED*** {ip: "185.93.89.24", user: "user", pass:"shotgun"}
 [8/2/2025 3:29:41 AM] 185.93.89.24 >>> Disconnected.
+[8/2/2025 3:42:20 AM] Connection attempt from IP: 185.93.89.4...
+[8/2/2025 3:42:21 AM] ***REJECTED*** {ip: "185.93.89.4", user: "oracle", pass:"oracle"}
+[8/2/2025 3:42:21 AM] ***REJECTED*** {ip: "185.93.89.4", user: "oracle", pass:"abc123"}
+[8/2/2025 3:42:22 AM] ***REJECTED*** {ip: "185.93.89.4", user: "oracle", pass:"abcd123"}
+[8/2/2025 3:42:22 AM] ***REJECTED*** {ip: "185.93.89.4", user: "oracle", pass:"abcd1234"}
+[8/2/2025 3:42:22 AM] ***REJECTED*** {ip: "185.93.89.4", user: "oracle", pass:"abc1234"}
+[8/2/2025 3:42:23 AM] 185.93.89.4 >>> Disconnected.
+[8/2/2025 3:46:43 AM] Connection attempt from IP: 80.94.95.112...
+[8/2/2025 3:46:43 AM] ***REJECTED*** {ip: "80.94.95.112", user: "admin", pass:"16091984"}
+[8/2/2025 3:46:44 AM] ***REJECTED*** {ip: "80.94.95.112", user: "admin", pass:"16081990"}
+[8/2/2025 3:46:44 AM] ***REJECTED*** {ip: "80.94.95.112", user: "admin", pass:"15101989"}
+[8/2/2025 3:46:44 AM] ***REJECTED*** {ip: "80.94.95.112", user: "admin", pass:"15091986"}
+[8/2/2025 3:46:45 AM] ***REJECTED*** {ip: "80.94.95.112", user: "admin", pass:"1500"}
+[8/2/2025 3:46:45 AM] 80.94.95.112 >>> Disconnected.
+[8/2/2025 3:50:35 AM] Connection attempt from IP: 185.93.89.4...
+[8/2/2025 3:50:38 AM] ***REJECTED*** {ip: "185.93.89.4", user: "root", pass:"Root123456"}
+[8/2/2025 3:50:39 AM] ***REJECTED*** {ip: "185.93.89.4", user: "root", pass:"testtest"}
+[8/2/2025 3:50:40 AM] ***REJECTED*** {ip: "185.93.89.4", user: "root", pass:"toor"}
+[8/2/2025 3:50:41 AM] ***REJECTED*** {ip: "185.93.89.4", user: "root", pass:"111"}
+[8/2/2025 3:50:42 AM] ***REJECTED*** {ip: "185.93.89.4", user: "root", pass:"Aa123456@"}
+[8/2/2025 3:50:43 AM] 185.93.89.4 >>> Disconnected.
+[8/2/2025 3:55:34 AM] Connection attempt from IP: 8.218.160.83...
+[8/2/2025 3:55:35 AM] ***REJECTED*** {ip: "8.218.160.83", user: "root", pass:" "}
+[8/2/2025 3:55:36 AM] 8.218.160.83 >>> Disconnected.
+[8/2/2025 3:57:42 AM] Connection attempt from IP: 8.218.160.83...
+[8/2/2025 3:57:44 AM] Connection attempt from IP: 8.218.160.83...
+[8/2/2025 3:57:46 AM] Connection attempt from IP: 8.218.160.83...
+[8/2/2025 3:57:48 AM] Connection attempt from IP: 8.218.160.83...
+[8/2/2025 3:57:53 AM] ***REJECTED*** {ip: "8.218.160.83", user: "git", pass:"git"}
+[8/2/2025 3:57:53 AM] 8.218.160.83 >>> Disconnected.
+[8/2/2025 3:57:55 AM] Connection attempt from IP: 8.218.160.83...
+[8/2/2025 3:58:19 AM] 8.218.160.83 >>> Disconnected.
+[8/2/2025 3:58:28 AM] 8.218.160.83 >>> Disconnected.
