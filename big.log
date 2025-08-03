@@ -51806,3 +51806,27 @@
 [8/3/2025 1:55:54 PM] Connection attempt from IP: 78.128.112.74...
 [8/3/2025 1:55:56 PM] ***REJECTED*** {ip: "78.128.112.74", user: "support", pass:"admin007"}
 [8/3/2025 1:55:57 PM] 78.128.112.74 >>> Disconnected.
+[8/3/2025 2:17:57 PM] Connection attempt from IP: 185.93.89.4...
+[8/3/2025 2:17:59 PM] ***REJECTED*** {ip: "185.93.89.4", user: "user", pass:"user"}
+[8/3/2025 2:18:00 PM] ***REJECTED*** {ip: "185.93.89.4", user: "user", pass:"1234"}
+[8/3/2025 2:18:00 PM] ***REJECTED*** {ip: "185.93.89.4", user: "user", pass:"password"}
+[8/3/2025 2:18:01 PM] ***REJECTED*** {ip: "185.93.89.4", user: "user", pass:"admin"}
+[8/3/2025 2:18:01 PM] ***REJECTED*** {ip: "185.93.89.4", user: "user", pass:"123456"}
+[8/3/2025 2:18:02 PM] 185.93.89.4 >>> Disconnected.
+[8/3/2025 2:21:33 PM] Connection attempt from IP: 185.93.89.4...
+[8/3/2025 2:21:34 PM] ***REJECTED*** {ip: "185.93.89.4", user: "root", pass:"marseille"}
+[8/3/2025 2:21:35 PM] ***REJECTED*** {ip: "185.93.89.4", user: "root", pass:"marjorie"}
+[8/3/2025 2:21:35 PM] ***REJECTED*** {ip: "185.93.89.4", user: "root", pass:"mamamia"}
+[8/3/2025 2:21:35 PM] ***REJECTED*** {ip: "185.93.89.4", user: "root", pass:"malachi"}
+[8/3/2025 2:21:36 PM] ***REJECTED*** {ip: "185.93.89.4", user: "root", pass:"lilith"}
+[8/3/2025 2:21:36 PM] 185.93.89.4 >>> Disconnected.
+[8/3/2025 2:21:38 PM] Connection attempt from IP: 185.156.73.233...
+[8/3/2025 2:21:39 PM] ***REJECTED*** {ip: "185.156.73.233", user: "pi", pass:"pi"}
+[8/3/2025 2:21:39 PM] 185.156.73.233 >>> Disconnected.
+[8/3/2025 2:23:54 PM] Connection attempt from IP: 185.93.89.4...
+[8/3/2025 2:23:56 PM] ***REJECTED*** {ip: "185.93.89.4", user: "nushi", pass:"7777777"}
+[8/3/2025 2:23:56 PM] ***REJECTED*** {ip: "185.93.89.4", user: "nushi", pass:"nushi"}
+[8/3/2025 2:23:56 PM] ***REJECTED*** {ip: "185.93.89.4", user: "nushi", pass:"abc123"}
+[8/3/2025 2:23:57 PM] ***REJECTED*** {ip: "185.93.89.4", user: "nushi", pass:"abcd123"}
+[8/3/2025 2:23:57 PM] ***REJECTED*** {ip: "185.93.89.4", user: "nushi", pass:"abcd1234"}
+[8/3/2025 2:23:57 PM] 185.93.89.4 >>> Disconnected.
