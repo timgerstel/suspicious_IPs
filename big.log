@@ -51782,3 +51782,17 @@
 [8/3/2025 12:53:31 PM] 185.93.89.4 >>> Disconnected.
 [8/3/2025 12:53:56 PM] Connection attempt from IP: 20.46.244.172...
 [8/3/2025 12:54:06 PM] 20.46.244.172 >>> Disconnected.
+[8/3/2025 1:11:36 PM] Connection attempt from IP: 185.93.89.4...
+[8/3/2025 1:11:37 PM] ***REJECTED*** {ip: "185.93.89.4", user: "root", pass:"linux"}
+[8/3/2025 1:11:38 PM] ***REJECTED*** {ip: "185.93.89.4", user: "root", pass:"Admin@123"}
+[8/3/2025 1:11:38 PM] ***REJECTED*** {ip: "185.93.89.4", user: "root", pass:"abc123456"}
+[8/3/2025 1:11:38 PM] ***REJECTED*** {ip: "185.93.89.4", user: "root", pass:"aaaaaa"}
+[8/3/2025 1:11:39 PM] ***REJECTED*** {ip: "185.93.89.4", user: "root", pass:"kmi"}
+[8/3/2025 1:11:39 PM] 185.93.89.4 >>> Disconnected.
+[8/3/2025 1:12:27 PM] Connection attempt from IP: 185.93.89.4...
+[8/3/2025 1:12:28 PM] ***REJECTED*** {ip: "185.93.89.4", user: "root", pass:"newcastle"}
+[8/3/2025 1:12:28 PM] ***REJECTED*** {ip: "185.93.89.4", user: "root", pass:"never"}
+[8/3/2025 1:12:28 PM] ***REJECTED*** {ip: "185.93.89.4", user: "root", pass:"nana"}
+[8/3/2025 1:12:29 PM] ***REJECTED*** {ip: "185.93.89.4", user: "root", pass:"minerva"}
+[8/3/2025 1:12:29 PM] ***REJECTED*** {ip: "185.93.89.4", user: "root", pass:"megan1"}
+[8/3/2025 1:12:29 PM] 185.93.89.4 >>> Disconnected.
