@@ -57110,3 +57110,37 @@
 [8/5/2025 5:56:31 AM] ***REJECTED*** {ip: "148.178.22.18", user: "root", pass:"admin123"}
 [8/5/2025 5:56:32 AM] ***REJECTED*** {ip: "148.178.22.18", user: "root", pass:"PASSW0RD"}
 [8/5/2025 5:56:32 AM] 148.178.22.18 >>> Disconnected.
+[8/5/2025 6:20:33 AM] Connection attempt from IP: 176.65.149.231...
+[8/5/2025 6:20:35 AM] ***REJECTED*** {ip: "176.65.149.231", user: "root", pass:"admin"}
+[8/5/2025 6:20:35 AM] 176.65.149.231 >>> Disconnected.
+[8/5/2025 6:20:36 AM] Connection attempt from IP: 176.65.149.231...
+[8/5/2025 6:20:37 AM] ***REJECTED*** {ip: "176.65.149.231", user: "root", pass:"password"}
+[8/5/2025 6:20:37 AM] 176.65.149.231 >>> Disconnected.
+[8/5/2025 6:20:38 AM] Connection attempt from IP: 176.65.149.231...
+[8/5/2025 6:20:39 AM] ***REJECTED*** {ip: "176.65.149.231", user: "root", pass:"default"}
+[8/5/2025 6:20:39 AM] 176.65.149.231 >>> Disconnected.
+[8/5/2025 6:20:39 AM] Connection attempt from IP: 176.65.149.231...
+[8/5/2025 6:20:41 AM] ***REJECTED*** {ip: "176.65.149.231", user: "root", pass:"hacker"}
+[8/5/2025 6:20:41 AM] 176.65.149.231 >>> Disconnected.
+[8/5/2025 6:20:42 AM] Connection attempt from IP: 176.65.149.231...
+[8/5/2025 6:20:43 AM] ***REJECTED*** {ip: "176.65.149.231", user: "root", pass:"letmein"}
+[8/5/2025 6:20:44 AM] 176.65.149.231 >>> Disconnected.
+[8/5/2025 6:20:44 AM] Connection attempt from IP: 176.65.149.231...
+[8/5/2025 6:20:46 AM] ***REJECTED*** {ip: "176.65.149.231", user: "root", pass:"changeme"}
+[8/5/2025 6:20:46 AM] 176.65.149.231 >>> Disconnected.
+[8/5/2025 6:20:46 AM] Connection attempt from IP: 176.65.149.231...
+[8/5/2025 6:20:47 AM] ***REJECTED*** {ip: "176.65.149.231", user: "root", pass:"login"}
+[8/5/2025 6:20:48 AM] 176.65.149.231 >>> Disconnected.
+[8/5/2025 6:20:49 AM] Connection attempt from IP: 176.65.149.231...
+[8/5/2025 6:20:51 AM] ***REJECTED*** {ip: "176.65.149.231", user: "root", pass:"root"}
+[8/5/2025 6:20:51 AM] 176.65.149.231 >>> Disconnected.
+[8/5/2025 6:20:51 AM] Connection attempt from IP: 176.65.149.231...
+[8/5/2025 6:20:52 AM] ***REJECTED*** {ip: "176.65.149.231", user: "root", pass:"teacher"}
+[8/5/2025 6:20:52 AM] 176.65.149.231 >>> Disconnected.
+[8/5/2025 6:28:36 AM] Connection attempt from IP: 185.93.89.24...
+[8/5/2025 6:28:37 AM] ***REJECTED*** {ip: "185.93.89.24", user: "root", pass:"films"}
+[8/5/2025 6:28:37 AM] ***REJECTED*** {ip: "185.93.89.24", user: "root", pass:"fantomas"}
+[8/5/2025 6:28:37 AM] ***REJECTED*** {ip: "185.93.89.24", user: "root", pass:"extra"}
+[8/5/2025 6:28:37 AM] ***REJECTED*** {ip: "185.93.89.24", user: "root", pass:"ellen"}
+[8/5/2025 6:28:38 AM] ***REJECTED*** {ip: "185.93.89.24", user: "root", pass:"elcamino"}
+[8/5/2025 6:28:38 AM] 185.93.89.24 >>> Disconnected.
