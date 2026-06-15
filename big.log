@@ -2398,3 +2398,13 @@
 [6/15/2026 10:29:13 PM] Connection attempt from IP: 193.24.211.107...
 [6/15/2026 10:29:14 PM] ***REJECTED*** {ip: "193.24.211.107", user: "root", pass:"password"}
 [6/15/2026 10:29:14 PM] 193.24.211.107 >>> Disconnected.
+[6/15/2026 10:44:05 PM] Connection attempt from IP: 82.200.235.138...
+[6/15/2026 10:44:07 PM] ***REJECTED*** {ip: "82.200.235.138", user: "root", pass:"Mlpzaq123!"}
+[6/15/2026 10:44:07 PM] 82.200.235.138 >>> Disconnected.
+[6/15/2026 10:51:34 PM] Connection attempt from IP: 141.98.83.240...
+[6/15/2026 10:51:35 PM] ***REJECTED*** {ip: "141.98.83.240", user: "nichole", pass:"nichole"}
+[6/15/2026 10:51:35 PM] ***REJECTED*** {ip: "141.98.83.240", user: "nichole", pass:"7777777"}
+[6/15/2026 10:51:35 PM] ***REJECTED*** {ip: "141.98.83.240", user: "nichole", pass:"11111"}
+[6/15/2026 10:51:36 PM] 141.98.83.240 >>> Disconnected.
+[6/15/2026 10:58:14 PM] Connection attempt from IP: 205.210.31.20...
+[6/15/2026 10:58:16 PM] 205.210.31.20 >>> Disconnected.
