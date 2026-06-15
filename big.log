@@ -2375,3 +2375,26 @@
 [6/15/2026 9:58:53 PM] ***REJECTED*** {ip: "2.57.121.112", user: "julieta", pass:"julieta1234"}
 [6/15/2026 9:58:54 PM] ***REJECTED*** {ip: "2.57.121.112", user: "julieta", pass:"julieta12345"}
 [6/15/2026 9:58:54 PM] 2.57.121.112 >>> Disconnected.
+[6/15/2026 10:00:46 PM] Connection attempt from IP: 213.209.159.56...
+[6/15/2026 10:00:47 PM] ***REJECTED*** {ip: "213.209.159.56", user: "user", pass:"yess"}
+[6/15/2026 10:00:47 PM] ***REJECTED*** {ip: "213.209.159.56", user: "user", pass:"xrated"}
+[6/15/2026 10:00:47 PM] ***REJECTED*** {ip: "213.209.159.56", user: "user", pass:"wtpfhm"}
+[6/15/2026 10:00:47 PM] ***REJECTED*** {ip: "213.209.159.56", user: "user", pass:"wolfwolf"}
+[6/15/2026 10:00:48 PM] ***REJECTED*** {ip: "213.209.159.56", user: "user", pass:"wobble"}
+[6/15/2026 10:00:48 PM] 213.209.159.56 >>> Disconnected.
+[6/15/2026 10:16:01 PM] Connection attempt from IP: 141.98.83.240...
+[6/15/2026 10:16:03 PM] ***REJECTED*** {ip: "141.98.83.240", user: "root", pass:"hello"}
+[6/15/2026 10:16:03 PM] ***REJECTED*** {ip: "141.98.83.240", user: "root", pass:"linux"}
+[6/15/2026 10:16:03 PM] ***REJECTED*** {ip: "141.98.83.240", user: "root", pass:"123456789"}
+[6/15/2026 10:16:04 PM] 141.98.83.240 >>> Disconnected.
+[6/15/2026 10:20:27 PM] Connection attempt from IP: 193.46.255.86...
+[6/15/2026 10:20:28 PM] ***REJECTED*** {ip: "193.46.255.86", user: "admin", pass:"password"}
+[6/15/2026 10:20:28 PM] ***REJECTED*** {ip: "193.46.255.86", user: "admin", pass:"Admin@123"}
+[6/15/2026 10:20:29 PM] ***REJECTED*** {ip: "193.46.255.86", user: "admin", pass:"admin1"}
+[6/15/2026 10:20:29 PM] 193.46.255.86 >>> Disconnected.
+[6/15/2026 10:28:17 PM] Connection attempt from IP: 45.148.10.121...
+[6/15/2026 10:28:18 PM] ***REJECTED*** {ip: "45.148.10.121", user: "admin", pass:"password"}
+[6/15/2026 10:28:19 PM] 45.148.10.121 >>> Disconnected.
+[6/15/2026 10:29:13 PM] Connection attempt from IP: 193.24.211.107...
+[6/15/2026 10:29:14 PM] ***REJECTED*** {ip: "193.24.211.107", user: "root", pass:"password"}
+[6/15/2026 10:29:14 PM] 193.24.211.107 >>> Disconnected.
