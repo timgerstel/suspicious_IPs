@@ -3896,3 +3896,26 @@
 [6/16/2026 1:44:54 AM] ***REJECTED*** {ip: "141.98.83.240", user: "antony", pass:"7777777"}
 [6/16/2026 1:44:54 AM] ***REJECTED*** {ip: "141.98.83.240", user: "antony", pass:"11111"}
 [6/16/2026 1:44:54 AM] 141.98.83.240 >>> Disconnected.
+[6/16/2026 2:00:36 AM] Connection attempt from IP: 193.24.211.107...
+[6/16/2026 2:00:37 AM] ***REJECTED*** {ip: "193.24.211.107", user: "alain", pass:"alain"}
+[6/16/2026 2:00:37 AM] 193.24.211.107 >>> Disconnected.
+[6/16/2026 2:19:09 AM] Connection attempt from IP: 141.98.83.240...
+[6/16/2026 2:19:10 AM] ***REJECTED*** {ip: "141.98.83.240", user: "admin", pass:"bubba2"}
+[6/16/2026 2:19:10 AM] ***REJECTED*** {ip: "141.98.83.240", user: "admin", pass:"google@1234"}
+[6/16/2026 2:19:11 AM] ***REJECTED*** {ip: "141.98.83.240", user: "admin", pass:"root"}
+[6/16/2026 2:19:11 AM] 141.98.83.240 >>> Disconnected.
+[6/16/2026 2:21:53 AM] Connection attempt from IP: 213.209.159.56...
+[6/16/2026 2:21:54 AM] ***REJECTED*** {ip: "213.209.159.56", user: "user", pass:"vadimka"}
+[6/16/2026 2:21:54 AM] ***REJECTED*** {ip: "213.209.159.56", user: "user", pass:"useless"}
+[6/16/2026 2:21:54 AM] ***REJECTED*** {ip: "213.209.159.56", user: "user", pass:"tytyty"}
+[6/16/2026 2:21:55 AM] ***REJECTED*** {ip: "213.209.159.56", user: "user", pass:"tyrell"}
+[6/16/2026 2:21:55 AM] ***REJECTED*** {ip: "213.209.159.56", user: "user", pass:"tribes"}
+[6/16/2026 2:21:55 AM] 213.209.159.56 >>> Disconnected.
+[6/16/2026 2:24:57 AM] Connection attempt from IP: 35.233.77.25...
+[6/16/2026 2:24:57 AM] Connection attempt from IP: 35.233.77.25...
+[6/16/2026 2:24:58 AM] 35.233.77.25 >>> Disconnected.
+[6/16/2026 2:27:33 AM] Connection attempt from IP: 193.46.255.86...
+[6/16/2026 2:27:35 AM] ***REJECTED*** {ip: "193.46.255.86", user: "root", pass:"aDm8H%MdA"}
+[6/16/2026 2:27:35 AM] ***REJECTED*** {ip: "193.46.255.86", user: "root", pass:"stfu_and_be_quite"}
+[6/16/2026 2:27:35 AM] ***REJECTED*** {ip: "193.46.255.86", user: "root", pass:"Aa112211"}
+[6/16/2026 2:27:36 AM] 193.46.255.86 >>> Disconnected.
