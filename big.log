@@ -5131,3 +5131,15 @@
 [6/16/2026 6:53:54 AM] Connection attempt from IP: 193.24.211.107...
 [6/16/2026 6:53:55 AM] ***REJECTED*** {ip: "193.24.211.107", user: "mother", pass:"fucker"}
 [6/16/2026 6:53:56 AM] 193.24.211.107 >>> Disconnected.
+[6/16/2026 7:20:10 AM] Connection attempt from IP: 45.148.10.121...
+[6/16/2026 7:20:11 AM] 45.148.10.121 >>> Disconnected.
+[6/16/2026 7:20:25 AM] Connection attempt from IP: 193.46.255.86...
+[6/16/2026 7:20:26 AM] ***REJECTED*** {ip: "193.46.255.86", user: "squid", pass:"squid"}
+[6/16/2026 7:20:26 AM] ***REJECTED*** {ip: "193.46.255.86", user: "squid", pass:"7777777"}
+[6/16/2026 7:20:26 AM] ***REJECTED*** {ip: "193.46.255.86", user: "squid", pass:"11111"}
+[6/16/2026 7:20:27 AM] 193.46.255.86 >>> Disconnected.
+[6/16/2026 7:21:41 AM] Connection attempt from IP: 141.98.83.240...
+[6/16/2026 7:21:43 AM] ***REJECTED*** {ip: "141.98.83.240", user: "admin", pass:"admin@321"}
+[6/16/2026 7:21:43 AM] ***REJECTED*** {ip: "141.98.83.240", user: "admin", pass:"roberto1"}
+[6/16/2026 7:21:43 AM] ***REJECTED*** {ip: "141.98.83.240", user: "admin", pass:"171819"}
+[6/16/2026 7:21:44 AM] 141.98.83.240 >>> Disconnected.
