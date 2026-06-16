@@ -6796,3 +6796,22 @@
 [6/16/2026 2:53:59 PM] ***REJECTED*** {ip: "193.46.255.86", user: "admin", pass:"admin1234"}
 [6/16/2026 2:53:59 PM] ***REJECTED*** {ip: "193.46.255.86", user: "admin", pass:"Welcome1"}
 [6/16/2026 2:53:59 PM] 193.46.255.86 >>> Disconnected.
+[6/16/2026 3:00:40 PM] Connection attempt from IP: 141.98.83.240...
+[6/16/2026 3:00:41 PM] ***REJECTED*** {ip: "141.98.83.240", user: "admin", pass:"system"}
+[6/16/2026 3:00:42 PM] ***REJECTED*** {ip: "141.98.83.240", user: "admin", pass:"foley"}
+[6/16/2026 3:00:42 PM] ***REJECTED*** {ip: "141.98.83.240", user: "admin", pass:"140285"}
+[6/16/2026 3:00:42 PM] 141.98.83.240 >>> Disconnected.
+[6/16/2026 3:02:11 PM] Connection attempt from IP: 45.148.10.121...
+[6/16/2026 3:02:11 PM] 45.148.10.121 >>> Disconnected.
+[6/16/2026 3:13:41 PM] Connection attempt from IP: 213.209.159.56...
+[6/16/2026 3:13:42 PM] ***REJECTED*** {ip: "213.209.159.56", user: "user", pass:"sorry"}
+[6/16/2026 3:13:42 PM] ***REJECTED*** {ip: "213.209.159.56", user: "user", pass:"snikers"}
+[6/16/2026 3:13:42 PM] ***REJECTED*** {ip: "213.209.159.56", user: "user", pass:"sneaker"}
+[6/16/2026 3:13:42 PM] ***REJECTED*** {ip: "213.209.159.56", user: "user", pass:"slut69"}
+[6/16/2026 3:13:43 PM] ***REJECTED*** {ip: "213.209.159.56", user: "user", pass:"slayer666"}
+[6/16/2026 3:13:45 PM] 213.209.159.56 >>> Disconnected.
+[6/16/2026 3:19:55 PM] Connection attempt from IP: 2.57.121.25...
+[6/16/2026 3:19:56 PM] ***REJECTED*** {ip: "2.57.121.25", user: "admin", pass:"vfvfvskfhfve"}
+[6/16/2026 3:19:56 PM] ***REJECTED*** {ip: "2.57.121.25", user: "admin", pass:"vfhbyrf"}
+[6/16/2026 3:19:56 PM] ***REJECTED*** {ip: "2.57.121.25", user: "admin", pass:"valdez"}
+[6/16/2026 3:19:57 PM] 2.57.121.25 >>> Disconnected.
