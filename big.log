@@ -6535,3 +6535,13 @@
 [6/16/2026 1:23:21 PM] ***REJECTED*** {ip: "141.98.83.240", user: "mariam", pass:"7777777"}
 [6/16/2026 1:23:21 PM] ***REJECTED*** {ip: "141.98.83.240", user: "mariam", pass:"11111"}
 [6/16/2026 1:23:22 PM] 141.98.83.240 >>> Disconnected.
+[6/16/2026 1:55:46 PM] Connection attempt from IP: 141.98.83.240...
+[6/16/2026 1:55:47 PM] ***REJECTED*** {ip: "141.98.83.240", user: "user", pass:"rocketman"}
+[6/16/2026 1:55:48 PM] ***REJECTED*** {ip: "141.98.83.240", user: "user", pass:"brandon1"}
+[6/16/2026 1:55:48 PM] ***REJECTED*** {ip: "141.98.83.240", user: "user", pass:"creation"}
+[6/16/2026 1:55:48 PM] 141.98.83.240 >>> Disconnected.
+[6/16/2026 1:59:17 PM] Connection attempt from IP: 193.46.255.86...
+[6/16/2026 1:59:18 PM] ***REJECTED*** {ip: "193.46.255.86", user: "yue", pass:"yue"}
+[6/16/2026 1:59:18 PM] ***REJECTED*** {ip: "193.46.255.86", user: "yue", pass:"7777777"}
+[6/16/2026 1:59:19 PM] ***REJECTED*** {ip: "193.46.255.86", user: "yue", pass:"11111"}
+[6/16/2026 1:59:19 PM] 193.46.255.86 >>> Disconnected.
