@@ -6925,3 +6925,35 @@
 [6/16/2026 5:28:05 PM] Connection attempt from IP: 170.64.167.72...
 [6/16/2026 5:28:10 PM] 170.64.167.72 >>> Disconnected.
 [6/16/2026 5:28:11 PM] 185.169.181.49 >>> Disconnected.
+[6/16/2026 5:30:57 PM] Connection attempt from IP: 193.46.255.86...
+[6/16/2026 5:30:58 PM] ***REJECTED*** {ip: "193.46.255.86", user: "admin", pass:"pfsense"}
+[6/16/2026 5:30:58 PM] ***ACCEPTED*** {ip: "193.46.255.86", user: "admin", pass:"Xpon@Olt9417#"}
+[6/16/2026 5:30:59 PM] 193.46.255.86 >>> Disconnected.
+[6/16/2026 5:38:53 PM] Connection attempt from IP: 2.57.121.25...
+[6/16/2026 5:38:54 PM] ***REJECTED*** {ip: "2.57.121.25", user: "admin", pass:"tyrell"}
+[6/16/2026 5:38:54 PM] ***REJECTED*** {ip: "2.57.121.25", user: "admin", pass:"tribes"}
+[6/16/2026 5:38:55 PM] ***REJECTED*** {ip: "2.57.121.25", user: "admin", pass:"trewq"}
+[6/16/2026 5:38:55 PM] 2.57.121.25 >>> Disconnected.
+[6/16/2026 5:40:00 PM] Connection attempt from IP: 213.209.159.56...
+[6/16/2026 5:40:01 PM] ***REJECTED*** {ip: "213.209.159.56", user: "user", pass:"skazka"}
+[6/16/2026 5:40:01 PM] ***REJECTED*** {ip: "213.209.159.56", user: "user", pass:"sixtynine"}
+[6/16/2026 5:40:01 PM] ***REJECTED*** {ip: "213.209.159.56", user: "user", pass:"sinjin"}
+[6/16/2026 5:40:02 PM] ***REJECTED*** {ip: "213.209.159.56", user: "user", pass:"sincere"}
+[6/16/2026 5:40:02 PM] ***REJECTED*** {ip: "213.209.159.56", user: "user", pass:"side"}
+[6/16/2026 5:40:02 PM] 213.209.159.56 >>> Disconnected.
+[6/16/2026 5:42:23 PM] Connection attempt from IP: 141.98.83.240...
+[6/16/2026 5:42:25 PM] ***REJECTED*** {ip: "141.98.83.240", user: "admin", pass:"29101995"}
+[6/16/2026 5:42:25 PM] ***REJECTED*** {ip: "141.98.83.240", user: "admin", pass:"franko"}
+[6/16/2026 5:42:25 PM] ***REJECTED*** {ip: "141.98.83.240", user: "admin", pass:"0sNsJ2MX4PWF"}
+[6/16/2026 5:42:25 PM] 141.98.83.240 >>> Disconnected.
+[6/16/2026 5:58:14 PM] Connection attempt from IP: 45.148.10.121...
+[6/16/2026 5:58:15 PM] ***REJECTED*** {ip: "45.148.10.121", user: "root", pass:"root"}
+[6/16/2026 5:58:15 PM] 45.148.10.121 >>> Disconnected.
+[6/16/2026 5:58:17 PM] Connection attempt from IP: 2.57.121.112...
+[6/16/2026 5:58:18 PM] ***REJECTED*** {ip: "2.57.121.112", user: "sanjana", pass:"sanjana"}
+[6/16/2026 5:58:18 PM] ***REJECTED*** {ip: "2.57.121.112", user: "sanjana", pass:"sanjana1"}
+[6/16/2026 5:58:18 PM] ***REJECTED*** {ip: "2.57.121.112", user: "sanjana", pass:"sanjana123"}
+[6/16/2026 5:58:19 PM] ***REJECTED*** {ip: "2.57.121.112", user: "sanjana", pass:"sanjana1234"}
+[6/16/2026 5:58:19 PM] ***REJECTED*** {ip: "2.57.121.112", user: "sanjana", pass:"sanjana12345"}
+[6/16/2026 5:58:19 PM] 2.57.121.112 >>> Disconnected.
+[6/16/2026 5:59:06 PM] Connection attempt from IP: 194.50.235.139...
