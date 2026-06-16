@@ -3796,3 +3796,24 @@
 [6/16/2026 12:26:41 AM] ***REJECTED*** {ip: "193.46.255.86", user: "username", pass:"username1"}
 [6/16/2026 12:26:41 AM] ***REJECTED*** {ip: "193.46.255.86", user: "username", pass:"abcd123"}
 [6/16/2026 12:26:41 AM] 193.46.255.86 >>> Disconnected.
+[6/16/2026 12:35:23 AM] Connection attempt from IP: 178.20.210.208...
+[6/16/2026 12:35:24 AM] ***REJECTED*** {ip: "178.20.210.208", user: "maint", pass:"maint"}
+[6/16/2026 12:35:25 AM] 178.20.210.208 >>> Disconnected.
+[6/16/2026 12:35:55 AM] Connection attempt from IP: 193.24.211.107...
+[6/16/2026 12:35:56 AM] ***REJECTED*** {ip: "193.24.211.107", user: "test", pass:"test"}
+[6/16/2026 12:35:56 AM] 193.24.211.107 >>> Disconnected.
+[6/16/2026 12:36:12 AM] Connection attempt from IP: 141.98.83.240...
+[6/16/2026 12:36:14 AM] ***REJECTED*** {ip: "141.98.83.240", user: "admin", pass:"0407"}
+[6/16/2026 12:36:14 AM] ***REJECTED*** {ip: "141.98.83.240", user: "admin", pass:"admin#123"}
+[6/16/2026 12:36:14 AM] ***REJECTED*** {ip: "141.98.83.240", user: "admin", pass:"admin888"}
+[6/16/2026 12:36:15 AM] 141.98.83.240 >>> Disconnected.
+[6/16/2026 12:48:47 AM] Connection attempt from IP: 178.20.210.208...
+[6/16/2026 12:48:48 AM] ***ACCEPTED*** {ip: "178.20.210.208", user: "user3", pass:"12345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678"}
+[6/16/2026 12:48:49 AM] 178.20.210.208 >>> Disconnected.
+[6/16/2026 12:57:46 AM] Connection attempt from IP: 213.209.159.56...
+[6/16/2026 12:57:46 AM] ***REJECTED*** {ip: "213.209.159.56", user: "user", pass:"vthctltc"}
+[6/16/2026 12:57:47 AM] ***REJECTED*** {ip: "213.209.159.56", user: "user", pass:"voyage"}
+[6/16/2026 12:57:47 AM] ***REJECTED*** {ip: "213.209.159.56", user: "user", pass:"vfvfvskfhfve"}
+[6/16/2026 12:57:47 AM] ***REJECTED*** {ip: "213.209.159.56", user: "user", pass:"vfhbyrf"}
+[6/16/2026 12:57:47 AM] ***REJECTED*** {ip: "213.209.159.56", user: "user", pass:"valdez"}
+[6/16/2026 12:57:48 AM] 213.209.159.56 >>> Disconnected.
