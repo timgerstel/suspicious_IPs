@@ -6855,3 +6855,28 @@
 [6/16/2026 4:29:43 PM] ***REJECTED*** {ip: "2.57.121.25", user: "admin", pass:"useless"}
 [6/16/2026 4:29:43 PM] ***REJECTED*** {ip: "2.57.121.25", user: "admin", pass:"tytyty"}
 [6/16/2026 4:29:44 PM] 2.57.121.25 >>> Disconnected.
+[6/16/2026 4:30:52 PM] Connection attempt from IP: 193.24.211.107...
+[6/16/2026 4:30:53 PM] ***REJECTED*** {ip: "193.24.211.107", user: "username", pass:"password"}
+[6/16/2026 4:30:53 PM] 193.24.211.107 >>> Disconnected.
+[6/16/2026 4:34:21 PM] Connection attempt from IP: 193.46.255.86...
+[6/16/2026 4:34:22 PM] ***REJECTED*** {ip: "193.46.255.86", user: "root", pass:"5nWt3P-fF4WosQm5O"}
+[6/16/2026 4:34:23 PM] ***REJECTED*** {ip: "193.46.255.86", user: "root", pass:"root123"}
+[6/16/2026 4:34:23 PM] ***REJECTED*** {ip: "193.46.255.86", user: "root", pass:"admin123"}
+[6/16/2026 4:34:23 PM] 193.46.255.86 >>> Disconnected.
+[6/16/2026 4:37:56 PM] Connection attempt from IP: 141.98.83.240...
+[6/16/2026 4:37:57 PM] ***REJECTED*** {ip: "141.98.83.240", user: "guadalupe", pass:"guadalupe"}
+[6/16/2026 4:37:57 PM] ***REJECTED*** {ip: "141.98.83.240", user: "guadalupe", pass:"7777777"}
+[6/16/2026 4:37:58 PM] ***REJECTED*** {ip: "141.98.83.240", user: "guadalupe", pass:"11111"}
+[6/16/2026 4:37:58 PM] 141.98.83.240 >>> Disconnected.
+[6/16/2026 4:51:38 PM] Connection attempt from IP: 45.148.10.121...
+[6/16/2026 4:51:39 PM] ***REJECTED*** {ip: "45.148.10.121", user: "root", pass:"admin"}
+[6/16/2026 4:51:40 PM] 45.148.10.121 >>> Disconnected.
+[6/16/2026 4:56:45 PM] Connection attempt from IP: 185.169.181.49...
+[6/16/2026 4:56:53 PM] Connection attempt from IP: 101.126.135.131...
+[6/16/2026 4:57:01 PM] 101.126.135.131 >>> Disconnected.
+[6/16/2026 4:57:31 PM] ***REJECTED*** {ip: "185.169.181.49", user: "root", pass:"Root1234"}
+[6/16/2026 4:57:51 PM] 185.169.181.49 >>> Disconnected.
+[6/16/2026 4:58:18 PM] Connection attempt from IP: 185.169.181.49...
+[6/16/2026 4:59:16 PM] ***REJECTED*** {ip: "185.169.181.49", user: "orangepi", pass:"orangepi"}
+[6/16/2026 4:59:31 PM] 185.169.181.49 >>> Disconnected.
+[6/16/2026 4:59:38 PM] Connection attempt from IP: 185.169.181.49...
