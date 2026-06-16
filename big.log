@@ -4490,3 +4490,10 @@
 [6/16/2026 3:28:18 AM] ***REJECTED*** {ip: "193.46.255.86", user: "demo", pass:"demo"}
 [6/16/2026 3:28:18 AM] ***REJECTED*** {ip: "193.46.255.86", user: "demo", pass:"1234"}
 [6/16/2026 3:28:18 AM] 193.46.255.86 >>> Disconnected.
+[6/16/2026 3:51:03 AM] Connection attempt from IP: 213.209.159.56...
+[6/16/2026 3:51:03 AM] ***REJECTED*** {ip: "213.209.159.56", user: "user", pass:"trewq"}
+[6/16/2026 3:51:03 AM] ***REJECTED*** {ip: "213.209.159.56", user: "user", pass:"touchme"}
+[6/16/2026 3:51:04 AM] ***REJECTED*** {ip: "213.209.159.56", user: "user", pass:"touchdow"}
+[6/16/2026 3:51:04 AM] ***REJECTED*** {ip: "213.209.159.56", user: "user", pass:"tomate"}
+[6/16/2026 3:51:04 AM] ***REJECTED*** {ip: "213.209.159.56", user: "user", pass:"toggle"}
+[6/16/2026 3:51:06 AM] 213.209.159.56 >>> Disconnected.
