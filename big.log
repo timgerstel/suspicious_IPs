@@ -4516,3 +4516,16 @@
 [6/16/2026 4:26:34 AM] ***REJECTED*** {ip: "193.46.255.86", user: "test", pass:"test1234"}
 [6/16/2026 4:26:35 AM] ***REJECTED*** {ip: "193.46.255.86", user: "test", pass:"test123"}
 [6/16/2026 4:26:35 AM] 193.46.255.86 >>> Disconnected.
+[6/16/2026 4:34:49 AM] Connection attempt from IP: 141.98.83.240...
+[6/16/2026 4:34:50 AM] ***REJECTED*** {ip: "141.98.83.240", user: "jaquelin", pass:"jaquelin"}
+[6/16/2026 4:34:51 AM] ***REJECTED*** {ip: "141.98.83.240", user: "jaquelin", pass:"7777777"}
+[6/16/2026 4:34:51 AM] ***REJECTED*** {ip: "141.98.83.240", user: "jaquelin", pass:"11111"}
+[6/16/2026 4:34:51 AM] 141.98.83.240 >>> Disconnected.
+[6/16/2026 4:36:50 AM] Connection attempt from IP: 45.148.10.121...
+[6/16/2026 4:36:51 AM] ***REJECTED*** {ip: "45.148.10.121", user: "AdminGPON", pass:"ALC#FGU"}
+[6/16/2026 4:36:51 AM] 45.148.10.121 >>> Disconnected.
+[6/16/2026 4:47:53 AM] Connection attempt from IP: 170.64.167.72...
+[6/16/2026 4:47:59 AM] 170.64.167.72 >>> Disconnected.
+[6/16/2026 4:53:16 AM] Connection attempt from IP: 193.24.211.107...
+[6/16/2026 4:53:17 AM] ***REJECTED*** {ip: "193.24.211.107", user: "admin", pass:"password"}
+[6/16/2026 4:53:17 AM] 193.24.211.107 >>> Disconnected.
