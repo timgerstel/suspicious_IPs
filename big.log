@@ -7143,3 +7143,21 @@
 [6/16/2026 6:27:03 PM] ***REJECTED*** {ip: "193.46.255.86", user: "ubnt", pass:"abcd1234"}
 [6/16/2026 6:27:03 PM] ***REJECTED*** {ip: "193.46.255.86", user: "ubnt", pass:"password"}
 [6/16/2026 6:27:04 PM] 193.46.255.86 >>> Disconnected.
+[6/16/2026 6:30:38 PM] Connection attempt from IP: 45.148.10.121...
+[6/16/2026 6:30:39 PM] ***REJECTED*** {ip: "45.148.10.121", user: "ubnt", pass:"ubnt"}
+[6/16/2026 6:30:39 PM] 45.148.10.121 >>> Disconnected.
+[6/16/2026 6:46:35 PM] Connection attempt from IP: 141.98.83.240...
+[6/16/2026 6:46:37 PM] ***REJECTED*** {ip: "141.98.83.240", user: "racheal", pass:"racheal"}
+[6/16/2026 6:46:37 PM] ***REJECTED*** {ip: "141.98.83.240", user: "racheal", pass:"7777777"}
+[6/16/2026 6:46:37 PM] ***REJECTED*** {ip: "141.98.83.240", user: "racheal", pass:"11111"}
+[6/16/2026 6:46:38 PM] 141.98.83.240 >>> Disconnected.
+[6/16/2026 6:47:42 PM] Connection attempt from IP: 2.57.121.25...
+[6/16/2026 6:47:43 PM] ***REJECTED*** {ip: "2.57.121.25", user: "admin", pass:"touchme"}
+[6/16/2026 6:47:43 PM] ***REJECTED*** {ip: "2.57.121.25", user: "admin", pass:"touchdow"}
+[6/16/2026 6:47:43 PM] ***REJECTED*** {ip: "2.57.121.25", user: "admin", pass:"tomate"}
+[6/16/2026 6:47:44 PM] 2.57.121.25 >>> Disconnected.
+[6/16/2026 6:52:03 PM] Connection attempt from IP: 193.24.211.107...
+[6/16/2026 6:52:04 PM] ***REJECTED*** {ip: "193.24.211.107", user: "logout", pass:"logout"}
+[6/16/2026 6:52:05 PM] 193.24.211.107 >>> Disconnected.
+[6/16/2026 6:57:50 PM] Connection attempt from IP: 45.148.10.121...
+[6/16/2026 6:57:51 PM] 45.148.10.121 >>> Disconnected.
