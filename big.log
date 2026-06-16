@@ -7203,3 +7203,34 @@
 [6/16/2026 7:56:09 PM] 2.57.121.25 >>> Disconnected.
 [6/16/2026 7:57:41 PM] Connection attempt from IP: 45.148.10.121...
 [6/16/2026 7:57:42 PM] 45.148.10.121 >>> Disconnected.
+[6/16/2026 8:05:52 PM] Connection attempt from IP: 178.20.210.208...
+[6/16/2026 8:05:53 PM] ***REJECTED*** {ip: "178.20.210.208", user: "root", pass:"rodrigo"}
+[6/16/2026 8:05:53 PM] 178.20.210.208 >>> Disconnected.
+[6/16/2026 8:10:38 PM] Connection attempt from IP: 103.203.57.2...
+[6/16/2026 8:10:48 PM] 103.203.57.2 >>> Disconnected.
+[6/16/2026 8:16:19 PM] Connection attempt from IP: 213.209.159.56...
+[6/16/2026 8:16:20 PM] ***REJECTED*** {ip: "213.209.159.56", user: "user", pass:"sheltie"}
+[6/16/2026 8:16:20 PM] ***REJECTED*** {ip: "213.209.159.56", user: "user", pass:"shadow2"}
+[6/16/2026 8:16:20 PM] ***REJECTED*** {ip: "213.209.159.56", user: "user", pass:"shadow01"}
+[6/16/2026 8:16:20 PM] ***REJECTED*** {ip: "213.209.159.56", user: "user", pass:"sex1"}
+[6/16/2026 8:16:21 PM] ***REJECTED*** {ip: "213.209.159.56", user: "user", pass:"serial"}
+[6/16/2026 8:16:26 PM] 213.209.159.56 >>> Disconnected.
+[6/16/2026 8:18:49 PM] Connection attempt from IP: 193.46.255.86...
+[6/16/2026 8:18:50 PM] ***REJECTED*** {ip: "193.46.255.86", user: "admin", pass:"admins"}
+[6/16/2026 8:18:50 PM] ***REJECTED*** {ip: "193.46.255.86", user: "admin", pass:"228228"}
+[6/16/2026 8:18:51 PM] ***REJECTED*** {ip: "193.46.255.86", user: "admin", pass:"vertex25"}
+[6/16/2026 8:18:51 PM] 193.46.255.86 >>> Disconnected.
+[6/16/2026 8:21:13 PM] Connection attempt from IP: 178.20.210.208...
+[6/16/2026 8:21:14 PM] ***REJECTED*** {ip: "178.20.210.208", user: "rodrigo", pass:"rodrigo"}
+[6/16/2026 8:21:14 PM] 178.20.210.208 >>> Disconnected.
+[6/16/2026 8:22:54 PM] Connection attempt from IP: 141.98.83.240...
+[6/16/2026 8:22:55 PM] ***REJECTED*** {ip: "141.98.83.240", user: "admin", pass:"27061981"}
+[6/16/2026 8:22:55 PM] ***REJECTED*** {ip: "141.98.83.240", user: "admin", pass:"booger"}
+[6/16/2026 8:22:56 PM] ***REJECTED*** {ip: "141.98.83.240", user: "admin", pass:"0l0ctyQh243O63uD"}
+[6/16/2026 8:22:56 PM] 141.98.83.240 >>> Disconnected.
+[6/16/2026 8:24:18 PM] Connection attempt from IP: 193.24.211.107...
+[6/16/2026 8:24:19 PM] ***REJECTED*** {ip: "193.24.211.107", user: "ubuntu", pass:"test"}
+[6/16/2026 8:24:20 PM] 193.24.211.107 >>> Disconnected.
+[6/16/2026 8:29:58 PM] Connection attempt from IP: 45.148.10.121...
+[6/16/2026 8:29:59 PM] ***REJECTED*** {ip: "45.148.10.121", user: "root", pass:"password"}
+[6/16/2026 8:29:59 PM] 45.148.10.121 >>> Disconnected.
