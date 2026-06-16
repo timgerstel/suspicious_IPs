@@ -7161,3 +7161,17 @@
 [6/16/2026 6:52:05 PM] 193.24.211.107 >>> Disconnected.
 [6/16/2026 6:57:50 PM] Connection attempt from IP: 45.148.10.121...
 [6/16/2026 6:57:51 PM] 45.148.10.121 >>> Disconnected.
+[6/16/2026 7:03:28 PM] Connection attempt from IP: 45.148.10.147...
+[6/16/2026 7:18:30 PM] Connection attempt from IP: 141.98.83.240...
+[6/16/2026 7:18:31 PM] ***REJECTED*** {ip: "141.98.83.240", user: "root", pass:"ruijie@123"}
+[6/16/2026 7:18:31 PM] ***REJECTED*** {ip: "141.98.83.240", user: "root", pass:"oelinux123"}
+[6/16/2026 7:18:32 PM] ***REJECTED*** {ip: "141.98.83.240", user: "root", pass:"zip"}
+[6/16/2026 7:18:32 PM] 141.98.83.240 >>> Disconnected.
+[6/16/2026 7:22:42 PM] Connection attempt from IP: 193.46.255.86...
+[6/16/2026 7:22:43 PM] ***REJECTED*** {ip: "193.46.255.86", user: "root", pass:"Admin@123456"}
+[6/16/2026 7:22:43 PM] ***REJECTED*** {ip: "193.46.255.86", user: "root", pass:"Abcd1234"}
+[6/16/2026 7:22:43 PM] ***REJECTED*** {ip: "193.46.255.86", user: "root", pass:"Admin123"}
+[6/16/2026 7:22:44 PM] 193.46.255.86 >>> Disconnected.
+[6/16/2026 7:27:23 PM] Connection attempt from IP: 101.126.147.62...
+[6/16/2026 7:27:24 PM] ***REJECTED*** {ip: "101.126.147.62", user: "a", pass:"a"}
+[6/16/2026 7:27:25 PM] 101.126.147.62 >>> Disconnected.
