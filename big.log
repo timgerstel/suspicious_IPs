@@ -7234,3 +7234,14 @@
 [6/16/2026 8:29:58 PM] Connection attempt from IP: 45.148.10.121...
 [6/16/2026 8:29:59 PM] ***REJECTED*** {ip: "45.148.10.121", user: "root", pass:"password"}
 [6/16/2026 8:29:59 PM] 45.148.10.121 >>> Disconnected.
+[6/16/2026 8:36:11 PM] Connection attempt from IP: 178.20.210.208...
+[6/16/2026 8:36:12 PM] ***REJECTED*** {ip: "178.20.210.208", user: "oneb", pass:"oneb@2022"}
+[6/16/2026 8:36:13 PM] 178.20.210.208 >>> Disconnected.
+[6/16/2026 8:50:59 PM] Connection attempt from IP: 178.20.210.208...
+[6/16/2026 8:51:00 PM] ***REJECTED*** {ip: "178.20.210.208", user: "oneb", pass:"oneb"}
+[6/16/2026 8:51:01 PM] 178.20.210.208 >>> Disconnected.
+[6/16/2026 8:54:50 PM] Connection attempt from IP: 141.98.83.240...
+[6/16/2026 8:54:51 PM] ***REJECTED*** {ip: "141.98.83.240", user: "francis", pass:"francis123"}
+[6/16/2026 8:54:51 PM] ***REJECTED*** {ip: "141.98.83.240", user: "francis", pass:"francis"}
+[6/16/2026 8:54:52 PM] ***REJECTED*** {ip: "141.98.83.240", user: "francis", pass:"7777777"}
+[6/16/2026 8:54:52 PM] 141.98.83.240 >>> Disconnected.
