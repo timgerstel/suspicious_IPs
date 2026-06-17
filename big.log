@@ -9387,3 +9387,25 @@
 [6/17/2026 3:25:59 PM] Connection attempt from IP: 45.148.10.121...
 [6/17/2026 3:26:00 PM] ***REJECTED*** {ip: "45.148.10.121", user: "AdminGPON", pass:"ALC#FGU"}
 [6/17/2026 3:26:01 PM] 45.148.10.121 >>> Disconnected.
+[6/17/2026 3:36:07 PM] Connection attempt from IP: 141.98.83.240...
+[6/17/2026 3:36:09 PM] ***REJECTED*** {ip: "141.98.83.240", user: "root", pass:"Huawei@123"}
+[6/17/2026 3:36:09 PM] ***REJECTED*** {ip: "141.98.83.240", user: "root", pass:"qweasdzxc@"}
+[6/17/2026 3:36:09 PM] ***REJECTED*** {ip: "141.98.83.240", user: "root", pass:"test@123"}
+[6/17/2026 3:36:10 PM] 141.98.83.240 >>> Disconnected.
+[6/17/2026 3:43:09 PM] Connection attempt from IP: 2.57.121.25...
+[6/17/2026 3:43:11 PM] ***REJECTED*** {ip: "2.57.121.25", user: "admin", pass:"rfkbyf"}
+[6/17/2026 3:43:11 PM] ***REJECTED*** {ip: "2.57.121.25", user: "admin", pass:"rfhfgep"}
+[6/17/2026 3:43:11 PM] ***REJECTED*** {ip: "2.57.121.25", user: "admin", pass:"rexrex"}
+[6/17/2026 3:43:12 PM] 2.57.121.25 >>> Disconnected.
+[6/17/2026 3:47:03 PM] Connection attempt from IP: 2.57.121.112...
+[6/17/2026 3:47:04 PM] ***REJECTED*** {ip: "2.57.121.112", user: "bethanie", pass:"bethanie"}
+[6/17/2026 3:47:04 PM] ***REJECTED*** {ip: "2.57.121.112", user: "bethanie", pass:"bethanie1"}
+[6/17/2026 3:47:05 PM] ***REJECTED*** {ip: "2.57.121.112", user: "bethanie", pass:"bethanie123"}
+[6/17/2026 3:47:05 PM] ***REJECTED*** {ip: "2.57.121.112", user: "bethanie", pass:"bethanie1234"}
+[6/17/2026 3:47:05 PM] ***REJECTED*** {ip: "2.57.121.112", user: "bethanie", pass:"bethanie12345"}
+[6/17/2026 3:47:06 PM] 2.57.121.112 >>> Disconnected.
+[6/17/2026 3:59:27 PM] Connection attempt from IP: 193.46.255.86...
+[6/17/2026 3:59:28 PM] ***REJECTED*** {ip: "193.46.255.86", user: "magdalena", pass:"7777777"}
+[6/17/2026 3:59:29 PM] ***REJECTED*** {ip: "193.46.255.86", user: "magdalena", pass:"7777777"}
+[6/17/2026 3:59:29 PM] ***REJECTED*** {ip: "193.46.255.86", user: "magdalena", pass:"11111"}
+[6/17/2026 3:59:29 PM] 193.46.255.86 >>> Disconnected.
