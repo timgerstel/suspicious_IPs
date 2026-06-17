@@ -9218,3 +9218,10 @@
 [6/17/2026 10:29:56 AM] ***REJECTED*** {ip: "141.98.83.240", user: "admin", pass:"fantasy1"}
 [6/17/2026 10:29:56 AM] ***REJECTED*** {ip: "141.98.83.240", user: "admin", pass:"********"}
 [6/17/2026 10:29:56 AM] 141.98.83.240 >>> Disconnected.
+[6/17/2026 10:38:34 AM] Connection attempt from IP: 193.46.255.86...
+[6/17/2026 10:38:35 AM] ***REJECTED*** {ip: "193.46.255.86", user: "joy", pass:"joy"}
+[6/17/2026 10:38:35 AM] ***REJECTED*** {ip: "193.46.255.86", user: "joy", pass:"7777777"}
+[6/17/2026 10:38:36 AM] ***REJECTED*** {ip: "193.46.255.86", user: "joy", pass:"11111"}
+[6/17/2026 10:38:36 AM] 193.46.255.86 >>> Disconnected.
+[6/17/2026 10:52:26 AM] Connection attempt from IP: 198.235.24.149...
+[6/17/2026 10:52:28 AM] 198.235.24.149 >>> Disconnected.
