@@ -7536,3 +7536,17 @@
 [6/17/2026 1:55:18 AM] Connection attempt from IP: 178.20.210.208...
 [6/17/2026 1:55:19 AM] ***REJECTED*** {ip: "178.20.210.208", user: "zaleski", pass:"zaleski"}
 [6/17/2026 1:55:19 AM] 178.20.210.208 >>> Disconnected.
+[6/17/2026 2:09:29 AM] Connection attempt from IP: 178.20.210.208...
+[6/17/2026 2:09:30 AM] ***REJECTED*** {ip: "178.20.210.208", user: "zafir", pass:"TfcvgY.90"}
+[6/17/2026 2:09:30 AM] 178.20.210.208 >>> Disconnected.
+[6/17/2026 2:11:26 AM] Connection attempt from IP: 141.98.83.240...
+[6/17/2026 2:11:27 AM] ***REJECTED*** {ip: "141.98.83.240", user: "shakira", pass:"shakira"}
+[6/17/2026 2:11:28 AM] ***REJECTED*** {ip: "141.98.83.240", user: "shakira", pass:"7777777"}
+[6/17/2026 2:11:28 AM] ***REJECTED*** {ip: "141.98.83.240", user: "shakira", pass:"11111"}
+[6/17/2026 2:11:28 AM] 141.98.83.240 >>> Disconnected.
+[6/17/2026 2:23:39 AM] Connection attempt from IP: 178.20.210.208...
+[6/17/2026 2:23:40 AM] ***REJECTED*** {ip: "178.20.210.208", user: "zabbix", pass:"zabbix1234"}
+[6/17/2026 2:23:40 AM] 178.20.210.208 >>> Disconnected.
+[6/17/2026 2:25:26 AM] Connection attempt from IP: 193.24.211.107...
+[6/17/2026 2:25:27 AM] ***REJECTED*** {ip: "193.24.211.107", user: "git", pass:"git"}
+[6/17/2026 2:25:27 AM] 193.24.211.107 >>> Disconnected.
