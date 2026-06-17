@@ -9300,3 +9300,16 @@
 [6/17/2026 12:58:45 PM] 2.57.121.112 >>> Disconnected.
 [6/17/2026 12:58:53 PM] Connection attempt from IP: 8.221.136.6...
 [6/17/2026 12:58:54 PM] 8.221.136.6 >>> Disconnected.
+[6/17/2026 1:03:38 PM] Connection attempt from IP: 141.98.83.240...
+[6/17/2026 1:03:39 PM] ***REJECTED*** {ip: "141.98.83.240", user: "user", pass:"11121985"}
+[6/17/2026 1:03:40 PM] ***REJECTED*** {ip: "141.98.83.240", user: "user", pass:"123456qw"}
+[6/17/2026 1:03:40 PM] ***REJECTED*** {ip: "141.98.83.240", user: "user", pass:"install"}
+[6/17/2026 1:03:40 PM] 141.98.83.240 >>> Disconnected.
+[6/17/2026 1:04:11 PM] Connection attempt from IP: 45.148.10.151...
+[6/17/2026 1:19:03 PM] Connection attempt from IP: 193.46.255.86...
+[6/17/2026 1:19:04 PM] ***REJECTED*** {ip: "193.46.255.86", user: "root", pass:"admin01"}
+[6/17/2026 1:19:04 PM] ***REJECTED*** {ip: "193.46.255.86", user: "root", pass:"qweasdzxc123"}
+[6/17/2026 1:19:05 PM] ***REJECTED*** {ip: "193.46.255.86", user: "root", pass:"LeitboGi0ro"}
+[6/17/2026 1:19:05 PM] 193.46.255.86 >>> Disconnected.
+[6/17/2026 1:25:13 PM] Connection attempt from IP: 85.217.149.32...
+[6/17/2026 1:25:13 PM] 85.217.149.32 >>> Disconnected.
