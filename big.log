@@ -9371,3 +9371,19 @@
 [6/17/2026 2:48:40 PM] Connection attempt from IP: 45.148.10.121...
 [6/17/2026 2:48:41 PM] ***REJECTED*** {ip: "45.148.10.121", user: "admin", pass:"admin"}
 [6/17/2026 2:48:41 PM] 45.148.10.121 >>> Disconnected.
+[6/17/2026 3:05:33 PM] Connection attempt from IP: 141.98.83.240...
+[6/17/2026 3:05:34 PM] ***REJECTED*** {ip: "141.98.83.240", user: "admin", pass:"swordfish"}
+[6/17/2026 3:05:34 PM] ***REJECTED*** {ip: "141.98.83.240", user: "admin", pass:"softlayer"}
+[6/17/2026 3:05:35 PM] ***REJECTED*** {ip: "141.98.83.240", user: "admin", pass:"13021988"}
+[6/17/2026 3:05:35 PM] 141.98.83.240 >>> Disconnected.
+[6/17/2026 3:06:02 PM] Connection attempt from IP: 193.46.255.86...
+[6/17/2026 3:06:04 PM] ***REJECTED*** {ip: "193.46.255.86", user: "admin", pass:"crmadmin123"}
+[6/17/2026 3:06:04 PM] ***REJECTED*** {ip: "193.46.255.86", user: "admin", pass:"12345"}
+[6/17/2026 3:06:04 PM] ***REJECTED*** {ip: "193.46.255.86", user: "admin", pass:"password1234"}
+[6/17/2026 3:06:05 PM] 193.46.255.86 >>> Disconnected.
+[6/17/2026 3:17:48 PM] Connection attempt from IP: 193.24.211.107...
+[6/17/2026 3:17:49 PM] ***REJECTED*** {ip: "193.24.211.107", user: "ubnt", pass:"admin"}
+[6/17/2026 3:17:49 PM] 193.24.211.107 >>> Disconnected.
+[6/17/2026 3:25:59 PM] Connection attempt from IP: 45.148.10.121...
+[6/17/2026 3:26:00 PM] ***REJECTED*** {ip: "45.148.10.121", user: "AdminGPON", pass:"ALC#FGU"}
+[6/17/2026 3:26:01 PM] 45.148.10.121 >>> Disconnected.
