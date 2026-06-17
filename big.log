@@ -9607,3 +9607,14 @@
 [6/17/2026 8:25:02 PM] ***REJECTED*** {ip: "193.46.255.86", user: "admin", pass:"rtb"}
 [6/17/2026 8:25:02 PM] ***REJECTED*** {ip: "193.46.255.86", user: "admin", pass:"admin.123"}
 [6/17/2026 8:25:02 PM] 193.46.255.86 >>> Disconnected.
+[6/17/2026 8:37:24 PM] Connection attempt from IP: 193.24.211.107...
+[6/17/2026 8:37:25 PM] ***REJECTED*** {ip: "193.24.211.107", user: "admin", pass:"zxcvbnm"}
+[6/17/2026 8:37:25 PM] 193.24.211.107 >>> Disconnected.
+[6/17/2026 8:37:55 PM] Connection attempt from IP: 141.98.83.240...
+[6/17/2026 8:37:57 PM] ***REJECTED*** {ip: "141.98.83.240", user: "user", pass:"geno1123456"}
+[6/17/2026 8:37:57 PM] ***REJECTED*** {ip: "141.98.83.240", user: "user", pass:"paolo"}
+[6/17/2026 8:37:57 PM] ***REJECTED*** {ip: "141.98.83.240", user: "user", pass:"tanktank"}
+[6/17/2026 8:37:58 PM] 141.98.83.240 >>> Disconnected.
+[6/17/2026 8:45:03 PM] Connection attempt from IP: 45.148.10.121...
+[6/17/2026 8:45:03 PM] ***REJECTED*** {ip: "45.148.10.121", user: "admin", pass:"password"}
+[6/17/2026 8:45:04 PM] 45.148.10.121 >>> Disconnected.
