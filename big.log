@@ -9673,3 +9673,23 @@
 [6/17/2026 10:19:24 PM] ***REJECTED*** {ip: "213.209.159.56", user: "user", pass:"press"}
 [6/17/2026 10:19:24 PM] ***REJECTED*** {ip: "213.209.159.56", user: "user", pass:"posture"}
 [6/17/2026 10:19:28 PM] 213.209.159.56 >>> Disconnected.
+[6/17/2026 10:32:14 PM] Connection attempt from IP: 176.65.139.253...
+[6/17/2026 10:32:22 PM] 176.65.139.253 >>> Disconnected.
+[6/17/2026 10:37:13 PM] Connection attempt from IP: 141.98.83.240...
+[6/17/2026 10:37:14 PM] ***REJECTED*** {ip: "141.98.83.240", user: "abc", pass:"abc"}
+[6/17/2026 10:37:14 PM] ***REJECTED*** {ip: "141.98.83.240", user: "abc", pass:"abc123"}
+[6/17/2026 10:37:15 PM] ***REJECTED*** {ip: "141.98.83.240", user: "abc", pass:"123"}
+[6/17/2026 10:37:15 PM] 141.98.83.240 >>> Disconnected.
+[6/17/2026 10:41:04 PM] Connection attempt from IP: 2.57.121.112...
+[6/17/2026 10:41:05 PM] ***REJECTED*** {ip: "2.57.121.112", user: "kaliyah", pass:"kaliyah"}
+[6/17/2026 10:41:06 PM] ***REJECTED*** {ip: "2.57.121.112", user: "kaliyah", pass:"kaliyah1"}
+[6/17/2026 10:41:06 PM] ***REJECTED*** {ip: "2.57.121.112", user: "kaliyah", pass:"kaliyah123"}
+[6/17/2026 10:41:06 PM] ***REJECTED*** {ip: "2.57.121.112", user: "kaliyah", pass:"kaliyah1234"}
+[6/17/2026 10:41:07 PM] ***REJECTED*** {ip: "2.57.121.112", user: "kaliyah", pass:"kaliyah12345"}
+[6/17/2026 10:41:07 PM] 2.57.121.112 >>> Disconnected.
+[6/17/2026 10:48:17 PM] Connection attempt from IP: 112.19.79.146...
+[6/17/2026 10:48:19 PM] ***REJECTED*** {ip: "112.19.79.146", user: "root", pass:"ubuntu"}
+[6/17/2026 10:48:20 PM] 112.19.79.146 >>> Disconnected.
+[6/17/2026 10:51:49 PM] Connection attempt from IP: 193.24.211.107...
+[6/17/2026 10:51:50 PM] ***REJECTED*** {ip: "193.24.211.107", user: "ftpuser", pass:"ftppass"}
+[6/17/2026 10:51:50 PM] 193.24.211.107 >>> Disconnected.
