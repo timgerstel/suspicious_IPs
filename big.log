@@ -9443,3 +9443,18 @@
 [6/17/2026 4:52:33 PM] ***REJECTED*** {ip: "193.46.255.86", user: "nexus", pass:"nexus1"}
 [6/17/2026 4:52:33 PM] ***REJECTED*** {ip: "193.46.255.86", user: "nexus", pass:"123456"}
 [6/17/2026 4:52:33 PM] 193.46.255.86 >>> Disconnected.
+[6/17/2026 5:07:13 PM] Connection attempt from IP: 141.98.83.240...
+[6/17/2026 5:07:15 PM] ***REJECTED*** {ip: "141.98.83.240", user: "user", pass:"softail"}
+[6/17/2026 5:07:15 PM] ***REJECTED*** {ip: "141.98.83.240", user: "user", pass:"zhxsh2854"}
+[6/17/2026 5:07:15 PM] ***REJECTED*** {ip: "141.98.83.240", user: "user", pass:"PingCe@2024."}
+[6/17/2026 5:07:16 PM] 141.98.83.240 >>> Disconnected.
+[6/17/2026 5:07:37 PM] Connection attempt from IP: 45.148.10.121...
+[6/17/2026 5:07:38 PM] ***REJECTED*** {ip: "45.148.10.121", user: "root", pass:"root"}
+[6/17/2026 5:07:38 PM] 45.148.10.121 >>> Disconnected.
+[6/17/2026 5:10:34 PM] Connection attempt from IP: 2.57.121.112...
+[6/17/2026 5:10:35 PM] ***REJECTED*** {ip: "2.57.121.112", user: "danna", pass:"danna"}
+[6/17/2026 5:10:35 PM] ***REJECTED*** {ip: "2.57.121.112", user: "danna", pass:"danna1"}
+[6/17/2026 5:10:36 PM] ***REJECTED*** {ip: "2.57.121.112", user: "danna", pass:"danna123"}
+[6/17/2026 5:10:36 PM] ***REJECTED*** {ip: "2.57.121.112", user: "danna", pass:"danna1234"}
+[6/17/2026 5:10:36 PM] ***REJECTED*** {ip: "2.57.121.112", user: "danna", pass:"danna12345"}
+[6/17/2026 5:10:36 PM] 2.57.121.112 >>> Disconnected.
