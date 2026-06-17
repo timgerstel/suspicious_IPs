@@ -9545,3 +9545,14 @@
 [6/17/2026 6:55:06 PM] ***REJECTED*** {ip: "2.57.121.25", user: "admin", pass:"rand"}
 [6/17/2026 6:55:06 PM] ***REJECTED*** {ip: "2.57.121.25", user: "admin", pass:"ralphy"}
 [6/17/2026 6:55:06 PM] 2.57.121.25 >>> Disconnected.
+[6/17/2026 7:03:54 PM] Connection attempt from IP: 45.227.254.170...
+[6/17/2026 7:07:35 PM] Connection attempt from IP: 193.24.211.107...
+[6/17/2026 7:07:36 PM] ***REJECTED*** {ip: "193.24.211.107", user: "ftp", pass:"test"}
+[6/17/2026 7:07:36 PM] 193.24.211.107 >>> Disconnected.
+[6/17/2026 7:07:36 PM] Connection attempt from IP: 141.98.83.240...
+[6/17/2026 7:07:38 PM] ***REJECTED*** {ip: "141.98.83.240", user: "uriah", pass:"uriah"}
+[6/17/2026 7:07:38 PM] ***REJECTED*** {ip: "141.98.83.240", user: "uriah", pass:"7777777"}
+[6/17/2026 7:07:38 PM] ***REJECTED*** {ip: "141.98.83.240", user: "uriah", pass:"11111"}
+[6/17/2026 7:07:39 PM] 141.98.83.240 >>> Disconnected.
+[6/17/2026 7:10:10 PM] Connection attempt from IP: 45.148.10.121...
+[6/17/2026 7:10:11 PM] 45.148.10.121 >>> Disconnected.
