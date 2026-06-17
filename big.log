@@ -9325,3 +9325,29 @@
 [6/17/2026 1:34:29 PM] 2.57.121.25 >>> Disconnected.
 [6/17/2026 1:58:12 PM] Connection attempt from IP: 18.116.101.220...
 [6/17/2026 1:58:12 PM] 18.116.101.220 >>> Disconnected.
+[6/17/2026 2:04:42 PM] Connection attempt from IP: 141.98.83.240...
+[6/17/2026 2:04:43 PM] ***REJECTED*** {ip: "141.98.83.240", user: "fatima", pass:"1234"}
+[6/17/2026 2:04:43 PM] ***REJECTED*** {ip: "141.98.83.240", user: "fatima", pass:"7777777"}
+[6/17/2026 2:04:44 PM] ***REJECTED*** {ip: "141.98.83.240", user: "fatima", pass:"11111"}
+[6/17/2026 2:04:44 PM] 141.98.83.240 >>> Disconnected.
+[6/17/2026 2:05:45 PM] Connection attempt from IP: 45.148.10.121...
+[6/17/2026 2:05:46 PM] 45.148.10.121 >>> Disconnected.
+[6/17/2026 2:08:07 PM] Connection attempt from IP: 20.80.88.167...
+[6/17/2026 2:08:17 PM] 20.80.88.167 >>> Disconnected.
+[6/17/2026 2:12:52 PM] Connection attempt from IP: 193.46.255.86...
+[6/17/2026 2:12:53 PM] ***REJECTED*** {ip: "193.46.255.86", user: "moth3r", pass:"fuck.3r"}
+[6/17/2026 2:12:53 PM] ***REJECTED*** {ip: "193.46.255.86", user: "moth3r", pass:"7777777"}
+[6/17/2026 2:12:53 PM] ***REJECTED*** {ip: "193.46.255.86", user: "moth3r", pass:"11111"}
+[6/17/2026 2:12:54 PM] 193.46.255.86 >>> Disconnected.
+[6/17/2026 2:23:10 PM] Connection attempt from IP: 2.57.121.112...
+[6/17/2026 2:23:12 PM] ***REJECTED*** {ip: "2.57.121.112", user: "bernadette", pass:"bernadette"}
+[6/17/2026 2:23:12 PM] ***REJECTED*** {ip: "2.57.121.112", user: "bernadette", pass:"bernadette1"}
+[6/17/2026 2:23:12 PM] ***REJECTED*** {ip: "2.57.121.112", user: "bernadette", pass:"bernadette123"}
+[6/17/2026 2:23:13 PM] ***REJECTED*** {ip: "2.57.121.112", user: "bernadette", pass:"bernadette1234"}
+[6/17/2026 2:23:13 PM] ***REJECTED*** {ip: "2.57.121.112", user: "bernadette", pass:"bernadette12345"}
+[6/17/2026 2:23:13 PM] 2.57.121.112 >>> Disconnected.
+[6/17/2026 2:27:20 PM] Connection attempt from IP: 66.132.172.47...
+[6/17/2026 2:27:35 PM] 66.132.172.47 >>> Disconnected.
+[6/17/2026 2:29:18 PM] Connection attempt from IP: 193.24.211.107...
+[6/17/2026 2:29:19 PM] ***REJECTED*** {ip: "193.24.211.107", user: "pi", pass:"password"}
+[6/17/2026 2:29:19 PM] 193.24.211.107 >>> Disconnected.
