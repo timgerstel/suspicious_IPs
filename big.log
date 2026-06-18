@@ -11481,3 +11481,17 @@
 [6/18/2026 9:28:00 PM] ***REJECTED*** {ip: "141.98.83.240", user: "admin", pass:"190576"}
 [6/18/2026 9:28:00 PM] ***REJECTED*** {ip: "141.98.83.240", user: "admin", pass:"20081980"}
 [6/18/2026 9:28:00 PM] 141.98.83.240 >>> Disconnected.
+[6/18/2026 9:35:00 PM] Connection attempt from IP: 118.193.58.120...
+[6/18/2026 9:35:00 PM] 118.193.58.120 >>> Disconnected.
+[6/18/2026 9:35:02 PM] Connection attempt from IP: 118.193.58.120...
+[6/18/2026 9:35:02 PM] 118.193.58.120 >>> Disconnected.
+[6/18/2026 9:46:16 PM] Connection attempt from IP: 2.57.121.25...
+[6/18/2026 9:46:17 PM] ***REJECTED*** {ip: "2.57.121.25", user: "admin", pass:"lostsoul"}
+[6/18/2026 9:46:17 PM] ***REJECTED*** {ip: "2.57.121.25", user: "admin", pass:"longtime"}
+[6/18/2026 9:46:18 PM] ***REJECTED*** {ip: "2.57.121.25", user: "admin", pass:"longdick"}
+[6/18/2026 9:46:18 PM] 2.57.121.25 >>> Disconnected.
+[6/18/2026 9:56:25 PM] Connection attempt from IP: 141.98.83.240...
+[6/18/2026 9:56:26 PM] ***REJECTED*** {ip: "141.98.83.240", user: "user", pass:"Chinacache_2021"}
+[6/18/2026 9:56:27 PM] ***REJECTED*** {ip: "141.98.83.240", user: "user", pass:"4646"}
+[6/18/2026 9:56:27 PM] ***REJECTED*** {ip: "141.98.83.240", user: "user", pass:"aleksey"}
+[6/18/2026 9:56:27 PM] 141.98.83.240 >>> Disconnected.
