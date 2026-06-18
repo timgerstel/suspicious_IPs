@@ -9911,3 +9911,13 @@
 [6/18/2026 12:22:23 AM] Connection attempt from IP: 193.24.211.107...
 [6/18/2026 12:22:24 AM] ***REJECTED*** {ip: "193.24.211.107", user: "public", pass:"public"}
 [6/18/2026 12:22:25 AM] 193.24.211.107 >>> Disconnected.
+[6/18/2026 12:35:51 AM] Connection attempt from IP: 141.98.83.240...
+[6/18/2026 12:35:53 AM] ***REJECTED*** {ip: "141.98.83.240", user: "karly", pass:"karly"}
+[6/18/2026 12:35:53 AM] ***REJECTED*** {ip: "141.98.83.240", user: "karly", pass:"7777777"}
+[6/18/2026 12:35:53 AM] ***REJECTED*** {ip: "141.98.83.240", user: "karly", pass:"11111"}
+[6/18/2026 12:35:54 AM] 141.98.83.240 >>> Disconnected.
+[6/18/2026 12:47:22 AM] Connection attempt from IP: 193.46.255.86...
+[6/18/2026 12:47:23 AM] ***REJECTED*** {ip: "193.46.255.86", user: "minh", pass:"minh"}
+[6/18/2026 12:47:24 AM] ***REJECTED*** {ip: "193.46.255.86", user: "minh", pass:"7777777"}
+[6/18/2026 12:47:24 AM] ***REJECTED*** {ip: "193.46.255.86", user: "minh", pass:"11111"}
+[6/18/2026 12:47:24 AM] 193.46.255.86 >>> Disconnected.
