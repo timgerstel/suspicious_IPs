@@ -10152,3 +10152,20 @@
 [6/18/2026 6:00:00 AM] ***REJECTED*** {ip: "141.98.83.240", user: "Sujan", pass:"11111"}
 [6/18/2026 6:00:00 AM] Connection attempt from IP: 193.46.255.86...
 [6/18/2026 6:00:00 AM] 141.98.83.240 >>> Disconnected.
+[6/18/2026 6:00:01 AM] ***REJECTED*** {ip: "193.46.255.86", user: "root", pass:"admin@123"}
+[6/18/2026 6:00:02 AM] ***REJECTED*** {ip: "193.46.255.86", user: "root", pass:"dreambox"}
+[6/18/2026 6:00:02 AM] ***REJECTED*** {ip: "193.46.255.86", user: "root", pass:"blink182"}
+[6/18/2026 6:00:02 AM] 193.46.255.86 >>> Disconnected.
+[6/18/2026 6:15:51 AM] Connection attempt from IP: 193.24.211.107...
+[6/18/2026 6:15:52 AM] ***REJECTED*** {ip: "193.24.211.107", user: "root", pass:"pfsense"}
+[6/18/2026 6:15:52 AM] 193.24.211.107 >>> Disconnected.
+[6/18/2026 6:26:30 AM] Connection attempt from IP: 2.57.121.25...
+[6/18/2026 6:26:31 AM] ***REJECTED*** {ip: "2.57.121.25", user: "admin", pass:"number9"}
+[6/18/2026 6:26:32 AM] ***REJECTED*** {ip: "2.57.121.25", user: "admin", pass:"number6"}
+[6/18/2026 6:26:32 AM] ***REJECTED*** {ip: "2.57.121.25", user: "admin", pass:"nubian"}
+[6/18/2026 6:26:32 AM] 2.57.121.25 >>> Disconnected.
+[6/18/2026 6:29:16 AM] Connection attempt from IP: 141.98.83.240...
+[6/18/2026 6:29:18 AM] ***REJECTED*** {ip: "141.98.83.240", user: "nushi", pass:"7777777"}
+[6/18/2026 6:29:18 AM] ***REJECTED*** {ip: "141.98.83.240", user: "nushi", pass:"nushi"}
+[6/18/2026 6:29:18 AM] ***REJECTED*** {ip: "141.98.83.240", user: "nushi", pass:"7777777"}
+[6/18/2026 6:29:19 AM] 141.98.83.240 >>> Disconnected.
