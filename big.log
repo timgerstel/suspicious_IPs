@@ -10226,3 +10226,57 @@
 [6/18/2026 7:57:07 AM] ***REJECTED*** {ip: "141.98.83.240", user: "root", pass:"lab123"}
 [6/18/2026 7:57:07 AM] ***REJECTED*** {ip: "141.98.83.240", user: "root", pass:"#EDC4rfv"}
 [6/18/2026 7:57:08 AM] 141.98.83.240 >>> Disconnected.
+[6/18/2026 8:02:16 AM] Connection attempt from IP: 45.148.10.121...
+[6/18/2026 8:02:17 AM] ***REJECTED*** {ip: "45.148.10.121", user: "admin", pass:"password"}
+[6/18/2026 8:02:17 AM] 45.148.10.121 >>> Disconnected.
+[6/18/2026 8:05:57 AM] Connection attempt from IP: 178.27.61.137...
+[6/18/2026 8:06:00 AM] ***REJECTED*** {ip: "178.27.61.137", user: "admin", pass:"admin"}
+[6/18/2026 8:06:00 AM] 178.27.61.137 >>> Disconnected.
+[6/18/2026 8:08:15 AM] Connection attempt from IP: 178.27.61.137...
+[6/18/2026 8:08:16 AM] ***REJECTED*** {ip: "178.27.61.137", user: "orangepi", pass:"orangepi"}
+[6/18/2026 8:08:16 AM] 178.27.61.137 >>> Disconnected.
+[6/18/2026 8:09:07 AM] Connection attempt from IP: 2.57.121.112...
+[6/18/2026 8:09:09 AM] ***REJECTED*** {ip: "2.57.121.112", user: "malinda", pass:"malinda"}
+[6/18/2026 8:09:09 AM] ***REJECTED*** {ip: "2.57.121.112", user: "malinda", pass:"malinda1"}
+[6/18/2026 8:09:09 AM] ***REJECTED*** {ip: "2.57.121.112", user: "malinda", pass:"malinda123"}
+[6/18/2026 8:09:09 AM] ***REJECTED*** {ip: "2.57.121.112", user: "malinda", pass:"malinda1234"}
+[6/18/2026 8:09:10 AM] ***REJECTED*** {ip: "2.57.121.112", user: "malinda", pass:"malinda12345"}
+[6/18/2026 8:09:10 AM] 2.57.121.112 >>> Disconnected.
+[6/18/2026 8:10:07 AM] Connection attempt from IP: 178.27.61.137...
+[6/18/2026 8:10:29 AM] ***REJECTED*** {ip: "178.27.61.137", user: "root", pass:"P"}
+[6/18/2026 8:10:33 AM] 178.27.61.137 >>> Disconnected.
+[6/18/2026 8:12:28 AM] Connection attempt from IP: 178.27.61.137...
+[6/18/2026 8:12:31 AM] ***REJECTED*** {ip: "178.27.61.137", user: "root", pass:"password"}
+[6/18/2026 8:12:32 AM] 178.27.61.137 >>> Disconnected.
+[6/18/2026 8:14:36 AM] Connection attempt from IP: 178.27.61.137...
+[6/18/2026 8:14:38 AM] ***REJECTED*** {ip: "178.27.61.137", user: "root", pass:"root"}
+[6/18/2026 8:14:39 AM] 178.27.61.137 >>> Disconnected.
+[6/18/2026 8:16:46 AM] Connection attempt from IP: 178.27.61.137...
+[6/18/2026 8:16:47 AM] ***REJECTED*** {ip: "178.27.61.137", user: "root", pass:"Admin"}
+[6/18/2026 8:16:47 AM] 178.27.61.137 >>> Disconnected.
+[6/18/2026 8:19:01 AM] Connection attempt from IP: 178.27.61.137...
+[6/18/2026 8:19:03 AM] ***REJECTED*** {ip: "178.27.61.137", user: "root", pass:"admin"}
+[6/18/2026 8:19:03 AM] 178.27.61.137 >>> Disconnected.
+[6/18/2026 8:20:54 AM] Connection attempt from IP: 178.27.61.137...
+[6/18/2026 8:20:57 AM] ***REJECTED*** {ip: "178.27.61.137", user: "root", pass:"1qaz"}
+[6/18/2026 8:20:59 AM] 178.27.61.137 >>> Disconnected.
+[6/18/2026 8:22:58 AM] Connection attempt from IP: 178.27.61.137...
+[6/18/2026 8:22:59 AM] ***REJECTED*** {ip: "178.27.61.137", user: "test", pass:"test"}
+[6/18/2026 8:23:00 AM] 178.27.61.137 >>> Disconnected.
+[6/18/2026 8:25:03 AM] Connection attempt from IP: 178.27.61.137...
+[6/18/2026 8:25:04 AM] ***REJECTED*** {ip: "178.27.61.137", user: "user", pass:"user"}
+[6/18/2026 8:25:04 AM] 178.27.61.137 >>> Disconnected.
+[6/18/2026 8:26:36 AM] Connection attempt from IP: 141.98.83.240...
+[6/18/2026 8:26:37 AM] ***REJECTED*** {ip: "141.98.83.240", user: "root", pass:"11112222"}
+[6/18/2026 8:26:37 AM] ***REJECTED*** {ip: "141.98.83.240", user: "root", pass:"pass1234"}
+[6/18/2026 8:26:38 AM] ***REJECTED*** {ip: "141.98.83.240", user: "root", pass:"1qaz@WSX3edc"}
+[6/18/2026 8:26:38 AM] 141.98.83.240 >>> Disconnected.
+[6/18/2026 8:27:05 AM] Connection attempt from IP: 178.27.61.137...
+[6/18/2026 8:27:06 AM] ***REJECTED*** {ip: "178.27.61.137", user: "root", pass:"alpine"}
+[6/18/2026 8:27:07 AM] 178.27.61.137 >>> Disconnected.
+[6/18/2026 8:27:30 AM] Connection attempt from IP: 193.24.211.107...
+[6/18/2026 8:27:31 AM] ***REJECTED*** {ip: "193.24.211.107", user: "supervisor", pass:"1234"}
+[6/18/2026 8:27:31 AM] 193.24.211.107 >>> Disconnected.
+[6/18/2026 8:29:02 AM] Connection attempt from IP: 178.27.61.137...
+[6/18/2026 8:29:04 AM] ***REJECTED*** {ip: "178.27.61.137", user: "admin", pass:"admin123"}
+[6/18/2026 8:29:04 AM] 178.27.61.137 >>> Disconnected.
