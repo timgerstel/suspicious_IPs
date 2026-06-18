@@ -11511,3 +11511,25 @@
 [6/18/2026 10:25:08 PM] ***REJECTED*** {ip: "141.98.83.240", user: "root", pass:"a"}
 [6/18/2026 10:25:09 PM] ***REJECTED*** {ip: "141.98.83.240", user: "root", pass:"kingsoft"}
 [6/18/2026 10:25:09 PM] 141.98.83.240 >>> Disconnected.
+[6/18/2026 10:41:24 PM] Connection attempt from IP: 2.57.121.112...
+[6/18/2026 10:41:25 PM] ***REJECTED*** {ip: "2.57.121.112", user: "aysha", pass:"aysha"}
+[6/18/2026 10:41:25 PM] ***REJECTED*** {ip: "2.57.121.112", user: "aysha", pass:"aysha1"}
+[6/18/2026 10:41:25 PM] ***REJECTED*** {ip: "2.57.121.112", user: "aysha", pass:"aysha123"}
+[6/18/2026 10:41:26 PM] ***REJECTED*** {ip: "2.57.121.112", user: "aysha", pass:"aysha1234"}
+[6/18/2026 10:41:26 PM] ***REJECTED*** {ip: "2.57.121.112", user: "aysha", pass:"aysha12345"}
+[6/18/2026 10:41:26 PM] 2.57.121.112 >>> Disconnected.
+[6/18/2026 10:45:28 PM] Connection attempt from IP: 193.24.211.107...
+[6/18/2026 10:45:30 PM] ***REJECTED*** {ip: "193.24.211.107", user: "root", pass:"asdf1234"}
+[6/18/2026 10:45:30 PM] 193.24.211.107 >>> Disconnected.
+[6/18/2026 10:46:40 PM] Connection attempt from IP: 2.57.121.25...
+[6/18/2026 10:46:41 PM] ***REJECTED*** {ip: "2.57.121.25", user: "admin", pass:"lolwut"}
+[6/18/2026 10:46:42 PM] ***REJECTED*** {ip: "2.57.121.25", user: "admin", pass:"lol5"}
+[6/18/2026 10:46:42 PM] ***REJECTED*** {ip: "2.57.121.25", user: "admin", pass:"lionlion"}
+[6/18/2026 10:46:42 PM] 2.57.121.25 >>> Disconnected.
+[6/18/2026 10:53:43 PM] Connection attempt from IP: 141.98.83.240...
+[6/18/2026 10:53:44 PM] ***REJECTED*** {ip: "141.98.83.240", user: "admin", pass:"gotigers"}
+[6/18/2026 10:53:44 PM] ***REJECTED*** {ip: "141.98.83.240", user: "admin", pass:"watching"}
+[6/18/2026 10:53:44 PM] ***REJECTED*** {ip: "141.98.83.240", user: "admin", pass:"Pass@123"}
+[6/18/2026 10:53:45 PM] 141.98.83.240 >>> Disconnected.
+[6/18/2026 10:57:59 PM] Connection attempt from IP: 198.235.24.179...
+[6/18/2026 10:58:02 PM] 198.235.24.179 >>> Disconnected.
