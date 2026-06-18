@@ -11026,3 +11026,15 @@
 [6/18/2026 4:27:12 PM] Connection attempt from IP: 45.148.10.121...
 [6/18/2026 4:27:13 PM] ***REJECTED*** {ip: "45.148.10.121", user: "root", pass:"root"}
 [6/18/2026 4:27:13 PM] 45.148.10.121 >>> Disconnected.
+[6/18/2026 4:40:38 PM] Connection attempt from IP: 141.98.83.240...
+[6/18/2026 4:40:39 PM] ***REJECTED*** {ip: "141.98.83.240", user: "rubi", pass:"rubi"}
+[6/18/2026 4:40:40 PM] ***REJECTED*** {ip: "141.98.83.240", user: "rubi", pass:"7777777"}
+[6/18/2026 4:40:40 PM] ***REJECTED*** {ip: "141.98.83.240", user: "rubi", pass:"11111"}
+[6/18/2026 4:40:40 PM] 141.98.83.240 >>> Disconnected.
+[6/18/2026 4:42:11 PM] Connection attempt from IP: 194.5.175.155...
+[6/18/2026 4:42:13 PM] 194.5.175.155 >>> Disconnected.
+[6/18/2026 4:42:29 PM] Connection attempt from IP: 2.57.121.25...
+[6/18/2026 4:42:30 PM] ***REJECTED*** {ip: "2.57.121.25", user: "admin", pass:"melon"}
+[6/18/2026 4:42:31 PM] ***REJECTED*** {ip: "2.57.121.25", user: "admin", pass:"maymay"}
+[6/18/2026 4:42:31 PM] ***REJECTED*** {ip: "2.57.121.25", user: "admin", pass:"masa"}
+[6/18/2026 4:42:31 PM] 2.57.121.25 >>> Disconnected.
