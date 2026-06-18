@@ -9991,3 +9991,26 @@
 [6/18/2026 2:17:10 AM] ***REJECTED*** {ip: "2.57.121.25", user: "admin", pass:"perez"}
 [6/18/2026 2:17:10 AM] ***REJECTED*** {ip: "2.57.121.25", user: "admin", pass:"pepsi123"}
 [6/18/2026 2:17:11 AM] 2.57.121.25 >>> Disconnected.
+[6/18/2026 2:31:42 AM] Connection attempt from IP: 193.46.255.86...
+[6/18/2026 2:31:43 AM] ***REJECTED*** {ip: "193.46.255.86", user: "root", pass:"admin123@"}
+[6/18/2026 2:31:44 AM] ***REJECTED*** {ip: "193.46.255.86", user: "root", pass:"pgj-heu05HQM=bMvz"}
+[6/18/2026 2:31:44 AM] ***REJECTED*** {ip: "193.46.255.86", user: "root", pass:"rootpass"}
+[6/18/2026 2:31:44 AM] 193.46.255.86 >>> Disconnected.
+[6/18/2026 2:34:27 AM] Connection attempt from IP: 141.98.83.240...
+[6/18/2026 2:34:28 AM] ***REJECTED*** {ip: "141.98.83.240", user: "admin", pass:"126845"}
+[6/18/2026 2:34:28 AM] ***REJECTED*** {ip: "141.98.83.240", user: "admin", pass:"dominica"}
+[6/18/2026 2:34:28 AM] ***REJECTED*** {ip: "141.98.83.240", user: "admin", pass:"01051969"}
+[6/18/2026 2:34:29 AM] 141.98.83.240 >>> Disconnected.
+[6/18/2026 2:35:22 AM] Connection attempt from IP: 193.24.211.107...
+[6/18/2026 2:35:23 AM] ***REJECTED*** {ip: "193.24.211.107", user: "test", pass:"qwerty"}
+[6/18/2026 2:35:24 AM] 193.24.211.107 >>> Disconnected.
+[6/18/2026 2:42:20 AM] Connection attempt from IP: 45.148.10.121...
+[6/18/2026 2:42:21 AM] ***REJECTED*** {ip: "45.148.10.121", user: "AdminGPON", pass:"ALC#FGU"}
+[6/18/2026 2:42:21 AM] 45.148.10.121 >>> Disconnected.
+[6/18/2026 2:46:02 AM] Connection attempt from IP: 2.57.121.112...
+[6/18/2026 2:46:04 AM] ***REJECTED*** {ip: "2.57.121.112", user: "linsey", pass:"linsey"}
+[6/18/2026 2:46:04 AM] ***REJECTED*** {ip: "2.57.121.112", user: "linsey", pass:"linsey1"}
+[6/18/2026 2:46:04 AM] ***REJECTED*** {ip: "2.57.121.112", user: "linsey", pass:"linsey123"}
+[6/18/2026 2:46:04 AM] ***REJECTED*** {ip: "2.57.121.112", user: "linsey", pass:"linsey1234"}
+[6/18/2026 2:46:05 AM] ***REJECTED*** {ip: "2.57.121.112", user: "linsey", pass:"linsey12345"}
+[6/18/2026 2:46:05 AM] 2.57.121.112 >>> Disconnected.
