@@ -11426,3 +11426,28 @@
 [6/18/2026 8:25:53 PM] Connection attempt from IP: 220.205.123.186...
 [6/18/2026 8:25:55 PM] ***ACCEPTED*** {ip: "220.205.123.186", user: "root", pass:"9"}
 [6/18/2026 8:25:57 PM] 220.205.123.186 >>> Disconnected.
+[6/18/2026 8:30:25 PM] Connection attempt from IP: 193.46.255.86...
+[6/18/2026 8:30:26 PM] ***REJECTED*** {ip: "193.46.255.86", user: "terrence", pass:"terrence"}
+[6/18/2026 8:30:27 PM] ***REJECTED*** {ip: "193.46.255.86", user: "terrence", pass:"7777777"}
+[6/18/2026 8:30:27 PM] ***REJECTED*** {ip: "193.46.255.86", user: "terrence", pass:"11111"}
+[6/18/2026 8:30:27 PM] Connection attempt from IP: 141.98.83.240...
+[6/18/2026 8:30:27 PM] 193.46.255.86 >>> Disconnected.
+[6/18/2026 8:30:28 PM] ***REJECTED*** {ip: "141.98.83.240", user: "admin", pass:"1234qwer"}
+[6/18/2026 8:30:29 PM] ***REJECTED*** {ip: "141.98.83.240", user: "admin", pass:"123qqww"}
+[6/18/2026 8:30:29 PM] ***REJECTED*** {ip: "141.98.83.240", user: "admin", pass:"c1@r0"}
+[6/18/2026 8:30:29 PM] 141.98.83.240 >>> Disconnected.
+[6/18/2026 8:31:23 PM] Connection attempt from IP: 20.65.194.57...
+[6/18/2026 8:31:33 PM] 20.65.194.57 >>> Disconnected.
+[6/18/2026 8:39:48 PM] Connection attempt from IP: 193.24.211.107...
+[6/18/2026 8:39:49 PM] ***REJECTED*** {ip: "193.24.211.107", user: "ftp", pass:"123123"}
+[6/18/2026 8:39:50 PM] 193.24.211.107 >>> Disconnected.
+[6/18/2026 8:45:46 PM] Connection attempt from IP: 2.57.121.25...
+[6/18/2026 8:45:47 PM] ***REJECTED*** {ip: "2.57.121.25", user: "admin", pass:"lovesexy"}
+[6/18/2026 8:45:47 PM] ***REJECTED*** {ip: "2.57.121.25", user: "admin", pass:"lovefeet"}
+[6/18/2026 8:45:48 PM] ***REJECTED*** {ip: "2.57.121.25", user: "admin", pass:"lounge"}
+[6/18/2026 8:45:48 PM] 2.57.121.25 >>> Disconnected.
+[6/18/2026 8:59:01 PM] Connection attempt from IP: 141.98.83.240...
+[6/18/2026 8:59:02 PM] ***REJECTED*** {ip: "141.98.83.240", user: "root", pass:"Hik12345"}
+[6/18/2026 8:59:02 PM] ***REJECTED*** {ip: "141.98.83.240", user: "root", pass:"1q2w3e4r"}
+[6/18/2026 8:59:02 PM] ***REJECTED*** {ip: "141.98.83.240", user: "root", pass:"MoeClub.org"}
+[6/18/2026 8:59:03 PM] 141.98.83.240 >>> Disconnected.
