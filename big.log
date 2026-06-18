@@ -10924,3 +10924,14 @@
 [6/18/2026 1:47:16 PM] ***REJECTED*** {ip: "141.98.83.240", user: "makiya", pass:"7777777"}
 [6/18/2026 1:47:17 PM] ***REJECTED*** {ip: "141.98.83.240", user: "makiya", pass:"11111"}
 [6/18/2026 1:47:17 PM] 141.98.83.240 >>> Disconnected.
+[6/18/2026 2:05:18 PM] Connection attempt from IP: 45.148.10.121...
+[6/18/2026 2:05:19 PM] ***REJECTED*** {ip: "45.148.10.121", user: "admin", pass:"admin"}
+[6/18/2026 2:05:20 PM] 45.148.10.121 >>> Disconnected.
+[6/18/2026 2:15:28 PM] Connection attempt from IP: 193.24.211.107...
+[6/18/2026 2:15:29 PM] ***REJECTED*** {ip: "193.24.211.107", user: "user", pass:"!root"}
+[6/18/2026 2:15:29 PM] 193.24.211.107 >>> Disconnected.
+[6/18/2026 2:16:12 PM] Connection attempt from IP: 141.98.83.240...
+[6/18/2026 2:16:14 PM] ***REJECTED*** {ip: "141.98.83.240", user: "pi", pass:"1234"}
+[6/18/2026 2:16:14 PM] ***REJECTED*** {ip: "141.98.83.240", user: "pi", pass:"abcd1234"}
+[6/18/2026 2:16:14 PM] ***REJECTED*** {ip: "141.98.83.240", user: "pi", pass:"pi1"}
+[6/18/2026 2:16:15 PM] 141.98.83.240 >>> Disconnected.
