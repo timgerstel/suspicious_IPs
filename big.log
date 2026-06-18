@@ -11451,3 +11451,33 @@
 [6/18/2026 8:59:02 PM] ***REJECTED*** {ip: "141.98.83.240", user: "root", pass:"1q2w3e4r"}
 [6/18/2026 8:59:02 PM] ***REJECTED*** {ip: "141.98.83.240", user: "root", pass:"MoeClub.org"}
 [6/18/2026 8:59:03 PM] 141.98.83.240 >>> Disconnected.
+[6/18/2026 9:17:48 PM] Connection attempt from IP: 36.140.29.110...
+[6/18/2026 9:17:50 PM] ***REJECTED*** {ip: "36.140.29.110", user: "root", pass:"---fuck_you----"}
+[6/18/2026 9:17:51 PM] 36.140.29.110 >>> Disconnected.
+[6/18/2026 9:20:47 PM] Connection attempt from IP: 193.46.255.86...
+[6/18/2026 9:20:48 PM] ***REJECTED*** {ip: "193.46.255.86", user: "admin", pass:"11091994"}
+[6/18/2026 9:20:48 PM] ***REJECTED*** {ip: "193.46.255.86", user: "admin", pass:"atjp4CDA"}
+[6/18/2026 9:20:48 PM] ***REJECTED*** {ip: "193.46.255.86", user: "admin", pass:"251181"}
+[6/18/2026 9:20:49 PM] 193.46.255.86 >>> Disconnected.
+[6/18/2026 9:21:48 PM] Connection attempt from IP: 193.24.211.107...
+[6/18/2026 9:21:50 PM] ***REJECTED*** {ip: "193.24.211.107", user: "admin", pass:"Password1"}
+[6/18/2026 9:21:50 PM] 193.24.211.107 >>> Disconnected.
+[6/18/2026 9:22:19 PM] Connection attempt from IP: 213.209.159.56...
+[6/18/2026 9:22:20 PM] ***REJECTED*** {ip: "213.209.159.56", user: "user", pass:"passage"}
+[6/18/2026 9:22:20 PM] ***REJECTED*** {ip: "213.209.159.56", user: "user", pass:"parasite"}
+[6/18/2026 9:22:20 PM] ***REJECTED*** {ip: "213.209.159.56", user: "user", pass:"overtime"}
+[6/18/2026 9:22:20 PM] ***REJECTED*** {ip: "213.209.159.56", user: "user", pass:"orleans"}
+[6/18/2026 9:22:21 PM] ***REJECTED*** {ip: "213.209.159.56", user: "user", pass:"oriflame"}
+[6/18/2026 9:22:34 PM] 213.209.159.56 >>> Disconnected.
+[6/18/2026 9:23:08 PM] Connection attempt from IP: 2.57.121.112...
+[6/18/2026 9:23:09 PM] ***REJECTED*** {ip: "2.57.121.112", user: "anjelica", pass:"anjelica"}
+[6/18/2026 9:23:09 PM] ***REJECTED*** {ip: "2.57.121.112", user: "anjelica", pass:"anjelica1"}
+[6/18/2026 9:23:10 PM] ***REJECTED*** {ip: "2.57.121.112", user: "anjelica", pass:"anjelica123"}
+[6/18/2026 9:23:10 PM] ***REJECTED*** {ip: "2.57.121.112", user: "anjelica", pass:"anjelica1234"}
+[6/18/2026 9:23:10 PM] ***REJECTED*** {ip: "2.57.121.112", user: "anjelica", pass:"anjelica12345"}
+[6/18/2026 9:23:10 PM] 2.57.121.112 >>> Disconnected.
+[6/18/2026 9:27:58 PM] Connection attempt from IP: 141.98.83.240...
+[6/18/2026 9:27:59 PM] ***REJECTED*** {ip: "141.98.83.240", user: "admin", pass:"snoopdogg"}
+[6/18/2026 9:28:00 PM] ***REJECTED*** {ip: "141.98.83.240", user: "admin", pass:"190576"}
+[6/18/2026 9:28:00 PM] ***REJECTED*** {ip: "141.98.83.240", user: "admin", pass:"20081980"}
+[6/18/2026 9:28:00 PM] 141.98.83.240 >>> Disconnected.
