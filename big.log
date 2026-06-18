@@ -9979,3 +9979,15 @@
 [6/18/2026 1:56:06 AM] Connection attempt from IP: 45.148.10.121...
 [6/18/2026 1:56:07 AM] ***REJECTED*** {ip: "45.148.10.121", user: "admin", pass:"admin"}
 [6/18/2026 1:56:07 AM] 45.148.10.121 >>> Disconnected.
+[6/18/2026 2:04:33 AM] Connection attempt from IP: 141.98.83.240...
+[6/18/2026 2:04:34 AM] ***REJECTED*** {ip: "141.98.83.240", user: "root", pass:"superman"}
+[6/18/2026 2:04:34 AM] ***REJECTED*** {ip: "141.98.83.240", user: "root", pass:"102030"}
+[6/18/2026 2:04:34 AM] ***REJECTED*** {ip: "141.98.83.240", user: "root", pass:"passme"}
+[6/18/2026 2:04:35 AM] 141.98.83.240 >>> Disconnected.
+[6/18/2026 2:15:59 AM] Connection attempt from IP: 152.32.254.222...
+[6/18/2026 2:16:01 AM] 152.32.254.222 >>> Disconnected.
+[6/18/2026 2:17:09 AM] Connection attempt from IP: 2.57.121.25...
+[6/18/2026 2:17:10 AM] ***REJECTED*** {ip: "2.57.121.25", user: "admin", pass:"pieman"}
+[6/18/2026 2:17:10 AM] ***REJECTED*** {ip: "2.57.121.25", user: "admin", pass:"perez"}
+[6/18/2026 2:17:10 AM] ***REJECTED*** {ip: "2.57.121.25", user: "admin", pass:"pepsi123"}
+[6/18/2026 2:17:11 AM] 2.57.121.25 >>> Disconnected.
