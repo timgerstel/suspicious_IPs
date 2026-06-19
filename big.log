@@ -12527,3 +12527,31 @@
 [6/19/2026 7:58:25 AM] ***REJECTED*** {ip: "213.209.159.56", user: "user", pass:"nikitin"}
 [6/19/2026 7:58:25 AM] ***REJECTED*** {ip: "213.209.159.56", user: "user", pass:"nicki"}
 [6/19/2026 7:58:28 AM] 213.209.159.56 >>> Disconnected.
+[6/19/2026 8:03:41 AM] Connection attempt from IP: 23.251.34.171...
+[6/19/2026 8:03:47 AM] ***REJECTED*** {ip: "23.251.34.171", user: "root", pass:"Aa12345678"}
+[6/19/2026 8:03:47 AM] 23.251.34.171 >>> Disconnected.
+[6/19/2026 8:09:43 AM] Connection attempt from IP: 23.251.34.171...
+[6/19/2026 8:09:45 AM] ***REJECTED*** {ip: "23.251.34.171", user: "root", pass:"asdfg!"}
+[6/19/2026 8:09:45 AM] 23.251.34.171 >>> Disconnected.
+[6/19/2026 8:13:11 AM] Connection attempt from IP: 193.46.255.86...
+[6/19/2026 8:13:12 AM] ***REJECTED*** {ip: "193.46.255.86", user: "admin", pass:"admin@2017"}
+[6/19/2026 8:13:12 AM] ***REJECTED*** {ip: "193.46.255.86", user: "admin", pass:"patricio"}
+[6/19/2026 8:13:12 AM] ***REJECTED*** {ip: "193.46.255.86", user: "admin", pass:"ulysse"}
+[6/19/2026 8:13:13 AM] 193.46.255.86 >>> Disconnected.
+[6/19/2026 8:15:39 AM] Connection attempt from IP: 23.251.34.171...
+[6/19/2026 8:15:40 AM] ***REJECTED*** {ip: "23.251.34.171", user: "root", pass:"asd123123"}
+[6/19/2026 8:15:40 AM] 23.251.34.171 >>> Disconnected.
+[6/19/2026 8:18:34 AM] Connection attempt from IP: 141.98.83.240...
+[6/19/2026 8:18:35 AM] ***REJECTED*** {ip: "141.98.83.240", user: "admin", pass:"mummy"}
+[6/19/2026 8:18:36 AM] ***REJECTED*** {ip: "141.98.83.240", user: "admin", pass:"wpF8eU"}
+[6/19/2026 8:18:36 AM] ***REJECTED*** {ip: "141.98.83.240", user: "admin", pass:"administrator"}
+[6/19/2026 8:18:36 AM] 141.98.83.240 >>> Disconnected.
+[6/19/2026 8:21:41 AM] Connection attempt from IP: 23.251.34.171...
+[6/19/2026 8:21:43 AM] ***REJECTED*** {ip: "23.251.34.171", user: "root", pass:"t0talc0ntr0l4!"}
+[6/19/2026 8:21:43 AM] 23.251.34.171 >>> Disconnected.
+[6/19/2026 8:25:14 AM] Connection attempt from IP: 193.24.211.107...
+[6/19/2026 8:25:15 AM] ***REJECTED*** {ip: "193.24.211.107", user: "www", pass:"www"}
+[6/19/2026 8:25:16 AM] 193.24.211.107 >>> Disconnected.
+[6/19/2026 8:27:41 AM] Connection attempt from IP: 23.251.34.171...
+[6/19/2026 8:27:41 AM] ***REJECTED*** {ip: "23.251.34.171", user: "root", pass:"Abc123456"}
+[6/19/2026 8:27:41 AM] 23.251.34.171 >>> Disconnected.
