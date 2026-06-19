@@ -12717,3 +12717,6 @@
 [6/19/2026 12:24:11 PM] Connection attempt from IP: 193.24.211.107...
 [6/19/2026 12:24:11 PM] ***REJECTED*** {ip: "193.24.211.107", user: "adm", pass:"adm"}
 [6/19/2026 12:24:12 PM] 193.24.211.107 >>> Disconnected.
+[6/19/2026 12:48:01 PM] Connection attempt from IP: 45.148.10.121...
+[6/19/2026 12:48:02 PM] ***REJECTED*** {ip: "45.148.10.121", user: "AdminGPON", pass:"ALC#FGU"}
+[6/19/2026 12:48:02 PM] 45.148.10.121 >>> Disconnected.
