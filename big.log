@@ -13157,3 +13157,25 @@
 [6/19/2026 6:19:44 PM] ***REJECTED*** {ip: "2.57.121.112", user: "baylor", pass:"baylor1234"}
 [6/19/2026 6:19:44 PM] ***REJECTED*** {ip: "2.57.121.112", user: "baylor", pass:"baylor12345"}
 [6/19/2026 6:19:44 PM] 2.57.121.112 >>> Disconnected.
+[6/19/2026 6:31:12 PM] Connection attempt from IP: 141.98.83.240...
+[6/19/2026 6:31:13 PM] ***REJECTED*** {ip: "141.98.83.240", user: "root", pass:"zxc123"}
+[6/19/2026 6:31:14 PM] ***REJECTED*** {ip: "141.98.83.240", user: "root", pass:"root@2024"}
+[6/19/2026 6:31:14 PM] ***REJECTED*** {ip: "141.98.83.240", user: "root", pass:"router"}
+[6/19/2026 6:31:14 PM] 141.98.83.240 >>> Disconnected.
+[6/19/2026 6:34:04 PM] Connection attempt from IP: 176.65.139.251...
+[6/19/2026 6:34:12 PM] 176.65.139.251 >>> Disconnected.
+[6/19/2026 6:38:11 PM] Connection attempt from IP: 213.209.159.56...
+[6/19/2026 6:38:11 PM] ***REJECTED*** {ip: "213.209.159.56", user: "user", pass:"ndirish"}
+[6/19/2026 6:38:12 PM] ***REJECTED*** {ip: "213.209.159.56", user: "user", pass:"natha"}
+[6/19/2026 6:38:12 PM] ***REJECTED*** {ip: "213.209.159.56", user: "user", pass:"nata"}
+[6/19/2026 6:38:12 PM] ***REJECTED*** {ip: "213.209.159.56", user: "user", pass:"nadegda"}
+[6/19/2026 6:38:13 PM] ***REJECTED*** {ip: "213.209.159.56", user: "user", pass:"muttley"}
+[6/19/2026 6:38:48 PM] 213.209.159.56 >>> Disconnected.
+[6/19/2026 6:52:21 PM] Connection attempt from IP: 193.24.211.107...
+[6/19/2026 6:52:22 PM] ***REJECTED*** {ip: "193.24.211.107", user: "pi", pass:"toor"}
+[6/19/2026 6:52:22 PM] 193.24.211.107 >>> Disconnected.
+[6/19/2026 6:52:49 PM] Connection attempt from IP: 193.46.255.86...
+[6/19/2026 6:52:50 PM] ***REJECTED*** {ip: "193.46.255.86", user: "admin", pass:"admin"}
+[6/19/2026 6:52:51 PM] ***REJECTED*** {ip: "193.46.255.86", user: "admin", pass:"ruijie@123"}
+[6/19/2026 6:52:51 PM] ***REJECTED*** {ip: "193.46.255.86", user: "admin", pass:"admin@123"}
+[6/19/2026 6:52:51 PM] 193.46.255.86 >>> Disconnected.
