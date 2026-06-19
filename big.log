@@ -13257,3 +13257,42 @@
 [6/19/2026 9:45:28 PM] ***REJECTED*** {ip: "2.57.121.25", user: "admin", pass:"gospel"}
 [6/19/2026 9:45:28 PM] ***REJECTED*** {ip: "2.57.121.25", user: "admin", pass:"goodtimes"}
 [6/19/2026 9:45:28 PM] 2.57.121.25 >>> Disconnected.
+[6/19/2026 10:01:03 PM] Connection attempt from IP: 193.24.211.107...
+[6/19/2026 10:01:04 PM] ***ACCEPTED*** {ip: "193.24.211.107", user: "root", pass:"rootpass"}
+[6/19/2026 10:01:04 PM] 193.24.211.107 >>> Disconnected.
+[6/19/2026 10:03:15 PM] Connection attempt from IP: 2.57.121.112...
+[6/19/2026 10:03:16 PM] ***REJECTED*** {ip: "2.57.121.112", user: "dameon", pass:"dameon"}
+[6/19/2026 10:03:16 PM] ***REJECTED*** {ip: "2.57.121.112", user: "dameon", pass:"dameon1"}
+[6/19/2026 10:03:16 PM] ***REJECTED*** {ip: "2.57.121.112", user: "dameon", pass:"dameon123"}
+[6/19/2026 10:03:17 PM] ***REJECTED*** {ip: "2.57.121.112", user: "dameon", pass:"dameon1234"}
+[6/19/2026 10:03:17 PM] ***REJECTED*** {ip: "2.57.121.112", user: "dameon", pass:"dameon12345"}
+[6/19/2026 10:03:17 PM] 2.57.121.112 >>> Disconnected.
+[6/19/2026 10:03:46 PM] Connection attempt from IP: 178.177.40.170...
+[6/19/2026 10:03:52 PM] 178.177.40.170 >>> Disconnected.
+[6/19/2026 10:05:29 PM] Connection attempt from IP: 45.148.10.157...
+[6/19/2026 10:08:56 PM] Connection attempt from IP: 106.75.224.165...
+[6/19/2026 10:08:58 PM] ***REJECTED*** {ip: "106.75.224.165", user: "root", pass:"ubuntu"}
+[6/19/2026 10:08:58 PM] 106.75.224.165 >>> Disconnected.
+[6/19/2026 10:09:18 PM] Connection attempt from IP: 106.75.224.165...
+[6/19/2026 10:09:20 PM] ***REJECTED*** {ip: "106.75.224.165", user: "root", pass:"debian"}
+[6/19/2026 10:09:20 PM] 106.75.224.165 >>> Disconnected.
+[6/19/2026 10:09:21 PM] Connection attempt from IP: 106.75.224.165...
+[6/19/2026 10:09:22 PM] ***REJECTED*** {ip: "106.75.224.165", user: "root", pass:"centos"}
+[6/19/2026 10:09:23 PM] 106.75.224.165 >>> Disconnected.
+[6/19/2026 10:09:23 PM] Connection attempt from IP: 106.75.224.165...
+[6/19/2026 10:09:25 PM] ***REJECTED*** {ip: "106.75.224.165", user: "root", pass:"linux"}
+[6/19/2026 10:09:25 PM] 106.75.224.165 >>> Disconnected.
+[6/19/2026 10:09:25 PM] Connection attempt from IP: 106.75.224.165...
+[6/19/2026 10:09:27 PM] ***REJECTED*** {ip: "106.75.224.165", user: "root", pass:"nginx"}
+[6/19/2026 10:12:10 PM] Connection attempt from IP: 193.46.255.86...
+[6/19/2026 10:12:11 PM] ***REJECTED*** {ip: "193.46.255.86", user: "root", pass:"aDm8H%MdA"}
+[6/19/2026 10:12:11 PM] ***REJECTED*** {ip: "193.46.255.86", user: "root", pass:"password"}
+[6/19/2026 10:12:12 PM] ***REJECTED*** {ip: "193.46.255.86", user: "root", pass:"stfu_and_be_quite"}
+[6/19/2026 10:12:12 PM] 193.46.255.86 >>> Disconnected.
+[6/19/2026 10:13:04 PM] Connection attempt from IP: 141.98.83.240...
+[6/19/2026 10:13:05 PM] ***REJECTED*** {ip: "141.98.83.240", user: "admin", pass:"lydia"}
+[6/19/2026 10:13:05 PM] ***REJECTED*** {ip: "141.98.83.240", user: "admin", pass:"porsch"}
+[6/19/2026 10:13:05 PM] ***REJECTED*** {ip: "141.98.83.240", user: "admin", pass:"watchmen"}
+[6/19/2026 10:13:06 PM] 141.98.83.240 >>> Disconnected.
+[6/19/2026 10:19:41 PM] Connection attempt from IP: 147.185.132.105...
+[6/19/2026 10:19:44 PM] 147.185.132.105 >>> Disconnected.
