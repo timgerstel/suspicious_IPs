@@ -13179,3 +13179,14 @@
 [6/19/2026 6:52:51 PM] ***REJECTED*** {ip: "193.46.255.86", user: "admin", pass:"ruijie@123"}
 [6/19/2026 6:52:51 PM] ***REJECTED*** {ip: "193.46.255.86", user: "admin", pass:"admin@123"}
 [6/19/2026 6:52:51 PM] 193.46.255.86 >>> Disconnected.
+[6/19/2026 7:04:44 PM] Connection attempt from IP: 45.148.10.141...
+[6/19/2026 7:24:02 PM] Connection attempt from IP: 2.57.121.25...
+[6/19/2026 7:24:03 PM] ***REJECTED*** {ip: "2.57.121.25", user: "admin", pass:"hands"}
+[6/19/2026 7:24:04 PM] ***REJECTED*** {ip: "2.57.121.25", user: "admin", pass:"guigui"}
+[6/19/2026 7:24:04 PM] ***REJECTED*** {ip: "2.57.121.25", user: "admin", pass:"gubber"}
+[6/19/2026 7:24:04 PM] 2.57.121.25 >>> Disconnected.
+[6/19/2026 7:29:31 PM] Connection attempt from IP: 141.98.83.240...
+[6/19/2026 7:29:32 PM] ***REJECTED*** {ip: "141.98.83.240", user: "ada", pass:"ada"}
+[6/19/2026 7:29:32 PM] ***REJECTED*** {ip: "141.98.83.240", user: "ada", pass:"7777777"}
+[6/19/2026 7:29:33 PM] ***REJECTED*** {ip: "141.98.83.240", user: "ada", pass:"11111"}
+[6/19/2026 7:29:33 PM] 141.98.83.240 >>> Disconnected.
