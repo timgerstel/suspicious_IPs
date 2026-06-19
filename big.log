@@ -11568,3 +11568,11 @@
 [6/18/2026 11:59:44 PM] ***REJECTED*** {ip: "2.57.121.112", user: "bridgett", pass:"bridgett1234"}
 [6/18/2026 11:59:44 PM] ***REJECTED*** {ip: "2.57.121.112", user: "bridgett", pass:"bridgett12345"}
 [6/18/2026 11:59:44 PM] 2.57.121.112 >>> Disconnected.
+[6/19/2026 12:09:04 AM] Connection attempt from IP: 193.24.211.107...
+[6/19/2026 12:09:04 AM] ***REJECTED*** {ip: "193.24.211.107", user: "admin", pass:"qwerty"}
+[6/19/2026 12:09:05 AM] 193.24.211.107 >>> Disconnected.
+[6/19/2026 12:19:01 AM] Connection attempt from IP: 141.98.83.240...
+[6/19/2026 12:19:02 AM] ***REJECTED*** {ip: "141.98.83.240", user: "travon", pass:"travon"}
+[6/19/2026 12:19:02 AM] ***REJECTED*** {ip: "141.98.83.240", user: "travon", pass:"7777777"}
+[6/19/2026 12:19:03 AM] ***REJECTED*** {ip: "141.98.83.240", user: "travon", pass:"11111"}
+[6/19/2026 12:19:03 AM] 141.98.83.240 >>> Disconnected.
