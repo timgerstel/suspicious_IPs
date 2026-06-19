@@ -13247,3 +13247,13 @@
 [6/19/2026 9:23:45 PM] Connection attempt from IP: 193.24.211.107...
 [6/19/2026 9:23:45 PM] ***REJECTED*** {ip: "193.24.211.107", user: "office", pass:"office"}
 [6/19/2026 9:23:46 PM] 193.24.211.107 >>> Disconnected.
+[6/19/2026 9:40:20 PM] Connection attempt from IP: 141.98.83.240...
+[6/19/2026 9:40:22 PM] ***REJECTED*** {ip: "141.98.83.240", user: "jose", pass:"jose"}
+[6/19/2026 9:40:22 PM] ***REJECTED*** {ip: "141.98.83.240", user: "jose", pass:"123456"}
+[6/19/2026 9:40:22 PM] ***REJECTED*** {ip: "141.98.83.240", user: "jose", pass:"1234"}
+[6/19/2026 9:40:22 PM] 141.98.83.240 >>> Disconnected.
+[6/19/2026 9:45:26 PM] Connection attempt from IP: 2.57.121.25...
+[6/19/2026 9:45:27 PM] ***REJECTED*** {ip: "2.57.121.25", user: "admin", pass:"gramps"}
+[6/19/2026 9:45:28 PM] ***REJECTED*** {ip: "2.57.121.25", user: "admin", pass:"gospel"}
+[6/19/2026 9:45:28 PM] ***REJECTED*** {ip: "2.57.121.25", user: "admin", pass:"goodtimes"}
+[6/19/2026 9:45:28 PM] 2.57.121.25 >>> Disconnected.
