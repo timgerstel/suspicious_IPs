@@ -13309,3 +13309,15 @@
 [6/19/2026 10:54:30 PM] Connection attempt from IP: 106.75.224.165...
 [6/19/2026 10:54:31 PM] ***REJECTED*** {ip: "106.75.224.165", user: "root", pass:"vps"}
 [6/19/2026 10:54:32 PM] 106.75.224.165 >>> Disconnected.
+[6/19/2026 11:16:13 PM] Connection attempt from IP: 193.46.255.86...
+[6/19/2026 11:16:14 PM] ***REJECTED*** {ip: "193.46.255.86", user: "admin", pass:"Xpon@Olt9417#"}
+[6/19/2026 11:16:14 PM] ***REJECTED*** {ip: "193.46.255.86", user: "admin", pass:"Admin@1234"}
+[6/19/2026 11:16:15 PM] ***REJECTED*** {ip: "193.46.255.86", user: "admin", pass:"admin123"}
+[6/19/2026 11:16:15 PM] 193.46.255.86 >>> Disconnected.
+[6/19/2026 11:17:47 PM] Connection attempt from IP: 141.98.83.240...
+[6/19/2026 11:17:48 PM] ***REJECTED*** {ip: "141.98.83.240", user: "oscar", pass:"oscar"}
+[6/19/2026 11:17:48 PM] ***REJECTED*** {ip: "141.98.83.240", user: "oscar", pass:"7777777"}
+[6/19/2026 11:17:49 PM] ***REJECTED*** {ip: "141.98.83.240", user: "oscar", pass:"11111"}
+[6/19/2026 11:17:49 PM] 141.98.83.240 >>> Disconnected.
+[6/19/2026 11:29:49 PM] Connection attempt from IP: 45.148.10.121...
+[6/19/2026 11:29:49 PM] 45.148.10.121 >>> Disconnected.
