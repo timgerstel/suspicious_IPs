@@ -13002,3 +13002,8 @@
 [6/19/2026 3:29:06 PM] ***REJECTED*** {ip: "141.98.83.240", user: "user", pass:"q1234567"}
 [6/19/2026 3:29:07 PM] ***REJECTED*** {ip: "141.98.83.240", user: "user", pass:"08041984"}
 [6/19/2026 3:29:07 PM] 141.98.83.240 >>> Disconnected.
+[6/19/2026 3:38:19 PM] Connection attempt from IP: 45.148.10.121...
+[6/19/2026 3:38:20 PM] 45.148.10.121 >>> Disconnected.
+[6/19/2026 3:38:50 PM] Connection attempt from IP: 193.24.211.107...
+[6/19/2026 3:38:50 PM] ***REJECTED*** {ip: "193.24.211.107", user: "user", pass:"123"}
+[6/19/2026 3:38:51 PM] 193.24.211.107 >>> Disconnected.
