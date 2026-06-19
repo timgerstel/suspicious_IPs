@@ -13091,3 +13091,27 @@
 [6/19/2026 4:17:48 PM] Connection attempt from IP: 193.24.211.107...
 [6/19/2026 4:17:49 PM] ***REJECTED*** {ip: "193.24.211.107", user: "sshd", pass:"changeme"}
 [6/19/2026 4:17:50 PM] 193.24.211.107 >>> Disconnected.
+[6/19/2026 4:33:09 PM] Connection attempt from IP: 198.235.24.47...
+[6/19/2026 4:33:12 PM] 198.235.24.47 >>> Disconnected.
+[6/19/2026 4:34:32 PM] Connection attempt from IP: 2.57.121.112...
+[6/19/2026 4:34:33 PM] ***REJECTED*** {ip: "2.57.121.112", user: "shekinah", pass:"shekinah"}
+[6/19/2026 4:34:33 PM] ***REJECTED*** {ip: "2.57.121.112", user: "shekinah", pass:"shekinah1"}
+[6/19/2026 4:34:34 PM] ***REJECTED*** {ip: "2.57.121.112", user: "shekinah", pass:"shekinah123"}
+[6/19/2026 4:34:34 PM] ***REJECTED*** {ip: "2.57.121.112", user: "shekinah", pass:"shekinah1234"}
+[6/19/2026 4:34:34 PM] ***REJECTED*** {ip: "2.57.121.112", user: "shekinah", pass:"shekinah12345"}
+[6/19/2026 4:34:35 PM] 2.57.121.112 >>> Disconnected.
+[6/19/2026 4:38:29 PM] Connection attempt from IP: 45.148.10.121...
+[6/19/2026 4:38:30 PM] 45.148.10.121 >>> Disconnected.
+[6/19/2026 4:40:10 PM] Connection attempt from IP: 141.98.83.240...
+[6/19/2026 4:40:11 PM] ***REJECTED*** {ip: "141.98.83.240", user: "cassandra", pass:"12345678"}
+[6/19/2026 4:40:12 PM] ***REJECTED*** {ip: "141.98.83.240", user: "cassandra", pass:"7777777"}
+[6/19/2026 4:40:12 PM] ***REJECTED*** {ip: "141.98.83.240", user: "cassandra", pass:"11111"}
+[6/19/2026 4:40:12 PM] 141.98.83.240 >>> Disconnected.
+[6/19/2026 4:42:57 PM] Connection attempt from IP: 2.57.121.25...
+[6/19/2026 4:42:58 PM] ***REJECTED*** {ip: "2.57.121.25", user: "admin", pass:"heretic"}
+[6/19/2026 4:42:58 PM] ***REJECTED*** {ip: "2.57.121.25", user: "admin", pass:"henderson"}
+[6/19/2026 4:42:58 PM] ***REJECTED*** {ip: "2.57.121.25", user: "admin", pass:"headshot"}
+[6/19/2026 4:42:59 PM] 2.57.121.25 >>> Disconnected.
+[6/19/2026 4:56:35 PM] Connection attempt from IP: 193.24.211.107...
+[6/19/2026 4:56:36 PM] ***REJECTED*** {ip: "193.24.211.107", user: "cisco", pass:"cisco"}
+[6/19/2026 4:56:37 PM] 193.24.211.107 >>> Disconnected.
