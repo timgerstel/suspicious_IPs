@@ -13296,3 +13296,16 @@
 [6/19/2026 10:13:06 PM] 141.98.83.240 >>> Disconnected.
 [6/19/2026 10:19:41 PM] Connection attempt from IP: 147.185.132.105...
 [6/19/2026 10:19:44 PM] 147.185.132.105 >>> Disconnected.
+[6/19/2026 10:45:26 PM] Connection attempt from IP: 141.98.83.240...
+[6/19/2026 10:45:27 PM] ***REJECTED*** {ip: "141.98.83.240", user: "user", pass:"mike1"}
+[6/19/2026 10:45:27 PM] ***REJECTED*** {ip: "141.98.83.240", user: "user", pass:"20051983"}
+[6/19/2026 10:45:28 PM] ***REJECTED*** {ip: "141.98.83.240", user: "user", pass:"giggles"}
+[6/19/2026 10:45:28 PM] 141.98.83.240 >>> Disconnected.
+[6/19/2026 10:53:47 PM] Connection attempt from IP: 2.57.121.25...
+[6/19/2026 10:53:48 PM] ***REJECTED*** {ip: "2.57.121.25", user: "admin", pass:"goodone"}
+[6/19/2026 10:53:48 PM] ***REJECTED*** {ip: "2.57.121.25", user: "admin", pass:"gomez"}
+[6/19/2026 10:53:48 PM] ***REJECTED*** {ip: "2.57.121.25", user: "admin", pass:"goldmine"}
+[6/19/2026 10:53:49 PM] 2.57.121.25 >>> Disconnected.
+[6/19/2026 10:54:30 PM] Connection attempt from IP: 106.75.224.165...
+[6/19/2026 10:54:31 PM] ***REJECTED*** {ip: "106.75.224.165", user: "root", pass:"vps"}
+[6/19/2026 10:54:32 PM] 106.75.224.165 >>> Disconnected.
