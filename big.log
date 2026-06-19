@@ -13115,3 +13115,14 @@
 [6/19/2026 4:56:35 PM] Connection attempt from IP: 193.24.211.107...
 [6/19/2026 4:56:36 PM] ***REJECTED*** {ip: "193.24.211.107", user: "cisco", pass:"cisco"}
 [6/19/2026 4:56:37 PM] 193.24.211.107 >>> Disconnected.
+[6/19/2026 5:06:53 PM] Connection attempt from IP: 45.148.10.121...
+[6/19/2026 5:06:53 PM] ***REJECTED*** {ip: "45.148.10.121", user: "root", pass:"password"}
+[6/19/2026 5:06:54 PM] 45.148.10.121 >>> Disconnected.
+[6/19/2026 5:14:43 PM] Connection attempt from IP: 193.46.255.86...
+[6/19/2026 5:14:44 PM] ***REJECTED*** {ip: "193.46.255.86", user: "probe", pass:""}
+[6/19/2026 5:14:44 PM] 193.46.255.86 >>> Disconnected.
+[6/19/2026 5:15:19 PM] Connection attempt from IP: 141.98.83.240...
+[6/19/2026 5:15:20 PM] ***REJECTED*** {ip: "141.98.83.240", user: "jerri", pass:"jerri"}
+[6/19/2026 5:15:20 PM] ***REJECTED*** {ip: "141.98.83.240", user: "jerri", pass:"7777777"}
+[6/19/2026 5:15:20 PM] ***REJECTED*** {ip: "141.98.83.240", user: "jerri", pass:"11111"}
+[6/19/2026 5:15:21 PM] 141.98.83.240 >>> Disconnected.
