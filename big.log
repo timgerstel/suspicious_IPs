@@ -16598,3 +16598,34 @@
 [6/20/2026 9:56:49 PM] 178.20.210.208 >>> Disconnected.
 [6/20/2026 9:59:33 PM] Connection attempt from IP: 177.69.176.217...
 [6/20/2026 9:59:34 PM] 177.69.176.217 >>> Disconnected.
+[6/20/2026 10:01:07 PM] Connection attempt from IP: 2.57.121.112...
+[6/20/2026 10:01:08 PM] ***REJECTED*** {ip: "2.57.121.112", user: "sabina", pass:"sabina"}
+[6/20/2026 10:01:08 PM] ***REJECTED*** {ip: "2.57.121.112", user: "sabina", pass:"sabina1"}
+[6/20/2026 10:01:09 PM] ***REJECTED*** {ip: "2.57.121.112", user: "sabina", pass:"sabina123"}
+[6/20/2026 10:01:09 PM] ***REJECTED*** {ip: "2.57.121.112", user: "sabina", pass:"sabina1234"}
+[6/20/2026 10:01:09 PM] ***REJECTED*** {ip: "2.57.121.112", user: "sabina", pass:"sabina12345"}
+[6/20/2026 10:01:09 PM] 2.57.121.112 >>> Disconnected.
+[6/20/2026 10:07:14 PM] Connection attempt from IP: 45.148.10.141...
+[6/20/2026 10:09:11 PM] Connection attempt from IP: 2.57.121.25...
+[6/20/2026 10:09:13 PM] ***REJECTED*** {ip: "2.57.121.25", user: "admin", pass:"catalyst"}
+[6/20/2026 10:09:13 PM] ***REJECTED*** {ip: "2.57.121.25", user: "admin", pass:"carwash"}
+[6/20/2026 10:09:13 PM] ***REJECTED*** {ip: "2.57.121.25", user: "admin", pass:"carthage"}
+[6/20/2026 10:09:13 PM] 2.57.121.25 >>> Disconnected.
+[6/20/2026 10:10:03 PM] Connection attempt from IP: 178.20.210.208...
+[6/20/2026 10:10:04 PM] ***REJECTED*** {ip: "178.20.210.208", user: "subzero", pass:"Holycow4Ever"}
+[6/20/2026 10:10:05 PM] 178.20.210.208 >>> Disconnected.
+[6/20/2026 10:11:01 PM] Connection attempt from IP: 141.98.83.240...
+[6/20/2026 10:11:02 PM] ***REJECTED*** {ip: "141.98.83.240", user: "howard", pass:"howard"}
+[6/20/2026 10:11:02 PM] ***REJECTED*** {ip: "141.98.83.240", user: "howard", pass:"7777777"}
+[6/20/2026 10:11:03 PM] ***REJECTED*** {ip: "141.98.83.240", user: "howard", pass:"11111"}
+[6/20/2026 10:11:03 PM] 141.98.83.240 >>> Disconnected.
+[6/20/2026 10:17:09 PM] Connection attempt from IP: 193.46.255.86...
+[6/20/2026 10:17:10 PM] ***REJECTED*** {ip: "193.46.255.86", user: "root", pass:"2wsx#EDC"}
+[6/20/2026 10:17:10 PM] ***REJECTED*** {ip: "193.46.255.86", user: "root", pass:"venus"}
+[6/20/2026 10:17:11 PM] 193.46.255.86 >>> Disconnected.
+[6/20/2026 10:17:11 PM] Connection attempt from IP: 193.46.255.86...
+[6/20/2026 10:17:12 PM] ***REJECTED*** {ip: "193.46.255.86", user: "postgres", pass:"postgres"}
+[6/20/2026 10:17:12 PM] 193.46.255.86 >>> Disconnected.
+[6/20/2026 10:23:20 PM] Connection attempt from IP: 178.20.210.208...
+[6/20/2026 10:23:21 PM] ***REJECTED*** {ip: "178.20.210.208", user: "subzero", pass:"Gandalf1434"}
+[6/20/2026 10:23:22 PM] 178.20.210.208 >>> Disconnected.
