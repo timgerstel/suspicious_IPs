@@ -16292,3 +16292,16 @@
 [6/20/2026 5:58:20 PM] ***REJECTED*** {ip: "2.57.121.25", user: "admin", pass:"codeblue"}
 [6/20/2026 5:58:20 PM] ***REJECTED*** {ip: "2.57.121.25", user: "admin", pass:"clues"}
 [6/20/2026 5:58:20 PM] 2.57.121.25 >>> Disconnected.
+[6/20/2026 6:03:15 PM] Connection attempt from IP: 47.79.238.97...
+[6/20/2026 6:03:18 PM] 47.79.238.97 >>> Disconnected.
+[6/20/2026 6:09:56 PM] Connection attempt from IP: 178.20.210.208...
+[6/20/2026 6:09:57 PM] ***REJECTED*** {ip: "178.20.210.208", user: "ace", pass:"ace"}
+[6/20/2026 6:09:58 PM] 178.20.210.208 >>> Disconnected.
+[6/20/2026 6:16:16 PM] Connection attempt from IP: 141.98.83.240...
+[6/20/2026 6:16:17 PM] ***REJECTED*** {ip: "141.98.83.240", user: "jamel", pass:"jamel"}
+[6/20/2026 6:16:17 PM] ***REJECTED*** {ip: "141.98.83.240", user: "jamel", pass:"7777777"}
+[6/20/2026 6:16:18 PM] ***REJECTED*** {ip: "141.98.83.240", user: "jamel", pass:"11111"}
+[6/20/2026 6:16:18 PM] 141.98.83.240 >>> Disconnected.
+[6/20/2026 6:23:15 PM] Connection attempt from IP: 178.20.210.208...
+[6/20/2026 6:23:16 PM] ***REJECTED*** {ip: "178.20.210.208", user: "aaa", pass:"aaa"}
+[6/20/2026 6:23:17 PM] 178.20.210.208 >>> Disconnected.
