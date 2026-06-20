@@ -15119,3 +15119,16 @@
 [6/20/2026 2:59:58 PM] Connection attempt from IP: 178.20.210.208...
 [6/20/2026 2:59:58 PM] ***REJECTED*** {ip: "178.20.210.208", user: "admin", pass:"beeline"}
 [6/20/2026 2:59:59 PM] 178.20.210.208 >>> Disconnected.
+[6/20/2026 3:05:22 PM] Connection attempt from IP: 45.148.10.121...
+[6/20/2026 3:05:23 PM] 45.148.10.121 >>> Disconnected.
+[6/20/2026 3:13:33 PM] Connection attempt from IP: 178.20.210.208...
+[6/20/2026 3:13:34 PM] ***REJECTED*** {ip: "178.20.210.208", user: "admin", pass:"ant"}
+[6/20/2026 3:13:35 PM] 178.20.210.208 >>> Disconnected.
+[6/20/2026 3:18:12 PM] Connection attempt from IP: 141.98.83.240...
+[6/20/2026 3:18:13 PM] ***REJECTED*** {ip: "141.98.83.240", user: "root", pass:"1qazXSW@"}
+[6/20/2026 3:18:14 PM] ***REJECTED*** {ip: "141.98.83.240", user: "root", pass:"openvpnas"}
+[6/20/2026 3:18:14 PM] ***REJECTED*** {ip: "141.98.83.240", user: "root", pass:"testtest"}
+[6/20/2026 3:18:14 PM] 141.98.83.240 >>> Disconnected.
+[6/20/2026 3:27:07 PM] Connection attempt from IP: 178.20.210.208...
+[6/20/2026 3:27:08 PM] ***REJECTED*** {ip: "178.20.210.208", user: "admin", pass:"adslroot"}
+[6/20/2026 3:27:09 PM] 178.20.210.208 >>> Disconnected.
