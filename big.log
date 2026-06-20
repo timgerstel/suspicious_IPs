@@ -16418,3 +16418,28 @@
 [6/20/2026 7:56:42 PM] Connection attempt from IP: 178.20.210.208...
 [6/20/2026 7:56:42 PM] ***REJECTED*** {ip: "178.20.210.208", user: "superadmin", pass:"Is$uper@dmin"}
 [6/20/2026 7:56:43 PM] 178.20.210.208 >>> Disconnected.
+[6/20/2026 8:03:46 PM] Connection attempt from IP: 193.46.255.86...
+[6/20/2026 8:03:48 PM] ***REJECTED*** {ip: "193.46.255.86", user: "admin", pass:"atjp4CDA"}
+[6/20/2026 8:03:48 PM] ***REJECTED*** {ip: "193.46.255.86", user: "admin", pass:"creative"}
+[6/20/2026 8:03:48 PM] 193.46.255.86 >>> Disconnected.
+[6/20/2026 8:03:48 PM] Connection attempt from IP: 193.46.255.86...
+[6/20/2026 8:03:50 PM] ***REJECTED*** {ip: "193.46.255.86", user: "user", pass:"12345"}
+[6/20/2026 8:03:50 PM] 193.46.255.86 >>> Disconnected.
+[6/20/2026 8:04:05 PM] Connection attempt from IP: 2.57.121.25...
+[6/20/2026 8:04:06 PM] ***REJECTED*** {ip: "2.57.121.25", user: "admin", pass:"chucha"}
+[6/20/2026 8:04:06 PM] ***REJECTED*** {ip: "2.57.121.25", user: "admin", pass:"china1"}
+[6/20/2026 8:04:07 PM] ***REJECTED*** {ip: "2.57.121.25", user: "admin", pass:"charms"}
+[6/20/2026 8:04:07 PM] 2.57.121.25 >>> Disconnected.
+[6/20/2026 8:08:00 PM] Connection attempt from IP: 87.236.176.112...
+[6/20/2026 8:08:01 PM] 87.236.176.112 >>> Disconnected.
+[6/20/2026 8:10:05 PM] Connection attempt from IP: 178.20.210.208...
+[6/20/2026 8:10:06 PM] ***REJECTED*** {ip: "178.20.210.208", user: "sunsun", pass:"sunsun123"}
+[6/20/2026 8:10:07 PM] 178.20.210.208 >>> Disconnected.
+[6/20/2026 8:14:10 PM] Connection attempt from IP: 141.98.83.240...
+[6/20/2026 8:14:11 PM] ***REJECTED*** {ip: "141.98.83.240", user: "root", pass:"10203040"}
+[6/20/2026 8:14:11 PM] ***REJECTED*** {ip: "141.98.83.240", user: "root", pass:"11223344"}
+[6/20/2026 8:14:12 PM] ***REJECTED*** {ip: "141.98.83.240", user: "root", pass:"00000000"}
+[6/20/2026 8:14:12 PM] 141.98.83.240 >>> Disconnected.
+[6/20/2026 8:23:27 PM] Connection attempt from IP: 178.20.210.208...
+[6/20/2026 8:23:28 PM] ***REJECTED*** {ip: "178.20.210.208", user: "sun", pass:"sun1"}
+[6/20/2026 8:23:28 PM] 178.20.210.208 >>> Disconnected.
