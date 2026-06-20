@@ -14091,3 +14091,21 @@
 [6/20/2026 4:19:50 AM] ***REJECTED*** {ip: "2.57.121.112", user: "amia", pass:"amia1234"}
 [6/20/2026 4:19:50 AM] ***REJECTED*** {ip: "2.57.121.112", user: "amia", pass:"amia12345"}
 [6/20/2026 4:19:51 AM] 2.57.121.112 >>> Disconnected.
+[6/20/2026 4:30:39 AM] Connection attempt from IP: 2.57.121.25...
+[6/20/2026 4:30:40 AM] ***REJECTED*** {ip: "2.57.121.25", user: "admin", pass:"floyd1"}
+[6/20/2026 4:30:40 AM] ***REJECTED*** {ip: "2.57.121.25", user: "admin", pass:"flora"}
+[6/20/2026 4:30:41 AM] ***REJECTED*** {ip: "2.57.121.25", user: "admin", pass:"flintsto"}
+[6/20/2026 4:30:41 AM] 2.57.121.25 >>> Disconnected.
+[6/20/2026 4:32:24 AM] Connection attempt from IP: 45.148.10.121...
+[6/20/2026 4:32:25 AM] 45.148.10.121 >>> Disconnected.
+[6/20/2026 4:33:43 AM] Connection attempt from IP: 178.20.210.208...
+[6/20/2026 4:33:44 AM] ***REJECTED*** {ip: "178.20.210.208", user: "apache", pass:"passwd"}
+[6/20/2026 4:33:44 AM] 178.20.210.208 >>> Disconnected.
+[6/20/2026 4:38:19 AM] Connection attempt from IP: 141.98.83.240...
+[6/20/2026 4:38:21 AM] ***REJECTED*** {ip: "141.98.83.240", user: "user", pass:"15101992"}
+[6/20/2026 4:38:21 AM] ***REJECTED*** {ip: "141.98.83.240", user: "user", pass:"nastia"}
+[6/20/2026 4:38:21 AM] ***REJECTED*** {ip: "141.98.83.240", user: "user", pass:"smack"}
+[6/20/2026 4:38:22 AM] 141.98.83.240 >>> Disconnected.
+[6/20/2026 4:47:51 AM] Connection attempt from IP: 178.20.210.208...
+[6/20/2026 4:47:52 AM] ***REJECTED*** {ip: "178.20.210.208", user: "anton", pass:"anton123"}
+[6/20/2026 4:47:52 AM] 178.20.210.208 >>> Disconnected.
