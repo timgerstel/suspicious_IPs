@@ -20838,3 +20838,21 @@
 [6/21/2026 7:56:07 PM] Connection attempt from IP: 178.20.210.208...
 [6/21/2026 7:56:08 PM] ***REJECTED*** {ip: "178.20.210.208", user: "secretariat", pass:"secretariat"}
 [6/21/2026 7:56:09 PM] 178.20.210.208 >>> Disconnected.
+[6/21/2026 8:08:41 PM] Connection attempt from IP: 178.20.210.208...
+[6/21/2026 8:08:42 PM] ***REJECTED*** {ip: "178.20.210.208", user: "search", pass:"search123"}
+[6/21/2026 8:08:42 PM] 178.20.210.208 >>> Disconnected.
+[6/21/2026 8:12:39 PM] Connection attempt from IP: 2.57.121.112...
+[6/21/2026 8:12:40 PM] ***REJECTED*** {ip: "2.57.121.112", user: "gemma", pass:"gemma"}
+[6/21/2026 8:12:41 PM] ***REJECTED*** {ip: "2.57.121.112", user: "gemma", pass:"gemma1"}
+[6/21/2026 8:12:41 PM] ***REJECTED*** {ip: "2.57.121.112", user: "gemma", pass:"gemma123"}
+[6/21/2026 8:12:41 PM] ***REJECTED*** {ip: "2.57.121.112", user: "gemma", pass:"gemma1234"}
+[6/21/2026 8:12:42 PM] ***REJECTED*** {ip: "2.57.121.112", user: "gemma", pass:"gemma12345"}
+[6/21/2026 8:12:42 PM] 2.57.121.112 >>> Disconnected.
+[6/21/2026 8:20:42 PM] Connection attempt from IP: 141.98.83.240...
+[6/21/2026 8:20:43 PM] ***REJECTED*** {ip: "141.98.83.240", user: "devante", pass:"devante"}
+[6/21/2026 8:20:44 PM] ***REJECTED*** {ip: "141.98.83.240", user: "devante", pass:"7777777"}
+[6/21/2026 8:20:44 PM] ***REJECTED*** {ip: "141.98.83.240", user: "devante", pass:"11111"}
+[6/21/2026 8:20:44 PM] 141.98.83.240 >>> Disconnected.
+[6/21/2026 8:21:11 PM] Connection attempt from IP: 178.20.210.208...
+[6/21/2026 8:21:12 PM] ***REJECTED*** {ip: "178.20.210.208", user: "sean", pass:"sean"}
+[6/21/2026 8:21:13 PM] 178.20.210.208 >>> Disconnected.
