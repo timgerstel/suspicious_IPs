@@ -20733,3 +20733,26 @@
 [6/21/2026 5:23:59 PM] Connection attempt from IP: 178.20.210.208...
 [6/21/2026 5:24:00 PM] ***REJECTED*** {ip: "178.20.210.208", user: "shade", pass:"shade"}
 [6/21/2026 5:24:01 PM] 178.20.210.208 >>> Disconnected.
+[6/21/2026 5:30:15 PM] Connection attempt from IP: 2.57.121.112...
+[6/21/2026 5:30:16 PM] ***REJECTED*** {ip: "2.57.121.112", user: "caley", pass:"caley"}
+[6/21/2026 5:30:16 PM] ***REJECTED*** {ip: "2.57.121.112", user: "caley", pass:"caley1"}
+[6/21/2026 5:30:17 PM] ***REJECTED*** {ip: "2.57.121.112", user: "caley", pass:"caley123"}
+[6/21/2026 5:30:17 PM] ***REJECTED*** {ip: "2.57.121.112", user: "caley", pass:"caley1234"}
+[6/21/2026 5:30:17 PM] ***REJECTED*** {ip: "2.57.121.112", user: "caley", pass:"caley12345"}
+[6/21/2026 5:30:18 PM] 2.57.121.112 >>> Disconnected.
+[6/21/2026 5:34:18 PM] Connection attempt from IP: 141.98.83.240...
+[6/21/2026 5:34:19 PM] ***REJECTED*** {ip: "141.98.83.240", user: "ftp", pass:"12345"}
+[6/21/2026 5:34:19 PM] ***REJECTED*** {ip: "141.98.83.240", user: "ftp", pass:"88888888"}
+[6/21/2026 5:34:20 PM] ***REJECTED*** {ip: "141.98.83.240", user: "ftp", pass:"ftp1234"}
+[6/21/2026 5:34:20 PM] 141.98.83.240 >>> Disconnected.
+[6/21/2026 5:34:42 PM] Connection attempt from IP: 2.57.121.25...
+[6/21/2026 5:34:43 PM] ***REJECTED*** {ip: "2.57.121.25", user: "admin", pass:"89600506779"}
+[6/21/2026 5:34:43 PM] ***REJECTED*** {ip: "2.57.121.25", user: "admin", pass:"7555545"}
+[6/21/2026 5:34:44 PM] ***REJECTED*** {ip: "2.57.121.25", user: "admin", pass:"7415963"}
+[6/21/2026 5:34:44 PM] 2.57.121.25 >>> Disconnected.
+[6/21/2026 5:36:40 PM] Connection attempt from IP: 178.20.210.208...
+[6/21/2026 5:36:41 PM] ***REJECTED*** {ip: "178.20.210.208", user: "setup", pass:"setup123"}
+[6/21/2026 5:36:42 PM] 178.20.210.208 >>> Disconnected.
+[6/21/2026 5:49:21 PM] Connection attempt from IP: 178.20.210.208...
+[6/21/2026 5:49:22 PM] ***REJECTED*** {ip: "178.20.210.208", user: "set", pass:"set"}
+[6/21/2026 5:49:23 PM] 178.20.210.208 >>> Disconnected.
