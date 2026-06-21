@@ -20655,3 +20655,21 @@
 [6/21/2026 3:29:50 PM] Connection attempt from IP: 178.20.210.208...
 [6/21/2026 3:29:51 PM] ***REJECTED*** {ip: "178.20.210.208", user: "sheller", pass:"445405"}
 [6/21/2026 3:29:51 PM] 178.20.210.208 >>> Disconnected.
+[6/21/2026 3:33:49 PM] Connection attempt from IP: 45.148.10.121...
+[6/21/2026 3:33:50 PM] 45.148.10.121 >>> Disconnected.
+[6/21/2026 3:34:08 PM] Connection attempt from IP: 2.57.121.25...
+[6/21/2026 3:34:09 PM] ***REJECTED*** {ip: "2.57.121.25", user: "admin", pass:"alexei"}
+[6/21/2026 3:34:09 PM] ***REJECTED*** {ip: "2.57.121.25", user: "admin", pass:"aleksander"}
+[6/21/2026 3:34:09 PM] ***REJECTED*** {ip: "2.57.121.25", user: "admin", pass:"agnes"}
+[6/21/2026 3:34:10 PM] 2.57.121.25 >>> Disconnected.
+[6/21/2026 3:42:31 PM] Connection attempt from IP: 178.20.210.208...
+[6/21/2026 3:42:32 PM] ***REJECTED*** {ip: "178.20.210.208", user: "sheila", pass:"sheila"}
+[6/21/2026 3:42:33 PM] 178.20.210.208 >>> Disconnected.
+[6/21/2026 3:43:03 PM] Connection attempt from IP: 141.98.83.240...
+[6/21/2026 3:43:04 PM] ***REJECTED*** {ip: "141.98.83.240", user: "hadoop", pass:"hadoop"}
+[6/21/2026 3:43:04 PM] ***REJECTED*** {ip: "141.98.83.240", user: "hadoop", pass:"123456"}
+[6/21/2026 3:43:05 PM] ***REJECTED*** {ip: "141.98.83.240", user: "hadoop", pass:"12345"}
+[6/21/2026 3:43:05 PM] 141.98.83.240 >>> Disconnected.
+[6/21/2026 3:55:06 PM] Connection attempt from IP: 178.20.210.208...
+[6/21/2026 3:55:07 PM] ***REJECTED*** {ip: "178.20.210.208", user: "sheep", pass:"sheep"}
+[6/21/2026 3:55:07 PM] 178.20.210.208 >>> Disconnected.
