@@ -20345,3 +20345,23 @@
 [6/21/2026 10:29:58 AM] ***REJECTED*** {ip: "2.57.121.25", user: "admin", pass:"arch"}
 [6/21/2026 10:29:59 AM] ***REJECTED*** {ip: "2.57.121.25", user: "admin", pass:"arcade"}
 [6/21/2026 10:29:59 AM] 2.57.121.25 >>> Disconnected.
+[6/21/2026 10:33:20 AM] Connection attempt from IP: 141.98.83.240...
+[6/21/2026 10:33:22 AM] ***REJECTED*** {ip: "141.98.83.240", user: "admin", pass:"apichart"}
+[6/21/2026 10:33:22 AM] ***REJECTED*** {ip: "141.98.83.240", user: "admin", pass:"letmein"}
+[6/21/2026 10:33:22 AM] ***REJECTED*** {ip: "141.98.83.240", user: "admin", pass:"o"}
+[6/21/2026 10:33:23 AM] 141.98.83.240 >>> Disconnected.
+[6/21/2026 10:35:54 AM] Connection attempt from IP: 178.20.210.208...
+[6/21/2026 10:35:55 AM] ***REJECTED*** {ip: "178.20.210.208", user: "siteadmin", pass:"password"}
+[6/21/2026 10:35:56 AM] 178.20.210.208 >>> Disconnected.
+[6/21/2026 10:38:08 AM] Connection attempt from IP: 45.148.10.121...
+[6/21/2026 10:38:08 AM] 45.148.10.121 >>> Disconnected.
+[6/21/2026 10:38:42 AM] Connection attempt from IP: 2.57.121.112...
+[6/21/2026 10:38:43 AM] ***REJECTED*** {ip: "2.57.121.112", user: "jordi", pass:"jordi"}
+[6/21/2026 10:38:44 AM] ***REJECTED*** {ip: "2.57.121.112", user: "jordi", pass:"jordi1"}
+[6/21/2026 10:38:44 AM] ***REJECTED*** {ip: "2.57.121.112", user: "jordi", pass:"jordi123"}
+[6/21/2026 10:38:44 AM] ***REJECTED*** {ip: "2.57.121.112", user: "jordi", pass:"jordi1234"}
+[6/21/2026 10:38:44 AM] ***REJECTED*** {ip: "2.57.121.112", user: "jordi", pass:"jordi12345"}
+[6/21/2026 10:38:45 AM] 2.57.121.112 >>> Disconnected.
+[6/21/2026 10:48:43 AM] Connection attempt from IP: 178.20.210.208...
+[6/21/2026 10:48:43 AM] ***REJECTED*** {ip: "178.20.210.208", user: "site01", pass:"site01"}
+[6/21/2026 10:48:44 AM] 178.20.210.208 >>> Disconnected.
