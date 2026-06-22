@@ -21690,3 +21690,17 @@
 [6/22/2026 5:27:51 AM] ***REJECTED*** {ip: "141.98.83.240", user: "deion", pass:"7777777"}
 [6/22/2026 5:27:51 AM] ***REJECTED*** {ip: "141.98.83.240", user: "deion", pass:"11111"}
 [6/22/2026 5:27:51 AM] 141.98.83.240 >>> Disconnected.
+[6/22/2026 5:34:14 AM] Connection attempt from IP: 2.57.121.112...
+[6/22/2026 5:34:15 AM] ***REJECTED*** {ip: "2.57.121.112", user: "kenan", pass:"kenan"}
+[6/22/2026 5:34:15 AM] ***REJECTED*** {ip: "2.57.121.112", user: "kenan", pass:"kenan1"}
+[6/22/2026 5:34:15 AM] ***REJECTED*** {ip: "2.57.121.112", user: "kenan", pass:"kenan123"}
+[6/22/2026 5:34:16 AM] ***REJECTED*** {ip: "2.57.121.112", user: "kenan", pass:"kenan1234"}
+[6/22/2026 5:34:16 AM] ***REJECTED*** {ip: "2.57.121.112", user: "kenan", pass:"kenan12345"}
+[6/22/2026 5:34:16 AM] 2.57.121.112 >>> Disconnected.
+[6/22/2026 5:48:50 AM] Connection attempt from IP: 45.192.184.50...
+[6/22/2026 5:48:55 AM] 45.192.184.50 >>> Disconnected.
+[6/22/2026 5:54:57 AM] Connection attempt from IP: 141.98.83.240...
+[6/22/2026 5:54:58 AM] ***REJECTED*** {ip: "141.98.83.240", user: "harold", pass:"harold"}
+[6/22/2026 5:54:59 AM] ***REJECTED*** {ip: "141.98.83.240", user: "harold", pass:"7777777"}
+[6/22/2026 5:54:59 AM] ***REJECTED*** {ip: "141.98.83.240", user: "harold", pass:"11111"}
+[6/22/2026 5:54:59 AM] 141.98.83.240 >>> Disconnected.
