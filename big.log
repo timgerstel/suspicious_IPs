@@ -21715,3 +21715,17 @@
 [6/22/2026 6:26:23 AM] ***REJECTED*** {ip: "2.57.121.25", user: "admin", pass:"28041978"}
 [6/22/2026 6:26:23 AM] 2.57.121.25 >>> Disconnected.
 [6/22/2026 6:29:23 AM] Connection attempt from IP: 69.5.169.134...
+[6/22/2026 6:49:18 AM] Connection attempt from IP: 141.98.83.240...
+[6/22/2026 6:49:19 AM] ***REJECTED*** {ip: "141.98.83.240", user: "jasper", pass:"jasper"}
+[6/22/2026 6:49:20 AM] ***REJECTED*** {ip: "141.98.83.240", user: "jasper", pass:"7777777"}
+[6/22/2026 6:49:20 AM] ***REJECTED*** {ip: "141.98.83.240", user: "jasper", pass:"11111"}
+[6/22/2026 6:49:20 AM] 141.98.83.240 >>> Disconnected.
+[6/22/2026 6:53:47 AM] Connection attempt from IP: 2.57.121.112...
+[6/22/2026 6:53:48 AM] ***REJECTED*** {ip: "2.57.121.112", user: "keshon", pass:"keshon"}
+[6/22/2026 6:53:48 AM] ***REJECTED*** {ip: "2.57.121.112", user: "keshon", pass:"keshon1"}
+[6/22/2026 6:53:49 AM] ***REJECTED*** {ip: "2.57.121.112", user: "keshon", pass:"keshon123"}
+[6/22/2026 6:53:49 AM] ***REJECTED*** {ip: "2.57.121.112", user: "keshon", pass:"keshon1234"}
+[6/22/2026 6:53:49 AM] ***REJECTED*** {ip: "2.57.121.112", user: "keshon", pass:"keshon12345"}
+[6/22/2026 6:53:50 AM] 2.57.121.112 >>> Disconnected.
+[6/22/2026 6:55:12 AM] Connection attempt from IP: 44.220.185.161...
+[6/22/2026 6:55:12 AM] 44.220.185.161 >>> Disconnected.
