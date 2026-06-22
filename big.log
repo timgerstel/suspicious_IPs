@@ -23528,3 +23528,8 @@
 [6/22/2026 5:53:16 PM] 141.98.83.240 >>> Disconnected.
 [6/22/2026 5:57:44 PM] Connection attempt from IP: 170.64.167.72...
 [6/22/2026 5:57:51 PM] 170.64.167.72 >>> Disconnected.
+[6/22/2026 6:26:51 PM] Connection attempt from IP: 141.98.83.240...
+[6/22/2026 6:26:52 PM] ***REJECTED*** {ip: "141.98.83.240", user: "admin", pass:"22021974"}
+[6/22/2026 6:26:53 PM] ***REJECTED*** {ip: "141.98.83.240", user: "admin", pass:"25101976"}
+[6/22/2026 6:26:53 PM] ***REJECTED*** {ip: "141.98.83.240", user: "admin", pass:"7ujMko0"}
+[6/22/2026 6:26:53 PM] 141.98.83.240 >>> Disconnected.
