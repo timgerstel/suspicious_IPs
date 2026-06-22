@@ -21640,3 +21640,26 @@
 [6/22/2026 3:39:15 AM] ***REJECTED*** {ip: "141.98.83.240", user: "admin", pass:"240483"}
 [6/22/2026 3:39:16 AM] ***REJECTED*** {ip: "141.98.83.240", user: "admin", pass:"7933"}
 [6/22/2026 3:39:16 AM] 141.98.83.240 >>> Disconnected.
+[6/22/2026 4:03:47 AM] Connection attempt from IP: 45.227.254.170...
+[6/22/2026 4:06:29 AM] Connection attempt from IP: 141.98.83.240...
+[6/22/2026 4:06:30 AM] ***REJECTED*** {ip: "141.98.83.240", user: "admin", pass:"Logos"}
+[6/22/2026 4:06:31 AM] ***REJECTED*** {ip: "141.98.83.240", user: "admin", pass:"P@55word"}
+[6/22/2026 4:06:31 AM] ***REJECTED*** {ip: "141.98.83.240", user: "admin", pass:"guest"}
+[6/22/2026 4:06:31 AM] 141.98.83.240 >>> Disconnected.
+[6/22/2026 4:06:37 AM] Connection attempt from IP: 45.148.10.121...
+[6/22/2026 4:06:38 AM] ***REJECTED*** {ip: "45.148.10.121", user: "admin", pass:"1234"}
+[6/22/2026 4:06:38 AM] 45.148.10.121 >>> Disconnected.
+[6/22/2026 4:14:25 AM] Connection attempt from IP: 2.57.121.112...
+[6/22/2026 4:14:26 AM] ***REJECTED*** {ip: "2.57.121.112", user: "cedrick", pass:"cedrick"}
+[6/22/2026 4:14:27 AM] ***REJECTED*** {ip: "2.57.121.112", user: "cedrick", pass:"cedrick1"}
+[6/22/2026 4:14:27 AM] ***REJECTED*** {ip: "2.57.121.112", user: "cedrick", pass:"cedrick123"}
+[6/22/2026 4:14:27 AM] ***REJECTED*** {ip: "2.57.121.112", user: "cedrick", pass:"cedrick1234"}
+[6/22/2026 4:14:28 AM] ***REJECTED*** {ip: "2.57.121.112", user: "cedrick", pass:"cedrick12345"}
+[6/22/2026 4:14:28 AM] 2.57.121.112 >>> Disconnected.
+[6/22/2026 4:20:51 AM] Connection attempt from IP: 103.203.57.2...
+[6/22/2026 4:21:01 AM] 103.203.57.2 >>> Disconnected.
+[6/22/2026 4:28:34 AM] Connection attempt from IP: 2.57.121.25...
+[6/22/2026 4:28:35 AM] ***REJECTED*** {ip: "2.57.121.25", user: "admin", pass:"290386"}
+[6/22/2026 4:28:35 AM] ***REJECTED*** {ip: "2.57.121.25", user: "admin", pass:"29031980"}
+[6/22/2026 4:28:35 AM] ***REJECTED*** {ip: "2.57.121.25", user: "admin", pass:"29011977"}
+[6/22/2026 4:28:36 AM] 2.57.121.25 >>> Disconnected.
