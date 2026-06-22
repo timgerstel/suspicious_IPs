@@ -21632,3 +21632,11 @@
 [6/22/2026 3:29:34 AM] ***REJECTED*** {ip: "2.57.121.25", user: "admin", pass:"29041976"}
 [6/22/2026 3:29:35 AM] ***REJECTED*** {ip: "2.57.121.25", user: "admin", pass:"29041974"}
 [6/22/2026 3:29:35 AM] 2.57.121.25 >>> Disconnected.
+[6/22/2026 3:34:40 AM] Connection attempt from IP: 45.148.10.121...
+[6/22/2026 3:34:41 AM] ***REJECTED*** {ip: "45.148.10.121", user: "root", pass:"password"}
+[6/22/2026 3:34:41 AM] 45.148.10.121 >>> Disconnected.
+[6/22/2026 3:39:14 AM] Connection attempt from IP: 141.98.83.240...
+[6/22/2026 3:39:15 AM] ***REJECTED*** {ip: "141.98.83.240", user: "admin", pass:"160983"}
+[6/22/2026 3:39:15 AM] ***REJECTED*** {ip: "141.98.83.240", user: "admin", pass:"240483"}
+[6/22/2026 3:39:16 AM] ***REJECTED*** {ip: "141.98.83.240", user: "admin", pass:"7933"}
+[6/22/2026 3:39:16 AM] 141.98.83.240 >>> Disconnected.
