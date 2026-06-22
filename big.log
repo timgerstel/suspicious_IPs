@@ -23546,3 +23546,16 @@
 [6/22/2026 6:54:17 PM] Connection attempt from IP: 31.177.41.88...
 [6/22/2026 6:54:18 PM] ***REJECTED*** {ip: "31.177.41.88", user: "root", pass:"10481048"}
 [6/22/2026 6:54:18 PM] 31.177.41.88 >>> Disconnected.
+[6/22/2026 7:00:26 PM] Connection attempt from IP: 141.98.83.240...
+[6/22/2026 7:00:27 PM] ***REJECTED*** {ip: "141.98.83.240", user: "root", pass:"admin12"}
+[6/22/2026 7:00:28 PM] ***REJECTED*** {ip: "141.98.83.240", user: "root", pass:"asdasd"}
+[6/22/2026 7:00:28 PM] ***ACCEPTED*** {ip: "141.98.83.240", user: "root", pass:"myippbx"}
+[6/22/2026 7:00:28 PM] 141.98.83.240 >>> Disconnected.
+[6/22/2026 7:05:56 PM] Connection attempt from IP: 45.148.10.141...
+[6/22/2026 7:10:43 PM] Connection attempt from IP: 2.57.121.112...
+[6/22/2026 7:10:44 PM] ***REJECTED*** {ip: "2.57.121.112", user: "erykah", pass:"erykah"}
+[6/22/2026 7:10:45 PM] ***REJECTED*** {ip: "2.57.121.112", user: "erykah", pass:"erykah1"}
+[6/22/2026 7:10:45 PM] ***REJECTED*** {ip: "2.57.121.112", user: "erykah", pass:"erykah123"}
+[6/22/2026 7:10:45 PM] ***REJECTED*** {ip: "2.57.121.112", user: "erykah", pass:"erykah1234"}
+[6/22/2026 7:10:45 PM] ***REJECTED*** {ip: "2.57.121.112", user: "erykah", pass:"erykah12345"}
+[6/22/2026 7:10:46 PM] 2.57.121.112 >>> Disconnected.
