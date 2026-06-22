@@ -23906,3 +23906,25 @@
 [6/22/2026 10:54:59 PM] Connection attempt from IP: 178.20.210.208...
 [6/22/2026 10:55:00 PM] ***REJECTED*** {ip: "178.20.210.208", user: "root", pass:"angela"}
 [6/22/2026 10:55:00 PM] 178.20.210.208 >>> Disconnected.
+[6/22/2026 11:09:33 PM] Connection attempt from IP: 178.20.210.208...
+[6/22/2026 11:09:34 PM] ***REJECTED*** {ip: "178.20.210.208", user: "bob", pass:"bob"}
+[6/22/2026 11:09:34 PM] 178.20.210.208 >>> Disconnected.
+[6/22/2026 11:09:53 PM] Connection attempt from IP: 2.57.121.25...
+[6/22/2026 11:09:54 PM] ***REJECTED*** {ip: "2.57.121.25", user: "admin", pass:"24121991"}
+[6/22/2026 11:09:55 PM] ***REJECTED*** {ip: "2.57.121.25", user: "admin", pass:"24111993"}
+[6/22/2026 11:09:55 PM] ***REJECTED*** {ip: "2.57.121.25", user: "admin", pass:"24111976"}
+[6/22/2026 11:09:55 PM] 2.57.121.25 >>> Disconnected.
+[6/22/2026 11:20:33 PM] Connection attempt from IP: 211.225.139.200...
+[6/22/2026 11:20:35 PM] ***REJECTED*** {ip: "211.225.139.200", user: "root", pass:"111aaa"}
+[6/22/2026 11:20:35 PM] 211.225.139.200 >>> Disconnected.
+[6/22/2026 11:21:42 PM] Connection attempt from IP: 45.148.10.121...
+[6/22/2026 11:21:43 PM] ***REJECTED*** {ip: "45.148.10.121", user: "AdminGPON", pass:"ALC#FGU"}
+[6/22/2026 11:21:43 PM] 45.148.10.121 >>> Disconnected.
+[6/22/2026 11:22:02 PM] Connection attempt from IP: 141.98.83.240...
+[6/22/2026 11:22:04 PM] ***REJECTED*** {ip: "141.98.83.240", user: "root", pass:"ubnt"}
+[6/22/2026 11:22:04 PM] ***REJECTED*** {ip: "141.98.83.240", user: "root", pass:"admin"}
+[6/22/2026 11:22:04 PM] ***REJECTED*** {ip: "141.98.83.240", user: "root", pass:"blahblah"}
+[6/22/2026 11:22:05 PM] 141.98.83.240 >>> Disconnected.
+[6/22/2026 11:23:59 PM] Connection attempt from IP: 178.20.210.208...
+[6/22/2026 11:24:00 PM] ***REJECTED*** {ip: "178.20.210.208", user: "shari", pass:"shari"}
+[6/22/2026 11:24:00 PM] 178.20.210.208 >>> Disconnected.
