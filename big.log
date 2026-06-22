@@ -22511,3 +22511,20 @@
 [6/22/2026 7:43:17 AM] ***REJECTED*** {ip: "141.98.83.240", user: "marcanthony", pass:"7777777"}
 [6/22/2026 7:43:17 AM] ***REJECTED*** {ip: "141.98.83.240", user: "marcanthony", pass:"11111"}
 [6/22/2026 7:43:17 AM] 141.98.83.240 >>> Disconnected.
+[6/22/2026 8:10:30 AM] Connection attempt from IP: 141.98.83.240...
+[6/22/2026 8:10:31 AM] ***REJECTED*** {ip: "141.98.83.240", user: "admin", pass:"megafon"}
+[6/22/2026 8:10:31 AM] ***REJECTED*** {ip: "141.98.83.240", user: "admin", pass:"0"}
+[6/22/2026 8:10:32 AM] ***REJECTED*** {ip: "141.98.83.240", user: "admin", pass:"admin1357"}
+[6/22/2026 8:10:32 AM] 141.98.83.240 >>> Disconnected.
+[6/22/2026 8:13:07 AM] Connection attempt from IP: 2.57.121.112...
+[6/22/2026 8:13:08 AM] ***REJECTED*** {ip: "2.57.121.112", user: "shelton", pass:"shelton"}
+[6/22/2026 8:13:08 AM] ***REJECTED*** {ip: "2.57.121.112", user: "shelton", pass:"shelton1"}
+[6/22/2026 8:13:08 AM] ***REJECTED*** {ip: "2.57.121.112", user: "shelton", pass:"shelton123"}
+[6/22/2026 8:13:09 AM] ***REJECTED*** {ip: "2.57.121.112", user: "shelton", pass:"shelton1234"}
+[6/22/2026 8:13:09 AM] ***REJECTED*** {ip: "2.57.121.112", user: "shelton", pass:"shelton12345"}
+[6/22/2026 8:13:09 AM] 2.57.121.112 >>> Disconnected.
+[6/22/2026 8:23:49 AM] Connection attempt from IP: 2.57.121.25...
+[6/22/2026 8:23:50 AM] ***REJECTED*** {ip: "2.57.121.25", user: "admin", pass:"27091992"}
+[6/22/2026 8:23:51 AM] ***REJECTED*** {ip: "2.57.121.25", user: "admin", pass:"27081991"}
+[6/22/2026 8:23:51 AM] ***REJECTED*** {ip: "2.57.121.25", user: "admin", pass:"27081982"}
+[6/22/2026 8:23:51 AM] 2.57.121.25 >>> Disconnected.
