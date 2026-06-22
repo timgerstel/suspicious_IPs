@@ -23415,3 +23415,10 @@
 [6/22/2026 2:54:54 PM] ***REJECTED*** {ip: "2.57.121.25", user: "admin", pass:"26041993"}
 [6/22/2026 2:54:54 PM] ***REJECTED*** {ip: "2.57.121.25", user: "admin", pass:"26041980"}
 [6/22/2026 2:54:55 PM] 2.57.121.25 >>> Disconnected.
+[6/22/2026 3:02:41 PM] Connection attempt from IP: 141.98.83.240...
+[6/22/2026 3:02:43 PM] ***REJECTED*** {ip: "141.98.83.240", user: "guy", pass:"guy"}
+[6/22/2026 3:02:43 PM] ***REJECTED*** {ip: "141.98.83.240", user: "guy", pass:"123456"}
+[6/22/2026 3:02:43 PM] ***REJECTED*** {ip: "141.98.83.240", user: "guy", pass:"7777777"}
+[6/22/2026 3:02:44 PM] 141.98.83.240 >>> Disconnected.
+[6/22/2026 3:07:25 PM] Connection attempt from IP: 45.148.10.121...
+[6/22/2026 3:07:26 PM] 45.148.10.121 >>> Disconnected.
