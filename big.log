@@ -22637,3 +22637,13 @@
 [6/22/2026 8:45:22 AM] 154.210.208.250 >>> Disconnected.
 [6/22/2026 8:48:08 AM] Connection attempt from IP: 176.32.193.16...
 [6/22/2026 8:48:08 AM] 176.32.193.16 >>> Disconnected.
+[6/22/2026 9:04:39 AM] Connection attempt from IP: 141.98.83.240...
+[6/22/2026 9:04:40 AM] ***REJECTED*** {ip: "141.98.83.240", user: "root", pass:"nimda"}
+[6/22/2026 9:04:40 AM] ***REJECTED*** {ip: "141.98.83.240", user: "root", pass:"ou812"}
+[6/22/2026 9:04:40 AM] ***REJECTED*** {ip: "141.98.83.240", user: "root", pass:"12345678a"}
+[6/22/2026 9:04:41 AM] 141.98.83.240 >>> Disconnected.
+[6/22/2026 9:22:27 AM] Connection attempt from IP: 2.57.121.25...
+[6/22/2026 9:22:28 AM] ***REJECTED*** {ip: "2.57.121.25", user: "admin", pass:"27081981"}
+[6/22/2026 9:22:28 AM] ***REJECTED*** {ip: "2.57.121.25", user: "admin", pass:"27041995"}
+[6/22/2026 9:22:29 AM] ***REJECTED*** {ip: "2.57.121.25", user: "admin", pass:"27031980"}
+[6/22/2026 9:22:29 AM] 2.57.121.25 >>> Disconnected.
