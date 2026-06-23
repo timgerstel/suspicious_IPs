@@ -24967,3 +24967,8 @@
 [6/23/2026 6:51:11 PM] ***REJECTED*** {ip: "141.98.83.240", user: "admin", pass:"lab"}
 [6/23/2026 6:51:11 PM] ***REJECTED*** {ip: "141.98.83.240", user: "admin", pass:"qaz@123"}
 [6/23/2026 6:51:11 PM] 141.98.83.240 >>> Disconnected.
+[6/23/2026 7:21:06 PM] Connection attempt from IP: 141.98.83.240...
+[6/23/2026 7:21:07 PM] ***REJECTED*** {ip: "141.98.83.240", user: "franco", pass:"franco"}
+[6/23/2026 7:21:07 PM] ***REJECTED*** {ip: "141.98.83.240", user: "franco", pass:"7777777"}
+[6/23/2026 7:21:07 PM] ***REJECTED*** {ip: "141.98.83.240", user: "franco", pass:"11111"}
+[6/23/2026 7:21:08 PM] 141.98.83.240 >>> Disconnected.
