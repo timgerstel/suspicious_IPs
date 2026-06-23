@@ -24602,3 +24602,22 @@
 [6/23/2026 12:34:29 PM] ***REJECTED*** {ip: "141.98.83.240", user: "humberto", pass:"7777777"}
 [6/23/2026 12:34:30 PM] ***REJECTED*** {ip: "141.98.83.240", user: "humberto", pass:"11111"}
 [6/23/2026 12:34:30 PM] 141.98.83.240 >>> Disconnected.
+[6/23/2026 1:03:31 PM] Connection attempt from IP: 45.148.10.141...
+[6/23/2026 1:04:45 PM] Connection attempt from IP: 141.98.83.240...
+[6/23/2026 1:04:46 PM] ***REJECTED*** {ip: "141.98.83.240", user: "nora", pass:"nora"}
+[6/23/2026 1:04:46 PM] ***REJECTED*** {ip: "141.98.83.240", user: "nora", pass:"1234"}
+[6/23/2026 1:04:47 PM] ***REJECTED*** {ip: "141.98.83.240", user: "nora", pass:"7777777"}
+[6/23/2026 1:04:47 PM] 141.98.83.240 >>> Disconnected.
+[6/23/2026 1:05:53 PM] Connection attempt from IP: 45.148.10.121...
+[6/23/2026 1:05:54 PM] ***REJECTED*** {ip: "45.148.10.121", user: "ubnt", pass:"ubnt"}
+[6/23/2026 1:05:54 PM] 45.148.10.121 >>> Disconnected.
+[6/23/2026 1:26:18 PM] Connection attempt from IP: 193.46.255.86...
+[6/23/2026 1:26:19 PM] ***REJECTED*** {ip: "193.46.255.86", user: "root", pass:"admin123"}
+[6/23/2026 1:26:19 PM] ***REJECTED*** {ip: "193.46.255.86", user: "root", pass:"2wsx#EDC"}
+[6/23/2026 1:26:20 PM] ***REJECTED*** {ip: "193.46.255.86", user: "root", pass:"venus"}
+[6/23/2026 1:26:20 PM] 193.46.255.86 >>> Disconnected.
+[6/23/2026 1:28:55 PM] Connection attempt from IP: 2.57.121.25...
+[6/23/2026 1:28:56 PM] ***REJECTED*** {ip: "2.57.121.25", user: "admin", pass:"21091994"}
+[6/23/2026 1:28:57 PM] ***REJECTED*** {ip: "2.57.121.25", user: "admin", pass:"210786"}
+[6/23/2026 1:28:57 PM] ***REJECTED*** {ip: "2.57.121.25", user: "admin", pass:"21071993"}
+[6/23/2026 1:28:57 PM] 2.57.121.25 >>> Disconnected.
