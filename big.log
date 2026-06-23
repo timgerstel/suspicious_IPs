@@ -24952,3 +24952,18 @@
 [6/23/2026 6:20:59 PM] ***REJECTED*** {ip: "141.98.83.240", user: "user", pass:"afacereshop"}
 [6/23/2026 6:21:00 PM] ***REJECTED*** {ip: "141.98.83.240", user: "user", pass:"horton"}
 [6/23/2026 6:21:00 PM] 141.98.83.240 >>> Disconnected.
+[6/23/2026 6:43:20 PM] Connection attempt from IP: 193.46.255.86...
+[6/23/2026 6:43:21 PM] ***REJECTED*** {ip: "193.46.255.86", user: "vpn", pass:"vpn"}
+[6/23/2026 6:43:21 PM] ***REJECTED*** {ip: "193.46.255.86", user: "vpn", pass:"1234"}
+[6/23/2026 6:43:22 PM] ***REJECTED*** {ip: "193.46.255.86", user: "vpn", pass:"123456"}
+[6/23/2026 6:43:22 PM] 193.46.255.86 >>> Disconnected.
+[6/23/2026 6:49:08 PM] Connection attempt from IP: 2.57.121.25...
+[6/23/2026 6:49:09 PM] ***REJECTED*** {ip: "2.57.121.25", user: "admin", pass:"200989"}
+[6/23/2026 6:49:09 PM] ***REJECTED*** {ip: "2.57.121.25", user: "admin", pass:"20071994"}
+[6/23/2026 6:49:09 PM] ***REJECTED*** {ip: "2.57.121.25", user: "admin", pass:"200689"}
+[6/23/2026 6:49:10 PM] 2.57.121.25 >>> Disconnected.
+[6/23/2026 6:51:09 PM] Connection attempt from IP: 141.98.83.240...
+[6/23/2026 6:51:10 PM] ***REJECTED*** {ip: "141.98.83.240", user: "admin", pass:"admin@2021"}
+[6/23/2026 6:51:11 PM] ***REJECTED*** {ip: "141.98.83.240", user: "admin", pass:"lab"}
+[6/23/2026 6:51:11 PM] ***REJECTED*** {ip: "141.98.83.240", user: "admin", pass:"qaz@123"}
+[6/23/2026 6:51:11 PM] 141.98.83.240 >>> Disconnected.
