@@ -24594,3 +24594,11 @@
 [6/23/2026 12:28:53 PM] ***REJECTED*** {ip: "193.46.255.86", user: "user", pass:"spanner"}
 [6/23/2026 12:28:53 PM] ***REJECTED*** {ip: "193.46.255.86", user: "user", pass:"123123q"}
 [6/23/2026 12:28:54 PM] 193.46.255.86 >>> Disconnected.
+[6/23/2026 12:32:08 PM] Connection attempt from IP: 45.148.10.121...
+[6/23/2026 12:32:09 PM] ***REJECTED*** {ip: "45.148.10.121", user: "root", pass:"root"}
+[6/23/2026 12:32:09 PM] 45.148.10.121 >>> Disconnected.
+[6/23/2026 12:34:28 PM] Connection attempt from IP: 141.98.83.240...
+[6/23/2026 12:34:29 PM] ***REJECTED*** {ip: "141.98.83.240", user: "humberto", pass:"humberto"}
+[6/23/2026 12:34:29 PM] ***REJECTED*** {ip: "141.98.83.240", user: "humberto", pass:"7777777"}
+[6/23/2026 12:34:30 PM] ***REJECTED*** {ip: "141.98.83.240", user: "humberto", pass:"11111"}
+[6/23/2026 12:34:30 PM] 141.98.83.240 >>> Disconnected.
