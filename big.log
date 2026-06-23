@@ -24383,3 +24383,15 @@
 [6/23/2026 5:52:44 AM] ***REJECTED*** {ip: "2.57.121.25", user: "admin", pass:"230686"}
 [6/23/2026 5:52:44 AM] ***REJECTED*** {ip: "2.57.121.25", user: "admin", pass:"2306"}
 [6/23/2026 5:52:45 AM] 2.57.121.25 >>> Disconnected.
+[6/23/2026 6:15:36 AM] Connection attempt from IP: 2.57.121.112...
+[6/23/2026 6:15:37 AM] ***REJECTED*** {ip: "2.57.121.112", user: "mykala", pass:"mykala"}
+[6/23/2026 6:15:38 AM] ***REJECTED*** {ip: "2.57.121.112", user: "mykala", pass:"mykala1"}
+[6/23/2026 6:15:38 AM] ***REJECTED*** {ip: "2.57.121.112", user: "mykala", pass:"mykala123"}
+[6/23/2026 6:15:38 AM] ***REJECTED*** {ip: "2.57.121.112", user: "mykala", pass:"mykala1234"}
+[6/23/2026 6:15:39 AM] ***REJECTED*** {ip: "2.57.121.112", user: "mykala", pass:"mykala12345"}
+[6/23/2026 6:15:39 AM] 2.57.121.112 >>> Disconnected.
+[6/23/2026 6:16:37 AM] Connection attempt from IP: 141.98.83.240...
+[6/23/2026 6:16:39 AM] ***REJECTED*** {ip: "141.98.83.240", user: "wendy", pass:"wendy123"}
+[6/23/2026 6:16:39 AM] ***REJECTED*** {ip: "141.98.83.240", user: "wendy", pass:"wendy"}
+[6/23/2026 6:16:39 AM] ***REJECTED*** {ip: "141.98.83.240", user: "wendy", pass:"7777777"}
+[6/23/2026 6:16:40 AM] 141.98.83.240 >>> Disconnected.
