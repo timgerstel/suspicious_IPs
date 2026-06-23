@@ -24816,3 +24816,28 @@
 [6/23/2026 2:50:09 PM] ***REJECTED*** {ip: "141.98.83.240", user: "user", pass:"werdna"}
 [6/23/2026 2:50:09 PM] ***REJECTED*** {ip: "141.98.83.240", user: "user", pass:"yyyyyyyy"}
 [6/23/2026 2:50:09 PM] 141.98.83.240 >>> Disconnected.
+[6/23/2026 3:09:07 PM] Connection attempt from IP: 34.76.233.232...
+[6/23/2026 3:09:07 PM] Connection attempt from IP: 34.76.233.232...
+[6/23/2026 3:09:08 PM] 34.76.233.232 >>> Disconnected.
+[6/23/2026 3:09:08 PM] Connection attempt from IP: 193.46.255.86...
+[6/23/2026 3:09:09 PM] ***ACCEPTED*** {ip: "193.46.255.86", user: "postgres", pass:"postgres"}
+[6/23/2026 3:09:10 PM] 193.46.255.86 >>> Disconnected.
+[6/23/2026 3:09:13 PM] Connection attempt from IP: 45.148.10.121...
+[6/23/2026 3:09:14 PM] ***REJECTED*** {ip: "45.148.10.121", user: "root", pass:"password"}
+[6/23/2026 3:09:14 PM] 45.148.10.121 >>> Disconnected.
+[6/23/2026 3:09:21 PM] Connection attempt from IP: 34.140.124.10...
+[6/23/2026 3:09:21 PM] Connection attempt from IP: 34.140.124.10...
+[6/23/2026 3:09:21 PM] 34.140.124.10 >>> Disconnected.
+[6/23/2026 3:09:22 PM] 34.140.124.10 >>> Disconnected.
+[6/23/2026 3:15:30 PM] Connection attempt from IP: 2.57.121.112...
+[6/23/2026 3:15:31 PM] ***REJECTED*** {ip: "2.57.121.112", user: "presley", pass:"presley"}
+[6/23/2026 3:15:31 PM] ***REJECTED*** {ip: "2.57.121.112", user: "presley", pass:"presley1"}
+[6/23/2026 3:15:32 PM] ***REJECTED*** {ip: "2.57.121.112", user: "presley", pass:"presley123"}
+[6/23/2026 3:15:32 PM] ***REJECTED*** {ip: "2.57.121.112", user: "presley", pass:"presley1234"}
+[6/23/2026 3:15:32 PM] ***REJECTED*** {ip: "2.57.121.112", user: "presley", pass:"presley12345"}
+[6/23/2026 3:15:33 PM] 2.57.121.112 >>> Disconnected.
+[6/23/2026 3:20:34 PM] Connection attempt from IP: 141.98.83.240...
+[6/23/2026 3:20:35 PM] ***REJECTED*** {ip: "141.98.83.240", user: "admin", pass:"0531"}
+[6/23/2026 3:20:35 PM] ***REJECTED*** {ip: "141.98.83.240", user: "admin", pass:"07071995"}
+[6/23/2026 3:20:36 PM] ***REJECTED*** {ip: "141.98.83.240", user: "admin", pass:"08081977"}
+[6/23/2026 3:20:36 PM] 141.98.83.240 >>> Disconnected.
