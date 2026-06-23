@@ -24454,3 +24454,15 @@
 [6/23/2026 8:22:36 AM] ***REJECTED*** {ip: "141.98.83.240", user: "root", pass:"N2dos2024sd"}
 [6/23/2026 8:22:36 AM] ***REJECTED*** {ip: "141.98.83.240", user: "root", pass:"P@ssw0rdP@ssw0rd"}
 [6/23/2026 8:22:36 AM] 141.98.83.240 >>> Disconnected.
+[6/23/2026 8:38:28 AM] Connection attempt from IP: 193.46.255.86...
+[6/23/2026 8:38:29 AM] ***REJECTED*** {ip: "193.46.255.86", user: "admin", pass:"Aa123456"}
+[6/23/2026 8:38:30 AM] ***REJECTED*** {ip: "193.46.255.86", user: "admin", pass:"bjk1903"}
+[6/23/2026 8:38:30 AM] ***REJECTED*** {ip: "193.46.255.86", user: "admin", pass:"88888888"}
+[6/23/2026 8:38:30 AM] 193.46.255.86 >>> Disconnected.
+[6/23/2026 8:57:53 AM] Connection attempt from IP: 141.98.83.240...
+[6/23/2026 8:57:54 AM] ***REJECTED*** {ip: "141.98.83.240", user: "", pass:"CW6ZExxyVEKkO6AAkfAyjSvjdtHngmaCgF3UdF"}
+[6/23/2026 8:57:54 AM] 141.98.83.240 >>> Disconnected.
+[6/23/2026 8:57:55 AM] Connection attempt from IP: 141.98.83.240...
+[6/23/2026 8:57:56 AM] ***REJECTED*** {ip: "141.98.83.240", user: "admin", pass:"ad"}
+[6/23/2026 8:57:56 AM] ***REJECTED*** {ip: "141.98.83.240", user: "admin", pass:"asdf1234"}
+[6/23/2026 8:57:56 AM] 141.98.83.240 >>> Disconnected.
