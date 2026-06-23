@@ -24972,3 +24972,27 @@
 [6/23/2026 7:21:07 PM] ***REJECTED*** {ip: "141.98.83.240", user: "franco", pass:"7777777"}
 [6/23/2026 7:21:07 PM] ***REJECTED*** {ip: "141.98.83.240", user: "franco", pass:"11111"}
 [6/23/2026 7:21:08 PM] 141.98.83.240 >>> Disconnected.
+[6/23/2026 7:38:49 PM] Connection attempt from IP: 2.57.121.112...
+[6/23/2026 7:38:50 PM] ***REJECTED*** {ip: "2.57.121.112", user: "yehuda", pass:"yehuda"}
+[6/23/2026 7:38:50 PM] ***REJECTED*** {ip: "2.57.121.112", user: "yehuda", pass:"yehuda1"}
+[6/23/2026 7:38:50 PM] ***REJECTED*** {ip: "2.57.121.112", user: "yehuda", pass:"yehuda123"}
+[6/23/2026 7:38:51 PM] ***REJECTED*** {ip: "2.57.121.112", user: "yehuda", pass:"yehuda1234"}
+[6/23/2026 7:38:51 PM] ***REJECTED*** {ip: "2.57.121.112", user: "yehuda", pass:"yehuda12345"}
+[6/23/2026 7:38:51 PM] 2.57.121.112 >>> Disconnected.
+[6/23/2026 7:40:04 PM] Connection attempt from IP: 193.46.255.86...
+[6/23/2026 7:40:05 PM] ***REJECTED*** {ip: "193.46.255.86", user: "admin", pass:"dagmarka1304"}
+[6/23/2026 7:40:06 PM] ***REJECTED*** {ip: "193.46.255.86", user: "admin", pass:"Aa12345678"}
+[6/23/2026 7:40:06 PM] ***REJECTED*** {ip: "193.46.255.86", user: "admin", pass:"default"}
+[6/23/2026 7:40:06 PM] 193.46.255.86 >>> Disconnected.
+[6/23/2026 7:50:59 PM] Connection attempt from IP: 141.98.83.240...
+[6/23/2026 7:51:00 PM] ***REJECTED*** {ip: "141.98.83.240", user: "user", pass:"hyundai"}
+[6/23/2026 7:51:00 PM] ***REJECTED*** {ip: "141.98.83.240", user: "user", pass:"qingdao@1234"}
+[6/23/2026 7:51:01 PM] ***REJECTED*** {ip: "141.98.83.240", user: "user", pass:"user1"}
+[6/23/2026 7:51:01 PM] 141.98.83.240 >>> Disconnected.
+[6/23/2026 7:52:47 PM] Connection attempt from IP: 2.57.121.25...
+[6/23/2026 7:52:49 PM] ***REJECTED*** {ip: "2.57.121.25", user: "admin", pass:"20061993"}
+[6/23/2026 7:52:49 PM] ***REJECTED*** {ip: "2.57.121.25", user: "admin", pass:"20051978"}
+[6/23/2026 7:52:49 PM] ***REJECTED*** {ip: "2.57.121.25", user: "admin", pass:"20021976"}
+[6/23/2026 7:52:50 PM] 2.57.121.25 >>> Disconnected.
+[6/23/2026 7:57:34 PM] Connection attempt from IP: 91.92.40.238...
+[6/23/2026 7:57:42 PM] 91.92.40.238 >>> Disconnected.
