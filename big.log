@@ -24478,3 +24478,15 @@
 [6/23/2026 9:18:07 AM] ***REJECTED*** {ip: "2.57.121.112", user: "tristin", pass:"tristin1234"}
 [6/23/2026 9:18:07 AM] ***REJECTED*** {ip: "2.57.121.112", user: "tristin", pass:"tristin12345"}
 [6/23/2026 9:18:07 AM] 2.57.121.112 >>> Disconnected.
+[6/23/2026 9:30:36 AM] Connection attempt from IP: 141.98.83.240...
+[6/23/2026 9:30:38 AM] ***REJECTED*** {ip: "141.98.83.240", user: "aysha", pass:"aysha"}
+[6/23/2026 9:30:38 AM] ***REJECTED*** {ip: "141.98.83.240", user: "aysha", pass:"7777777"}
+[6/23/2026 9:30:38 AM] ***REJECTED*** {ip: "141.98.83.240", user: "aysha", pass:"11111"}
+[6/23/2026 9:30:39 AM] 141.98.83.240 >>> Disconnected.
+[6/23/2026 9:32:57 AM] Connection attempt from IP: 45.148.10.121...
+[6/23/2026 9:32:57 AM] 45.148.10.121 >>> Disconnected.
+[6/23/2026 9:36:20 AM] Connection attempt from IP: 193.46.255.86...
+[6/23/2026 9:36:21 AM] ***REJECTED*** {ip: "193.46.255.86", user: "service", pass:"service"}
+[6/23/2026 9:36:21 AM] ***REJECTED*** {ip: "193.46.255.86", user: "service", pass:"abcd1234"}
+[6/23/2026 9:36:21 AM] ***REJECTED*** {ip: "193.46.255.86", user: "service", pass:"123456"}
+[6/23/2026 9:36:22 AM] 193.46.255.86 >>> Disconnected.
