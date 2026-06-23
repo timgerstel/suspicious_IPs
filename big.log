@@ -24804,3 +24804,15 @@
 [6/23/2026 2:07:45 PM] Connection attempt from IP: 45.148.10.121...
 [6/23/2026 2:07:46 PM] ***REJECTED*** {ip: "45.148.10.121", user: "test", pass:"test"}
 [6/23/2026 2:07:46 PM] 45.148.10.121 >>> Disconnected.
+[6/23/2026 2:33:15 PM] Connection attempt from IP: 2.57.121.25...
+[6/23/2026 2:33:16 PM] ***REJECTED*** {ip: "2.57.121.25", user: "admin", pass:"210490"}
+[6/23/2026 2:33:16 PM] ***REJECTED*** {ip: "2.57.121.25", user: "admin", pass:"21041975"}
+[6/23/2026 2:33:17 PM] ***REJECTED*** {ip: "2.57.121.25", user: "admin", pass:"210383"}
+[6/23/2026 2:33:17 PM] 2.57.121.25 >>> Disconnected.
+[6/23/2026 2:37:58 PM] Connection attempt from IP: 45.148.10.121...
+[6/23/2026 2:37:59 PM] 45.148.10.121 >>> Disconnected.
+[6/23/2026 2:50:07 PM] Connection attempt from IP: 141.98.83.240...
+[6/23/2026 2:50:08 PM] ***REJECTED*** {ip: "141.98.83.240", user: "user", pass:"tralala"}
+[6/23/2026 2:50:09 PM] ***REJECTED*** {ip: "141.98.83.240", user: "user", pass:"werdna"}
+[6/23/2026 2:50:09 PM] ***REJECTED*** {ip: "141.98.83.240", user: "user", pass:"yyyyyyyy"}
+[6/23/2026 2:50:09 PM] 141.98.83.240 >>> Disconnected.
