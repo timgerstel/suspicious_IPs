@@ -24361,3 +24361,10 @@
 [6/23/2026 4:46:33 AM] ***REJECTED*** {ip: "2.57.121.25", user: "admin", pass:"23081995"}
 [6/23/2026 4:46:33 AM] ***REJECTED*** {ip: "2.57.121.25", user: "admin", pass:"230791"}
 [6/23/2026 4:46:33 AM] 2.57.121.25 >>> Disconnected.
+[6/23/2026 5:13:33 AM] Connection attempt from IP: 141.98.83.240...
+[6/23/2026 5:13:34 AM] ***REJECTED*** {ip: "141.98.83.240", user: "admin", pass:"selen"}
+[6/23/2026 5:13:35 AM] ***REJECTED*** {ip: "141.98.83.240", user: "admin", pass:"1212"}
+[6/23/2026 5:13:35 AM] ***REJECTED*** {ip: "141.98.83.240", user: "admin", pass:"1admin"}
+[6/23/2026 5:13:35 AM] 141.98.83.240 >>> Disconnected.
+[6/23/2026 5:24:48 AM] Connection attempt from IP: 95.130.170.146...
+[6/23/2026 5:24:53 AM] 95.130.170.146 >>> Disconnected.
