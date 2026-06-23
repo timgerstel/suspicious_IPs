@@ -24409,3 +24409,10 @@
 [6/23/2026 6:58:41 AM] ***REJECTED*** {ip: "2.57.121.25", user: "admin", pass:"230187"}
 [6/23/2026 6:58:41 AM] ***ACCEPTED*** {ip: "2.57.121.25", user: "admin", pass:"23011978"}
 [6/23/2026 6:58:42 AM] 2.57.121.25 >>> Disconnected.
+[6/23/2026 7:11:31 AM] Connection attempt from IP: 176.65.139.219...
+[6/23/2026 7:11:39 AM] 176.65.139.219 >>> Disconnected.
+[6/23/2026 7:19:35 AM] Connection attempt from IP: 141.98.83.240...
+[6/23/2026 7:19:36 AM] ***REJECTED*** {ip: "141.98.83.240", user: "admin1", pass:"123456"}
+[6/23/2026 7:19:36 AM] ***REJECTED*** {ip: "141.98.83.240", user: "admin1", pass:"1234"}
+[6/23/2026 7:19:37 AM] ***REJECTED*** {ip: "141.98.83.240", user: "admin1", pass:"admin"}
+[6/23/2026 7:19:37 AM] 141.98.83.240 >>> Disconnected.
