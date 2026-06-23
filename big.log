@@ -24466,3 +24466,15 @@
 [6/23/2026 8:57:56 AM] ***REJECTED*** {ip: "141.98.83.240", user: "admin", pass:"ad"}
 [6/23/2026 8:57:56 AM] ***REJECTED*** {ip: "141.98.83.240", user: "admin", pass:"asdf1234"}
 [6/23/2026 8:57:56 AM] 141.98.83.240 >>> Disconnected.
+[6/23/2026 9:09:51 AM] Connection attempt from IP: 2.57.121.25...
+[6/23/2026 9:09:52 AM] ***REJECTED*** {ip: "2.57.121.25", user: "admin", pass:"22101979"}
+[6/23/2026 9:09:52 AM] ***REJECTED*** {ip: "2.57.121.25", user: "admin", pass:"22091994"}
+[6/23/2026 9:09:53 AM] ***REJECTED*** {ip: "2.57.121.25", user: "admin", pass:"22071980"}
+[6/23/2026 9:09:53 AM] 2.57.121.25 >>> Disconnected.
+[6/23/2026 9:18:05 AM] Connection attempt from IP: 2.57.121.112...
+[6/23/2026 9:18:06 AM] ***REJECTED*** {ip: "2.57.121.112", user: "tristin", pass:"tristin"}
+[6/23/2026 9:18:06 AM] ***REJECTED*** {ip: "2.57.121.112", user: "tristin", pass:"tristin1"}
+[6/23/2026 9:18:06 AM] ***REJECTED*** {ip: "2.57.121.112", user: "tristin", pass:"tristin123"}
+[6/23/2026 9:18:07 AM] ***REJECTED*** {ip: "2.57.121.112", user: "tristin", pass:"tristin1234"}
+[6/23/2026 9:18:07 AM] ***REJECTED*** {ip: "2.57.121.112", user: "tristin", pass:"tristin12345"}
+[6/23/2026 9:18:07 AM] 2.57.121.112 >>> Disconnected.
