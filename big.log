@@ -26257,3 +26257,23 @@
 [6/24/2026 12:26:29 PM] ***REJECTED*** {ip: "2.57.121.25", user: "admin", pass:"1511"}
 [6/24/2026 12:26:29 PM] ***REJECTED*** {ip: "2.57.121.25", user: "admin", pass:"150990"}
 [6/24/2026 12:26:29 PM] 2.57.121.25 >>> Disconnected.
+[6/24/2026 12:30:51 PM] Connection attempt from IP: 135.148.124.218...
+[6/24/2026 12:30:52 PM] ***REJECTED*** {ip: "135.148.124.218", user: "root", pass:"123.!@"}
+[6/24/2026 12:30:52 PM] 135.148.124.218 >>> Disconnected.
+[6/24/2026 12:31:17 PM] Connection attempt from IP: 45.148.10.121...
+[6/24/2026 12:31:18 PM] ***REJECTED*** {ip: "45.148.10.121", user: "ubnt", pass:"ubnt"}
+[6/24/2026 12:31:18 PM] 45.148.10.121 >>> Disconnected.
+[6/24/2026 12:34:09 PM] Connection attempt from IP: 66.132.224.93...
+[6/24/2026 12:34:24 PM] 66.132.224.93 >>> Disconnected.
+[6/24/2026 12:41:20 PM] Connection attempt from IP: 2.57.121.112...
+[6/24/2026 12:41:21 PM] ***REJECTED*** {ip: "2.57.121.112", user: "shakayla", pass:"shakayla"}
+[6/24/2026 12:41:21 PM] ***REJECTED*** {ip: "2.57.121.112", user: "shakayla", pass:"shakayla1"}
+[6/24/2026 12:41:21 PM] ***REJECTED*** {ip: "2.57.121.112", user: "shakayla", pass:"shakayla123"}
+[6/24/2026 12:41:22 PM] ***REJECTED*** {ip: "2.57.121.112", user: "shakayla", pass:"shakayla1234"}
+[6/24/2026 12:41:22 PM] ***REJECTED*** {ip: "2.57.121.112", user: "shakayla", pass:"shakayla12345"}
+[6/24/2026 12:41:22 PM] 2.57.121.112 >>> Disconnected.
+[6/24/2026 12:57:42 PM] Connection attempt from IP: 141.98.83.240...
+[6/24/2026 12:57:43 PM] ***REJECTED*** {ip: "141.98.83.240", user: "root", pass:"1q2w3e@W#E"}
+[6/24/2026 12:57:44 PM] ***REJECTED*** {ip: "141.98.83.240", user: "root", pass:"1qaz@WSX3edc$RFV"}
+[6/24/2026 12:57:44 PM] ***REJECTED*** {ip: "141.98.83.240", user: "root", pass:"314159"}
+[6/24/2026 12:57:44 PM] 141.98.83.240 >>> Disconnected.
