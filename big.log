@@ -25703,3 +25703,14 @@
 [6/24/2026 4:52:03 AM] 193.46.255.86 >>> Disconnected.
 [6/24/2026 4:52:31 AM] Connection attempt from IP: 198.235.24.231...
 [6/24/2026 4:52:33 AM] 198.235.24.231 >>> Disconnected.
+[6/24/2026 5:04:00 AM] Connection attempt from IP: 81.19.219.203...
+[6/24/2026 5:08:28 AM] Connection attempt from IP: 141.98.83.240...
+[6/24/2026 5:08:29 AM] ***REJECTED*** {ip: "141.98.83.240", user: "user", pass:"body"}
+[6/24/2026 5:08:29 AM] ***REJECTED*** {ip: "141.98.83.240", user: "user", pass:"nopassword"}
+[6/24/2026 5:08:30 AM] ***REJECTED*** {ip: "141.98.83.240", user: "user", pass:"sperma"}
+[6/24/2026 5:08:30 AM] 141.98.83.240 >>> Disconnected.
+[6/24/2026 5:11:33 AM] Connection attempt from IP: 2.57.121.25...
+[6/24/2026 5:11:34 AM] ***REJECTED*** {ip: "2.57.121.25", user: "admin", pass:"170783"}
+[6/24/2026 5:11:34 AM] ***REJECTED*** {ip: "2.57.121.25", user: "admin", pass:"170782"}
+[6/24/2026 5:11:34 AM] ***REJECTED*** {ip: "2.57.121.25", user: "admin", pass:"17051974"}
+[6/24/2026 5:11:35 AM] 2.57.121.25 >>> Disconnected.
