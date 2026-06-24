@@ -26331,3 +26331,16 @@
 [6/24/2026 2:49:55 PM] 2.57.121.25 >>> Disconnected.
 [6/24/2026 2:50:09 PM] Connection attempt from IP: 176.65.132.17...
 [6/24/2026 2:50:17 PM] 176.65.132.17 >>> Disconnected.
+[6/24/2026 3:04:52 PM] Connection attempt from IP: 45.148.10.121...
+[6/24/2026 3:04:53 PM] ***REJECTED*** {ip: "45.148.10.121", user: "admin", pass:"1234"}
+[6/24/2026 3:04:53 PM] 45.148.10.121 >>> Disconnected.
+[6/24/2026 3:11:15 PM] Connection attempt from IP: 141.98.83.240...
+[6/24/2026 3:11:16 PM] ***REJECTED*** {ip: "141.98.83.240", user: "adminpldt", pass:"Pldt@dmin1234"}
+[6/24/2026 3:11:16 PM] ***REJECTED*** {ip: "141.98.83.240", user: "adminpldt", pass:"7777777"}
+[6/24/2026 3:11:17 PM] ***REJECTED*** {ip: "141.98.83.240", user: "adminpldt", pass:"11111"}
+[6/24/2026 3:11:17 PM] 141.98.83.240 >>> Disconnected.
+[6/24/2026 3:17:01 PM] Connection attempt from IP: 193.46.255.86...
+[6/24/2026 3:17:02 PM] ***REJECTED*** {ip: "193.46.255.86", user: "admin", pass:"Xpon@Olt9417#"}
+[6/24/2026 3:17:02 PM] ***REJECTED*** {ip: "193.46.255.86", user: "admin", pass:"Admin@1234"}
+[6/24/2026 3:17:03 PM] ***REJECTED*** {ip: "193.46.255.86", user: "admin", pass:"admin123"}
+[6/24/2026 3:17:03 PM] 193.46.255.86 >>> Disconnected.
