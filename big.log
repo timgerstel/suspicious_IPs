@@ -26277,3 +26277,10 @@
 [6/24/2026 12:57:44 PM] ***REJECTED*** {ip: "141.98.83.240", user: "root", pass:"1qaz@WSX3edc$RFV"}
 [6/24/2026 12:57:44 PM] ***REJECTED*** {ip: "141.98.83.240", user: "root", pass:"314159"}
 [6/24/2026 12:57:44 PM] 141.98.83.240 >>> Disconnected.
+[6/24/2026 1:01:24 PM] Connection attempt from IP: 45.148.10.121...
+[6/24/2026 1:01:25 PM] 45.148.10.121 >>> Disconnected.
+[6/24/2026 1:11:37 PM] Connection attempt from IP: 193.46.255.86...
+[6/24/2026 1:11:39 PM] ***REJECTED*** {ip: "193.46.255.86", user: "ubnt", pass:"ubnt"}
+[6/24/2026 1:11:39 PM] ***REJECTED*** {ip: "193.46.255.86", user: "ubnt", pass:"ubnt1"}
+[6/24/2026 1:11:39 PM] ***REJECTED*** {ip: "193.46.255.86", user: "ubnt", pass:"admin"}
+[6/24/2026 1:11:39 PM] 193.46.255.86 >>> Disconnected.
