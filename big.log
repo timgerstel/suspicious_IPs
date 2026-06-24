@@ -26114,3 +26114,20 @@
 [6/24/2026 7:33:09 AM] ***REJECTED*** {ip: "141.98.83.240", user: "monitor", pass:"monitor"}
 [6/24/2026 7:33:10 AM] ***REJECTED*** {ip: "141.98.83.240", user: "monitor", pass:"monitor1234"}
 [6/24/2026 7:33:10 AM] 141.98.83.240 >>> Disconnected.
+[6/24/2026 8:02:06 AM] Connection attempt from IP: 141.98.83.240...
+[6/24/2026 8:02:07 AM] ***REJECTED*** {ip: "141.98.83.240", user: "osboxes", pass:"osboxes.org"}
+[6/24/2026 8:02:08 AM] ***REJECTED*** {ip: "141.98.83.240", user: "osboxes", pass:"7777777"}
+[6/24/2026 8:02:08 AM] ***REJECTED*** {ip: "141.98.83.240", user: "osboxes", pass:"11111"}
+[6/24/2026 8:02:08 AM] 141.98.83.240 >>> Disconnected.
+[6/24/2026 8:15:18 AM] Connection attempt from IP: 2.57.121.25...
+[6/24/2026 8:15:19 AM] ***REJECTED*** {ip: "2.57.121.25", user: "admin", pass:"16091989"}
+[6/24/2026 8:15:19 AM] ***REJECTED*** {ip: "2.57.121.25", user: "admin", pass:"160882"}
+[6/24/2026 8:15:20 AM] ***ACCEPTED*** {ip: "2.57.121.25", user: "admin", pass:"16081976"}
+[6/24/2026 8:15:20 AM] 2.57.121.25 >>> Disconnected.
+[6/24/2026 8:17:58 AM] Connection attempt from IP: 2.57.121.112...
+[6/24/2026 8:17:59 AM] ***REJECTED*** {ip: "2.57.121.112", user: "jennah", pass:"jennah"}
+[6/24/2026 8:17:59 AM] ***REJECTED*** {ip: "2.57.121.112", user: "jennah", pass:"jennah1"}
+[6/24/2026 8:18:00 AM] ***REJECTED*** {ip: "2.57.121.112", user: "jennah", pass:"jennah123"}
+[6/24/2026 8:18:00 AM] ***REJECTED*** {ip: "2.57.121.112", user: "jennah", pass:"jennah1234"}
+[6/24/2026 8:18:00 AM] ***REJECTED*** {ip: "2.57.121.112", user: "jennah", pass:"jennah12345"}
+[6/24/2026 8:18:01 AM] 2.57.121.112 >>> Disconnected.
