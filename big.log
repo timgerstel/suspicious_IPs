@@ -26232,3 +26232,13 @@
 [6/24/2026 11:24:10 AM] Connection attempt from IP: 45.148.10.121...
 [6/24/2026 11:24:11 AM] ***REJECTED*** {ip: "45.148.10.121", user: "user", pass:"user"}
 [6/24/2026 11:24:11 AM] 45.148.10.121 >>> Disconnected.
+[6/24/2026 11:47:14 AM] Connection attempt from IP: 192.248.150.180...
+[6/24/2026 11:47:15 AM] 192.248.150.180 >>> Disconnected.
+[6/24/2026 11:49:09 AM] Connection attempt from IP: 141.98.83.240...
+[6/24/2026 11:49:10 AM] ***REJECTED*** {ip: "141.98.83.240", user: "user", pass:"12345678"}
+[6/24/2026 11:49:10 AM] ***REJECTED*** {ip: "141.98.83.240", user: "user", pass:"18101991"}
+[6/24/2026 11:49:10 AM] ***REJECTED*** {ip: "141.98.83.240", user: "user", pass:"22071992"}
+[6/24/2026 11:49:11 AM] 141.98.83.240 >>> Disconnected.
+[6/24/2026 11:57:57 AM] Connection attempt from IP: 45.148.10.121...
+[6/24/2026 11:57:58 AM] ***REJECTED*** {ip: "45.148.10.121", user: "root", pass:"root"}
+[6/24/2026 11:57:58 AM] 45.148.10.121 >>> Disconnected.
