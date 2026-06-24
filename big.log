@@ -26131,3 +26131,13 @@
 [6/24/2026 8:18:00 AM] ***REJECTED*** {ip: "2.57.121.112", user: "jennah", pass:"jennah1234"}
 [6/24/2026 8:18:00 AM] ***REJECTED*** {ip: "2.57.121.112", user: "jennah", pass:"jennah12345"}
 [6/24/2026 8:18:01 AM] 2.57.121.112 >>> Disconnected.
+[6/24/2026 8:30:51 AM] Connection attempt from IP: 141.98.83.240...
+[6/24/2026 8:30:52 AM] ***REJECTED*** {ip: "141.98.83.240", user: "rohan", pass:"rohan"}
+[6/24/2026 8:30:52 AM] ***REJECTED*** {ip: "141.98.83.240", user: "rohan", pass:"7777777"}
+[6/24/2026 8:30:53 AM] ***REJECTED*** {ip: "141.98.83.240", user: "rohan", pass:"11111"}
+[6/24/2026 8:30:53 AM] 141.98.83.240 >>> Disconnected.
+[6/24/2026 8:59:39 AM] Connection attempt from IP: 141.98.83.240...
+[6/24/2026 8:59:40 AM] ***REJECTED*** {ip: "141.98.83.240", user: "ubnt", pass:"user"}
+[6/24/2026 8:59:40 AM] ***REJECTED*** {ip: "141.98.83.240", user: "ubnt", pass:"eU1pY4tK1kG1fH2"}
+[6/24/2026 8:59:41 AM] ***REJECTED*** {ip: "141.98.83.240", user: "ubnt", pass:"ubnt3"}
+[6/24/2026 8:59:41 AM] 141.98.83.240 >>> Disconnected.
