@@ -37258,3 +37258,11 @@
 [6/25/2026 11:24:49 AM] ***REJECTED*** {ip: "2.57.121.112", user: "corrina", pass:"corrina1234"}
 [6/25/2026 11:24:49 AM] ***REJECTED*** {ip: "2.57.121.112", user: "corrina", pass:"corrina12345"}
 [6/25/2026 11:24:49 AM] 2.57.121.112 >>> Disconnected.
+[6/25/2026 11:33:31 AM] Connection attempt from IP: 141.98.83.240...
+[6/25/2026 11:33:32 AM] ***REJECTED*** {ip: "141.98.83.240", user: "openhabian", pass:"openhabian"}
+[6/25/2026 11:33:33 AM] ***REJECTED*** {ip: "141.98.83.240", user: "openhabian", pass:"7777777"}
+[6/25/2026 11:33:33 AM] ***REJECTED*** {ip: "141.98.83.240", user: "openhabian", pass:"11111"}
+[6/25/2026 11:33:33 AM] 141.98.83.240 >>> Disconnected.
+[6/25/2026 11:56:35 AM] Connection attempt from IP: 45.148.10.121...
+[6/25/2026 11:56:36 AM] ***REJECTED*** {ip: "45.148.10.121", user: "ubnt", pass:"ubnt"}
+[6/25/2026 11:56:36 AM] 45.148.10.121 >>> Disconnected.
