@@ -37223,3 +37223,13 @@
 [6/25/2026 10:28:04 AM] ***REJECTED*** {ip: "193.46.255.86", user: "root", pass:"2wsx#EDC"}
 [6/25/2026 10:28:04 AM] ***REJECTED*** {ip: "193.46.255.86", user: "root", pass:"venus"}
 [6/25/2026 10:28:04 AM] 193.46.255.86 >>> Disconnected.
+[6/25/2026 10:31:37 AM] Connection attempt from IP: 198.235.24.149...
+[6/25/2026 10:31:39 AM] 198.235.24.149 >>> Disconnected.
+[6/25/2026 10:35:20 AM] Connection attempt from IP: 141.98.83.240...
+[6/25/2026 10:35:22 AM] ***REJECTED*** {ip: "141.98.83.240", user: "user", pass:"nate"}
+[6/25/2026 10:35:22 AM] ***REJECTED*** {ip: "141.98.83.240", user: "user", pass:"qqqq"}
+[6/25/2026 10:35:22 AM] ***REJECTED*** {ip: "141.98.83.240", user: "user", pass:"10081990"}
+[6/25/2026 10:35:23 AM] 141.98.83.240 >>> Disconnected.
+[6/25/2026 10:49:52 AM] Connection attempt from IP: 45.148.10.121...
+[6/25/2026 10:49:53 AM] ***REJECTED*** {ip: "45.148.10.121", user: "user", pass:"user"}
+[6/25/2026 10:49:53 AM] 45.148.10.121 >>> Disconnected.
