@@ -37997,3 +37997,14 @@
 [6/25/2026 5:20:54 PM] ***REJECTED*** {ip: "2.57.121.25", user: "admin", pass:"120185"}
 [6/25/2026 5:20:54 PM] ***REJECTED*** {ip: "2.57.121.25", user: "admin", pass:"120183"}
 [6/25/2026 5:20:54 PM] 2.57.121.25 >>> Disconnected.
+[6/25/2026 5:31:46 PM] Connection attempt from IP: 193.46.255.86...
+[6/25/2026 5:31:47 PM] ***REJECTED*** {ip: "193.46.255.86", user: "root", pass:"gandalf"}
+[6/25/2026 5:31:48 PM] ***REJECTED*** {ip: "193.46.255.86", user: "root", pass:"12345678"}
+[6/25/2026 5:31:48 PM] ***REJECTED*** {ip: "193.46.255.86", user: "root", pass:"7ujMko0admin123"}
+[6/25/2026 5:31:48 PM] 193.46.255.86 >>> Disconnected.
+[6/25/2026 5:34:21 PM] Connection attempt from IP: 213.177.179.79...
+[6/25/2026 5:48:37 PM] Connection attempt from IP: 141.98.83.240...
+[6/25/2026 5:48:38 PM] ***REJECTED*** {ip: "141.98.83.240", user: "root", pass:"55555"}
+[6/25/2026 5:48:38 PM] ***REJECTED*** {ip: "141.98.83.240", user: "root", pass:"777"}
+[6/25/2026 5:48:39 PM] ***REJECTED*** {ip: "141.98.83.240", user: "root", pass:"999999"}
+[6/25/2026 5:48:39 PM] 141.98.83.240 >>> Disconnected.
