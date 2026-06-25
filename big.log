@@ -37130,3 +37130,22 @@
 [6/25/2026 8:24:48 AM] Connection attempt from IP: 45.148.10.121...
 [6/25/2026 8:24:48 AM] 45.148.10.121 >>> Disconnected.
 [6/25/2026 8:27:57 AM] Connection attempt from IP: 61.178.209.47...
+[6/25/2026 8:33:58 AM] Connection attempt from IP: 2.57.121.112...
+[6/25/2026 8:33:59 AM] ***REJECTED*** {ip: "2.57.121.112", user: "babygirl", pass:"babygirl"}
+[6/25/2026 8:34:00 AM] ***REJECTED*** {ip: "2.57.121.112", user: "babygirl", pass:"babygirl1"}
+[6/25/2026 8:34:00 AM] ***REJECTED*** {ip: "2.57.121.112", user: "babygirl", pass:"babygirl123"}
+[6/25/2026 8:34:00 AM] ***REJECTED*** {ip: "2.57.121.112", user: "babygirl", pass:"babygirl1234"}
+[6/25/2026 8:34:01 AM] ***REJECTED*** {ip: "2.57.121.112", user: "babygirl", pass:"babygirl12345"}
+[6/25/2026 8:34:01 AM] 2.57.121.112 >>> Disconnected.
+[6/25/2026 8:37:39 AM] Connection attempt from IP: 193.46.255.86...
+[6/25/2026 8:37:40 AM] ***REJECTED*** {ip: "193.46.255.86", user: "admin", pass:"atjp4CDA"}
+[6/25/2026 8:37:40 AM] ***REJECTED*** {ip: "193.46.255.86", user: "admin", pass:"creative"}
+[6/25/2026 8:37:41 AM] ***REJECTED*** {ip: "193.46.255.86", user: "admin", pass:"P@ssw0rd"}
+[6/25/2026 8:37:41 AM] 193.46.255.86 >>> Disconnected.
+[6/25/2026 8:38:20 AM] Connection attempt from IP: 141.98.83.240...
+[6/25/2026 8:38:21 AM] ***REJECTED*** {ip: "141.98.83.240", user: "khalid", pass:"khalid"}
+[6/25/2026 8:38:21 AM] ***REJECTED*** {ip: "141.98.83.240", user: "khalid", pass:"7777777"}
+[6/25/2026 8:38:21 AM] ***REJECTED*** {ip: "141.98.83.240", user: "khalid", pass:"11111"}
+[6/25/2026 8:38:22 AM] 141.98.83.240 >>> Disconnected.
+[6/25/2026 8:53:15 AM] Connection attempt from IP: 45.63.4.69...
+[6/25/2026 8:53:16 AM] 45.63.4.69 >>> Disconnected.
