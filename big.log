@@ -36310,3 +36310,19 @@
 [6/25/2026 1:54:51 AM] 45.148.10.121 >>> Disconnected.
 [6/25/2026 1:54:53 AM] Connection attempt from IP: 178.208.88.6...
 [6/25/2026 1:54:54 AM] 178.208.88.6 >>> Disconnected.
+[6/25/2026 2:04:54 AM] Connection attempt from IP: 193.46.255.86...
+[6/25/2026 2:04:55 AM] ***REJECTED*** {ip: "193.46.255.86", user: "admin", pass:"admin1234"}
+[6/25/2026 2:04:55 AM] ***REJECTED*** {ip: "193.46.255.86", user: "admin", pass:"pfsense"}
+[6/25/2026 2:04:56 AM] ***REJECTED*** {ip: "193.46.255.86", user: "admin", pass:"vertex25"}
+[6/25/2026 2:04:56 AM] 193.46.255.86 >>> Disconnected.
+[6/25/2026 2:11:38 AM] Connection attempt from IP: 141.98.83.240...
+[6/25/2026 2:11:39 AM] ***REJECTED*** {ip: "141.98.83.240", user: "frappe", pass:"admin"}
+[6/25/2026 2:11:39 AM] ***REJECTED*** {ip: "141.98.83.240", user: "frappe", pass:"1234"}
+[6/25/2026 2:11:40 AM] ***REJECTED*** {ip: "141.98.83.240", user: "frappe", pass:"frappe123"}
+[6/25/2026 2:11:40 AM] 141.98.83.240 >>> Disconnected.
+[6/25/2026 2:11:54 AM] Connection attempt from IP: 213.209.159.142...
+[6/25/2026 2:21:54 AM] Connection attempt from IP: 104.152.52.206...
+[6/25/2026 2:21:54 AM] 104.152.52.206 >>> Disconnected.
+[6/25/2026 2:26:27 AM] Connection attempt from IP: 45.148.10.121...
+[6/25/2026 2:26:28 AM] ***REJECTED*** {ip: "45.148.10.121", user: "admin", pass:"1234"}
+[6/25/2026 2:26:29 AM] 45.148.10.121 >>> Disconnected.
