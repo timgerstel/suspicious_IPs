@@ -37233,3 +37233,28 @@
 [6/25/2026 10:49:52 AM] Connection attempt from IP: 45.148.10.121...
 [6/25/2026 10:49:53 AM] ***REJECTED*** {ip: "45.148.10.121", user: "user", pass:"user"}
 [6/25/2026 10:49:53 AM] 45.148.10.121 >>> Disconnected.
+[6/25/2026 11:04:32 AM] Connection attempt from IP: 141.98.83.240...
+[6/25/2026 11:04:33 AM] ***REJECTED*** {ip: "141.98.83.240", user: "nicole", pass:"nicole"}
+[6/25/2026 11:04:33 AM] ***REJECTED*** {ip: "141.98.83.240", user: "nicole", pass:"7777777"}
+[6/25/2026 11:04:34 AM] ***REJECTED*** {ip: "141.98.83.240", user: "nicole", pass:"11111"}
+[6/25/2026 11:04:34 AM] 141.98.83.240 >>> Disconnected.
+[6/25/2026 11:14:36 AM] Connection attempt from IP: 2.57.121.25...
+[6/25/2026 11:14:37 AM] ***REJECTED*** {ip: "2.57.121.25", user: "admin", pass:"121084"}
+[6/25/2026 11:14:37 AM] ***REJECTED*** {ip: "2.57.121.25", user: "admin", pass:"12101994"}
+[6/25/2026 11:14:38 AM] ***REJECTED*** {ip: "2.57.121.25", user: "admin", pass:"120883"}
+[6/25/2026 11:14:38 AM] 2.57.121.25 >>> Disconnected.
+[6/25/2026 11:23:09 AM] Connection attempt from IP: 193.46.255.86...
+[6/25/2026 11:23:10 AM] ***REJECTED*** {ip: "193.46.255.86", user: "postgres", pass:"postgres"}
+[6/25/2026 11:23:10 AM] ***REJECTED*** {ip: "193.46.255.86", user: "postgres", pass:"admin"}
+[6/25/2026 11:23:11 AM] ***REJECTED*** {ip: "193.46.255.86", user: "postgres", pass:"root"}
+[6/25/2026 11:23:11 AM] 193.46.255.86 >>> Disconnected.
+[6/25/2026 11:23:26 AM] Connection attempt from IP: 45.148.10.121...
+[6/25/2026 11:23:26 AM] ***REJECTED*** {ip: "45.148.10.121", user: "root", pass:"root"}
+[6/25/2026 11:23:27 AM] 45.148.10.121 >>> Disconnected.
+[6/25/2026 11:24:46 AM] Connection attempt from IP: 2.57.121.112...
+[6/25/2026 11:24:48 AM] ***REJECTED*** {ip: "2.57.121.112", user: "corrina", pass:"corrina"}
+[6/25/2026 11:24:48 AM] ***REJECTED*** {ip: "2.57.121.112", user: "corrina", pass:"corrina1"}
+[6/25/2026 11:24:48 AM] ***REJECTED*** {ip: "2.57.121.112", user: "corrina", pass:"corrina123"}
+[6/25/2026 11:24:49 AM] ***REJECTED*** {ip: "2.57.121.112", user: "corrina", pass:"corrina1234"}
+[6/25/2026 11:24:49 AM] ***REJECTED*** {ip: "2.57.121.112", user: "corrina", pass:"corrina12345"}
+[6/25/2026 11:24:49 AM] 2.57.121.112 >>> Disconnected.
