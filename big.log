@@ -37049,3 +37049,25 @@
 [6/25/2026 6:47:42 AM] Connection attempt from IP: 91.224.92.17...
 [6/25/2026 6:47:46 AM] ***REJECTED*** {ip: "91.224.92.17", user: "root", pass:"UvGX8f8232"}
 [6/25/2026 6:47:47 AM] 91.224.92.17 >>> Disconnected.
+[6/25/2026 7:06:21 AM] Connection attempt from IP: 2.57.121.25...
+[6/25/2026 7:06:22 AM] ***REJECTED*** {ip: "2.57.121.25", user: "admin", pass:"13021981"}
+[6/25/2026 7:06:23 AM] ***REJECTED*** {ip: "2.57.121.25", user: "admin", pass:"1258"}
+[6/25/2026 7:06:23 AM] ***REJECTED*** {ip: "2.57.121.25", user: "admin", pass:"1256"}
+[6/25/2026 7:06:23 AM] 2.57.121.25 >>> Disconnected.
+[6/25/2026 7:07:56 AM] Connection attempt from IP: 2.57.121.112...
+[6/25/2026 7:07:57 AM] ***REJECTED*** {ip: "2.57.121.112", user: "arleth", pass:"arleth"}
+[6/25/2026 7:07:58 AM] ***REJECTED*** {ip: "2.57.121.112", user: "arleth", pass:"arleth1"}
+[6/25/2026 7:07:58 AM] ***ACCEPTED*** {ip: "2.57.121.112", user: "arleth", pass:"arleth123"}
+[6/25/2026 7:07:59 AM] 2.57.121.112 >>> Disconnected.
+[6/25/2026 7:09:56 AM] Connection attempt from IP: 141.98.83.240...
+[6/25/2026 7:09:57 AM] ***REJECTED*** {ip: "141.98.83.240", user: "root", pass:"harrison"}
+[6/25/2026 7:09:57 AM] ***REJECTED*** {ip: "141.98.83.240", user: "root", pass:"kontol"}
+[6/25/2026 7:09:58 AM] ***REJECTED*** {ip: "141.98.83.240", user: "root", pass:"letmein"}
+[6/25/2026 7:09:58 AM] 141.98.83.240 >>> Disconnected.
+[6/25/2026 7:19:04 AM] Connection attempt from IP: 45.225.135.21...
+[6/25/2026 7:19:07 AM] ***REJECTED*** {ip: "45.225.135.21", user: "admin", pass:"admin"}
+[6/25/2026 7:19:51 AM] Connection attempt from IP: 45.225.135.21...
+[6/25/2026 7:19:54 AM] ***REJECTED*** {ip: "45.225.135.21", user: "orangepi", pass:"orangepi"}
+[6/25/2026 7:19:54 AM] 45.225.135.21 >>> Disconnected.
+[6/25/2026 7:20:30 AM] Connection attempt from IP: 45.225.135.21...
+[6/25/2026 7:20:35 AM] 45.225.135.21 >>> Disconnected.
