@@ -38030,3 +38030,8 @@
 [6/25/2026 6:25:36 PM] ***REJECTED*** {ip: "193.46.255.86", user: "ali", pass:"123456"}
 [6/25/2026 6:25:37 PM] ***REJECTED*** {ip: "193.46.255.86", user: "ali", pass:"ali123"}
 [6/25/2026 6:25:37 PM] 193.46.255.86 >>> Disconnected.
+[6/25/2026 6:45:44 PM] Connection attempt from IP: 141.98.83.240...
+[6/25/2026 6:45:45 PM] ***REJECTED*** {ip: "141.98.83.240", user: "admin", pass:"P@ssw0rd!"}
+[6/25/2026 6:45:46 PM] ***REJECTED*** {ip: "141.98.83.240", user: "admin", pass:"admin@2020"}
+[6/25/2026 6:45:46 PM] ***REJECTED*** {ip: "141.98.83.240", user: "admin", pass:"centos"}
+[6/25/2026 6:45:46 PM] 141.98.83.240 >>> Disconnected.
