@@ -38008,3 +38008,25 @@
 [6/25/2026 5:48:38 PM] ***REJECTED*** {ip: "141.98.83.240", user: "root", pass:"777"}
 [6/25/2026 5:48:39 PM] ***REJECTED*** {ip: "141.98.83.240", user: "root", pass:"999999"}
 [6/25/2026 5:48:39 PM] 141.98.83.240 >>> Disconnected.
+[6/25/2026 6:17:17 PM] Connection attempt from IP: 141.98.83.240...
+[6/25/2026 6:17:18 PM] ***REJECTED*** {ip: "141.98.83.240", user: "root", pass:"@W3e4r"}
+[6/25/2026 6:17:18 PM] ***REJECTED*** {ip: "141.98.83.240", user: "root", pass:"Qq123456"}
+[6/25/2026 6:17:19 PM] ***REJECTED*** {ip: "141.98.83.240", user: "root", pass:"Server1214"}
+[6/25/2026 6:17:19 PM] 141.98.83.240 >>> Disconnected.
+[6/25/2026 6:21:08 PM] Connection attempt from IP: 2.57.121.25...
+[6/25/2026 6:21:10 PM] ***REJECTED*** {ip: "2.57.121.25", user: "admin", pass:"1147"}
+[6/25/2026 6:21:10 PM] ***REJECTED*** {ip: "2.57.121.25", user: "admin", pass:"111285"}
+[6/25/2026 6:21:10 PM] ***REJECTED*** {ip: "2.57.121.25", user: "admin", pass:"111177"}
+[6/25/2026 6:21:10 PM] 2.57.121.25 >>> Disconnected.
+[6/25/2026 6:23:16 PM] Connection attempt from IP: 2.57.121.112...
+[6/25/2026 6:23:17 PM] ***REJECTED*** {ip: "2.57.121.112", user: "khadijah", pass:"khadijah"}
+[6/25/2026 6:23:17 PM] ***REJECTED*** {ip: "2.57.121.112", user: "khadijah", pass:"khadijah1"}
+[6/25/2026 6:23:17 PM] ***REJECTED*** {ip: "2.57.121.112", user: "khadijah", pass:"khadijah123"}
+[6/25/2026 6:23:18 PM] ***REJECTED*** {ip: "2.57.121.112", user: "khadijah", pass:"khadijah1234"}
+[6/25/2026 6:23:18 PM] ***REJECTED*** {ip: "2.57.121.112", user: "khadijah", pass:"khadijah12345"}
+[6/25/2026 6:23:18 PM] 2.57.121.112 >>> Disconnected.
+[6/25/2026 6:25:35 PM] Connection attempt from IP: 193.46.255.86...
+[6/25/2026 6:25:36 PM] ***REJECTED*** {ip: "193.46.255.86", user: "ali", pass:"ali"}
+[6/25/2026 6:25:36 PM] ***REJECTED*** {ip: "193.46.255.86", user: "ali", pass:"123456"}
+[6/25/2026 6:25:37 PM] ***REJECTED*** {ip: "193.46.255.86", user: "ali", pass:"ali123"}
+[6/25/2026 6:25:37 PM] 193.46.255.86 >>> Disconnected.
