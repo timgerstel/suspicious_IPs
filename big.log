@@ -39443,3 +39443,16 @@
 [6/25/2026 9:20:45 PM] ***REJECTED*** {ip: "2.57.121.25", user: "admin", pass:"110495"}
 [6/25/2026 9:20:46 PM] ***REJECTED*** {ip: "2.57.121.25", user: "admin", pass:"110284"}
 [6/25/2026 9:20:46 PM] 2.57.121.25 >>> Disconnected.
+[6/25/2026 9:35:55 PM] Connection attempt from IP: 141.98.83.240...
+[6/25/2026 9:35:56 PM] ***REJECTED*** {ip: "141.98.83.240", user: "user", pass:"colton@123"}
+[6/25/2026 9:35:57 PM] ***REJECTED*** {ip: "141.98.83.240", user: "user", pass:"kirkland"}
+[6/25/2026 9:35:57 PM] ***REJECTED*** {ip: "141.98.83.240", user: "user", pass:"left"}
+[6/25/2026 9:35:57 PM] 141.98.83.240 >>> Disconnected.
+[6/25/2026 9:53:14 PM] Connection attempt from IP: 45.148.10.121...
+[6/25/2026 9:53:15 PM] ***REJECTED*** {ip: "45.148.10.121", user: "root", pass:"admin"}
+[6/25/2026 9:53:16 PM] 45.148.10.121 >>> Disconnected.
+[6/25/2026 9:59:19 PM] Connection attempt from IP: 193.46.255.86...
+[6/25/2026 9:59:20 PM] ***REJECTED*** {ip: "193.46.255.86", user: "ubnt", pass:"Qwerty12"}
+[6/25/2026 9:59:21 PM] ***REJECTED*** {ip: "193.46.255.86", user: "ubnt", pass:"jackson"}
+[6/25/2026 9:59:21 PM] ***REJECTED*** {ip: "193.46.255.86", user: "ubnt", pass:"ubnt@123"}
+[6/25/2026 9:59:21 PM] 193.46.255.86 >>> Disconnected.
