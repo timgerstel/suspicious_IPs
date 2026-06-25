@@ -36423,3 +36423,20 @@
 [6/25/2026 5:11:07 AM] ***REJECTED*** {ip: "141.98.83.240", user: "root", pass:"dahuacloud"}
 [6/25/2026 5:11:07 AM] ***REJECTED*** {ip: "141.98.83.240", user: "root", pass:"goodidea"}
 [6/25/2026 5:11:08 AM] 141.98.83.240 >>> Disconnected.
+[6/25/2026 5:40:58 AM] Connection attempt from IP: 2.57.121.112...
+[6/25/2026 5:40:59 AM] ***REJECTED*** {ip: "2.57.121.112", user: "allissa", pass:"allissa"}
+[6/25/2026 5:41:00 AM] ***REJECTED*** {ip: "2.57.121.112", user: "allissa", pass:"allissa1"}
+[6/25/2026 5:41:00 AM] ***REJECTED*** {ip: "2.57.121.112", user: "allissa", pass:"allissa123"}
+[6/25/2026 5:41:00 AM] ***REJECTED*** {ip: "2.57.121.112", user: "allissa", pass:"allissa1234"}
+[6/25/2026 5:41:01 AM] ***REJECTED*** {ip: "2.57.121.112", user: "allissa", pass:"allissa12345"}
+[6/25/2026 5:41:01 AM] 2.57.121.112 >>> Disconnected.
+[6/25/2026 5:41:02 AM] Connection attempt from IP: 141.98.83.240...
+[6/25/2026 5:41:03 AM] ***REJECTED*** {ip: "141.98.83.240", user: "user", pass:"daredevil"}
+[6/25/2026 5:41:03 AM] ***REJECTED*** {ip: "141.98.83.240", user: "user", pass:"jackson990607"}
+[6/25/2026 5:41:04 AM] ***REJECTED*** {ip: "141.98.83.240", user: "user", pass:"myname"}
+[6/25/2026 5:41:04 AM] 141.98.83.240 >>> Disconnected.
+[6/25/2026 5:50:38 AM] Connection attempt from IP: 193.46.255.86...
+[6/25/2026 5:50:39 AM] ***REJECTED*** {ip: "193.46.255.86", user: "admin", pass:"Aa123456"}
+[6/25/2026 5:50:40 AM] ***REJECTED*** {ip: "193.46.255.86", user: "admin", pass:"bjk1903"}
+[6/25/2026 5:50:40 AM] ***REJECTED*** {ip: "193.46.255.86", user: "admin", pass:"88888888"}
+[6/25/2026 5:50:40 AM] 193.46.255.86 >>> Disconnected.
