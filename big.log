@@ -36326,3 +36326,26 @@
 [6/25/2026 2:26:27 AM] Connection attempt from IP: 45.148.10.121...
 [6/25/2026 2:26:28 AM] ***REJECTED*** {ip: "45.148.10.121", user: "admin", pass:"1234"}
 [6/25/2026 2:26:29 AM] 45.148.10.121 >>> Disconnected.
+[6/25/2026 2:32:08 AM] Connection attempt from IP: 220.154.130.81...
+[6/25/2026 2:32:10 AM] ***REJECTED*** {ip: "220.154.130.81", user: "root", pass:"﻿------fuck------"}
+[6/25/2026 2:32:10 AM] 220.154.130.81 >>> Disconnected.
+[6/25/2026 2:41:45 AM] Connection attempt from IP: 141.98.83.240...
+[6/25/2026 2:41:46 AM] ***REJECTED*** {ip: "141.98.83.240", user: "ahmad", pass:"ahmad"}
+[6/25/2026 2:41:46 AM] ***REJECTED*** {ip: "141.98.83.240", user: "ahmad", pass:"7777777"}
+[6/25/2026 2:41:46 AM] ***REJECTED*** {ip: "141.98.83.240", user: "ahmad", pass:"11111"}
+[6/25/2026 2:41:47 AM] 141.98.83.240 >>> Disconnected.
+[6/25/2026 2:45:22 AM] Connection attempt from IP: 2.57.121.112...
+[6/25/2026 2:45:23 AM] ***REJECTED*** {ip: "2.57.121.112", user: "ryland", pass:"ryland"}
+[6/25/2026 2:45:24 AM] ***REJECTED*** {ip: "2.57.121.112", user: "ryland", pass:"ryland1"}
+[6/25/2026 2:45:24 AM] ***REJECTED*** {ip: "2.57.121.112", user: "ryland", pass:"ryland123"}
+[6/25/2026 2:45:24 AM] ***REJECTED*** {ip: "2.57.121.112", user: "ryland", pass:"ryland1234"}
+[6/25/2026 2:45:25 AM] ***REJECTED*** {ip: "2.57.121.112", user: "ryland", pass:"ryland12345"}
+[6/25/2026 2:45:25 AM] 2.57.121.112 >>> Disconnected.
+[6/25/2026 2:54:25 AM] Connection attempt from IP: 2.57.121.25...
+[6/25/2026 2:54:26 AM] ***REJECTED*** {ip: "2.57.121.25", user: "admin", pass:"13111992"}
+[6/25/2026 2:54:26 AM] ***REJECTED*** {ip: "2.57.121.25", user: "admin", pass:"13111983"}
+[6/25/2026 2:54:26 AM] ***REJECTED*** {ip: "2.57.121.25", user: "admin", pass:"13101991"}
+[6/25/2026 2:54:27 AM] 2.57.121.25 >>> Disconnected.
+[6/25/2026 2:57:43 AM] Connection attempt from IP: 45.148.10.121...
+[6/25/2026 2:57:44 AM] ***REJECTED*** {ip: "45.148.10.121", user: "admin", pass:"password"}
+[6/25/2026 2:57:44 AM] 45.148.10.121 >>> Disconnected.
