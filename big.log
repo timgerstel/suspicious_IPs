@@ -37286,3 +37286,20 @@
 [6/25/2026 12:24:36 PM] 8.148.176.251 >>> Disconnected.
 [6/25/2026 12:25:42 PM] Connection attempt from IP: 45.148.10.121...
 [6/25/2026 12:25:42 PM] 45.148.10.121 >>> Disconnected.
+[6/25/2026 12:31:32 PM] Connection attempt from IP: 141.98.83.240...
+[6/25/2026 12:31:33 PM] ***REJECTED*** {ip: "141.98.83.240", user: "root", pass:"premium"}
+[6/25/2026 12:31:34 PM] ***REJECTED*** {ip: "141.98.83.240", user: "root", pass:"ruijie123"}
+[6/25/2026 12:31:34 PM] ***REJECTED*** {ip: "141.98.83.240", user: "root", pass:"toon"}
+[6/25/2026 12:31:34 PM] 141.98.83.240 >>> Disconnected.
+[6/25/2026 12:33:25 PM] Connection attempt from IP: 199.45.154.132...
+[6/25/2026 12:33:40 PM] 199.45.154.132 >>> Disconnected.
+[6/25/2026 12:49:26 PM] Connection attempt from IP: 2.57.121.112...
+[6/25/2026 12:49:27 PM] ***REJECTED*** {ip: "2.57.121.112", user: "holland", pass:"holland"}
+[6/25/2026 12:49:27 PM] ***REJECTED*** {ip: "2.57.121.112", user: "holland", pass:"holland1"}
+[6/25/2026 12:49:28 PM] ***REJECTED*** {ip: "2.57.121.112", user: "holland", pass:"holland123"}
+[6/25/2026 12:49:28 PM] ***REJECTED*** {ip: "2.57.121.112", user: "holland", pass:"holland1234"}
+[6/25/2026 12:49:28 PM] ***REJECTED*** {ip: "2.57.121.112", user: "holland", pass:"holland12345"}
+[6/25/2026 12:49:29 PM] 2.57.121.112 >>> Disconnected.
+[6/25/2026 12:57:15 PM] Connection attempt from IP: 45.148.10.121...
+[6/25/2026 12:57:16 PM] ***REJECTED*** {ip: "45.148.10.121", user: "test", pass:"test"}
+[6/25/2026 12:57:16 PM] 45.148.10.121 >>> Disconnected.
