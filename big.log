@@ -36373,3 +36373,18 @@
 [6/25/2026 3:29:02 AM] Connection attempt from IP: 59.152.127.167...
 [6/25/2026 3:29:02 AM] ***REJECTED*** {ip: "59.152.127.167", user: "rain", pass:"12443567"}
 [6/25/2026 3:29:02 AM] 59.152.127.167 >>> Disconnected.
+[6/25/2026 3:41:34 AM] Connection attempt from IP: 141.98.83.240...
+[6/25/2026 3:41:35 AM] ***REJECTED*** {ip: "141.98.83.240", user: "ana", pass:"ana"}
+[6/25/2026 3:41:35 AM] ***REJECTED*** {ip: "141.98.83.240", user: "ana", pass:"7777777"}
+[6/25/2026 3:41:36 AM] ***REJECTED*** {ip: "141.98.83.240", user: "ana", pass:"11111"}
+[6/25/2026 3:41:36 AM] 141.98.83.240 >>> Disconnected.
+[6/25/2026 3:57:41 AM] Connection attempt from IP: 2.57.121.25...
+[6/25/2026 3:57:42 AM] ***REJECTED*** {ip: "2.57.121.25", user: "admin", pass:"130990"}
+[6/25/2026 3:57:42 AM] ***REJECTED*** {ip: "2.57.121.25", user: "admin", pass:"130985"}
+[6/25/2026 3:57:42 AM] ***REJECTED*** {ip: "2.57.121.25", user: "admin", pass:"13091992"}
+[6/25/2026 3:57:43 AM] 2.57.121.25 >>> Disconnected.
+[6/25/2026 3:58:26 AM] Connection attempt from IP: 193.46.255.86...
+[6/25/2026 3:58:27 AM] ***REJECTED*** {ip: "193.46.255.86", user: "admin", pass:"Huawei12#$"}
+[6/25/2026 3:58:27 AM] ***REJECTED*** {ip: "193.46.255.86", user: "admin", pass:"black13"}
+[6/25/2026 3:58:27 AM] ***REJECTED*** {ip: "193.46.255.86", user: "admin", pass:"theboss"}
+[6/25/2026 3:58:28 AM] 193.46.255.86 >>> Disconnected.
