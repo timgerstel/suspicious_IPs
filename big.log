@@ -40674,3 +40674,11 @@
 [6/26/2026 9:21:35 AM] ***REJECTED*** {ip: "193.46.255.86", user: "admin", pass:"P@$$w0rd@123"}
 [6/26/2026 9:21:36 AM] ***REJECTED*** {ip: "193.46.255.86", user: "admin", pass:"Pass@123"}
 [6/26/2026 9:21:36 AM] 193.46.255.86 >>> Disconnected.
+[6/26/2026 9:38:25 AM] Connection attempt from IP: 141.98.83.240...
+[6/26/2026 9:38:26 AM] ***REJECTED*** {ip: "141.98.83.240", user: "vpn", pass:"12345"}
+[6/26/2026 9:38:26 AM] ***REJECTED*** {ip: "141.98.83.240", user: "vpn", pass:"7777777"}
+[6/26/2026 9:38:27 AM] ***REJECTED*** {ip: "141.98.83.240", user: "vpn", pass:"11111"}
+[6/26/2026 9:38:27 AM] 141.98.83.240 >>> Disconnected.
+[6/26/2026 9:54:13 AM] Connection attempt from IP: 45.148.10.121...
+[6/26/2026 9:54:13 AM] ***REJECTED*** {ip: "45.148.10.121", user: "user", pass:"user"}
+[6/26/2026 9:54:14 AM] 45.148.10.121 >>> Disconnected.
