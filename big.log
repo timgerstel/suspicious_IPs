@@ -40335,3 +40335,26 @@
 [6/26/2026 5:29:19 AM] ***REJECTED*** {ip: "141.98.83.240", user: "user", pass:"w1w2w3w4"}
 [6/26/2026 5:29:20 AM] ***REJECTED*** {ip: "141.98.83.240", user: "user", pass:"walton"}
 [6/26/2026 5:29:20 AM] 141.98.83.240 >>> Disconnected.
+[6/26/2026 5:49:47 AM] Connection attempt from IP: 101.96.202.189...
+[6/26/2026 5:49:49 AM] ***REJECTED*** {ip: "101.96.202.189", user: "root", pass:"mysql"}
+[6/26/2026 5:49:49 AM] 101.96.202.189 >>> Disconnected.
+[6/26/2026 5:49:50 AM] Connection attempt from IP: 101.96.202.189...
+[6/26/2026 5:50:25 AM] Connection attempt from IP: 135.148.124.218...
+[6/26/2026 5:50:25 AM] ***REJECTED*** {ip: "135.148.124.218", user: "root", pass:"123/.,"}
+[6/26/2026 5:50:25 AM] 135.148.124.218 >>> Disconnected.
+[6/26/2026 5:50:27 AM] ***REJECTED*** {ip: "101.96.202.189", user: "root", pass:"apache"}
+[6/26/2026 5:50:27 AM] 101.96.202.189 >>> Disconnected.
+[6/26/2026 5:50:27 AM] Connection attempt from IP: 101.96.202.189...
+[6/26/2026 5:53:01 AM] Connection attempt from IP: 193.46.255.86...
+[6/26/2026 5:53:02 AM] ***REJECTED*** {ip: "193.46.255.86", user: "tomcat", pass:"tomcat"}
+[6/26/2026 5:53:03 AM] ***REJECTED*** {ip: "193.46.255.86", user: "tomcat", pass:"123456"}
+[6/26/2026 5:53:03 AM] ***REJECTED*** {ip: "193.46.255.86", user: "tomcat", pass:"0000"}
+[6/26/2026 5:53:03 AM] 193.46.255.86 >>> Disconnected.
+[6/26/2026 5:56:51 AM] Connection attempt from IP: 141.98.83.240...
+[6/26/2026 5:56:52 AM] ***REJECTED*** {ip: "141.98.83.240", user: "root", pass:"tslinux"}
+[6/26/2026 5:56:52 AM] ***REJECTED*** {ip: "141.98.83.240", user: "root", pass:"1123581321"}
+[6/26/2026 5:56:53 AM] ***REJECTED*** {ip: "141.98.83.240", user: "root", pass:"1234.com"}
+[6/26/2026 5:56:53 AM] 141.98.83.240 >>> Disconnected.
+[6/26/2026 5:59:06 AM] Connection attempt from IP: 118.26.111.107...
+[6/26/2026 5:59:07 AM] ***REJECTED*** {ip: "118.26.111.107", user: "admin", pass:"admin"}
+[6/26/2026 5:59:07 AM] 118.26.111.107 >>> Disconnected.
