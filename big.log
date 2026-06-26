@@ -41688,3 +41688,13 @@
 [6/26/2026 7:29:27 PM] ***REJECTED*** {ip: "2.57.121.25", user: "admin", pass:"030383"}
 [6/26/2026 7:29:27 PM] ***REJECTED*** {ip: "2.57.121.25", user: "admin", pass:"03031995"}
 [6/26/2026 7:29:28 PM] 2.57.121.25 >>> Disconnected.
+[6/26/2026 7:32:37 PM] Connection attempt from IP: 193.46.255.86...
+[6/26/2026 7:32:39 PM] ***REJECTED*** {ip: "193.46.255.86", user: "oracle", pass:"oracle"}
+[6/26/2026 7:32:39 PM] ***REJECTED*** {ip: "193.46.255.86", user: "oracle", pass:"admin123"}
+[6/26/2026 7:32:39 PM] ***REJECTED*** {ip: "193.46.255.86", user: "oracle", pass:"oracle1"}
+[6/26/2026 7:32:40 PM] 193.46.255.86 >>> Disconnected.
+[6/26/2026 7:44:08 PM] Connection attempt from IP: 141.98.83.240...
+[6/26/2026 7:44:09 PM] ***REJECTED*** {ip: "141.98.83.240", user: "lalita", pass:"password"}
+[6/26/2026 7:44:09 PM] ***REJECTED*** {ip: "141.98.83.240", user: "lalita", pass:"7777777"}
+[6/26/2026 7:44:10 PM] ***REJECTED*** {ip: "141.98.83.240", user: "lalita", pass:"11111"}
+[6/26/2026 7:44:10 PM] 141.98.83.240 >>> Disconnected.
