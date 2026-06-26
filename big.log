@@ -40647,3 +40647,30 @@
 [6/26/2026 8:44:45 AM] ***REJECTED*** {ip: "141.98.83.240", user: "emily", pass:"emily"}
 [6/26/2026 8:44:45 AM] ***REJECTED*** {ip: "141.98.83.240", user: "emily", pass:"7777777"}
 [6/26/2026 8:44:45 AM] 141.98.83.240 >>> Disconnected.
+[6/26/2026 9:03:36 AM] Connection attempt from IP: 2.57.121.25...
+[6/26/2026 9:03:37 AM] ***REJECTED*** {ip: "2.57.121.25", user: "admin", pass:"07101962"}
+[6/26/2026 9:03:37 AM] ***REJECTED*** {ip: "2.57.121.25", user: "admin", pass:"07081979"}
+[6/26/2026 9:03:37 AM] ***REJECTED*** {ip: "2.57.121.25", user: "admin", pass:"070786"}
+[6/26/2026 9:03:38 AM] 2.57.121.25 >>> Disconnected.
+[6/26/2026 9:05:29 AM] Connection attempt from IP: 144.202.92.17...
+[6/26/2026 9:05:30 AM] 144.202.92.17 >>> Disconnected.
+[6/26/2026 9:09:10 AM] Connection attempt from IP: 2.57.121.112...
+[6/26/2026 9:09:11 AM] ***REJECTED*** {ip: "2.57.121.112", user: "annalee", pass:"annalee"}
+[6/26/2026 9:09:11 AM] ***REJECTED*** {ip: "2.57.121.112", user: "annalee", pass:"annalee1"}
+[6/26/2026 9:09:12 AM] ***REJECTED*** {ip: "2.57.121.112", user: "annalee", pass:"annalee123"}
+[6/26/2026 9:09:12 AM] ***REJECTED*** {ip: "2.57.121.112", user: "annalee", pass:"annalee1234"}
+[6/26/2026 9:09:12 AM] ***REJECTED*** {ip: "2.57.121.112", user: "annalee", pass:"annalee12345"}
+[6/26/2026 9:09:13 AM] 2.57.121.112 >>> Disconnected.
+[6/26/2026 9:11:34 AM] Connection attempt from IP: 141.98.83.240...
+[6/26/2026 9:11:36 AM] ***REJECTED*** {ip: "141.98.83.240", user: "testuser", pass:"12345"}
+[6/26/2026 9:11:36 AM] ***REJECTED*** {ip: "141.98.83.240", user: "testuser", pass:"abc123"}
+[6/26/2026 9:11:36 AM] ***REJECTED*** {ip: "141.98.83.240", user: "testuser", pass:"12345678"}
+[6/26/2026 9:11:37 AM] 141.98.83.240 >>> Disconnected.
+[6/26/2026 9:19:48 AM] Connection attempt from IP: 45.148.10.121...
+[6/26/2026 9:19:49 AM] ***REJECTED*** {ip: "45.148.10.121", user: "root", pass:"admin"}
+[6/26/2026 9:19:49 AM] 45.148.10.121 >>> Disconnected.
+[6/26/2026 9:21:34 AM] Connection attempt from IP: 193.46.255.86...
+[6/26/2026 9:21:35 AM] ***REJECTED*** {ip: "193.46.255.86", user: "admin", pass:"1qaz@WSX"}
+[6/26/2026 9:21:35 AM] ***REJECTED*** {ip: "193.46.255.86", user: "admin", pass:"P@$$w0rd@123"}
+[6/26/2026 9:21:36 AM] ***REJECTED*** {ip: "193.46.255.86", user: "admin", pass:"Pass@123"}
+[6/26/2026 9:21:36 AM] 193.46.255.86 >>> Disconnected.
