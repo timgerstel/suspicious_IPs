@@ -41715,3 +41715,20 @@
 [6/26/2026 8:25:27 PM] ***REJECTED*** {ip: "2.57.121.25", user: "admin", pass:"03031978"}
 [6/26/2026 8:25:27 PM] ***ACCEPTED*** {ip: "2.57.121.25", user: "admin", pass:"0220"}
 [6/26/2026 8:25:27 PM] 2.57.121.25 >>> Disconnected.
+[6/26/2026 8:33:04 PM] Connection attempt from IP: 45.156.87.13...
+[6/26/2026 8:33:12 PM] 45.156.87.13 >>> Disconnected.
+[6/26/2026 8:35:53 PM] Connection attempt from IP: 141.98.83.240...
+[6/26/2026 8:35:54 PM] ***REJECTED*** {ip: "141.98.83.240", user: "paxton", pass:"paxton"}
+[6/26/2026 8:35:55 PM] ***REJECTED*** {ip: "141.98.83.240", user: "paxton", pass:"7777777"}
+[6/26/2026 8:35:55 PM] ***REJECTED*** {ip: "141.98.83.240", user: "paxton", pass:"11111"}
+[6/26/2026 8:35:55 PM] 141.98.83.240 >>> Disconnected.
+[6/26/2026 8:40:49 PM] Connection attempt from IP: 45.148.10.121...
+[6/26/2026 8:40:50 PM] ***REJECTED*** {ip: "45.148.10.121", user: "AdminGPON", pass:"ALC#FGU"}
+[6/26/2026 8:40:50 PM] 45.148.10.121 >>> Disconnected.
+[6/26/2026 8:43:33 PM] Connection attempt from IP: 2.57.121.112...
+[6/26/2026 8:43:34 PM] ***REJECTED*** {ip: "2.57.121.112", user: "kami", pass:"kami"}
+[6/26/2026 8:43:34 PM] ***REJECTED*** {ip: "2.57.121.112", user: "kami", pass:"kami1"}
+[6/26/2026 8:43:35 PM] ***REJECTED*** {ip: "2.57.121.112", user: "kami", pass:"kami123"}
+[6/26/2026 8:43:35 PM] ***REJECTED*** {ip: "2.57.121.112", user: "kami", pass:"kami1234"}
+[6/26/2026 8:43:35 PM] ***REJECTED*** {ip: "2.57.121.112", user: "kami", pass:"kami12345"}
+[6/26/2026 8:43:36 PM] 2.57.121.112 >>> Disconnected.
