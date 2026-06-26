@@ -40998,3 +40998,13 @@
 [6/26/2026 4:55:20 PM] ***REJECTED*** {ip: "2.57.121.112", user: "francisca", pass:"francisca1234"}
 [6/26/2026 4:55:20 PM] ***REJECTED*** {ip: "2.57.121.112", user: "francisca", pass:"francisca12345"}
 [6/26/2026 4:55:20 PM] 2.57.121.112 >>> Disconnected.
+[6/26/2026 5:02:05 PM] Connection attempt from IP: 193.46.255.86...
+[6/26/2026 5:02:06 PM] ***REJECTED*** {ip: "193.46.255.86", user: "admin", pass:"doherty"}
+[6/26/2026 5:02:07 PM] ***REJECTED*** {ip: "193.46.255.86", user: "admin", pass:"gateway"}
+[6/26/2026 5:02:07 PM] ***REJECTED*** {ip: "193.46.255.86", user: "admin", pass:"nimda"}
+[6/26/2026 5:02:07 PM] 193.46.255.86 >>> Disconnected.
+[6/26/2026 5:08:22 PM] Connection attempt from IP: 141.98.83.240...
+[6/26/2026 5:08:23 PM] ***REJECTED*** {ip: "141.98.83.240", user: "root", pass:"jasmine"}
+[6/26/2026 5:08:24 PM] ***REJECTED*** {ip: "141.98.83.240", user: "root", pass:"lucky"}
+[6/26/2026 5:08:24 PM] ***REJECTED*** {ip: "141.98.83.240", user: "root", pass:"monitor"}
+[6/26/2026 5:08:24 PM] 141.98.83.240 >>> Disconnected.
