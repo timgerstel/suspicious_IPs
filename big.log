@@ -41891,3 +41891,15 @@
 [6/26/2026 10:20:50 PM] Connection attempt from IP: 45.148.10.121...
 [6/26/2026 10:20:51 PM] ***REJECTED*** {ip: "45.148.10.121", user: "root", pass:"root"}
 [6/26/2026 10:20:51 PM] 45.148.10.121 >>> Disconnected.
+[6/26/2026 10:44:05 PM] Connection attempt from IP: 141.98.83.240...
+[6/26/2026 10:44:07 PM] ***REJECTED*** {ip: "141.98.83.240", user: "root", pass:"root123."}
+[6/26/2026 10:44:07 PM] ***ACCEPTED*** {ip: "141.98.83.240", user: "root", pass:"spider"}
+[6/26/2026 10:44:07 PM] 141.98.83.240 >>> Disconnected.
+[6/26/2026 10:51:41 PM] Connection attempt from IP: 193.46.255.86...
+[6/26/2026 10:51:42 PM] ***REJECTED*** {ip: "193.46.255.86", user: "admin", pass:"Qwert123456789"}
+[6/26/2026 10:51:42 PM] ***REJECTED*** {ip: "193.46.255.86", user: "admin", pass:"Welcome@123"}
+[6/26/2026 10:51:43 PM] ***REJECTED*** {ip: "193.46.255.86", user: "admin", pass:"admin.123"}
+[6/26/2026 10:51:43 PM] 193.46.255.86 >>> Disconnected.
+[6/26/2026 10:53:04 PM] Connection attempt from IP: 45.148.10.121...
+[6/26/2026 10:53:05 PM] ***REJECTED*** {ip: "45.148.10.121", user: "ubnt", pass:"ubnt"}
+[6/26/2026 10:53:06 PM] 45.148.10.121 >>> Disconnected.
