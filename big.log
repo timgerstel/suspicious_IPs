@@ -40850,3 +40850,26 @@
 [6/26/2026 2:21:52 PM] ***REJECTED*** {ip: "2.57.121.112", user: "deisy", pass:"deisy1234"}
 [6/26/2026 2:21:52 PM] ***REJECTED*** {ip: "2.57.121.112", user: "deisy", pass:"deisy12345"}
 [6/26/2026 2:21:52 PM] 2.57.121.112 >>> Disconnected.
+[6/26/2026 2:30:33 PM] Connection attempt from IP: 193.46.255.86...
+[6/26/2026 2:30:34 PM] ***REJECTED*** {ip: "193.46.255.86", user: "user", pass:"310593"}
+[6/26/2026 2:30:35 PM] ***REJECTED*** {ip: "193.46.255.86", user: "user", pass:"auto"}
+[6/26/2026 2:30:35 PM] ***REJECTED*** {ip: "193.46.255.86", user: "user", pass:"passage"}
+[6/26/2026 2:30:35 PM] 193.46.255.86 >>> Disconnected.
+[6/26/2026 2:31:51 PM] Connection attempt from IP: 141.98.83.240...
+[6/26/2026 2:31:52 PM] ***REJECTED*** {ip: "141.98.83.240", user: "andrea", pass:"andrea"}
+[6/26/2026 2:31:53 PM] ***REJECTED*** {ip: "141.98.83.240", user: "andrea", pass:"7777777"}
+[6/26/2026 2:31:53 PM] ***REJECTED*** {ip: "141.98.83.240", user: "andrea", pass:"11111"}
+[6/26/2026 2:31:53 PM] 141.98.83.240 >>> Disconnected.
+[6/26/2026 2:48:06 PM] Connection attempt from IP: 2.57.121.25...
+[6/26/2026 2:48:07 PM] ***REJECTED*** {ip: "2.57.121.25", user: "admin", pass:"050585"}
+[6/26/2026 2:48:07 PM] ***REJECTED*** {ip: "2.57.121.25", user: "admin", pass:"05041980"}
+[6/26/2026 2:48:08 PM] ***REJECTED*** {ip: "2.57.121.25", user: "admin", pass:"05021978"}
+[6/26/2026 2:48:08 PM] 2.57.121.25 >>> Disconnected.
+[6/26/2026 2:57:15 PM] Connection attempt from IP: 211.232.210.235...
+[6/26/2026 2:57:17 PM] ***REJECTED*** {ip: "211.232.210.235", user: "root", pass:"111111111"}
+[6/26/2026 2:57:17 PM] 211.232.210.235 >>> Disconnected.
+[6/26/2026 2:58:04 PM] Connection attempt from IP: 141.98.83.240...
+[6/26/2026 2:58:06 PM] ***REJECTED*** {ip: "141.98.83.240", user: "root", pass:"beta"}
+[6/26/2026 2:58:06 PM] ***REJECTED*** {ip: "141.98.83.240", user: "root", pass:"bobby"}
+[6/26/2026 2:58:06 PM] ***REJECTED*** {ip: "141.98.83.240", user: "root", pass:"carlos"}
+[6/26/2026 2:58:07 PM] 141.98.83.240 >>> Disconnected.
