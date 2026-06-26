@@ -40769,3 +40769,11 @@
 [6/26/2026 11:56:43 AM] ***REJECTED*** {ip: "193.46.255.86", user: "admin", pass:"0l0ctyQh243O63uD"}
 [6/26/2026 11:56:43 AM] ***REJECTED*** {ip: "193.46.255.86", user: "admin", pass:"Admin@2024"}
 [6/26/2026 11:56:44 AM] 193.46.255.86 >>> Disconnected.
+[6/26/2026 12:01:41 PM] Connection attempt from IP: 45.148.10.121...
+[6/26/2026 12:01:42 PM] ***REJECTED*** {ip: "45.148.10.121", user: "test", pass:"test"}
+[6/26/2026 12:01:42 PM] 45.148.10.121 >>> Disconnected.
+[6/26/2026 12:18:59 PM] Connection attempt from IP: 141.98.83.240...
+[6/26/2026 12:19:01 PM] ***REJECTED*** {ip: "141.98.83.240", user: "root", pass:"321654987"}
+[6/26/2026 12:19:01 PM] ***REJECTED*** {ip: "141.98.83.240", user: "root", pass:"456654"}
+[6/26/2026 12:19:01 PM] ***REJECTED*** {ip: "141.98.83.240", user: "root", pass:"@#$%^"}
+[6/26/2026 12:19:02 PM] 141.98.83.240 >>> Disconnected.
