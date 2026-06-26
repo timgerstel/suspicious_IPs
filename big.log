@@ -40291,3 +40291,16 @@
 [6/26/2026 4:23:02 AM] Connection attempt from IP: 179.61.169.5...
 [6/26/2026 4:23:03 AM] ***REJECTED*** {ip: "179.61.169.5", user: "root", pass:"1230"}
 [6/26/2026 4:23:03 AM] 179.61.169.5 >>> Disconnected.
+[6/26/2026 4:31:25 AM] Connection attempt from IP: 20.80.88.7...
+[6/26/2026 4:31:35 AM] 20.80.88.7 >>> Disconnected.
+[6/26/2026 4:34:18 AM] Connection attempt from IP: 141.98.83.240...
+[6/26/2026 4:34:20 AM] ***REJECTED*** {ip: "141.98.83.240", user: "sommer", pass:"sommer"}
+[6/26/2026 4:34:20 AM] ***REJECTED*** {ip: "141.98.83.240", user: "sommer", pass:"7777777"}
+[6/26/2026 4:34:20 AM] ***REJECTED*** {ip: "141.98.83.240", user: "sommer", pass:"11111"}
+[6/26/2026 4:34:21 AM] 141.98.83.240 >>> Disconnected.
+[6/26/2026 4:51:25 AM] Connection attempt from IP: 101.96.202.189...
+[6/26/2026 4:51:26 AM] ***REJECTED*** {ip: "101.96.202.189", user: "root", pass:"ubuntu"}
+[6/26/2026 4:51:27 AM] 101.96.202.189 >>> Disconnected.
+[6/26/2026 4:51:28 AM] Connection attempt from IP: 101.96.202.189...
+[6/26/2026 4:51:30 AM] ***REJECTED*** {ip: "101.96.202.189", user: "root", pass:"debian"}
+[6/26/2026 4:51:31 AM] 101.96.202.189 >>> Disconnected.
