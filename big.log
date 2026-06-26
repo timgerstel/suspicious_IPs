@@ -40384,3 +40384,26 @@
 [6/26/2026 6:24:13 AM] ***REJECTED*** {ip: "141.98.83.240", user: "user", pass:"05031990"}
 [6/26/2026 6:24:13 AM] ***REJECTED*** {ip: "141.98.83.240", user: "user", pass:"08051989"}
 [6/26/2026 6:24:14 AM] 141.98.83.240 >>> Disconnected.
+[6/26/2026 6:30:44 AM] Connection attempt from IP: 2.57.121.112...
+[6/26/2026 6:30:46 AM] ***REJECTED*** {ip: "2.57.121.112", user: "marion", pass:"marion"}
+[6/26/2026 6:30:46 AM] ***REJECTED*** {ip: "2.57.121.112", user: "marion", pass:"marion1"}
+[6/26/2026 6:30:46 AM] ***REJECTED*** {ip: "2.57.121.112", user: "marion", pass:"marion123"}
+[6/26/2026 6:30:47 AM] ***REJECTED*** {ip: "2.57.121.112", user: "marion", pass:"marion1234"}
+[6/26/2026 6:30:47 AM] ***REJECTED*** {ip: "2.57.121.112", user: "marion", pass:"marion12345"}
+[6/26/2026 6:30:47 AM] 2.57.121.112 >>> Disconnected.
+[6/26/2026 6:45:03 AM] Connection attempt from IP: 193.46.255.86...
+[6/26/2026 6:45:04 AM] ***REJECTED*** {ip: "193.46.255.86", user: "root", pass:"abc123"}
+[6/26/2026 6:45:05 AM] ***REJECTED*** {ip: "193.46.255.86", user: "root", pass:"admin123456"}
+[6/26/2026 6:45:05 AM] ***REJECTED*** {ip: "193.46.255.86", user: "root", pass:"medion"}
+[6/26/2026 6:45:05 AM] 193.46.255.86 >>> Disconnected.
+[6/26/2026 6:45:07 AM] Connection attempt from IP: 210.16.177.90...
+[6/26/2026 6:45:09 AM] ***REJECTED*** {ip: "210.16.177.90", user: "root", pass:"---fuck_you----"}
+[6/26/2026 6:45:09 AM] 210.16.177.90 >>> Disconnected.
+[6/26/2026 6:51:31 AM] Connection attempt from IP: 141.98.83.240...
+[6/26/2026 6:51:32 AM] ***REJECTED*** {ip: "141.98.83.240", user: "user", pass:"10011984"}
+[6/26/2026 6:51:32 AM] ***REJECTED*** {ip: "141.98.83.240", user: "user", pass:"14041987"}
+[6/26/2026 6:51:32 AM] ***REJECTED*** {ip: "141.98.83.240", user: "user", pass:"16021993"}
+[6/26/2026 6:51:33 AM] 141.98.83.240 >>> Disconnected.
+[6/26/2026 6:52:08 AM] Connection attempt from IP: 211.232.210.235...
+[6/26/2026 6:52:10 AM] ***REJECTED*** {ip: "211.232.210.235", user: "root", pass:"1111111"}
+[6/26/2026 6:52:11 AM] 211.232.210.235 >>> Disconnected.
