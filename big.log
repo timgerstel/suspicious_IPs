@@ -42954,3 +42954,28 @@
 [6/27/2026 6:55:13 PM] ***REJECTED*** {ip: "141.98.83.240", user: "test", pass:"test4321"}
 [6/27/2026 6:55:14 PM] ***REJECTED*** {ip: "141.98.83.240", user: "test", pass:"1"}
 [6/27/2026 6:55:14 PM] 141.98.83.240 >>> Disconnected.
+[6/27/2026 7:00:25 PM] Connection attempt from IP: 106.13.98.129...
+[6/27/2026 7:01:05 PM] ***REJECTED*** {ip: "106.13.98.129", user: "root", pass:"ubuntu"}
+[6/27/2026 7:01:07 PM] 106.13.98.129 >>> Disconnected.
+[6/27/2026 7:01:07 PM] Connection attempt from IP: 106.13.98.129...
+[6/27/2026 7:01:10 PM] ***REJECTED*** {ip: "106.13.98.129", user: "root", pass:"debian"}
+[6/27/2026 7:01:10 PM] 106.13.98.129 >>> Disconnected.
+[6/27/2026 7:04:27 PM] Connection attempt from IP: 45.148.10.152...
+[6/27/2026 7:17:19 PM] Connection attempt from IP: 2.57.121.25...
+[6/27/2026 7:17:20 PM] ***REJECTED*** {ip: "2.57.121.25", user: "admin", pass:"shady1"}
+[6/27/2026 7:17:21 PM] ***REJECTED*** {ip: "2.57.121.25", user: "admin", pass:"shadow11"}
+[6/27/2026 7:17:21 PM] ***REJECTED*** {ip: "2.57.121.25", user: "admin", pass:"sensual"}
+[6/27/2026 7:17:21 PM] 2.57.121.25 >>> Disconnected.
+[6/27/2026 7:17:45 PM] Connection attempt from IP: 193.46.255.86...
+[6/27/2026 7:17:46 PM] ***REJECTED*** {ip: "193.46.255.86", user: "ubnt", pass:"1q2w3e4r"}
+[6/27/2026 7:17:47 PM] ***REJECTED*** {ip: "193.46.255.86", user: "ubnt", pass:"password"}
+[6/27/2026 7:17:47 PM] ***REJECTED*** {ip: "193.46.255.86", user: "ubnt", pass:"ubnt12345"}
+[6/27/2026 7:17:47 PM] 193.46.255.86 >>> Disconnected.
+[6/27/2026 7:17:59 PM] Connection attempt from IP: 45.148.10.121...
+[6/27/2026 7:18:00 PM] ***REJECTED*** {ip: "45.148.10.121", user: "admin", pass:"admin"}
+[6/27/2026 7:18:00 PM] 45.148.10.121 >>> Disconnected.
+[6/27/2026 7:19:46 PM] Connection attempt from IP: 141.98.83.240...
+[6/27/2026 7:19:48 PM] ***REJECTED*** {ip: "141.98.83.240", user: "tmp", pass:"tmp@123"}
+[6/27/2026 7:19:48 PM] ***REJECTED*** {ip: "141.98.83.240", user: "tmp", pass:"7777777"}
+[6/27/2026 7:19:48 PM] ***REJECTED*** {ip: "141.98.83.240", user: "tmp", pass:"11111"}
+[6/27/2026 7:19:49 PM] 141.98.83.240 >>> Disconnected.
