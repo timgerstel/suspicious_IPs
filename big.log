@@ -43507,3 +43507,8 @@
 [6/27/2026 9:59:29 PM] ***REJECTED*** {ip: "2.57.121.25", user: "admin", pass:"sawdust"}
 [6/27/2026 9:59:29 PM] ***REJECTED*** {ip: "2.57.121.25", user: "admin", pass:"sauce"}
 [6/27/2026 9:59:29 PM] 2.57.121.25 >>> Disconnected.
+[6/27/2026 10:07:19 PM] Connection attempt from IP: 147.185.132.93...
+[6/27/2026 10:07:20 PM] 147.185.132.93 >>> Disconnected.
+[6/27/2026 10:12:34 PM] Connection attempt from IP: 45.148.10.121...
+[6/27/2026 10:12:35 PM] ***REJECTED*** {ip: "45.148.10.121", user: "ubnt", pass:"ubnt"}
+[6/27/2026 10:12:35 PM] 45.148.10.121 >>> Disconnected.
