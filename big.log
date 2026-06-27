@@ -42870,3 +42870,13 @@
 [6/27/2026 4:52:50 PM] ***REJECTED*** {ip: "193.46.255.86", user: "root", pass:"3141592"}
 [6/27/2026 4:52:50 PM] ***REJECTED*** {ip: "193.46.255.86", user: "root", pass:"Aa111111."}
 [6/27/2026 4:52:51 PM] 193.46.255.86 >>> Disconnected.
+[6/27/2026 5:15:54 PM] Connection attempt from IP: 141.98.83.240...
+[6/27/2026 5:15:55 PM] ***REJECTED*** {ip: "141.98.83.240", user: "roman", pass:"roman123"}
+[6/27/2026 5:15:55 PM] ***REJECTED*** {ip: "141.98.83.240", user: "roman", pass:"7777777"}
+[6/27/2026 5:15:55 PM] ***REJECTED*** {ip: "141.98.83.240", user: "roman", pass:"11111"}
+[6/27/2026 5:15:56 PM] 141.98.83.240 >>> Disconnected.
+[6/27/2026 5:29:20 PM] Connection attempt from IP: 2.57.121.25...
+[6/27/2026 5:29:22 PM] ***REJECTED*** {ip: "2.57.121.25", user: "admin", pass:"skypilot"}
+[6/27/2026 5:29:22 PM] ***REJECTED*** {ip: "2.57.121.25", user: "admin", pass:"sk84life"}
+[6/27/2026 5:29:22 PM] ***REJECTED*** {ip: "2.57.121.25", user: "admin", pass:"simcity"}
+[6/27/2026 5:29:23 PM] 2.57.121.25 >>> Disconnected.
