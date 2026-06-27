@@ -42739,3 +42739,12 @@
 [6/27/2026 12:57:35 PM] ***REJECTED*** {ip: "2.57.121.25", user: "admin", pass:"tennessee"}
 [6/27/2026 12:57:35 PM] ***REJECTED*** {ip: "2.57.121.25", user: "admin", pass:"tales"}
 [6/27/2026 12:57:35 PM] 2.57.121.25 >>> Disconnected.
+[6/27/2026 1:05:51 PM] Connection attempt from IP: 141.98.83.240...
+[6/27/2026 1:05:53 PM] ***REJECTED*** {ip: "141.98.83.240", user: "kim", pass:"kim"}
+[6/27/2026 1:05:53 PM] ***REJECTED*** {ip: "141.98.83.240", user: "kim", pass:"7777777"}
+[6/27/2026 1:05:53 PM] ***REJECTED*** {ip: "141.98.83.240", user: "kim", pass:"11111"}
+[6/27/2026 1:05:53 PM] 141.98.83.240 >>> Disconnected.
+[6/27/2026 1:27:55 PM] Connection attempt from IP: 45.148.10.121...
+[6/27/2026 1:27:56 PM] ***REJECTED*** {ip: "45.148.10.121", user: "admin", pass:"password"}
+[6/27/2026 1:27:56 PM] 45.148.10.121 >>> Disconnected.
+[6/27/2026 1:30:01 PM] Connection attempt from IP: 31.131.22.122...
