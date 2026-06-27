@@ -42748,3 +42748,27 @@
 [6/27/2026 1:27:56 PM] ***REJECTED*** {ip: "45.148.10.121", user: "admin", pass:"password"}
 [6/27/2026 1:27:56 PM] 45.148.10.121 >>> Disconnected.
 [6/27/2026 1:30:01 PM] Connection attempt from IP: 31.131.22.122...
+[6/27/2026 1:30:02 PM] ***REJECTED*** {ip: "31.131.22.122", user: "root", pass:"123$%^123$%^"}
+[6/27/2026 1:30:02 PM] 31.131.22.122 >>> Disconnected.
+[6/27/2026 1:30:55 PM] Connection attempt from IP: 141.98.83.240...
+[6/27/2026 1:30:56 PM] ***REJECTED*** {ip: "141.98.83.240", user: "marcia", pass:"marcia"}
+[6/27/2026 1:30:57 PM] ***REJECTED*** {ip: "141.98.83.240", user: "marcia", pass:"1234"}
+[6/27/2026 1:30:57 PM] ***REJECTED*** {ip: "141.98.83.240", user: "marcia", pass:"7777777"}
+[6/27/2026 1:30:57 PM] 141.98.83.240 >>> Disconnected.
+[6/27/2026 1:37:55 PM] Connection attempt from IP: 193.46.255.86...
+[6/27/2026 1:37:56 PM] ***REJECTED*** {ip: "193.46.255.86", user: "jenkins", pass:"12345"}
+[6/27/2026 1:37:56 PM] ***ACCEPTED*** {ip: "193.46.255.86", user: "jenkins", pass:"123"}
+[6/27/2026 1:37:57 PM] 193.46.255.86 >>> Disconnected.
+[6/27/2026 1:51:58 PM] Connection attempt from IP: 2.57.121.25...
+[6/27/2026 1:52:00 PM] ***REJECTED*** {ip: "2.57.121.25", user: "admin", pass:"syrinx"}
+[6/27/2026 1:52:00 PM] ***REJECTED*** {ip: "2.57.121.25", user: "admin", pass:"sweet16"}
+[6/27/2026 1:52:00 PM] ***REJECTED*** {ip: "2.57.121.25", user: "admin", pass:"sushi1"}
+[6/27/2026 1:52:00 PM] 2.57.121.25 >>> Disconnected.
+[6/27/2026 1:55:57 PM] Connection attempt from IP: 141.98.83.240...
+[6/27/2026 1:55:59 PM] ***REJECTED*** {ip: "141.98.83.240", user: "marcos", pass:"marcos"}
+[6/27/2026 1:55:59 PM] ***REJECTED*** {ip: "141.98.83.240", user: "marcos", pass:"marcos1"}
+[6/27/2026 1:55:59 PM] ***REJECTED*** {ip: "141.98.83.240", user: "marcos", pass:"1234"}
+[6/27/2026 1:56:00 PM] 141.98.83.240 >>> Disconnected.
+[6/27/2026 1:57:19 PM] Connection attempt from IP: 179.61.169.5...
+[6/27/2026 1:57:20 PM] ***REJECTED*** {ip: "179.61.169.5", user: "root", pass:"1230"}
+[6/27/2026 1:57:20 PM] 179.61.169.5 >>> Disconnected.
