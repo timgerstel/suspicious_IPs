@@ -42242,3 +42242,23 @@
 [6/27/2026 4:56:40 AM] Connection attempt from IP: 58.76.159.170...
 [6/27/2026 4:56:43 AM] ***REJECTED*** {ip: "58.76.159.170", user: "root", pass:"123.!@"}
 [6/27/2026 4:56:44 AM] 58.76.159.170 >>> Disconnected.
+[6/27/2026 5:06:50 AM] Connection attempt from IP: 141.98.83.240...
+[6/27/2026 5:06:52 AM] ***REJECTED*** {ip: "141.98.83.240", user: "root", pass:"Ab147258"}
+[6/27/2026 5:06:52 AM] ***REJECTED*** {ip: "141.98.83.240", user: "root", pass:"Admin@9000"}
+[6/27/2026 5:06:52 AM] ***REJECTED*** {ip: "141.98.83.240", user: "root", pass:"aaa123456"}
+[6/27/2026 5:06:53 AM] 141.98.83.240 >>> Disconnected.
+[6/27/2026 5:20:43 AM] Connection attempt from IP: 103.146.158.57...
+[6/27/2026 5:20:45 AM] 103.146.158.57 >>> Disconnected.
+[6/27/2026 5:23:33 AM] Connection attempt from IP: 69.5.169.135...
+[6/27/2026 5:27:24 AM] Connection attempt from IP: 2.57.121.112...
+[6/27/2026 5:27:25 AM] ***REJECTED*** {ip: "2.57.121.112", user: "dakoda", pass:"dakoda"}
+[6/27/2026 5:27:26 AM] ***REJECTED*** {ip: "2.57.121.112", user: "dakoda", pass:"dakoda1"}
+[6/27/2026 5:27:26 AM] ***REJECTED*** {ip: "2.57.121.112", user: "dakoda", pass:"dakoda123"}
+[6/27/2026 5:27:26 AM] ***REJECTED*** {ip: "2.57.121.112", user: "dakoda", pass:"dakoda1234"}
+[6/27/2026 5:27:27 AM] ***REJECTED*** {ip: "2.57.121.112", user: "dakoda", pass:"dakoda12345"}
+[6/27/2026 5:27:27 AM] 2.57.121.112 >>> Disconnected.
+[6/27/2026 5:27:51 AM] Connection attempt from IP: 193.46.255.86...
+[6/27/2026 5:27:52 AM] ***REJECTED*** {ip: "193.46.255.86", user: "pi", pass:"1234"}
+[6/27/2026 5:27:53 AM] ***REJECTED*** {ip: "193.46.255.86", user: "pi", pass:"pipipi"}
+[6/27/2026 5:27:53 AM] ***REJECTED*** {ip: "193.46.255.86", user: "pi", pass:"abcd1234"}
+[6/27/2026 5:27:53 AM] 193.46.255.86 >>> Disconnected.
