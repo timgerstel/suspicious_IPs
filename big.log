@@ -42818,3 +42818,13 @@
 [6/27/2026 3:21:34 PM] Connection attempt from IP: 211.232.210.235...
 [6/27/2026 3:21:35 PM] ***ACCEPTED*** {ip: "211.232.210.235", user: "root", pass:"111111111"}
 [6/27/2026 3:21:37 PM] 211.232.210.235 >>> Disconnected.
+[6/27/2026 3:36:19 PM] Connection attempt from IP: 141.98.83.240...
+[6/27/2026 3:36:20 PM] ***REJECTED*** {ip: "141.98.83.240", user: "orlando", pass:"orlando"}
+[6/27/2026 3:36:20 PM] ***REJECTED*** {ip: "141.98.83.240", user: "orlando", pass:"7777777"}
+[6/27/2026 3:36:21 PM] ***REJECTED*** {ip: "141.98.83.240", user: "orlando", pass:"11111"}
+[6/27/2026 3:36:21 PM] 141.98.83.240 >>> Disconnected.
+[6/27/2026 3:41:05 PM] Connection attempt from IP: 2.57.121.25...
+[6/27/2026 3:41:06 PM] ***REJECTED*** {ip: "2.57.121.25", user: "admin", pass:"st0n3"}
+[6/27/2026 3:41:07 PM] ***REJECTED*** {ip: "2.57.121.25", user: "admin", pass:"solrac"}
+[6/27/2026 3:41:07 PM] ***REJECTED*** {ip: "2.57.121.25", user: "admin", pass:"soda"}
+[6/27/2026 3:41:07 PM] 2.57.121.25 >>> Disconnected.
