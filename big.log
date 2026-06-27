@@ -43497,3 +43497,13 @@
 [6/27/2026 9:18:46 PM] ***REJECTED*** {ip: "2.57.121.112", user: "mackenzi", pass:"mackenzi1234"}
 [6/27/2026 9:18:46 PM] ***REJECTED*** {ip: "2.57.121.112", user: "mackenzi", pass:"mackenzi12345"}
 [6/27/2026 9:18:46 PM] 2.57.121.112 >>> Disconnected.
+[6/27/2026 9:38:41 PM] Connection attempt from IP: 8.222.228.70...
+[6/27/2026 9:38:49 PM] 8.222.228.70 >>> Disconnected.
+[6/27/2026 9:40:05 PM] Connection attempt from IP: 45.148.10.121...
+[6/27/2026 9:40:06 PM] ***REJECTED*** {ip: "45.148.10.121", user: "root", pass:"root"}
+[6/27/2026 9:40:06 PM] 45.148.10.121 >>> Disconnected.
+[6/27/2026 9:59:27 PM] Connection attempt from IP: 2.57.121.25...
+[6/27/2026 9:59:29 PM] ***REJECTED*** {ip: "2.57.121.25", user: "admin", pass:"schneider"}
+[6/27/2026 9:59:29 PM] ***REJECTED*** {ip: "2.57.121.25", user: "admin", pass:"sawdust"}
+[6/27/2026 9:59:29 PM] ***REJECTED*** {ip: "2.57.121.25", user: "admin", pass:"sauce"}
+[6/27/2026 9:59:29 PM] 2.57.121.25 >>> Disconnected.
