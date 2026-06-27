@@ -42517,3 +42517,29 @@
 [6/27/2026 7:55:44 AM] 193.46.255.86 >>> Disconnected.
 [6/27/2026 7:55:44 AM] ***ACCEPTED*** {ip: "2.57.121.112", user: "kobi", pass:"kobi12345"}
 [6/27/2026 7:55:45 AM] 2.57.121.112 >>> Disconnected.
+[6/27/2026 8:04:11 AM] Connection attempt from IP: 141.98.83.240...
+[6/27/2026 8:04:12 AM] ***REJECTED*** {ip: "141.98.83.240", user: "admin", pass:"brian123"}
+[6/27/2026 8:04:13 AM] ***REJECTED*** {ip: "141.98.83.240", user: "admin", pass:"bridge"}
+[6/27/2026 8:04:13 AM] ***REJECTED*** {ip: "141.98.83.240", user: "admin", pass:"charm"}
+[6/27/2026 8:04:13 AM] 141.98.83.240 >>> Disconnected.
+[6/27/2026 8:04:30 AM] Connection attempt from IP: 45.148.10.121...
+[6/27/2026 8:04:31 AM] ***REJECTED*** {ip: "45.148.10.121", user: "AdminGPON", pass:"ALC#FGU"}
+[6/27/2026 8:04:31 AM] 45.148.10.121 >>> Disconnected.
+[6/27/2026 8:10:17 AM] Connection attempt from IP: 34.156.119.43...
+[6/27/2026 8:10:17 AM] Connection attempt from IP: 34.156.119.43...
+[6/27/2026 8:10:17 AM] 34.156.119.43 >>> Disconnected.
+[6/27/2026 8:10:32 AM] Connection attempt from IP: 35.190.223.163...
+[6/27/2026 8:10:33 AM] 35.190.223.163 >>> Disconnected.
+[6/27/2026 8:24:32 AM] Connection attempt from IP: 2.57.121.25...
+[6/27/2026 8:24:33 AM] ***REJECTED*** {ip: "2.57.121.25", user: "admin", pass:"vincen"}
+[6/27/2026 8:24:33 AM] ***REJECTED*** {ip: "2.57.121.25", user: "admin", pass:"velcro"}
+[6/27/2026 8:24:33 AM] ***REJECTED*** {ip: "2.57.121.25", user: "admin", pass:"valdemar"}
+[6/27/2026 8:24:34 AM] 2.57.121.25 >>> Disconnected.
+[6/27/2026 8:25:09 AM] Connection attempt from IP: 59.152.127.167...
+[6/27/2026 8:25:10 AM] ***REJECTED*** {ip: "59.152.127.167", user: "rain", pass:"12345"}
+[6/27/2026 8:25:10 AM] 59.152.127.167 >>> Disconnected.
+[6/27/2026 8:29:29 AM] Connection attempt from IP: 141.98.83.240...
+[6/27/2026 8:29:30 AM] ***REJECTED*** {ip: "141.98.83.240", user: "carmen", pass:"carmen"}
+[6/27/2026 8:29:30 AM] ***REJECTED*** {ip: "141.98.83.240", user: "carmen", pass:"7777777"}
+[6/27/2026 8:29:31 AM] ***REJECTED*** {ip: "141.98.83.240", user: "carmen", pass:"11111"}
+[6/27/2026 8:29:31 AM] 141.98.83.240 >>> Disconnected.
