@@ -42694,3 +42694,21 @@
 [6/27/2026 11:50:46 AM] 141.98.83.240 >>> Disconnected.
 [6/27/2026 11:55:16 AM] Connection attempt from IP: 45.148.10.121...
 [6/27/2026 11:55:17 AM] 45.148.10.121 >>> Disconnected.
+[6/27/2026 12:00:34 PM] Connection attempt from IP: 193.46.255.86...
+[6/27/2026 12:00:35 PM] ***REJECTED*** {ip: "193.46.255.86", user: "admin", pass:"112233"}
+[6/27/2026 12:00:35 PM] ***REJECTED*** {ip: "193.46.255.86", user: "admin", pass:"1234567"}
+[6/27/2026 12:00:36 PM] ***REJECTED*** {ip: "193.46.255.86", user: "admin", pass:"1234567890"}
+[6/27/2026 12:00:36 PM] 193.46.255.86 >>> Disconnected.
+[6/27/2026 12:03:04 PM] Connection attempt from IP: 2.57.121.25...
+[6/27/2026 12:03:06 PM] ***REJECTED*** {ip: "2.57.121.25", user: "admin", pass:"thissuck"}
+[6/27/2026 12:03:06 PM] ***REJECTED*** {ip: "2.57.121.25", user: "admin", pass:"theworld"}
+[6/27/2026 12:03:06 PM] ***REJECTED*** {ip: "2.57.121.25", user: "admin", pass:"texass"}
+[6/27/2026 12:03:06 PM] 2.57.121.25 >>> Disconnected.
+[6/27/2026 12:15:48 PM] Connection attempt from IP: 141.98.83.240...
+[6/27/2026 12:15:49 PM] ***REJECTED*** {ip: "141.98.83.240", user: "juniper", pass:"juniper123"}
+[6/27/2026 12:15:49 PM] ***REJECTED*** {ip: "141.98.83.240", user: "juniper", pass:"7777777"}
+[6/27/2026 12:15:50 PM] ***REJECTED*** {ip: "141.98.83.240", user: "juniper", pass:"11111"}
+[6/27/2026 12:15:50 PM] 141.98.83.240 >>> Disconnected.
+[6/27/2026 12:23:44 PM] Connection attempt from IP: 45.148.10.121...
+[6/27/2026 12:23:45 PM] ***REJECTED*** {ip: "45.148.10.121", user: "root", pass:"password"}
+[6/27/2026 12:23:46 PM] 45.148.10.121 >>> Disconnected.
