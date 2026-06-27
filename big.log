@@ -42042,3 +42042,26 @@
 [6/27/2026 1:21:17 AM] Connection attempt from IP: 45.148.10.121...
 [6/27/2026 1:21:18 AM] ***REJECTED*** {ip: "45.148.10.121", user: "admin", pass:"1234"}
 [6/27/2026 1:21:19 AM] 45.148.10.121 >>> Disconnected.
+[6/27/2026 1:31:21 AM] Connection attempt from IP: 106.12.221.161...
+[6/27/2026 1:43:10 AM] Connection attempt from IP: 141.98.83.240...
+[6/27/2026 1:43:11 AM] ***REJECTED*** {ip: "141.98.83.240", user: "admin", pass:"12344321"}
+[6/27/2026 1:43:12 AM] ***REJECTED*** {ip: "141.98.83.240", user: "admin", pass:"24051975"}
+[6/27/2026 1:43:12 AM] ***REJECTED*** {ip: "141.98.83.240", user: "admin", pass:"24071996"}
+[6/27/2026 1:43:12 AM] 141.98.83.240 >>> Disconnected.
+[6/27/2026 1:44:01 AM] Connection attempt from IP: 2.57.121.112...
+[6/27/2026 1:44:02 AM] ***REJECTED*** {ip: "2.57.121.112", user: "zaira", pass:"zaira"}
+[6/27/2026 1:44:02 AM] ***REJECTED*** {ip: "2.57.121.112", user: "zaira", pass:"zaira1"}
+[6/27/2026 1:44:03 AM] ***REJECTED*** {ip: "2.57.121.112", user: "zaira", pass:"zaira123"}
+[6/27/2026 1:44:03 AM] ***REJECTED*** {ip: "2.57.121.112", user: "zaira", pass:"zaira1234"}
+[6/27/2026 1:44:03 AM] ***REJECTED*** {ip: "2.57.121.112", user: "zaira", pass:"zaira12345"}
+[6/27/2026 1:44:04 AM] 2.57.121.112 >>> Disconnected.
+[6/27/2026 1:52:21 AM] Connection attempt from IP: 45.148.10.121...
+[6/27/2026 1:52:22 AM] ***REJECTED*** {ip: "45.148.10.121", user: "admin", pass:"password"}
+[6/27/2026 1:52:23 AM] 45.148.10.121 >>> Disconnected.
+[6/27/2026 1:57:37 AM] Connection attempt from IP: 143.198.216.98...
+[6/27/2026 1:57:45 AM] 143.198.216.98 >>> Disconnected.
+[6/27/2026 1:59:07 AM] Connection attempt from IP: 2.57.121.25...
+[6/27/2026 1:59:08 AM] ***REJECTED*** {ip: "2.57.121.25", user: "admin", pass:"01012008"}
+[6/27/2026 1:59:09 AM] ***REJECTED*** {ip: "2.57.121.25", user: "admin", pass:"zxcvb12345"}
+[6/27/2026 1:59:09 AM] ***REJECTED*** {ip: "2.57.121.25", user: "admin", pass:"zcxfcnkbdf"}
+[6/27/2026 1:59:09 AM] 2.57.121.25 >>> Disconnected.
