@@ -42065,3 +42065,15 @@
 [6/27/2026 1:59:09 AM] ***REJECTED*** {ip: "2.57.121.25", user: "admin", pass:"zxcvb12345"}
 [6/27/2026 1:59:09 AM] ***REJECTED*** {ip: "2.57.121.25", user: "admin", pass:"zcxfcnkbdf"}
 [6/27/2026 1:59:09 AM] 2.57.121.25 >>> Disconnected.
+[6/27/2026 2:08:44 AM] Connection attempt from IP: 141.98.83.240...
+[6/27/2026 2:08:46 AM] ***REJECTED*** {ip: "141.98.83.240", user: "test", pass:"12345"}
+[6/27/2026 2:08:46 AM] ***REJECTED*** {ip: "141.98.83.240", user: "test", pass:"123456"}
+[6/27/2026 2:08:46 AM] ***REJECTED*** {ip: "141.98.83.240", user: "test", pass:"password123"}
+[6/27/2026 2:08:47 AM] 141.98.83.240 >>> Disconnected.
+[6/27/2026 2:10:28 AM] Connection attempt from IP: 193.46.255.86...
+[6/27/2026 2:10:30 AM] ***REJECTED*** {ip: "193.46.255.86", user: "debian", pass:"temppwd"}
+[6/27/2026 2:10:30 AM] ***REJECTED*** {ip: "193.46.255.86", user: "debian", pass:"debian"}
+[6/27/2026 2:10:30 AM] ***REJECTED*** {ip: "193.46.255.86", user: "debian", pass:"12345"}
+[6/27/2026 2:10:31 AM] 193.46.255.86 >>> Disconnected.
+[6/27/2026 2:27:54 AM] Connection attempt from IP: 104.152.52.236...
+[6/27/2026 2:27:54 AM] 104.152.52.236 >>> Disconnected.
