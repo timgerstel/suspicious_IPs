@@ -43844,3 +43844,25 @@
 [6/28/2026 6:34:48 AM] ***REJECTED*** {ip: "45.148.10.121", user: "admin", pass:"admin"}
 [6/28/2026 6:34:49 AM] 45.148.10.121 >>> Disconnected.
 [6/28/2026 6:55:18 AM] Connection attempt from IP: 213.177.179.91...
+[6/28/2026 7:02:40 AM] Connection attempt from IP: 193.46.255.86...
+[6/28/2026 7:02:41 AM] ***REJECTED*** {ip: "193.46.255.86", user: "root", pass:"aDm8H%MdA"}
+[6/28/2026 7:02:41 AM] ***REJECTED*** {ip: "193.46.255.86", user: "root", pass:"password"}
+[6/28/2026 7:02:41 AM] ***REJECTED*** {ip: "193.46.255.86", user: "root", pass:"stfu_and_be_quite"}
+[6/28/2026 7:02:42 AM] 193.46.255.86 >>> Disconnected.
+[6/28/2026 7:21:14 AM] Connection attempt from IP: 45.148.10.121...
+[6/28/2026 7:21:15 AM] ***REJECTED*** {ip: "45.148.10.121", user: "AdminGPON", pass:"ALC#FGU"}
+[6/28/2026 7:21:16 AM] 45.148.10.121 >>> Disconnected.
+[6/28/2026 7:29:13 AM] Connection attempt from IP: 170.64.167.72...
+[6/28/2026 7:29:16 AM] Connection attempt from IP: 2.57.121.112...
+[6/28/2026 7:29:17 AM] ***REJECTED*** {ip: "2.57.121.112", user: "caelan", pass:"caelan"}
+[6/28/2026 7:29:18 AM] ***REJECTED*** {ip: "2.57.121.112", user: "caelan", pass:"caelan1"}
+[6/28/2026 7:29:18 AM] ***REJECTED*** {ip: "2.57.121.112", user: "caelan", pass:"caelan123"}
+[6/28/2026 7:29:18 AM] 170.64.167.72 >>> Disconnected.
+[6/28/2026 7:29:18 AM] ***REJECTED*** {ip: "2.57.121.112", user: "caelan", pass:"caelan1234"}
+[6/28/2026 7:29:19 AM] ***REJECTED*** {ip: "2.57.121.112", user: "caelan", pass:"caelan12345"}
+[6/28/2026 7:29:19 AM] 2.57.121.112 >>> Disconnected.
+[6/28/2026 7:29:23 AM] Connection attempt from IP: 2.57.121.25...
+[6/28/2026 7:29:24 AM] ***REJECTED*** {ip: "2.57.121.25", user: "admin", pass:"popsicle"}
+[6/28/2026 7:29:24 AM] ***REJECTED*** {ip: "2.57.121.25", user: "admin", pass:"pops"}
+[6/28/2026 7:29:25 AM] ***REJECTED*** {ip: "2.57.121.25", user: "admin", pass:"poohbea"}
+[6/28/2026 7:29:25 AM] 2.57.121.25 >>> Disconnected.
