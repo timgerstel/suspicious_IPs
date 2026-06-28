@@ -44108,3 +44108,15 @@
 [6/28/2026 1:05:08 PM] ***REJECTED*** {ip: "2.57.121.25", user: "admin", pass:"oscar123"}
 [6/28/2026 1:05:08 PM] ***REJECTED*** {ip: "2.57.121.25", user: "admin", pass:"orange12"}
 [6/28/2026 1:05:08 PM] 2.57.121.25 >>> Disconnected.
+[6/28/2026 1:44:49 PM] Connection attempt from IP: 2.57.121.112...
+[6/28/2026 1:44:51 PM] ***REJECTED*** {ip: "2.57.121.112", user: "long", pass:"long"}
+[6/28/2026 1:44:51 PM] ***REJECTED*** {ip: "2.57.121.112", user: "long", pass:"long1"}
+[6/28/2026 1:44:51 PM] ***REJECTED*** {ip: "2.57.121.112", user: "long", pass:"long123"}
+[6/28/2026 1:44:52 PM] ***REJECTED*** {ip: "2.57.121.112", user: "long", pass:"long1234"}
+[6/28/2026 1:44:52 PM] ***REJECTED*** {ip: "2.57.121.112", user: "long", pass:"long12345"}
+[6/28/2026 1:44:52 PM] 2.57.121.112 >>> Disconnected.
+[6/28/2026 1:54:59 PM] Connection attempt from IP: 193.46.255.86...
+[6/28/2026 1:55:00 PM] ***REJECTED*** {ip: "193.46.255.86", user: "user", pass:"1234"}
+[6/28/2026 1:55:00 PM] ***REJECTED*** {ip: "193.46.255.86", user: "user", pass:"password"}
+[6/28/2026 1:55:01 PM] ***REJECTED*** {ip: "193.46.255.86", user: "user", pass:"rocknroll"}
+[6/28/2026 1:55:01 PM] 193.46.255.86 >>> Disconnected.
