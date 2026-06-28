@@ -44070,3 +44070,17 @@
 [6/28/2026 11:11:00 AM] 111.12.152.230 >>> Disconnected.
 [6/28/2026 11:11:56 AM] Connection attempt from IP: 111.12.152.230...
 [6/28/2026 11:21:50 AM] ***REJECTED*** {ip: "111.12.152.230", user: "root", pass:"Test@2022"}
+[6/28/2026 11:38:22 AM] Connection attempt from IP: 45.148.10.121...
+[6/28/2026 11:38:23 AM] ***REJECTED*** {ip: "45.148.10.121", user: "root", pass:"password"}
+[6/28/2026 11:38:24 AM] 45.148.10.121 >>> Disconnected.
+[6/28/2026 11:58:45 AM] Connection attempt from IP: 193.46.255.86...
+[6/28/2026 11:58:46 AM] ***REJECTED*** {ip: "193.46.255.86", user: "root", pass:"redhat123"}
+[6/28/2026 11:58:46 AM] ***REJECTED*** {ip: "193.46.255.86", user: "root", pass:"dkagh"}
+[6/28/2026 11:58:46 AM] ***REJECTED*** {ip: "193.46.255.86", user: "root", pass:"team2"}
+[6/28/2026 11:58:47 AM] 193.46.255.86 >>> Disconnected.
+[6/28/2026 11:58:54 AM] Connection attempt from IP: 2.57.121.25...
+[6/28/2026 11:58:55 AM] ***REJECTED*** {ip: "2.57.121.25", user: "admin", pass:"passfind"}
+[6/28/2026 11:58:56 AM] ***REJECTED*** {ip: "2.57.121.25", user: "admin", pass:"pasport"}
+[6/28/2026 11:58:56 AM] ***REJECTED*** {ip: "2.57.121.25", user: "admin", pass:"parliament"}
+[6/28/2026 11:58:56 AM] 2.57.121.25 >>> Disconnected.
+[6/28/2026 11:59:25 AM] Connection attempt from IP: 213.177.179.80...
