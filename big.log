@@ -44722,3 +44722,37 @@
 [6/28/2026 7:27:28 PM] Connection attempt from IP: 178.20.210.208...
 [6/28/2026 7:27:29 PM] ***REJECTED*** {ip: "178.20.210.208", user: "root", pass:"p4sSw0rd"}
 [6/28/2026 7:27:29 PM] 178.20.210.208 >>> Disconnected.
+[6/28/2026 7:33:28 PM] Connection attempt from IP: 172.236.228.202...
+[6/28/2026 7:33:29 PM] 172.236.228.202 >>> Disconnected.
+[6/28/2026 7:33:30 PM] Connection attempt from IP: 172.236.228.202...
+[6/28/2026 7:33:30 PM] 172.236.228.202 >>> Disconnected.
+[6/28/2026 7:33:31 PM] Connection attempt from IP: 172.236.228.202...
+[6/28/2026 7:33:31 PM] 172.236.228.202 >>> Disconnected.
+[6/28/2026 7:35:11 PM] Connection attempt from IP: 216.180.246.166...
+[6/28/2026 7:35:12 PM] 216.180.246.166 >>> Disconnected.
+[6/28/2026 7:35:39 PM] Connection attempt from IP: 2.57.121.25...
+[6/28/2026 7:35:40 PM] ***REJECTED*** {ip: "2.57.121.25", user: "admin", pass:"nikenike"}
+[6/28/2026 7:35:40 PM] ***REJECTED*** {ip: "2.57.121.25", user: "admin", pass:"nihongo"}
+[6/28/2026 7:35:41 PM] ***REJECTED*** {ip: "2.57.121.25", user: "admin", pass:"nicky1"}
+[6/28/2026 7:35:41 PM] 2.57.121.25 >>> Disconnected.
+[6/28/2026 7:38:26 PM] Connection attempt from IP: 193.46.255.86...
+[6/28/2026 7:38:27 PM] ***REJECTED*** {ip: "193.46.255.86", user: "root", pass:"goodlife"}
+[6/28/2026 7:38:27 PM] ***REJECTED*** {ip: "193.46.255.86", user: "root", pass:"Aa112211"}
+[6/28/2026 7:38:27 PM] ***REJECTED*** {ip: "193.46.255.86", user: "root", pass:"Aa112233"}
+[6/28/2026 7:38:28 PM] 193.46.255.86 >>> Disconnected.
+[6/28/2026 7:43:34 PM] Connection attempt from IP: 178.20.210.208...
+[6/28/2026 7:43:35 PM] ***REJECTED*** {ip: "178.20.210.208", user: "root", pass:"p455word"}
+[6/28/2026 7:43:35 PM] 178.20.210.208 >>> Disconnected.
+[6/28/2026 7:44:22 PM] Connection attempt from IP: 2.57.121.112...
+[6/28/2026 7:44:23 PM] ***REJECTED*** {ip: "2.57.121.112", user: "anastacia", pass:"anastacia"}
+[6/28/2026 7:44:23 PM] ***REJECTED*** {ip: "2.57.121.112", user: "anastacia", pass:"anastacia1"}
+[6/28/2026 7:44:24 PM] ***REJECTED*** {ip: "2.57.121.112", user: "anastacia", pass:"anastacia123"}
+[6/28/2026 7:44:24 PM] ***REJECTED*** {ip: "2.57.121.112", user: "anastacia", pass:"anastacia1234"}
+[6/28/2026 7:44:24 PM] ***REJECTED*** {ip: "2.57.121.112", user: "anastacia", pass:"anastacia12345"}
+[6/28/2026 7:44:24 PM] 2.57.121.112 >>> Disconnected.
+[6/28/2026 7:50:27 PM] Connection attempt from IP: 45.148.10.121...
+[6/28/2026 7:50:28 PM] ***REJECTED*** {ip: "45.148.10.121", user: "root", pass:"admin"}
+[6/28/2026 7:50:28 PM] 45.148.10.121 >>> Disconnected.
+[6/28/2026 7:59:35 PM] Connection attempt from IP: 178.20.210.208...
+[6/28/2026 7:59:36 PM] ***REJECTED*** {ip: "178.20.210.208", user: "root", pass:"p12345"}
+[6/28/2026 7:59:36 PM] 178.20.210.208 >>> Disconnected.
