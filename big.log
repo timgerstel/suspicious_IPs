@@ -44094,3 +44094,11 @@
 [6/28/2026 12:12:52 PM] ***REJECTED*** {ip: "2.57.121.112", user: "jadyn", pass:"jadyn1234"}
 [6/28/2026 12:12:53 PM] ***REJECTED*** {ip: "2.57.121.112", user: "jadyn", pass:"jadyn12345"}
 [6/28/2026 12:12:53 PM] 2.57.121.112 >>> Disconnected.
+[6/28/2026 12:42:21 PM] Connection attempt from IP: 45.148.10.121...
+[6/28/2026 12:42:22 PM] ***REJECTED*** {ip: "45.148.10.121", user: "admin", pass:"password"}
+[6/28/2026 12:42:22 PM] 45.148.10.121 >>> Disconnected.
+[6/28/2026 12:56:59 PM] Connection attempt from IP: 193.46.255.86...
+[6/28/2026 12:57:01 PM] ***REJECTED*** {ip: "193.46.255.86", user: "admin", pass:"abcd1234"}
+[6/28/2026 12:57:01 PM] ***REJECTED*** {ip: "193.46.255.86", user: "admin", pass:"admin01"}
+[6/28/2026 12:57:01 PM] ***REJECTED*** {ip: "193.46.255.86", user: "admin", pass:"12345678"}
+[6/28/2026 12:57:01 PM] 193.46.255.86 >>> Disconnected.
