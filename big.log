@@ -43805,3 +43805,13 @@
 [6/28/2026 4:07:22 AM] Connection attempt from IP: 198.235.24.89...
 [6/28/2026 4:07:24 AM] 198.235.24.89 >>> Disconnected.
 [6/28/2026 4:11:27 AM] Connection attempt from IP: 69.5.169.227...
+[6/28/2026 5:00:40 AM] Connection attempt from IP: 193.46.255.86...
+[6/28/2026 5:00:41 AM] ***REJECTED*** {ip: "193.46.255.86", user: "user", pass:"primera"}
+[6/28/2026 5:00:41 AM] ***REJECTED*** {ip: "193.46.255.86", user: "user", pass:"user"}
+[6/28/2026 5:00:41 AM] ***REJECTED*** {ip: "193.46.255.86", user: "user", pass:"9090"}
+[6/28/2026 5:00:42 AM] 193.46.255.86 >>> Disconnected.
+[6/28/2026 5:08:50 AM] Connection attempt from IP: 2.57.121.25...
+[6/28/2026 5:08:51 AM] ***REJECTED*** {ip: "2.57.121.25", user: "admin", pass:"qwerfdsa"}
+[6/28/2026 5:08:51 AM] ***REJECTED*** {ip: "2.57.121.25", user: "admin", pass:"qazxswedcvfr"}
+[6/28/2026 5:08:52 AM] ***REJECTED*** {ip: "2.57.121.25", user: "admin", pass:"qazedc"}
+[6/28/2026 5:08:52 AM] 2.57.121.25 >>> Disconnected.
