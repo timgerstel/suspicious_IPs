@@ -43737,3 +43737,7 @@
 [6/28/2026 12:53:26 AM] ***REJECTED*** {ip: "2.57.121.112", user: "saira", pass:"saira1234"}
 [6/28/2026 12:53:26 AM] ***REJECTED*** {ip: "2.57.121.112", user: "saira", pass:"saira12345"}
 [6/28/2026 12:53:26 AM] 2.57.121.112 >>> Disconnected.
+[6/28/2026 1:04:58 AM] Connection attempt from IP: 45.148.10.147...
+[6/28/2026 1:12:43 AM] Connection attempt from IP: 45.148.10.121...
+[6/28/2026 1:12:44 AM] ***REJECTED*** {ip: "45.148.10.121", user: "admin", pass:"password"}
+[6/28/2026 1:12:44 AM] 45.148.10.121 >>> Disconnected.
