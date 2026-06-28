@@ -44787,3 +44787,27 @@
 [6/28/2026 8:57:13 PM] Connection attempt from IP: 45.148.10.121...
 [6/28/2026 8:57:13 PM] ***REJECTED*** {ip: "45.148.10.121", user: "root", pass:"root"}
 [6/28/2026 8:57:14 PM] 45.148.10.121 >>> Disconnected.
+[6/28/2026 9:03:55 PM] Connection attempt from IP: 178.20.210.208...
+[6/28/2026 9:03:56 PM] ***REJECTED*** {ip: "178.20.210.208", user: "root", pass:"overlord"}
+[6/28/2026 9:03:56 PM] 178.20.210.208 >>> Disconnected.
+[6/28/2026 9:12:49 PM] Connection attempt from IP: 59.152.127.167...
+[6/28/2026 9:12:49 PM] ***REJECTED*** {ip: "59.152.127.167", user: "rain", pass:"Gdx8eroi"}
+[6/28/2026 9:12:49 PM] 59.152.127.167 >>> Disconnected.
+[6/28/2026 9:13:11 PM] Connection attempt from IP: 2.57.121.112...
+[6/28/2026 9:13:12 PM] ***REJECTED*** {ip: "2.57.121.112", user: "briza", pass:"briza"}
+[6/28/2026 9:13:12 PM] ***REJECTED*** {ip: "2.57.121.112", user: "briza", pass:"briza1"}
+[6/28/2026 9:13:12 PM] ***REJECTED*** {ip: "2.57.121.112", user: "briza", pass:"briza123"}
+[6/28/2026 9:13:13 PM] ***REJECTED*** {ip: "2.57.121.112", user: "briza", pass:"briza1234"}
+[6/28/2026 9:13:13 PM] ***REJECTED*** {ip: "2.57.121.112", user: "briza", pass:"briza12345"}
+[6/28/2026 9:13:13 PM] 2.57.121.112 >>> Disconnected.
+[6/28/2026 9:15:50 PM] Connection attempt from IP: 165.232.84.214...
+[6/28/2026 9:15:58 PM] 165.232.84.214 >>> Disconnected.
+[6/28/2026 9:19:07 PM] Connection attempt from IP: 192.42.116.105...
+[6/28/2026 9:19:09 PM] ***REJECTED*** {ip: "192.42.116.105", user: "oracle", pass:"123"}
+[6/28/2026 9:19:10 PM] 192.42.116.105 >>> Disconnected.
+[6/28/2026 9:20:02 PM] Connection attempt from IP: 178.20.210.208...
+[6/28/2026 9:20:03 PM] ***REJECTED*** {ip: "178.20.210.208", user: "root", pass:"otto"}
+[6/28/2026 9:20:03 PM] 178.20.210.208 >>> Disconnected.
+[6/28/2026 9:29:53 PM] Connection attempt from IP: 45.148.10.121...
+[6/28/2026 9:29:54 PM] ***REJECTED*** {ip: "45.148.10.121", user: "ubnt", pass:"ubnt"}
+[6/28/2026 9:29:54 PM] 45.148.10.121 >>> Disconnected.
