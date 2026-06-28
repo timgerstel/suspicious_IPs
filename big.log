@@ -43840,3 +43840,7 @@
 [6/28/2026 6:19:46 AM] ***REJECTED*** {ip: "2.57.121.25", user: "admin", pass:"pussylover"}
 [6/28/2026 6:19:47 AM] ***REJECTED*** {ip: "2.57.121.25", user: "admin", pass:"princessa"}
 [6/28/2026 6:19:47 AM] 2.57.121.25 >>> Disconnected.
+[6/28/2026 6:34:48 AM] Connection attempt from IP: 45.148.10.121...
+[6/28/2026 6:34:48 AM] ***REJECTED*** {ip: "45.148.10.121", user: "admin", pass:"admin"}
+[6/28/2026 6:34:49 AM] 45.148.10.121 >>> Disconnected.
+[6/28/2026 6:55:18 AM] Connection attempt from IP: 213.177.179.91...
