@@ -44218,3 +44218,14 @@
 [6/28/2026 4:50:40 PM] Connection attempt from IP: 193.24.211.107...
 [6/28/2026 4:50:41 PM] ***REJECTED*** {ip: "193.24.211.107", user: "spam", pass:"spam"}
 [6/28/2026 4:50:41 PM] 193.24.211.107 >>> Disconnected.
+[6/28/2026 5:00:03 PM] Connection attempt from IP: 178.20.210.208...
+[6/28/2026 5:00:04 PM] ***REJECTED*** {ip: "178.20.210.208", user: "root", pass:"panpan"}
+[6/28/2026 5:00:04 PM] 178.20.210.208 >>> Disconnected.
+[6/28/2026 5:16:36 PM] Connection attempt from IP: 178.20.210.208...
+[6/28/2026 5:16:37 PM] ***REJECTED*** {ip: "178.20.210.208", user: "root", pass:"panama"}
+[6/28/2026 5:16:37 PM] 178.20.210.208 >>> Disconnected.
+[6/28/2026 5:26:38 PM] Connection attempt from IP: 2.57.121.25...
+[6/28/2026 5:26:40 PM] ***REJECTED*** {ip: "2.57.121.25", user: "admin", pass:"null"}
+[6/28/2026 5:26:40 PM] ***REJECTED*** {ip: "2.57.121.25", user: "admin", pass:"novikov"}
+[6/28/2026 5:26:40 PM] ***REJECTED*** {ip: "2.57.121.25", user: "admin", pass:"nonrev67"}
+[6/28/2026 5:26:40 PM] 2.57.121.25 >>> Disconnected.
