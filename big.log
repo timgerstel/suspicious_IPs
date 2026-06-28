@@ -44129,3 +44129,29 @@
 [6/28/2026 2:23:50 PM] Connection attempt from IP: 193.24.211.107...
 [6/28/2026 2:23:51 PM] ***REJECTED*** {ip: "193.24.211.107", user: "share", pass:"share"}
 [6/28/2026 2:23:51 PM] 193.24.211.107 >>> Disconnected.
+[6/28/2026 2:30:55 PM] Connection attempt from IP: 125.93.252.89...
+[6/28/2026 2:30:59 PM] ***REJECTED*** {ip: "125.93.252.89", user: "root", pass:"debian"}
+[6/28/2026 2:30:59 PM] 125.93.252.89 >>> Disconnected.
+[6/28/2026 2:31:01 PM] Connection attempt from IP: 125.93.252.89...
+[6/28/2026 2:31:13 PM] ***REJECTED*** {ip: "125.93.252.89", user: "root", pass:"centos"}
+[6/28/2026 2:31:14 PM] 125.93.252.89 >>> Disconnected.
+[6/28/2026 2:31:16 PM] Connection attempt from IP: 125.93.252.89...
+[6/28/2026 2:31:22 PM] ***REJECTED*** {ip: "125.93.252.89", user: "root", pass:"linux"}
+[6/28/2026 2:31:23 PM] 125.93.252.89 >>> Disconnected.
+[6/28/2026 2:31:23 PM] Connection attempt from IP: 125.93.252.89...
+[6/28/2026 2:31:29 PM] ***REJECTED*** {ip: "125.93.252.89", user: "root", pass:"nginx"}
+[6/28/2026 2:31:30 PM] 125.93.252.89 >>> Disconnected.
+[6/28/2026 2:31:32 PM] Connection attempt from IP: 125.93.252.89...
+[6/28/2026 2:31:37 PM] ***REJECTED*** {ip: "125.93.252.89", user: "root", pass:"mysql"}
+[6/28/2026 2:31:37 PM] 125.93.252.89 >>> Disconnected.
+[6/28/2026 2:31:41 PM] Connection attempt from IP: 125.93.252.89...
+[6/28/2026 2:31:45 PM] ***REJECTED*** {ip: "125.93.252.89", user: "root", pass:"apache"}
+[6/28/2026 2:31:48 PM] 125.93.252.89 >>> Disconnected.
+[6/28/2026 2:52:39 PM] Connection attempt from IP: 193.46.255.86...
+[6/28/2026 2:52:40 PM] ***REJECTED*** {ip: "193.46.255.86", user: "support", pass:"support"}
+[6/28/2026 2:52:40 PM] ***REJECTED*** {ip: "193.46.255.86", user: "support", pass:"123456"}
+[6/28/2026 2:52:41 PM] ***REJECTED*** {ip: "193.46.255.86", user: "support", pass:"12345678"}
+[6/28/2026 2:52:41 PM] 193.46.255.86 >>> Disconnected.
+[6/28/2026 2:57:40 PM] Connection attempt from IP: 59.152.127.167...
+[6/28/2026 2:57:40 PM] ***REJECTED*** {ip: "59.152.127.167", user: "rain", pass:"12345"}
+[6/28/2026 2:57:40 PM] 59.152.127.167 >>> Disconnected.
