@@ -43815,3 +43815,14 @@
 [6/28/2026 5:08:51 AM] ***REJECTED*** {ip: "2.57.121.25", user: "admin", pass:"qazxswedcvfr"}
 [6/28/2026 5:08:52 AM] ***REJECTED*** {ip: "2.57.121.25", user: "admin", pass:"qazedc"}
 [6/28/2026 5:08:52 AM] 2.57.121.25 >>> Disconnected.
+[6/28/2026 5:33:52 AM] Connection attempt from IP: 66.132.195.113...
+[6/28/2026 5:34:07 AM] 66.132.195.113 >>> Disconnected.
+[6/28/2026 5:34:53 AM] Connection attempt from IP: 64.62.197.57...
+[6/28/2026 5:34:57 AM] 64.62.197.57 >>> Disconnected.
+[6/28/2026 5:50:38 AM] Connection attempt from IP: 2.57.121.112...
+[6/28/2026 5:50:40 AM] ***REJECTED*** {ip: "2.57.121.112", user: "briar", pass:"briar"}
+[6/28/2026 5:50:40 AM] ***REJECTED*** {ip: "2.57.121.112", user: "briar", pass:"briar1"}
+[6/28/2026 5:50:40 AM] ***REJECTED*** {ip: "2.57.121.112", user: "briar", pass:"briar123"}
+[6/28/2026 5:50:41 AM] ***REJECTED*** {ip: "2.57.121.112", user: "briar", pass:"briar1234"}
+[6/28/2026 5:50:41 AM] ***REJECTED*** {ip: "2.57.121.112", user: "briar", pass:"briar12345"}
+[6/28/2026 5:50:41 AM] 2.57.121.112 >>> Disconnected.
