@@ -45039,3 +45039,40 @@
 [6/29/2026 2:52:44 AM] Connection attempt from IP: 178.20.210.208...
 [6/29/2026 2:52:45 AM] ***REJECTED*** {ip: "178.20.210.208", user: "root", pass:"NKtfgCjQRr9TtjfRPmJdIINGOODWETRUST"}
 [6/29/2026 2:52:45 AM] 178.20.210.208 >>> Disconnected.
+[6/29/2026 3:00:26 AM] Connection attempt from IP: 2.57.121.112...
+[6/29/2026 3:00:27 AM] ***REJECTED*** {ip: "2.57.121.112", user: "kalia", pass:"kalia"}
+[6/29/2026 3:00:27 AM] ***REJECTED*** {ip: "2.57.121.112", user: "kalia", pass:"kalia1"}
+[6/29/2026 3:00:27 AM] ***REJECTED*** {ip: "2.57.121.112", user: "kalia", pass:"kalia123"}
+[6/29/2026 3:00:28 AM] ***REJECTED*** {ip: "2.57.121.112", user: "kalia", pass:"kalia1234"}
+[6/29/2026 3:00:28 AM] ***REJECTED*** {ip: "2.57.121.112", user: "kalia", pass:"kalia12345"}
+[6/29/2026 3:00:28 AM] 2.57.121.112 >>> Disconnected.
+[6/29/2026 3:01:41 AM] Connection attempt from IP: 2.57.121.25...
+[6/29/2026 3:01:43 AM] ***REJECTED*** {ip: "2.57.121.25", user: "admin", pass:"mettss"}
+[6/29/2026 3:01:43 AM] ***REJECTED*** {ip: "2.57.121.25", user: "admin", pass:"messi10"}
+[6/29/2026 3:01:43 AM] ***REJECTED*** {ip: "2.57.121.25", user: "admin", pass:"memo"}
+[6/29/2026 3:01:43 AM] 2.57.121.25 >>> Disconnected.
+[6/29/2026 3:04:36 AM] Connection attempt from IP: 178.20.210.208...
+[6/29/2026 3:04:36 AM] ***REJECTED*** {ip: "178.20.210.208", user: "root", pass:"nimabi"}
+[6/29/2026 3:04:37 AM] 178.20.210.208 >>> Disconnected.
+[6/29/2026 3:05:10 AM] Connection attempt from IP: 211.225.139.200...
+[6/29/2026 3:05:12 AM] ***REJECTED*** {ip: "211.225.139.200", user: "root", pass:"10481048"}
+[6/29/2026 3:05:12 AM] 211.225.139.200 >>> Disconnected.
+[6/29/2026 3:05:13 AM] Connection attempt from IP: 60.188.249.64...
+[6/29/2026 3:05:39 AM] 60.188.249.64 >>> Disconnected.
+[6/29/2026 3:07:24 AM] Connection attempt from IP: 193.46.255.86...
+[6/29/2026 3:07:25 AM] ***REJECTED*** {ip: "193.46.255.86", user: "root", pass:"admin123"}
+[6/29/2026 3:07:25 AM] ***REJECTED*** {ip: "193.46.255.86", user: "root", pass:"2wsx#EDC"}
+[6/29/2026 3:07:25 AM] ***REJECTED*** {ip: "193.46.255.86", user: "root", pass:"venus"}
+[6/29/2026 3:07:26 AM] 193.46.255.86 >>> Disconnected.
+[6/29/2026 3:10:23 AM] Connection attempt from IP: 211.225.139.200...
+[6/29/2026 3:10:25 AM] ***REJECTED*** {ip: "211.225.139.200", user: "root", pass:"a12369845"}
+[6/29/2026 3:10:25 AM] 211.225.139.200 >>> Disconnected.
+[6/29/2026 3:16:25 AM] Connection attempt from IP: 178.20.210.208...
+[6/29/2026 3:16:25 AM] ***REJECTED*** {ip: "178.20.210.208", user: "root", pass:"nihao123!@#"}
+[6/29/2026 3:16:26 AM] 178.20.210.208 >>> Disconnected.
+[6/29/2026 3:22:24 AM] Connection attempt from IP: 211.225.139.200...
+[6/29/2026 3:22:26 AM] ***REJECTED*** {ip: "211.225.139.200", user: "root", pass:"a12369845"}
+[6/29/2026 3:22:27 AM] 211.225.139.200 >>> Disconnected.
+[6/29/2026 3:28:17 AM] Connection attempt from IP: 178.20.210.208...
+[6/29/2026 3:28:18 AM] ***REJECTED*** {ip: "178.20.210.208", user: "root", pass:"niggahe1"}
+[6/29/2026 3:28:18 AM] 178.20.210.208 >>> Disconnected.
