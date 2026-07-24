@@ -192174,3 +192174,17 @@
 [7/24/2026 7:25:43 PM] ***REJECTED*** {ip: "193.46.255.86", user: "root", pass:"goodlife"}
 [7/24/2026 7:25:43 PM] ***REJECTED*** {ip: "193.46.255.86", user: "root", pass:"team2"}
 [7/24/2026 7:25:44 PM] 193.46.255.86 >>> Disconnected.
+[7/24/2026 7:35:09 PM] Connection attempt from IP: 2.57.121.25...
+[7/24/2026 7:35:11 PM] ***REJECTED*** {ip: "2.57.121.25", user: "admin", pass:"rowena"}
+[7/24/2026 7:35:11 PM] ***REJECTED*** {ip: "2.57.121.25", user: "admin", pass:"rockroll"}
+[7/24/2026 7:35:11 PM] ***REJECTED*** {ip: "2.57.121.25", user: "admin", pass:"robbins"}
+[7/24/2026 7:35:11 PM] 2.57.121.25 >>> Disconnected.
+[7/24/2026 7:38:09 PM] Connection attempt from IP: 195.178.110.137...
+[7/24/2026 7:38:10 PM] ***REJECTED*** {ip: "195.178.110.137", user: "admin", pass:"12345678"}
+[7/24/2026 7:38:10 PM] 195.178.110.137 >>> Disconnected.
+[7/24/2026 7:50:31 PM] Connection attempt from IP: 195.178.110.137...
+[7/24/2026 7:50:32 PM] ***REJECTED*** {ip: "195.178.110.137", user: "cusadmin", pass:"password"}
+[7/24/2026 7:50:33 PM] 195.178.110.137 >>> Disconnected.
+[7/24/2026 7:53:57 PM] Connection attempt from IP: 102.220.160.63...
+[7/24/2026 7:54:03 PM] ***REJECTED*** {ip: "102.220.160.63", user: "root", pass:"123@admin"}
+[7/24/2026 7:54:06 PM] 102.220.160.63 >>> Disconnected.
