@@ -195109,3 +195109,15 @@
 [7/25/2026 6:27:05 PM] Connection attempt from IP: 102.220.160.63...
 [7/25/2026 6:27:07 PM] ***REJECTED*** {ip: "102.220.160.63", user: "root", pass:"Senha123"}
 [7/25/2026 6:27:07 PM] 102.220.160.63 >>> Disconnected.
+[7/25/2026 6:41:37 PM] Connection attempt from IP: 34.205.18.102...
+[7/25/2026 6:41:37 PM] 34.205.18.102 >>> Disconnected.
+[7/25/2026 6:42:48 PM] Connection attempt from IP: 2.57.121.112...
+[7/25/2026 6:42:49 PM] ***REJECTED*** {ip: "2.57.121.112", user: "deante", pass:"deante"}
+[7/25/2026 6:42:49 PM] ***REJECTED*** {ip: "2.57.121.112", user: "deante", pass:"deante1"}
+[7/25/2026 6:42:49 PM] ***REJECTED*** {ip: "2.57.121.112", user: "deante", pass:"deante123"}
+[7/25/2026 6:42:50 PM] ***REJECTED*** {ip: "2.57.121.112", user: "deante", pass:"deante1234"}
+[7/25/2026 6:42:50 PM] ***REJECTED*** {ip: "2.57.121.112", user: "deante", pass:"deante12345"}
+[7/25/2026 6:42:50 PM] 2.57.121.112 >>> Disconnected.
+[7/25/2026 6:49:01 PM] Connection attempt from IP: 193.24.211.76...
+[7/25/2026 6:49:02 PM] ***REJECTED*** {ip: "193.24.211.76", user: "root", pass:"!@#$QWER"}
+[7/25/2026 6:49:02 PM] 193.24.211.76 >>> Disconnected.
