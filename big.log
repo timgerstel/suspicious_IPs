@@ -195221,3 +195221,24 @@
 [7/25/2026 8:40:58 PM] 195.178.110.137 >>> Disconnected.
 [7/25/2026 8:55:07 PM] Connection attempt from IP: 195.178.110.137...
 [7/25/2026 8:55:08 PM] 195.178.110.137 >>> Disconnected.
+[7/25/2026 9:08:27 PM] Connection attempt from IP: 195.178.110.137...
+[7/25/2026 9:08:28 PM] ***REJECTED*** {ip: "195.178.110.137", user: "root", pass:"root"}
+[7/25/2026 9:08:28 PM] 195.178.110.137 >>> Disconnected.
+[7/25/2026 9:10:12 PM] Connection attempt from IP: 2.57.121.25...
+[7/25/2026 9:10:13 PM] ***REJECTED*** {ip: "2.57.121.25", user: "admin", pass:"melon"}
+[7/25/2026 9:10:13 PM] ***REJECTED*** {ip: "2.57.121.25", user: "admin", pass:"maymay"}
+[7/25/2026 9:10:13 PM] ***REJECTED*** {ip: "2.57.121.25", user: "admin", pass:"masa"}
+[7/25/2026 9:10:14 PM] 2.57.121.25 >>> Disconnected.
+[7/25/2026 9:16:50 PM] Connection attempt from IP: 2.57.121.112...
+[7/25/2026 9:16:51 PM] ***REJECTED*** {ip: "2.57.121.112", user: "louie", pass:"louie"}
+[7/25/2026 9:16:51 PM] ***REJECTED*** {ip: "2.57.121.112", user: "louie", pass:"louie1"}
+[7/25/2026 9:16:52 PM] ***REJECTED*** {ip: "2.57.121.112", user: "louie", pass:"louie123"}
+[7/25/2026 9:16:52 PM] ***REJECTED*** {ip: "2.57.121.112", user: "louie", pass:"louie1234"}
+[7/25/2026 9:16:52 PM] ***REJECTED*** {ip: "2.57.121.112", user: "louie", pass:"louie12345"}
+[7/25/2026 9:16:53 PM] 2.57.121.112 >>> Disconnected.
+[7/25/2026 9:17:42 PM] Connection attempt from IP: 193.24.211.76...
+[7/25/2026 9:17:43 PM] ***REJECTED*** {ip: "193.24.211.76", user: "root", pass:"rootpassword"}
+[7/25/2026 9:17:44 PM] 193.24.211.76 >>> Disconnected.
+[7/25/2026 9:21:40 PM] Connection attempt from IP: 195.178.110.137...
+[7/25/2026 9:21:41 PM] ***REJECTED*** {ip: "195.178.110.137", user: "telecomadmin", pass:"admintelecom"}
+[7/25/2026 9:21:41 PM] 195.178.110.137 >>> Disconnected.
