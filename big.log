@@ -204551,3 +204551,24 @@
 [7/27/2026 8:26:13 PM] Connection attempt from IP: 195.178.110.137...
 [7/27/2026 8:26:15 PM] ***REJECTED*** {ip: "195.178.110.137", user: "admin", pass:"Admin@123"}
 [7/27/2026 8:26:15 PM] 195.178.110.137 >>> Disconnected.
+[7/27/2026 8:39:27 PM] Connection attempt from IP: 195.178.110.137...
+[7/27/2026 8:39:28 PM] 195.178.110.137 >>> Disconnected.
+[7/27/2026 8:43:53 PM] Connection attempt from IP: 103.203.57.2...
+[7/27/2026 8:44:03 PM] 103.203.57.2 >>> Disconnected.
+[7/27/2026 8:44:45 PM] Connection attempt from IP: 193.46.255.86...
+[7/27/2026 8:44:46 PM] ***REJECTED*** {ip: "193.46.255.86", user: "user", pass:"9090"}
+[7/27/2026 8:44:47 PM] ***REJECTED*** {ip: "193.46.255.86", user: "user", pass:"rocknroll"}
+[7/27/2026 8:44:47 PM] ***REJECTED*** {ip: "193.46.255.86", user: "user", pass:"password"}
+[7/27/2026 8:44:47 PM] 193.46.255.86 >>> Disconnected.
+[7/27/2026 8:46:04 PM] Connection attempt from IP: 176.53.159.196...
+[7/27/2026 8:46:05 PM] ***REJECTED*** {ip: "176.53.159.196", user: "orangepi", pass:"123456789"}
+[7/27/2026 8:52:12 PM] Connection attempt from IP: 195.178.110.137...
+[7/27/2026 8:52:13 PM] ***REJECTED*** {ip: "195.178.110.137", user: "root", pass:"12345678"}
+[7/27/2026 8:52:14 PM] 195.178.110.137 >>> Disconnected.
+[7/27/2026 8:57:07 PM] Connection attempt from IP: 2.57.121.112...
+[7/27/2026 8:57:08 PM] ***REJECTED*** {ip: "2.57.121.112", user: "raelyn", pass:"raelyn"}
+[7/27/2026 8:57:09 PM] ***REJECTED*** {ip: "2.57.121.112", user: "raelyn", pass:"raelyn1"}
+[7/27/2026 8:57:09 PM] ***REJECTED*** {ip: "2.57.121.112", user: "raelyn", pass:"raelyn123"}
+[7/27/2026 8:57:09 PM] ***REJECTED*** {ip: "2.57.121.112", user: "raelyn", pass:"raelyn1234"}
+[7/27/2026 8:57:09 PM] ***REJECTED*** {ip: "2.57.121.112", user: "raelyn", pass:"raelyn12345"}
+[7/27/2026 8:57:10 PM] 2.57.121.112 >>> Disconnected.
