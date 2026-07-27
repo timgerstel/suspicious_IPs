@@ -203198,3 +203198,9 @@
 [7/27/2026 7:54:14 AM] Connection attempt from IP: 193.24.211.76...
 [7/27/2026 7:54:15 AM] ***REJECTED*** {ip: "193.24.211.76", user: "irc", pass:"irc"}
 [7/27/2026 7:54:15 AM] 193.24.211.76 >>> Disconnected.
+[7/27/2026 8:11:45 AM] Connection attempt from IP: 58.76.159.170...
+[7/27/2026 8:11:48 AM] ***REJECTED*** {ip: "58.76.159.170", user: "ubuntu", pass:"abcd123456"}
+[7/27/2026 8:11:49 AM] 58.76.159.170 >>> Disconnected.
+[7/27/2026 8:14:42 AM] Connection attempt from IP: 59.63.188.218...
+[7/27/2026 8:14:46 AM] ***REJECTED*** {ip: "59.63.188.218", user: "root", pass:"﻿------fuck------"}
+[7/27/2026 8:14:47 AM] 59.63.188.218 >>> Disconnected.
