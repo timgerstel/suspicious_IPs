@@ -203978,3 +203978,15 @@
 [7/27/2026 4:29:16 PM] Connection attempt from IP: 193.24.211.76...
 [7/27/2026 4:29:17 PM] ***REJECTED*** {ip: "193.24.211.76", user: "root", pass:"pa55w0rd"}
 [7/27/2026 4:29:18 PM] 193.24.211.76 >>> Disconnected.
+[7/27/2026 4:34:42 PM] Connection attempt from IP: 147.185.132.100...
+[7/27/2026 4:34:45 PM] 147.185.132.100 >>> Disconnected.
+[7/27/2026 4:37:35 PM] Connection attempt from IP: 193.46.255.86...
+[7/27/2026 4:37:36 PM] ***REJECTED*** {ip: "193.46.255.86", user: "root", pass:"aDm8H%MdA"}
+[7/27/2026 4:37:36 PM] ***REJECTED*** {ip: "193.46.255.86", user: "root", pass:"root"}
+[7/27/2026 4:37:37 PM] ***REJECTED*** {ip: "193.46.255.86", user: "root", pass:"stfu_and_be_quite"}
+[7/27/2026 4:37:37 PM] 193.46.255.86 >>> Disconnected.
+[7/27/2026 4:57:44 PM] Connection attempt from IP: 2.57.121.25...
+[7/27/2026 4:57:45 PM] ***REJECTED*** {ip: "2.57.121.25", user: "admin", pass:"closeup"}
+[7/27/2026 4:57:45 PM] ***REJECTED*** {ip: "2.57.121.25", user: "admin", pass:"claypool"}
+[7/27/2026 4:57:45 PM] ***REJECTED*** {ip: "2.57.121.25", user: "admin", pass:"cisco1"}
+[7/27/2026 4:57:46 PM] 2.57.121.25 >>> Disconnected.
