@@ -204788,3 +204788,11 @@
 [7/27/2026 11:27:04 PM] ***REJECTED*** {ip: "193.46.255.86", user: "test", pass:"1234"}
 [7/27/2026 11:27:05 PM] ***REJECTED*** {ip: "193.46.255.86", user: "test", pass:"test123"}
 [7/27/2026 11:27:05 PM] 193.46.255.86 >>> Disconnected.
+[7/27/2026 11:38:49 PM] Connection attempt from IP: 2.57.121.25...
+[7/27/2026 11:38:50 PM] ***REJECTED*** {ip: "2.57.121.25", user: "admin", pass:"broodwar"}
+[7/27/2026 11:38:50 PM] ***REJECTED*** {ip: "2.57.121.25", user: "admin", pass:"brenda1"}
+[7/27/2026 11:38:51 PM] ***REJECTED*** {ip: "2.57.121.25", user: "admin", pass:"boswell"}
+[7/27/2026 11:38:51 PM] 2.57.121.25 >>> Disconnected.
+[7/27/2026 11:58:51 PM] Connection attempt from IP: 193.24.211.76...
+[7/27/2026 11:58:52 PM] ***REJECTED*** {ip: "193.24.211.76", user: "oracle", pass:"oracle"}
+[7/27/2026 11:58:52 PM] 193.24.211.76 >>> Disconnected.
