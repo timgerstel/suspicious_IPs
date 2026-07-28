@@ -204796,3 +204796,12 @@
 [7/27/2026 11:58:51 PM] Connection attempt from IP: 193.24.211.76...
 [7/27/2026 11:58:52 PM] ***REJECTED*** {ip: "193.24.211.76", user: "oracle", pass:"oracle"}
 [7/27/2026 11:58:52 PM] 193.24.211.76 >>> Disconnected.
+[7/28/2026 12:01:10 AM] Connection attempt from IP: 2.57.121.112...
+[7/28/2026 12:01:11 AM] ***REJECTED*** {ip: "2.57.121.112", user: "sahara", pass:"sahara"}
+[7/28/2026 12:01:11 AM] ***REJECTED*** {ip: "2.57.121.112", user: "sahara", pass:"sahara1"}
+[7/28/2026 12:01:11 AM] ***REJECTED*** {ip: "2.57.121.112", user: "sahara", pass:"sahara123"}
+[7/28/2026 12:01:12 AM] ***REJECTED*** {ip: "2.57.121.112", user: "sahara", pass:"sahara1234"}
+[7/28/2026 12:01:12 AM] ***REJECTED*** {ip: "2.57.121.112", user: "sahara", pass:"sahara12345"}
+[7/28/2026 12:01:12 AM] 2.57.121.112 >>> Disconnected.
+[7/28/2026 12:01:33 AM] Connection attempt from IP: 71.6.199.65...
+[7/28/2026 12:01:43 AM] 71.6.199.65 >>> Disconnected.
