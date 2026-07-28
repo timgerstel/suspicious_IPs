@@ -208936,3 +208936,27 @@
 [7/28/2026 9:22:18 PM] ***REJECTED*** {ip: "193.46.255.86", user: "service", pass:"abcd1234"}
 [7/28/2026 9:22:19 PM] ***REJECTED*** {ip: "193.46.255.86", user: "service", pass:"123456"}
 [7/28/2026 9:22:19 PM] 193.46.255.86 >>> Disconnected.
+[7/28/2026 9:36:44 PM] Connection attempt from IP: 193.24.211.76...
+[7/28/2026 9:36:45 PM] ***REJECTED*** {ip: "193.24.211.76", user: "webmaster", pass:"webmaster"}
+[7/28/2026 9:36:45 PM] 193.24.211.76 >>> Disconnected.
+[7/28/2026 9:39:30 PM] Connection attempt from IP: 99.230.124.2...
+[7/28/2026 9:39:30 PM] Connection attempt from IP: 99.230.124.2...
+[7/28/2026 9:39:30 PM] ***REJECTED*** {ip: "99.230.124.2", user: "pi", pass:"raspberry"}
+[7/28/2026 9:39:30 PM] ***REJECTED*** {ip: "99.230.124.2", user: "pi", pass:"raspberryraspberry993311"}
+[7/28/2026 9:39:30 PM] 99.230.124.2 >>> Disconnected.
+[7/28/2026 9:39:30 PM] 99.230.124.2 >>> Disconnected.
+[7/28/2026 9:40:17 PM] Connection attempt from IP: 2.57.121.112...
+[7/28/2026 9:40:18 PM] ***REJECTED*** {ip: "2.57.121.112", user: "gemma", pass:"gemma"}
+[7/28/2026 9:40:18 PM] ***REJECTED*** {ip: "2.57.121.112", user: "gemma", pass:"gemma1"}
+[7/28/2026 9:40:18 PM] ***REJECTED*** {ip: "2.57.121.112", user: "gemma", pass:"gemma123"}
+[7/28/2026 9:40:19 PM] ***REJECTED*** {ip: "2.57.121.112", user: "gemma", pass:"gemma1234"}
+[7/28/2026 9:40:19 PM] ***REJECTED*** {ip: "2.57.121.112", user: "gemma", pass:"gemma12345"}
+[7/28/2026 9:40:19 PM] 2.57.121.112 >>> Disconnected.
+[7/28/2026 9:43:11 PM] Connection attempt from IP: 195.178.110.137...
+[7/28/2026 9:43:12 PM] ***REJECTED*** {ip: "195.178.110.137", user: "AdminGPON", pass:"ALC#FGU"}
+[7/28/2026 9:43:12 PM] 195.178.110.137 >>> Disconnected.
+[7/28/2026 9:52:23 PM] Connection attempt from IP: 2.57.121.25...
+[7/28/2026 9:52:25 PM] ***REJECTED*** {ip: "2.57.121.25", user: "admin", pass:"310784"}
+[7/28/2026 9:52:25 PM] ***REJECTED*** {ip: "2.57.121.25", user: "admin", pass:"30081985"}
+[7/28/2026 9:52:25 PM] ***REJECTED*** {ip: "2.57.121.25", user: "admin", pass:"300688"}
+[7/28/2026 9:52:25 PM] 2.57.121.25 >>> Disconnected.
