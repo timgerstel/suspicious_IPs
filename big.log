@@ -214395,3 +214395,26 @@
 [7/30/2026 7:47:47 PM] Connection attempt from IP: 193.112.192.91...
 [7/30/2026 7:48:52 PM] Connection attempt from IP: 193.112.192.91...
 [7/30/2026 7:51:11 PM] Connection attempt from IP: 193.112.192.91...
+[7/30/2026 8:00:19 PM] Connection attempt from IP: 2.57.121.112...
+[7/30/2026 8:00:20 PM] ***REJECTED*** {ip: "2.57.121.112", user: "averie", pass:"averie"}
+[7/30/2026 8:00:20 PM] ***REJECTED*** {ip: "2.57.121.112", user: "averie", pass:"averie1"}
+[7/30/2026 8:00:21 PM] ***REJECTED*** {ip: "2.57.121.112", user: "averie", pass:"averie123"}
+[7/30/2026 8:00:21 PM] ***REJECTED*** {ip: "2.57.121.112", user: "averie", pass:"averie1234"}
+[7/30/2026 8:00:21 PM] ***REJECTED*** {ip: "2.57.121.112", user: "averie", pass:"averie12345"}
+[7/30/2026 8:00:22 PM] 2.57.121.112 >>> Disconnected.
+[7/30/2026 8:08:12 PM] Connection attempt from IP: 193.46.255.86...
+[7/30/2026 8:08:13 PM] ***REJECTED*** {ip: "193.46.255.86", user: "root", pass:"Aa123456."}
+[7/30/2026 8:08:13 PM] ***REJECTED*** {ip: "193.46.255.86", user: "root", pass:"qweasdzxc@"}
+[7/30/2026 8:08:13 PM] ***REJECTED*** {ip: "193.46.255.86", user: "root", pass:"calvin"}
+[7/30/2026 8:08:14 PM] 193.46.255.86 >>> Disconnected.
+[7/30/2026 8:16:07 PM] Connection attempt from IP: 195.178.110.137...
+[7/30/2026 8:16:08 PM] ***REJECTED*** {ip: "195.178.110.137", user: "admin", pass:"admin"}
+[7/30/2026 8:16:08 PM] 195.178.110.137 >>> Disconnected.
+[7/30/2026 8:20:15 PM] Connection attempt from IP: 2.57.121.25...
+[7/30/2026 8:20:16 PM] ***REJECTED*** {ip: "2.57.121.25", user: "admin", pass:"18111975"}
+[7/30/2026 8:20:16 PM] ***REJECTED*** {ip: "2.57.121.25", user: "admin", pass:"18101994"}
+[7/30/2026 8:20:16 PM] ***REJECTED*** {ip: "2.57.121.25", user: "admin", pass:"18101993"}
+[7/30/2026 8:20:17 PM] 2.57.121.25 >>> Disconnected.
+[7/30/2026 8:20:27 PM] Connection attempt from IP: 119.206.114.245...
+[7/30/2026 8:20:28 PM] ***REJECTED*** {ip: "119.206.114.245", user: "root", pass:"118.84.1.242"}
+[7/30/2026 8:20:29 PM] 119.206.114.245 >>> Disconnected.
