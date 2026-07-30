@@ -212325,3 +212325,14 @@
 [7/30/2026 3:53:13 AM] ***REJECTED*** {ip: "2.57.121.112", user: "mykala", pass:"mykala1234"}
 [7/30/2026 3:53:14 AM] ***REJECTED*** {ip: "2.57.121.112", user: "mykala", pass:"mykala12345"}
 [7/30/2026 3:53:14 AM] 2.57.121.112 >>> Disconnected.
+[7/30/2026 4:12:40 AM] Connection attempt from IP: 176.53.159.196...
+[7/30/2026 4:12:41 AM] ***REJECTED*** {ip: "176.53.159.196", user: "orangepi", pass:"123456789"}
+[7/30/2026 4:15:24 AM] Connection attempt from IP: 193.24.211.76...
+[7/30/2026 4:15:25 AM] ***REJECTED*** {ip: "193.24.211.76", user: "root", pass:"admin123@#"}
+[7/30/2026 4:15:25 AM] 193.24.211.76 >>> Disconnected.
+[7/30/2026 4:21:06 AM] Connection attempt from IP: 2.57.121.25...
+[7/30/2026 4:21:07 AM] ***REJECTED*** {ip: "2.57.121.25", user: "admin", pass:"23011975"}
+[7/30/2026 4:21:07 AM] ***REJECTED*** {ip: "2.57.121.25", user: "admin", pass:"22121994"}
+[7/30/2026 4:21:08 AM] ***REJECTED*** {ip: "2.57.121.25", user: "admin", pass:"22111994"}
+[7/30/2026 4:21:08 AM] 2.57.121.25 >>> Disconnected.
+[7/30/2026 4:24:10 AM] Connection attempt from IP: 115.191.35.173...
