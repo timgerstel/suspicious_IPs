@@ -212504,3 +212504,10 @@
 [7/30/2026 6:25:31 AM] ***REJECTED*** {ip: "2.57.121.112", user: "tristin", pass:"tristin1234"}
 [7/30/2026 6:25:32 AM] ***REJECTED*** {ip: "2.57.121.112", user: "tristin", pass:"tristin12345"}
 [7/30/2026 6:25:32 AM] 2.57.121.112 >>> Disconnected.
+[7/30/2026 6:42:27 AM] Connection attempt from IP: 176.53.159.196...
+[7/30/2026 6:42:29 AM] ***REJECTED*** {ip: "176.53.159.196", user: "orangepi", pass:"123456789"}
+[7/30/2026 6:54:11 AM] Connection attempt from IP: 193.24.211.76...
+[7/30/2026 6:54:12 AM] ***REJECTED*** {ip: "193.24.211.76", user: "user", pass:"code!"}
+[7/30/2026 6:54:12 AM] 193.24.211.76 >>> Disconnected.
+[7/30/2026 6:59:51 AM] Connection attempt from IP: 176.53.159.196...
+[7/30/2026 6:59:53 AM] ***REJECTED*** {ip: "176.53.159.196", user: "orangepi", pass:"123456789"}
