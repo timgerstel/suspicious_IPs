@@ -212480,3 +212480,27 @@
 [7/30/2026 5:59:17 AM] ***REJECTED*** {ip: "193.46.255.86", user: "root", pass:"default"}
 [7/30/2026 5:59:17 AM] ***REJECTED*** {ip: "193.46.255.86", user: "root", pass:"admin01"}
 [7/30/2026 5:59:17 AM] 193.46.255.86 >>> Disconnected.
+[7/30/2026 6:02:08 AM] Connection attempt from IP: 34.77.61.107...
+[7/30/2026 6:02:09 AM] Connection attempt from IP: 34.77.61.107...
+[7/30/2026 6:02:11 AM] 34.77.61.107 >>> Disconnected.
+[7/30/2026 6:02:13 AM] Connection attempt from IP: 193.24.211.76...
+[7/30/2026 6:02:14 AM] ***REJECTED*** {ip: "193.24.211.76", user: "support", pass:"support123@#"}
+[7/30/2026 6:02:14 AM] 193.24.211.76 >>> Disconnected.
+[7/30/2026 6:16:17 AM] Connection attempt from IP: 2.57.121.25...
+[7/30/2026 6:16:18 AM] ***REJECTED*** {ip: "2.57.121.25", user: "admin", pass:"220687"}
+[7/30/2026 6:16:19 AM] ***REJECTED*** {ip: "2.57.121.25", user: "admin", pass:"220686"}
+[7/30/2026 6:16:19 AM] ***REJECTED*** {ip: "2.57.121.25", user: "admin", pass:"22061979"}
+[7/30/2026 6:16:20 AM] 2.57.121.25 >>> Disconnected.
+[7/30/2026 6:20:44 AM] Connection attempt from IP: 58.76.159.170...
+[7/30/2026 6:20:49 AM] ***REJECTED*** {ip: "58.76.159.170", user: "ubuntu", pass:"abcd1234ABCD"}
+[7/30/2026 6:20:50 AM] 58.76.159.170 >>> Disconnected.
+[7/30/2026 6:23:25 AM] Connection attempt from IP: 58.76.159.170...
+[7/30/2026 6:23:32 AM] ***REJECTED*** {ip: "58.76.159.170", user: "ubuntu", pass:"abcd1234ABCD"}
+[7/30/2026 6:23:33 AM] 58.76.159.170 >>> Disconnected.
+[7/30/2026 6:25:29 AM] Connection attempt from IP: 2.57.121.112...
+[7/30/2026 6:25:30 AM] ***REJECTED*** {ip: "2.57.121.112", user: "tristin", pass:"tristin"}
+[7/30/2026 6:25:31 AM] ***REJECTED*** {ip: "2.57.121.112", user: "tristin", pass:"tristin1"}
+[7/30/2026 6:25:31 AM] ***REJECTED*** {ip: "2.57.121.112", user: "tristin", pass:"tristin123"}
+[7/30/2026 6:25:31 AM] ***REJECTED*** {ip: "2.57.121.112", user: "tristin", pass:"tristin1234"}
+[7/30/2026 6:25:32 AM] ***REJECTED*** {ip: "2.57.121.112", user: "tristin", pass:"tristin12345"}
+[7/30/2026 6:25:32 AM] 2.57.121.112 >>> Disconnected.
