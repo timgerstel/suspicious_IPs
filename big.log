@@ -213083,3 +213083,27 @@
 [7/30/2026 10:59:19 AM] ***REJECTED*** {ip: "116.110.15.224", user: "support", pass:"admin"}
 [7/30/2026 10:59:19 AM] 116.110.15.224 >>> Disconnected.
 [7/30/2026 10:59:28 AM] 116.110.15.224 >>> Disconnected.
+[7/30/2026 11:00:59 AM] Connection attempt from IP: 2.57.121.25...
+[7/30/2026 11:01:00 AM] ***REJECTED*** {ip: "2.57.121.25", user: "admin", pass:"21031978"}
+[7/30/2026 11:01:00 AM] ***REJECTED*** {ip: "2.57.121.25", user: "admin", pass:"21021978"}
+[7/30/2026 11:01:00 AM] ***REJECTED*** {ip: "2.57.121.25", user: "admin", pass:"210186"}
+[7/30/2026 11:01:01 AM] 2.57.121.25 >>> Disconnected.
+[7/30/2026 11:01:02 AM] Connection attempt from IP: 27.79.7.155...
+[7/30/2026 11:01:05 AM] ***REJECTED*** {ip: "27.79.7.155", user: "root", pass:"ipscan"}
+[7/30/2026 11:01:06 AM] 27.79.7.155 >>> Disconnected.
+[7/30/2026 11:13:18 AM] Connection attempt from IP: 176.53.159.196...
+[7/30/2026 11:13:19 AM] ***REJECTED*** {ip: "176.53.159.196", user: "orangepi", pass:"123456789"}
+[7/30/2026 11:14:48 AM] Connection attempt from IP: 195.178.110.137...
+[7/30/2026 11:14:49 AM] 195.178.110.137 >>> Disconnected.
+[7/30/2026 11:23:28 AM] Connection attempt from IP: 161.35.198.220...
+[7/30/2026 11:23:48 AM] 161.35.198.220 >>> Disconnected.
+[7/30/2026 11:24:34 AM] Connection attempt from IP: 45.154.244.149...
+[7/30/2026 11:24:35 AM] ***REJECTED*** {ip: "45.154.244.149", user: "elena", pass:"elena123"}
+[7/30/2026 11:24:35 AM] 45.154.244.149 >>> Disconnected.
+[7/30/2026 11:25:25 AM] Connection attempt from IP: 2.57.121.112...
+[7/30/2026 11:25:26 AM] ***REJECTED*** {ip: "2.57.121.112", user: "presley", pass:"presley"}
+[7/30/2026 11:25:26 AM] ***REJECTED*** {ip: "2.57.121.112", user: "presley", pass:"presley1"}
+[7/30/2026 11:25:26 AM] ***REJECTED*** {ip: "2.57.121.112", user: "presley", pass:"presley123"}
+[7/30/2026 11:25:27 AM] ***REJECTED*** {ip: "2.57.121.112", user: "presley", pass:"presley1234"}
+[7/30/2026 11:25:27 AM] ***REJECTED*** {ip: "2.57.121.112", user: "presley", pass:"presley12345"}
+[7/30/2026 11:25:27 AM] 2.57.121.112 >>> Disconnected.
