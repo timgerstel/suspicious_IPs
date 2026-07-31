@@ -216711,3 +216711,16 @@
 [7/31/2026 9:54:19 PM] ***REJECTED*** {ip: "2.57.121.112", user: "ryland", pass:"ryland1234"}
 [7/31/2026 9:54:19 PM] ***REJECTED*** {ip: "2.57.121.112", user: "ryland", pass:"ryland12345"}
 [7/31/2026 9:54:20 PM] 2.57.121.112 >>> Disconnected.
+[7/31/2026 10:03:34 PM] Connection attempt from IP: 176.53.159.196...
+[7/31/2026 10:03:35 PM] ***REJECTED*** {ip: "176.53.159.196", user: "orangepi", pass:"123456789"}
+[7/31/2026 10:03:43 PM] Connection attempt from IP: 2.57.121.25...
+[7/31/2026 10:03:44 PM] ***REJECTED*** {ip: "2.57.121.25", user: "admin", pass:"13111992"}
+[7/31/2026 10:03:44 PM] ***REJECTED*** {ip: "2.57.121.25", user: "admin", pass:"13111983"}
+[7/31/2026 10:03:44 PM] ***REJECTED*** {ip: "2.57.121.25", user: "admin", pass:"13101991"}
+[7/31/2026 10:03:45 PM] 2.57.121.25 >>> Disconnected.
+[7/31/2026 10:04:22 PM] Connection attempt from IP: 193.24.211.76...
+[7/31/2026 10:04:24 PM] ***REJECTED*** {ip: "193.24.211.76", user: "sftptest", pass:"sftptest123"}
+[7/31/2026 10:04:24 PM] 193.24.211.76 >>> Disconnected.
+[7/31/2026 10:09:24 PM] Connection attempt from IP: 193.46.255.86...
+[7/31/2026 10:09:25 PM] ***ACCEPTED*** {ip: "193.46.255.86", user: "administrator", pass:"1234"}
+[7/31/2026 10:09:25 PM] 193.46.255.86 >>> Disconnected.
