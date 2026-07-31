@@ -216498,3 +216498,12 @@
 [7/31/2026 3:28:38 PM] Connection attempt from IP: 193.24.211.76...
 [7/31/2026 3:28:39 PM] ***REJECTED*** {ip: "193.24.211.76", user: "factory", pass:"factory"}
 [7/31/2026 3:28:39 PM] 193.24.211.76 >>> Disconnected.
+[7/31/2026 3:48:13 PM] Connection attempt from IP: 2.57.121.112...
+[7/31/2026 3:48:14 PM] ***REJECTED*** {ip: "2.57.121.112", user: "desean", pass:"desean"}
+[7/31/2026 3:48:14 PM] ***REJECTED*** {ip: "2.57.121.112", user: "desean", pass:"desean1"}
+[7/31/2026 3:48:15 PM] ***REJECTED*** {ip: "2.57.121.112", user: "desean", pass:"desean123"}
+[7/31/2026 3:48:15 PM] ***REJECTED*** {ip: "2.57.121.112", user: "desean", pass:"desean1234"}
+[7/31/2026 3:48:15 PM] ***REJECTED*** {ip: "2.57.121.112", user: "desean", pass:"desean12345"}
+[7/31/2026 3:48:16 PM] 2.57.121.112 >>> Disconnected.
+[7/31/2026 3:58:00 PM] Connection attempt from IP: 176.53.159.196...
+[7/31/2026 3:58:01 PM] ***REJECTED*** {ip: "176.53.159.196", user: "orangepi", pass:"123456789"}
