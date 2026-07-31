@@ -215803,3 +215803,13 @@
 [7/31/2026 8:53:07 AM] Connection attempt from IP: 195.178.110.137...
 [7/31/2026 8:53:08 AM] ***REJECTED*** {ip: "195.178.110.137", user: "admin", pass:"admin"}
 [7/31/2026 8:53:08 AM] 195.178.110.137 >>> Disconnected.
+[7/31/2026 9:16:57 AM] Connection attempt from IP: 195.178.110.137...
+[7/31/2026 9:16:58 AM] ***REJECTED*** {ip: "195.178.110.137", user: "AdminGPON", pass:"ALC#FGU"}
+[7/31/2026 9:16:58 AM] 195.178.110.137 >>> Disconnected.
+[7/31/2026 9:22:01 AM] Connection attempt from IP: 2.57.121.112...
+[7/31/2026 9:22:02 AM] ***REJECTED*** {ip: "2.57.121.112", user: "taylar", pass:"taylar"}
+[7/31/2026 9:22:03 AM] ***REJECTED*** {ip: "2.57.121.112", user: "taylar", pass:"taylar1"}
+[7/31/2026 9:22:03 AM] ***REJECTED*** {ip: "2.57.121.112", user: "taylar", pass:"taylar123"}
+[7/31/2026 9:22:03 AM] ***REJECTED*** {ip: "2.57.121.112", user: "taylar", pass:"taylar1234"}
+[7/31/2026 9:22:04 AM] ***REJECTED*** {ip: "2.57.121.112", user: "taylar", pass:"taylar12345"}
+[7/31/2026 9:22:04 AM] 2.57.121.112 >>> Disconnected.
