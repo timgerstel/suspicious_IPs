@@ -216267,3 +216267,24 @@
 [7/31/2026 12:27:31 PM] Connection attempt from IP: 36.155.101.97...
 [7/31/2026 12:27:31 PM] 36.155.101.97 >>> Disconnected.
 [7/31/2026 12:27:33 PM] 36.155.101.97 >>> Disconnected.
+[7/31/2026 12:31:58 PM] Connection attempt from IP: 119.206.114.245...
+[7/31/2026 12:31:59 PM] ***REJECTED*** {ip: "119.206.114.245", user: "ubuntu", pass:"anything"}
+[7/31/2026 12:32:00 PM] 119.206.114.245 >>> Disconnected.
+[7/31/2026 12:36:30 PM] Connection attempt from IP: 193.46.255.86...
+[7/31/2026 12:36:31 PM] ***REJECTED*** {ip: "193.46.255.86", user: "user", pass:"9090"}
+[7/31/2026 12:36:31 PM] ***REJECTED*** {ip: "193.46.255.86", user: "user", pass:"rocknroll"}
+[7/31/2026 12:36:32 PM] ***REJECTED*** {ip: "193.46.255.86", user: "user", pass:"password"}
+[7/31/2026 12:36:32 PM] 193.46.255.86 >>> Disconnected.
+[7/31/2026 12:37:17 PM] Connection attempt from IP: 2.57.121.112...
+[7/31/2026 12:37:18 PM] ***REJECTED*** {ip: "2.57.121.112", user: "verania", pass:"verania"}
+[7/31/2026 12:37:19 PM] ***REJECTED*** {ip: "2.57.121.112", user: "verania", pass:"verania1"}
+[7/31/2026 12:37:19 PM] ***REJECTED*** {ip: "2.57.121.112", user: "verania", pass:"verania123"}
+[7/31/2026 12:37:19 PM] ***REJECTED*** {ip: "2.57.121.112", user: "verania", pass:"verania1234"}
+[7/31/2026 12:37:20 PM] ***REJECTED*** {ip: "2.57.121.112", user: "verania", pass:"verania12345"}
+[7/31/2026 12:37:20 PM] 2.57.121.112 >>> Disconnected.
+[7/31/2026 12:44:41 PM] Connection attempt from IP: 58.76.159.170...
+[7/31/2026 12:44:44 PM] ***REJECTED*** {ip: "58.76.159.170", user: "ubuntu", pass:"abcd123456"}
+[7/31/2026 12:44:45 PM] 58.76.159.170 >>> Disconnected.
+[7/31/2026 12:46:16 PM] Connection attempt from IP: 193.24.211.76...
+[7/31/2026 12:46:17 PM] ***REJECTED*** {ip: "193.24.211.76", user: "test1", pass:"123456"}
+[7/31/2026 12:46:17 PM] 193.24.211.76 >>> Disconnected.
