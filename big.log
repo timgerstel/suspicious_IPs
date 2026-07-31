@@ -216479,3 +216479,9 @@
 [7/31/2026 2:24:07 PM] ***ACCEPTED*** {ip: "94.154.43.230", user: "root", pass:"admin"}
 [7/31/2026 2:24:12 PM] 94.154.43.230 >>> Disconnected.
 [7/31/2026 2:26:27 PM] Connection attempt from IP: 115.191.19.238...
+[7/31/2026 2:36:31 PM] Connection attempt from IP: 119.206.114.245...
+[7/31/2026 2:36:32 PM] ***REJECTED*** {ip: "119.206.114.245", user: "ubuntu", pass:"anything"}
+[7/31/2026 2:36:33 PM] 119.206.114.245 >>> Disconnected.
+[7/31/2026 2:43:36 PM] Connection attempt from IP: 193.24.211.76...
+[7/31/2026 2:43:37 PM] ***REJECTED*** {ip: "193.24.211.76", user: "user", pass:"12345"}
+[7/31/2026 2:43:37 PM] 193.24.211.76 >>> Disconnected.
