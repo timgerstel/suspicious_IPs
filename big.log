@@ -216610,3 +216610,15 @@
 [7/31/2026 6:53:26 PM] ***REJECTED*** {ip: "2.57.121.112", user: "kentrell", pass:"kentrell1234"}
 [7/31/2026 6:53:26 PM] ***REJECTED*** {ip: "2.57.121.112", user: "kentrell", pass:"kentrell12345"}
 [7/31/2026 6:53:26 PM] 2.57.121.112 >>> Disconnected.
+[7/31/2026 7:02:29 PM] Connection attempt from IP: 45.148.10.141...
+[7/31/2026 7:04:27 PM] Connection attempt from IP: 193.24.211.76...
+[7/31/2026 7:04:28 PM] ***REJECTED*** {ip: "193.24.211.76", user: "vbox", pass:"vbox"}
+[7/31/2026 7:04:28 PM] 193.24.211.76 >>> Disconnected.
+[7/31/2026 7:06:25 PM] Connection attempt from IP: 193.24.211.76...
+[7/31/2026 7:06:27 PM] ***REJECTED*** {ip: "193.24.211.76", user: "root", pass:"1234@qwe"}
+[7/31/2026 7:06:27 PM] 193.24.211.76 >>> Disconnected.
+[7/31/2026 7:28:50 PM] Connection attempt from IP: 193.46.255.86...
+[7/31/2026 7:28:51 PM] ***REJECTED*** {ip: "193.46.255.86", user: "admin", pass:"Admin@123"}
+[7/31/2026 7:28:51 PM] ***REJECTED*** {ip: "193.46.255.86", user: "admin", pass:"admin01"}
+[7/31/2026 7:28:51 PM] ***REJECTED*** {ip: "193.46.255.86", user: "admin", pass:"admin1"}
+[7/31/2026 7:28:52 PM] 193.46.255.86 >>> Disconnected.
