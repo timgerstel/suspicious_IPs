@@ -216564,3 +216564,15 @@
 [7/31/2026 5:21:31 PM] ***REJECTED*** {ip: "2.57.121.112", user: "dezmond", pass:"dezmond1234"}
 [7/31/2026 5:21:31 PM] ***REJECTED*** {ip: "2.57.121.112", user: "dezmond", pass:"dezmond12345"}
 [7/31/2026 5:21:32 PM] 2.57.121.112 >>> Disconnected.
+[7/31/2026 5:38:01 PM] Connection attempt from IP: 20.65.193.230...
+[7/31/2026 5:38:11 PM] 20.65.193.230 >>> Disconnected.
+[7/31/2026 5:39:04 PM] Connection attempt from IP: 2.57.121.25...
+[7/31/2026 5:39:05 PM] ***REJECTED*** {ip: "2.57.121.25", user: "admin", pass:"14031994"}
+[7/31/2026 5:39:05 PM] ***REJECTED*** {ip: "2.57.121.25", user: "admin", pass:"14031993"}
+[7/31/2026 5:39:05 PM] ***REJECTED*** {ip: "2.57.121.25", user: "admin", pass:"14031979"}
+[7/31/2026 5:39:06 PM] 2.57.121.25 >>> Disconnected.
+[7/31/2026 5:40:07 PM] Connection attempt from IP: 193.24.211.76...
+[7/31/2026 5:40:08 PM] ***REJECTED*** {ip: "193.24.211.76", user: "root", pass:"kaossh88"}
+[7/31/2026 5:40:08 PM] 193.24.211.76 >>> Disconnected.
+[7/31/2026 5:40:27 PM] Connection attempt from IP: 176.53.159.196...
+[7/31/2026 5:40:28 PM] ***REJECTED*** {ip: "176.53.159.196", user: "orangepi", pass:"123456789"}
