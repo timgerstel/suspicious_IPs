@@ -216588,3 +216588,25 @@
 [7/31/2026 6:22:25 PM] 193.24.211.76 >>> Disconnected.
 [7/31/2026 6:26:38 PM] Connection attempt from IP: 144.202.92.17...
 [7/31/2026 6:26:38 PM] 144.202.92.17 >>> Disconnected.
+[7/31/2026 6:35:05 PM] Connection attempt from IP: 34.239.247.180...
+[7/31/2026 6:35:06 PM] 34.239.247.180 >>> Disconnected.
+[7/31/2026 6:36:50 PM] Connection attempt from IP: 45.84.107.54...
+[7/31/2026 6:36:52 PM] ***REJECTED*** {ip: "45.84.107.54", user: "ubuntu", pass:"5nWt3P-fF4WosQm5O"}
+[7/31/2026 6:36:52 PM] 45.84.107.54 >>> Disconnected.
+[7/31/2026 6:36:58 PM] Connection attempt from IP: 119.206.114.245...
+[7/31/2026 6:37:00 PM] ***REJECTED*** {ip: "119.206.114.245", user: "ubuntu", pass:"apache"}
+[7/31/2026 6:37:00 PM] 119.206.114.245 >>> Disconnected.
+[7/31/2026 6:45:51 PM] Connection attempt from IP: 2.57.121.25...
+[7/31/2026 6:45:52 PM] ***REJECTED*** {ip: "2.57.121.25", user: "admin", pass:"14021994"}
+[7/31/2026 6:45:53 PM] ***REJECTED*** {ip: "2.57.121.25", user: "admin", pass:"14011995"}
+[7/31/2026 6:45:53 PM] ***REJECTED*** {ip: "2.57.121.25", user: "admin", pass:"14011981"}
+[7/31/2026 6:45:53 PM] 2.57.121.25 >>> Disconnected.
+[7/31/2026 6:51:10 PM] Connection attempt from IP: 176.53.159.196...
+[7/31/2026 6:51:11 PM] ***REJECTED*** {ip: "176.53.159.196", user: "orangepi", pass:"123456789"}
+[7/31/2026 6:53:24 PM] Connection attempt from IP: 2.57.121.112...
+[7/31/2026 6:53:25 PM] ***REJECTED*** {ip: "2.57.121.112", user: "kentrell", pass:"kentrell"}
+[7/31/2026 6:53:25 PM] ***REJECTED*** {ip: "2.57.121.112", user: "kentrell", pass:"kentrell1"}
+[7/31/2026 6:53:25 PM] ***REJECTED*** {ip: "2.57.121.112", user: "kentrell", pass:"kentrell123"}
+[7/31/2026 6:53:26 PM] ***REJECTED*** {ip: "2.57.121.112", user: "kentrell", pass:"kentrell1234"}
+[7/31/2026 6:53:26 PM] ***REJECTED*** {ip: "2.57.121.112", user: "kentrell", pass:"kentrell12345"}
+[7/31/2026 6:53:26 PM] 2.57.121.112 >>> Disconnected.
