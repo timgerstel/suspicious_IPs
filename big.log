@@ -218404,3 +218404,12 @@
 [8/1/2026 12:25:11 PM] ***REJECTED*** {ip: "2.57.121.112", user: "keyara", pass:"keyara1234"}
 [8/1/2026 12:25:11 PM] ***REJECTED*** {ip: "2.57.121.112", user: "keyara", pass:"keyara12345"}
 [8/1/2026 12:25:11 PM] 2.57.121.112 >>> Disconnected.
+[8/1/2026 12:34:23 PM] Connection attempt from IP: 193.24.211.76...
+[8/1/2026 12:34:24 PM] ***REJECTED*** {ip: "193.24.211.76", user: "2020", pass:"2020"}
+[8/1/2026 12:34:24 PM] 193.24.211.76 >>> Disconnected.
+[8/1/2026 12:50:24 PM] Connection attempt from IP: 45.154.244.149...
+[8/1/2026 12:50:25 PM] ***REJECTED*** {ip: "45.154.244.149", user: "admin", pass:"openmediavault"}
+[8/1/2026 12:50:25 PM] 45.154.244.149 >>> Disconnected.
+[8/1/2026 12:53:51 PM] Connection attempt from IP: 193.24.211.76...
+[8/1/2026 12:53:52 PM] ***REJECTED*** {ip: "193.24.211.76", user: "user", pass:"code"}
+[8/1/2026 12:53:52 PM] 193.24.211.76 >>> Disconnected.
