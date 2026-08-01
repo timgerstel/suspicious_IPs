@@ -219275,3 +219275,27 @@
 [8/1/2026 9:50:23 PM] Connection attempt from IP: 119.206.114.245...
 [8/1/2026 9:50:25 PM] ***REJECTED*** {ip: "119.206.114.245", user: "ubuntu", pass:"apples"}
 [8/1/2026 9:50:25 PM] 119.206.114.245 >>> Disconnected.
+[8/1/2026 10:04:44 PM] Connection attempt from IP: 2.57.121.112...
+[8/1/2026 10:04:45 PM] ***REJECTED*** {ip: "2.57.121.112", user: "whitley", pass:"whitley"}
+[8/1/2026 10:04:46 PM] ***REJECTED*** {ip: "2.57.121.112", user: "whitley", pass:"whitley1"}
+[8/1/2026 10:04:46 PM] ***REJECTED*** {ip: "2.57.121.112", user: "whitley", pass:"whitley123"}
+[8/1/2026 10:04:46 PM] ***REJECTED*** {ip: "2.57.121.112", user: "whitley", pass:"whitley1234"}
+[8/1/2026 10:04:47 PM] ***REJECTED*** {ip: "2.57.121.112", user: "whitley", pass:"whitley12345"}
+[8/1/2026 10:04:47 PM] 2.57.121.112 >>> Disconnected.
+[8/1/2026 10:04:55 PM] Connection attempt from IP: 45.154.244.149...
+[8/1/2026 10:04:56 PM] ***REJECTED*** {ip: "45.154.244.149", user: "admin", pass:"Admin@123"}
+[8/1/2026 10:04:56 PM] 45.154.244.149 >>> Disconnected.
+[8/1/2026 10:06:59 PM] Connection attempt from IP: 45.148.10.152...
+[8/1/2026 10:12:02 PM] Connection attempt from IP: 193.46.255.86...
+[8/1/2026 10:12:03 PM] ***REJECTED*** {ip: "193.46.255.86", user: "ubnt", pass:"Qwerty12"}
+[8/1/2026 10:12:04 PM] ***REJECTED*** {ip: "193.46.255.86", user: "ubnt", pass:"ubnt@123"}
+[8/1/2026 10:12:04 PM] ***REJECTED*** {ip: "193.46.255.86", user: "ubnt", pass:"1111"}
+[8/1/2026 10:12:04 PM] 193.46.255.86 >>> Disconnected.
+[8/1/2026 10:21:38 PM] Connection attempt from IP: 193.24.211.76...
+[8/1/2026 10:21:39 PM] ***REJECTED*** {ip: "193.24.211.76", user: "amy", pass:"amy"}
+[8/1/2026 10:21:39 PM] 193.24.211.76 >>> Disconnected.
+[8/1/2026 10:23:51 PM] Connection attempt from IP: 2.57.121.25...
+[8/1/2026 10:23:52 PM] ***REJECTED*** {ip: "2.57.121.25", user: "admin", pass:"100001"}
+[8/1/2026 10:23:52 PM] ***REJECTED*** {ip: "2.57.121.25", user: "admin", pass:"091286"}
+[8/1/2026 10:23:52 PM] ***REJECTED*** {ip: "2.57.121.25", user: "admin", pass:"09121991"}
+[8/1/2026 10:23:53 PM] 2.57.121.25 >>> Disconnected.
