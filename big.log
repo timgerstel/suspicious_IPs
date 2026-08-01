@@ -218147,3 +218147,23 @@
 [8/1/2026 6:12:09 AM] Connection attempt from IP: 193.24.211.76...
 [8/1/2026 6:12:11 AM] ***REJECTED*** {ip: "193.24.211.76", user: "sam", pass:"sam"}
 [8/1/2026 6:12:11 AM] 193.24.211.76 >>> Disconnected.
+[8/1/2026 6:37:51 AM] Connection attempt from IP: 176.53.159.196...
+[8/1/2026 6:37:52 AM] ***REJECTED*** {ip: "176.53.159.196", user: "orangepi", pass:"123456789"}
+[8/1/2026 6:39:52 AM] Connection attempt from IP: 45.154.244.149...
+[8/1/2026 6:39:53 AM] ***REJECTED*** {ip: "45.154.244.149", user: "root", pass:"superscv"}
+[8/1/2026 6:39:53 AM] 45.154.244.149 >>> Disconnected.
+[8/1/2026 6:41:54 AM] Connection attempt from IP: 2.57.121.25...
+[8/1/2026 6:41:55 AM] ***REJECTED*** {ip: "2.57.121.25", user: "admin", pass:"121084"}
+[8/1/2026 6:41:56 AM] ***REJECTED*** {ip: "2.57.121.25", user: "admin", pass:"12101994"}
+[8/1/2026 6:41:56 AM] ***REJECTED*** {ip: "2.57.121.25", user: "admin", pass:"120883"}
+[8/1/2026 6:41:56 AM] 2.57.121.25 >>> Disconnected.
+[8/1/2026 6:42:10 AM] Connection attempt from IP: 2.57.121.112...
+[8/1/2026 6:42:11 AM] ***REJECTED*** {ip: "2.57.121.112", user: "corrina", pass:"corrina"}
+[8/1/2026 6:42:11 AM] ***REJECTED*** {ip: "2.57.121.112", user: "corrina", pass:"corrina1"}
+[8/1/2026 6:42:12 AM] ***REJECTED*** {ip: "2.57.121.112", user: "corrina", pass:"corrina123"}
+[8/1/2026 6:42:12 AM] ***REJECTED*** {ip: "2.57.121.112", user: "corrina", pass:"corrina1234"}
+[8/1/2026 6:42:12 AM] ***REJECTED*** {ip: "2.57.121.112", user: "corrina", pass:"corrina12345"}
+[8/1/2026 6:42:13 AM] 2.57.121.112 >>> Disconnected.
+[8/1/2026 6:45:47 AM] Connection attempt from IP: 193.24.211.76...
+[8/1/2026 6:45:49 AM] ***REJECTED*** {ip: "193.24.211.76", user: "baby", pass:"baby"}
+[8/1/2026 6:45:50 AM] 193.24.211.76 >>> Disconnected.
