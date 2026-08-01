@@ -218254,3 +218254,13 @@
 [8/1/2026 8:50:19 AM] ***REJECTED*** {ip: "2.57.121.25", user: "admin", pass:"120686"}
 [8/1/2026 8:50:19 AM] ***REJECTED*** {ip: "2.57.121.25", user: "admin", pass:"12061977"}
 [8/1/2026 8:50:19 AM] 2.57.121.25 >>> Disconnected.
+[8/1/2026 9:02:16 AM] Connection attempt from IP: 178.208.88.6...
+[8/1/2026 9:02:17 AM] 178.208.88.6 >>> Disconnected.
+[8/1/2026 9:09:00 AM] Connection attempt from IP: 176.53.159.196...
+[8/1/2026 9:09:02 AM] ***REJECTED*** {ip: "176.53.159.196", user: "orangepi", pass:"123456789"}
+[8/1/2026 9:13:42 AM] Connection attempt from IP: 193.24.211.76...
+[8/1/2026 9:13:43 AM] ***REJECTED*** {ip: "193.24.211.76", user: "administrator", pass:"Passw0rd"}
+[8/1/2026 9:13:43 AM] 193.24.211.76 >>> Disconnected.
+[8/1/2026 9:23:37 AM] Connection attempt from IP: 193.24.211.76...
+[8/1/2026 9:23:38 AM] ***REJECTED*** {ip: "193.24.211.76", user: "postfix", pass:"postfix"}
+[8/1/2026 9:23:39 AM] 193.24.211.76 >>> Disconnected.
