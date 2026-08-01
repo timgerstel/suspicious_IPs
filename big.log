@@ -218382,3 +218382,25 @@
 [8/1/2026 11:46:58 AM] Connection attempt from IP: 193.24.211.76...
 [8/1/2026 11:46:59 AM] ***REJECTED*** {ip: "193.24.211.76", user: "root", pass:"dreambox"}
 [8/1/2026 11:47:00 AM] 193.24.211.76 >>> Disconnected.
+[8/1/2026 12:00:23 PM] Connection attempt from IP: 176.53.159.196...
+[8/1/2026 12:00:24 PM] ***REJECTED*** {ip: "176.53.159.196", user: "orangepi", pass:"123456789"}
+[8/1/2026 12:01:19 PM] Connection attempt from IP: 2.57.121.25...
+[8/1/2026 12:01:20 PM] ***REJECTED*** {ip: "2.57.121.25", user: "admin", pass:"12031981"}
+[8/1/2026 12:01:21 PM] ***REJECTED*** {ip: "2.57.121.25", user: "admin", pass:"12031976"}
+[8/1/2026 12:01:21 PM] ***REJECTED*** {ip: "2.57.121.25", user: "admin", pass:"12021977"}
+[8/1/2026 12:01:21 PM] 2.57.121.25 >>> Disconnected.
+[8/1/2026 12:17:23 PM] Connection attempt from IP: 193.46.255.86...
+[8/1/2026 12:17:24 PM] ***REJECTED*** {ip: "193.46.255.86", user: "root", pass:"qweasdzxc123"}
+[8/1/2026 12:17:25 PM] ***REJECTED*** {ip: "193.46.255.86", user: "root", pass:"root123"}
+[8/1/2026 12:17:25 PM] ***REJECTED*** {ip: "193.46.255.86", user: "root", pass:"admin123"}
+[8/1/2026 12:17:25 PM] 193.46.255.86 >>> Disconnected.
+[8/1/2026 12:17:26 PM] Connection attempt from IP: 119.206.114.245...
+[8/1/2026 12:17:28 PM] ***REJECTED*** {ip: "119.206.114.245", user: "ubuntu", pass:"apple!@"}
+[8/1/2026 12:17:28 PM] 119.206.114.245 >>> Disconnected.
+[8/1/2026 12:25:09 PM] Connection attempt from IP: 2.57.121.112...
+[8/1/2026 12:25:10 PM] ***REJECTED*** {ip: "2.57.121.112", user: "keyara", pass:"keyara"}
+[8/1/2026 12:25:10 PM] ***REJECTED*** {ip: "2.57.121.112", user: "keyara", pass:"keyara1"}
+[8/1/2026 12:25:11 PM] ***REJECTED*** {ip: "2.57.121.112", user: "keyara", pass:"keyara123"}
+[8/1/2026 12:25:11 PM] ***REJECTED*** {ip: "2.57.121.112", user: "keyara", pass:"keyara1234"}
+[8/1/2026 12:25:11 PM] ***REJECTED*** {ip: "2.57.121.112", user: "keyara", pass:"keyara12345"}
+[8/1/2026 12:25:11 PM] 2.57.121.112 >>> Disconnected.
