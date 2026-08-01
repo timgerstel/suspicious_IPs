@@ -218144,3 +218144,6 @@
 [8/1/2026 5:47:06 AM] Connection attempt from IP: 119.206.114.245...
 [8/1/2026 5:47:08 AM] ***REJECTED*** {ip: "119.206.114.245", user: "ubuntu", pass:"apple"}
 [8/1/2026 5:47:08 AM] 119.206.114.245 >>> Disconnected.
+[8/1/2026 6:12:09 AM] Connection attempt from IP: 193.24.211.76...
+[8/1/2026 6:12:11 AM] ***REJECTED*** {ip: "193.24.211.76", user: "sam", pass:"sam"}
+[8/1/2026 6:12:11 AM] 193.24.211.76 >>> Disconnected.
