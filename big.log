@@ -218422,3 +218422,20 @@
 [8/1/2026 1:21:36 PM] Connection attempt from IP: 193.24.211.76...
 [8/1/2026 1:21:38 PM] ***REJECTED*** {ip: "193.24.211.76", user: "vincent", pass:"vincent"}
 [8/1/2026 1:21:38 PM] 193.24.211.76 >>> Disconnected.
+[8/1/2026 1:34:52 PM] Connection attempt from IP: 193.46.255.86...
+[8/1/2026 1:34:54 PM] ***REJECTED*** {ip: "193.46.255.86", user: "service", pass:"service"}
+[8/1/2026 1:34:54 PM] ***REJECTED*** {ip: "193.46.255.86", user: "service", pass:"abcd1234"}
+[8/1/2026 1:34:54 PM] ***REJECTED*** {ip: "193.46.255.86", user: "service", pass:"123456"}
+[8/1/2026 1:34:55 PM] 193.46.255.86 >>> Disconnected.
+[8/1/2026 1:46:57 PM] Connection attempt from IP: 176.53.159.196...
+[8/1/2026 1:46:58 PM] ***REJECTED*** {ip: "176.53.159.196", user: "orangepi", pass:"123456789"}
+[8/1/2026 1:49:25 PM] Connection attempt from IP: 2.57.121.112...
+[8/1/2026 1:49:26 PM] ***REJECTED*** {ip: "2.57.121.112", user: "khadijah", pass:"khadijah"}
+[8/1/2026 1:49:26 PM] ***REJECTED*** {ip: "2.57.121.112", user: "khadijah", pass:"khadijah1"}
+[8/1/2026 1:49:27 PM] ***REJECTED*** {ip: "2.57.121.112", user: "khadijah", pass:"khadijah123"}
+[8/1/2026 1:49:27 PM] ***REJECTED*** {ip: "2.57.121.112", user: "khadijah", pass:"khadijah1234"}
+[8/1/2026 1:49:27 PM] ***REJECTED*** {ip: "2.57.121.112", user: "khadijah", pass:"khadijah12345"}
+[8/1/2026 1:49:28 PM] 2.57.121.112 >>> Disconnected.
+[8/1/2026 1:50:16 PM] Connection attempt from IP: 119.206.114.245...
+[8/1/2026 1:50:17 PM] ***REJECTED*** {ip: "119.206.114.245", user: "ubuntu", pass:"apple@123"}
+[8/1/2026 1:50:18 PM] 119.206.114.245 >>> Disconnected.
