@@ -221490,3 +221490,27 @@
 [8/2/2026 6:50:38 PM] Connection attempt from IP: 195.178.110.137...
 [8/2/2026 6:50:39 PM] ***REJECTED*** {ip: "195.178.110.137", user: "SYSDBA", pass:"masterkey"}
 [8/2/2026 6:50:40 PM] 195.178.110.137 >>> Disconnected.
+[8/2/2026 7:01:16 PM] Connection attempt from IP: 195.178.110.137...
+[8/2/2026 7:01:17 PM] ***REJECTED*** {ip: "195.178.110.137", user: "root", pass:"tslinux"}
+[8/2/2026 7:01:17 PM] 195.178.110.137 >>> Disconnected.
+[8/2/2026 7:01:56 PM] Connection attempt from IP: 2.57.121.112...
+[8/2/2026 7:01:57 PM] ***REJECTED*** {ip: "2.57.121.112", user: "vera", pass:"vera"}
+[8/2/2026 7:01:57 PM] ***REJECTED*** {ip: "2.57.121.112", user: "vera", pass:"vera1"}
+[8/2/2026 7:01:58 PM] ***REJECTED*** {ip: "2.57.121.112", user: "vera", pass:"vera123"}
+[8/2/2026 7:01:58 PM] ***REJECTED*** {ip: "2.57.121.112", user: "vera", pass:"vera1234"}
+[8/2/2026 7:01:58 PM] ***REJECTED*** {ip: "2.57.121.112", user: "vera", pass:"vera12345"}
+[8/2/2026 7:01:59 PM] 2.57.121.112 >>> Disconnected.
+[8/2/2026 7:11:53 PM] Connection attempt from IP: 195.178.110.137...
+[8/2/2026 7:11:54 PM] ***REJECTED*** {ip: "195.178.110.137", user: "admin", pass:"switch"}
+[8/2/2026 7:11:54 PM] 195.178.110.137 >>> Disconnected.
+[8/2/2026 7:13:10 PM] Connection attempt from IP: 193.24.211.204...
+[8/2/2026 7:13:11 PM] ***REJECTED*** {ip: "193.24.211.204", user: "root", pass:"rootlinux"}
+[8/2/2026 7:13:11 PM] 193.24.211.204 >>> Disconnected.
+[8/2/2026 7:17:03 PM] Connection attempt from IP: 2.57.121.25...
+[8/2/2026 7:17:04 PM] ***REJECTED*** {ip: "2.57.121.25", user: "admin", pass:"0126"}
+[8/2/2026 7:17:04 PM] ***REJECTED*** {ip: "2.57.121.25", user: "admin", pass:"01121992"}
+[8/2/2026 7:17:04 PM] ***REJECTED*** {ip: "2.57.121.25", user: "admin", pass:"01111978"}
+[8/2/2026 7:17:05 PM] 2.57.121.25 >>> Disconnected.
+[8/2/2026 7:22:34 PM] Connection attempt from IP: 195.178.110.137...
+[8/2/2026 7:22:34 PM] ***REJECTED*** {ip: "195.178.110.137", user: "admin", pass:"epicrouter"}
+[8/2/2026 7:22:35 PM] 195.178.110.137 >>> Disconnected.
