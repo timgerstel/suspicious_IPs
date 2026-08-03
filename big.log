@@ -226415,3 +226415,13 @@
 [8/3/2026 2:52:02 PM] ***REJECTED*** {ip: "2.57.121.112", user: "jorden", pass:"jorden1234"}
 [8/3/2026 2:52:02 PM] ***REJECTED*** {ip: "2.57.121.112", user: "jorden", pass:"jorden12345"}
 [8/3/2026 2:52:03 PM] 2.57.121.112 >>> Disconnected.
+[8/3/2026 3:07:41 PM] Connection attempt from IP: 45.154.244.149...
+[8/3/2026 3:07:42 PM] ***REJECTED*** {ip: "45.154.244.149", user: "kb", pass:"kb"}
+[8/3/2026 3:07:42 PM] 45.154.244.149 >>> Disconnected.
+[8/3/2026 3:10:30 PM] Connection attempt from IP: 3.129.187.38...
+[8/3/2026 3:10:31 PM] 3.129.187.38 >>> Disconnected.
+[8/3/2026 3:15:19 PM] Connection attempt from IP: 2.57.121.25...
+[8/3/2026 3:15:20 PM] ***REJECTED*** {ip: "2.57.121.25", user: "admin", pass:"skypilot"}
+[8/3/2026 3:15:21 PM] ***REJECTED*** {ip: "2.57.121.25", user: "admin", pass:"sk84life"}
+[8/3/2026 3:15:21 PM] ***REJECTED*** {ip: "2.57.121.25", user: "admin", pass:"simcity"}
+[8/3/2026 3:15:21 PM] 2.57.121.25 >>> Disconnected.
