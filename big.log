@@ -222062,3 +222062,27 @@
 [8/3/2026 3:29:42 AM] ***REJECTED*** {ip: "94.154.43.230", user: "root", pass:"admin"}
 [8/3/2026 3:29:48 AM] 94.154.43.230 >>> Disconnected.
 [8/3/2026 3:29:55 AM] Connection attempt from IP: 94.154.43.230...
+[8/3/2026 3:30:20 AM] ***REJECTED*** {ip: "94.154.43.230", user: "root", pass:"password"}
+[8/3/2026 3:30:26 AM] 94.154.43.230 >>> Disconnected.
+[8/3/2026 3:30:31 AM] Connection attempt from IP: 94.154.43.230...
+[8/3/2026 3:30:56 AM] ***REJECTED*** {ip: "94.154.43.230", user: "root", pass:"03idex"}
+[8/3/2026 3:31:03 AM] 94.154.43.230 >>> Disconnected.
+[8/3/2026 3:31:09 AM] Connection attempt from IP: 94.154.43.230...
+[8/3/2026 3:37:15 AM] Connection attempt from IP: 195.178.110.137...
+[8/3/2026 3:37:16 AM] ***REJECTED*** {ip: "195.178.110.137", user: "support", pass:"support"}
+[8/3/2026 3:37:16 AM] 195.178.110.137 >>> Disconnected.
+[8/3/2026 3:48:19 AM] Connection attempt from IP: 2.57.121.112...
+[8/3/2026 3:48:20 AM] ***REJECTED*** {ip: "2.57.121.112", user: "kobi", pass:"kobi"}
+[8/3/2026 3:48:21 AM] ***REJECTED*** {ip: "2.57.121.112", user: "kobi", pass:"kobi1"}
+[8/3/2026 3:48:21 AM] ***REJECTED*** {ip: "2.57.121.112", user: "kobi", pass:"kobi123"}
+[8/3/2026 3:48:21 AM] ***REJECTED*** {ip: "2.57.121.112", user: "kobi", pass:"kobi1234"}
+[8/3/2026 3:48:22 AM] ***REJECTED*** {ip: "2.57.121.112", user: "kobi", pass:"kobi12345"}
+[8/3/2026 3:48:22 AM] 2.57.121.112 >>> Disconnected.
+[8/3/2026 3:50:43 AM] Connection attempt from IP: 195.178.110.137...
+[8/3/2026 3:50:44 AM] ***REJECTED*** {ip: "195.178.110.137", user: "admin", pass:"admin"}
+[8/3/2026 3:50:44 AM] 195.178.110.137 >>> Disconnected.
+[8/3/2026 3:55:08 AM] Connection attempt from IP: 2.57.121.25...
+[8/3/2026 3:55:09 AM] ***REJECTED*** {ip: "2.57.121.25", user: "admin", pass:"wade"}
+[8/3/2026 3:55:09 AM] ***REJECTED*** {ip: "2.57.121.25", user: "admin", pass:"vostok"}
+[8/3/2026 3:55:10 AM] ***REJECTED*** {ip: "2.57.121.25", user: "admin", pass:"volodya"}
+[8/3/2026 3:55:10 AM] 2.57.121.25 >>> Disconnected.
