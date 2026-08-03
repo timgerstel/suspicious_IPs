@@ -221812,3 +221812,24 @@
 [8/3/2026 12:49:42 AM] ***REJECTED*** {ip: "193.46.255.86", user: "tomcat", pass:"t0mc@t"}
 [8/3/2026 12:49:42 AM] ***REJECTED*** {ip: "193.46.255.86", user: "tomcat", pass:"321"}
 [8/3/2026 12:49:42 AM] 193.46.255.86 >>> Disconnected.
+[8/3/2026 1:03:14 AM] Connection attempt from IP: 2.57.121.25...
+[8/3/2026 1:03:15 AM] ***REJECTED*** {ip: "2.57.121.25", user: "admin", pass:"yecgaa"}
+[8/3/2026 1:03:15 AM] ***REJECTED*** {ip: "2.57.121.25", user: "admin", pass:"yackwin"}
+[8/3/2026 1:03:16 AM] ***REJECTED*** {ip: "2.57.121.25", user: "admin", pass:"xterra"}
+[8/3/2026 1:03:16 AM] 2.57.121.25 >>> Disconnected.
+[8/3/2026 1:05:58 AM] Connection attempt from IP: 45.148.10.151...
+[8/3/2026 1:10:54 AM] Connection attempt from IP: 45.154.244.149...
+[8/3/2026 1:10:54 AM] ***REJECTED*** {ip: "45.154.244.149", user: "username", pass:"password"}
+[8/3/2026 1:10:55 AM] 45.154.244.149 >>> Disconnected.
+[8/3/2026 1:18:58 AM] Connection attempt from IP: 2.57.121.112...
+[8/3/2026 1:18:59 AM] ***REJECTED*** {ip: "2.57.121.112", user: "dakoda", pass:"dakoda"}
+[8/3/2026 1:18:59 AM] ***REJECTED*** {ip: "2.57.121.112", user: "dakoda", pass:"dakoda1"}
+[8/3/2026 1:18:59 AM] ***REJECTED*** {ip: "2.57.121.112", user: "dakoda", pass:"dakoda123"}
+[8/3/2026 1:19:00 AM] ***REJECTED*** {ip: "2.57.121.112", user: "dakoda", pass:"dakoda1234"}
+[8/3/2026 1:19:00 AM] ***REJECTED*** {ip: "2.57.121.112", user: "dakoda", pass:"dakoda12345"}
+[8/3/2026 1:19:00 AM] 2.57.121.112 >>> Disconnected.
+[8/3/2026 1:23:39 AM] Connection attempt from IP: 193.24.211.204...
+[8/3/2026 1:23:40 AM] ***REJECTED*** {ip: "193.24.211.204", user: "root", pass:"jeff"}
+[8/3/2026 1:23:41 AM] 193.24.211.204 >>> Disconnected.
+[8/3/2026 1:28:37 AM] Connection attempt from IP: 45.153.34.151...
+[8/3/2026 1:28:45 AM] 45.153.34.151 >>> Disconnected.
