@@ -235074,3 +235074,10 @@
 [8/4/2026 7:10:16 PM] ***REJECTED*** {ip: "2.57.121.25", user: "admin", pass:"nihongo"}
 [8/4/2026 7:10:17 PM] ***REJECTED*** {ip: "2.57.121.25", user: "admin", pass:"nicky1"}
 [8/4/2026 7:10:17 PM] 2.57.121.25 >>> Disconnected.
+[8/4/2026 7:32:34 PM] Connection attempt from IP: 193.46.255.86...
+[8/4/2026 7:32:36 PM] ***REJECTED*** {ip: "193.46.255.86", user: "postgres", pass:"postgres"}
+[8/4/2026 7:32:36 PM] ***REJECTED*** {ip: "193.46.255.86", user: "postgres", pass:"admin"}
+[8/4/2026 7:32:36 PM] ***REJECTED*** {ip: "193.46.255.86", user: "postgres", pass:"root"}
+[8/4/2026 7:32:36 PM] 193.46.255.86 >>> Disconnected.
+[8/4/2026 7:32:52 PM] Connection attempt from IP: 176.53.159.196...
+[8/4/2026 7:32:54 PM] ***REJECTED*** {ip: "176.53.159.196", user: "orangepi", pass:"123456789"}
