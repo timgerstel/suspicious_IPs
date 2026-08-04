@@ -234665,3 +234665,24 @@
 [8/4/2026 2:50:59 PM] ***REJECTED*** {ip: "2.57.121.25", user: "admin", pass:"oldnavy"}
 [8/4/2026 2:51:00 PM] ***REJECTED*** {ip: "2.57.121.25", user: "admin", pass:"ohio"}
 [8/4/2026 2:51:00 PM] 2.57.121.25 >>> Disconnected.
+[8/4/2026 3:30:38 PM] Connection attempt from IP: 51.79.143.228...
+[8/4/2026 3:30:40 PM] 51.79.143.228 >>> Disconnected.
+[8/4/2026 3:36:50 PM] Connection attempt from IP: 2.57.121.112...
+[8/4/2026 3:36:51 PM] ***REJECTED*** {ip: "2.57.121.112", user: "theo", pass:"theo"}
+[8/4/2026 3:36:51 PM] ***REJECTED*** {ip: "2.57.121.112", user: "theo", pass:"theo1"}
+[8/4/2026 3:36:52 PM] ***REJECTED*** {ip: "2.57.121.112", user: "theo", pass:"theo123"}
+[8/4/2026 3:36:52 PM] ***REJECTED*** {ip: "2.57.121.112", user: "theo", pass:"theo1234"}
+[8/4/2026 3:36:52 PM] ***REJECTED*** {ip: "2.57.121.112", user: "theo", pass:"theo12345"}
+[8/4/2026 3:36:53 PM] 2.57.121.112 >>> Disconnected.
+[8/4/2026 3:42:17 PM] Connection attempt from IP: 45.77.61.56...
+[8/4/2026 3:42:17 PM] 45.77.61.56 >>> Disconnected.
+[8/4/2026 3:54:18 PM] Connection attempt from IP: 193.46.255.86...
+[8/4/2026 3:54:19 PM] ***REJECTED*** {ip: "193.46.255.86", user: "admin", pass:"Huawei12#$"}
+[8/4/2026 3:54:19 PM] ***REJECTED*** {ip: "193.46.255.86", user: "admin", pass:"admin1234"}
+[8/4/2026 3:54:19 PM] ***REJECTED*** {ip: "193.46.255.86", user: "admin", pass:"123456"}
+[8/4/2026 3:54:20 PM] 193.46.255.86 >>> Disconnected.
+[8/4/2026 3:56:11 PM] Connection attempt from IP: 2.57.121.25...
+[8/4/2026 3:56:12 PM] ***REJECTED*** {ip: "2.57.121.25", user: "admin", pass:"ocarina"}
+[8/4/2026 3:56:12 PM] ***REJECTED*** {ip: "2.57.121.25", user: "admin", pass:"obrien"}
+[8/4/2026 3:56:13 PM] ***REJECTED*** {ip: "2.57.121.25", user: "admin", pass:"nvidia"}
+[8/4/2026 3:56:13 PM] 2.57.121.25 >>> Disconnected.
