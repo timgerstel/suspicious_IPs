@@ -232482,3 +232482,16 @@
 [8/3/2026 11:18:39 PM] Connection attempt from IP: 193.24.211.204...
 [8/3/2026 11:18:40 PM] ***REJECTED*** {ip: "193.24.211.204", user: "pi", pass:"password"}
 [8/3/2026 11:18:40 PM] 193.24.211.204 >>> Disconnected.
+[8/3/2026 11:31:46 PM] Connection attempt from IP: 193.46.255.86...
+[8/3/2026 11:31:47 PM] ***REJECTED*** {ip: "193.46.255.86", user: "user", pass:"1234"}
+[8/3/2026 11:31:47 PM] ***REJECTED*** {ip: "193.46.255.86", user: "user", pass:"user"}
+[8/3/2026 11:31:47 PM] ***REJECTED*** {ip: "193.46.255.86", user: "user", pass:"26111994"}
+[8/3/2026 11:31:48 PM] 193.46.255.86 >>> Disconnected.
+[8/3/2026 11:40:28 PM] Connection attempt from IP: 94.237.111.75...
+[8/3/2026 11:40:29 PM] ***REJECTED*** {ip: "94.237.111.75", user: "root", pass:"Pay@123"}
+[8/3/2026 11:40:29 PM] 94.237.111.75 >>> Disconnected.
+[8/3/2026 11:43:40 PM] Connection attempt from IP: 45.156.87.254...
+[8/3/2026 11:43:48 PM] 45.156.87.254 >>> Disconnected.
+[8/3/2026 11:52:55 PM] Connection attempt from IP: 45.154.244.149...
+[8/3/2026 11:52:55 PM] ***REJECTED*** {ip: "45.154.244.149", user: "root", pass:"kmi"}
+[8/3/2026 11:52:56 PM] 45.154.244.149 >>> Disconnected.
