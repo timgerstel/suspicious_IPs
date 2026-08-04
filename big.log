@@ -235095,3 +235095,11 @@
 [8/4/2026 8:14:18 PM] ***REJECTED*** {ip: "2.57.121.25", user: "admin", pass:"nibbles"}
 [8/4/2026 8:14:18 PM] ***REJECTED*** {ip: "2.57.121.25", user: "admin", pass:"nessie"}
 [8/4/2026 8:14:18 PM] 2.57.121.25 >>> Disconnected.
+[8/4/2026 8:44:17 PM] Connection attempt from IP: 45.154.244.193...
+[8/4/2026 8:44:18 PM] ***REJECTED*** {ip: "45.154.244.193", user: "test", pass:"12345"}
+[8/4/2026 8:44:18 PM] 45.154.244.193 >>> Disconnected.
+[8/4/2026 8:50:22 PM] Connection attempt from IP: 193.46.255.86...
+[8/4/2026 8:50:24 PM] ***REJECTED*** {ip: "193.46.255.86", user: "ftp", pass:"ftp"}
+[8/4/2026 8:50:24 PM] ***REJECTED*** {ip: "193.46.255.86", user: "ftp", pass:"123456"}
+[8/4/2026 8:50:24 PM] ***REJECTED*** {ip: "193.46.255.86", user: "ftp", pass:"12345"}
+[8/4/2026 8:50:25 PM] 193.46.255.86 >>> Disconnected.
