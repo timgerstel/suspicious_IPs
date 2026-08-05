@@ -236180,3 +236180,24 @@
 [8/5/2026 8:24:57 AM] ***REJECTED*** {ip: "193.46.255.86", user: "admin", pass:"nosoup4u"}
 [8/5/2026 8:24:57 AM] ***REJECTED*** {ip: "193.46.255.86", user: "admin", pass:"126845"}
 [8/5/2026 8:24:58 AM] 193.46.255.86 >>> Disconnected.
+[8/5/2026 8:34:23 AM] Connection attempt from IP: 45.154.244.193...
+[8/5/2026 8:34:24 AM] ***REJECTED*** {ip: "45.154.244.193", user: "root", pass:"root123"}
+[8/5/2026 8:34:24 AM] 45.154.244.193 >>> Disconnected.
+[8/5/2026 8:35:30 AM] Connection attempt from IP: 172.104.11.4...
+[8/5/2026 8:35:31 AM] 172.104.11.4 >>> Disconnected.
+[8/5/2026 8:35:31 AM] Connection attempt from IP: 172.104.11.4...
+[8/5/2026 8:35:31 AM] 172.104.11.4 >>> Disconnected.
+[8/5/2026 8:35:31 AM] Connection attempt from IP: 172.104.11.4...
+[8/5/2026 8:35:31 AM] 172.104.11.4 >>> Disconnected.
+[8/5/2026 8:41:38 AM] Connection attempt from IP: 2.57.121.112...
+[8/5/2026 8:41:40 AM] ***REJECTED*** {ip: "2.57.121.112", user: "rosie", pass:"rosie"}
+[8/5/2026 8:41:40 AM] ***REJECTED*** {ip: "2.57.121.112", user: "rosie", pass:"rosie1"}
+[8/5/2026 8:41:40 AM] ***REJECTED*** {ip: "2.57.121.112", user: "rosie", pass:"rosie123"}
+[8/5/2026 8:41:41 AM] ***REJECTED*** {ip: "2.57.121.112", user: "rosie", pass:"rosie1234"}
+[8/5/2026 8:41:41 AM] ***REJECTED*** {ip: "2.57.121.112", user: "rosie", pass:"rosie12345"}
+[8/5/2026 8:41:41 AM] 2.57.121.112 >>> Disconnected.
+[8/5/2026 8:50:38 AM] Connection attempt from IP: 2.57.121.25...
+[8/5/2026 8:50:39 AM] ***REJECTED*** {ip: "2.57.121.25", user: "admin", pass:"lethal"}
+[8/5/2026 8:50:40 AM] ***REJECTED*** {ip: "2.57.121.25", user: "admin", pass:"leningrad"}
+[8/5/2026 8:50:40 AM] ***REJECTED*** {ip: "2.57.121.25", user: "admin", pass:"lemieux"}
+[8/5/2026 8:50:40 AM] 2.57.121.25 >>> Disconnected.
