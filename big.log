@@ -235453,3 +235453,16 @@
 [8/5/2026 2:34:30 AM] 2.57.121.25 >>> Disconnected.
 [8/5/2026 2:47:49 AM] Connection attempt from IP: 64.62.197.153...
 [8/5/2026 2:47:53 AM] 64.62.197.153 >>> Disconnected.
+[8/5/2026 3:06:47 AM] Connection attempt from IP: 2.57.121.112...
+[8/5/2026 3:06:48 AM] ***REJECTED*** {ip: "2.57.121.112", user: "kearra", pass:"kearra"}
+[8/5/2026 3:06:49 AM] ***REJECTED*** {ip: "2.57.121.112", user: "kearra", pass:"kearra1"}
+[8/5/2026 3:06:49 AM] ***REJECTED*** {ip: "2.57.121.112", user: "kearra", pass:"kearra123"}
+[8/5/2026 3:06:49 AM] ***REJECTED*** {ip: "2.57.121.112", user: "kearra", pass:"kearra1234"}
+[8/5/2026 3:06:50 AM] ***REJECTED*** {ip: "2.57.121.112", user: "kearra", pass:"kearra12345"}
+[8/5/2026 3:06:50 AM] 2.57.121.112 >>> Disconnected.
+[8/5/2026 3:17:51 AM] Connection attempt from IP: 193.46.255.86...
+[8/5/2026 3:17:52 AM] ***REJECTED*** {ip: "193.46.255.86", user: "admin", pass:"P@ssw0rd"}
+[8/5/2026 3:17:52 AM] ***REJECTED*** {ip: "193.46.255.86", user: "admin", pass:"creative"}
+[8/5/2026 3:17:53 AM] ***REJECTED*** {ip: "193.46.255.86", user: "admin", pass:"Aa12345678"}
+[8/5/2026 3:17:53 AM] 193.46.255.86 >>> Disconnected.
+[8/5/2026 3:22:49 AM] Connection attempt from IP: 2.57.17.13...
