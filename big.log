@@ -236744,3 +236744,17 @@
 [8/5/2026 4:03:29 PM] Connection attempt from IP: 45.148.10.151...
 [8/5/2026 4:13:55 PM] Connection attempt from IP: 176.53.159.196...
 [8/5/2026 4:13:56 PM] ***REJECTED*** {ip: "176.53.159.196", user: "orangepi", pass:"123456789"}
+[8/5/2026 4:52:54 PM] Connection attempt from IP: 2.57.121.112...
+[8/5/2026 4:52:55 PM] ***REJECTED*** {ip: "2.57.121.112", user: "deric", pass:"deric"}
+[8/5/2026 4:52:55 PM] ***REJECTED*** {ip: "2.57.121.112", user: "deric", pass:"deric1"}
+[8/5/2026 4:52:55 PM] ***REJECTED*** {ip: "2.57.121.112", user: "deric", pass:"deric123"}
+[8/5/2026 4:52:56 PM] ***REJECTED*** {ip: "2.57.121.112", user: "deric", pass:"deric1234"}
+[8/5/2026 4:52:56 PM] ***REJECTED*** {ip: "2.57.121.112", user: "deric", pass:"deric12345"}
+[8/5/2026 4:52:56 PM] 2.57.121.112 >>> Disconnected.
+[8/5/2026 4:54:00 PM] Connection attempt from IP: 205.210.31.98...
+[8/5/2026 4:54:03 PM] 205.210.31.98 >>> Disconnected.
+[8/5/2026 4:58:04 PM] Connection attempt from IP: 193.46.255.86...
+[8/5/2026 4:58:05 PM] ***REJECTED*** {ip: "193.46.255.86", user: "vpn", pass:"vpn"}
+[8/5/2026 4:58:05 PM] ***REJECTED*** {ip: "193.46.255.86", user: "vpn", pass:"1234"}
+[8/5/2026 4:58:06 PM] ***REJECTED*** {ip: "193.46.255.86", user: "vpn", pass:"123456"}
+[8/5/2026 4:58:06 PM] 193.46.255.86 >>> Disconnected.
