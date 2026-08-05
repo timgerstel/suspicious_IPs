@@ -236636,3 +236636,6 @@
 [8/5/2026 2:27:39 PM] ***REJECTED*** {ip: "193.46.255.86", user: "ubnt", pass:"ubnt@123"}
 [8/5/2026 2:27:39 PM] ***REJECTED*** {ip: "193.46.255.86", user: "ubnt", pass:"1111"}
 [8/5/2026 2:27:39 PM] 193.46.255.86 >>> Disconnected.
+[8/5/2026 2:55:47 PM] Connection attempt from IP: 45.154.244.193...
+[8/5/2026 2:55:48 PM] ***REJECTED*** {ip: "45.154.244.193", user: "ubnt", pass:"admin"}
+[8/5/2026 2:55:48 PM] 45.154.244.193 >>> Disconnected.
