@@ -235466,3 +235466,10 @@
 [8/5/2026 3:17:53 AM] ***REJECTED*** {ip: "193.46.255.86", user: "admin", pass:"Aa12345678"}
 [8/5/2026 3:17:53 AM] 193.46.255.86 >>> Disconnected.
 [8/5/2026 3:22:49 AM] Connection attempt from IP: 2.57.17.13...
+[8/5/2026 3:37:23 AM] Connection attempt from IP: 2.57.121.25...
+[8/5/2026 3:37:24 AM] ***REJECTED*** {ip: "2.57.121.25", user: "admin", pass:"megafon"}
+[8/5/2026 3:37:25 AM] ***REJECTED*** {ip: "2.57.121.25", user: "admin", pass:"maxman"}
+[8/5/2026 3:37:25 AM] ***REJECTED*** {ip: "2.57.121.25", user: "admin", pass:"marx"}
+[8/5/2026 3:37:25 AM] 2.57.121.25 >>> Disconnected.
+[8/5/2026 3:40:55 AM] Connection attempt from IP: 176.53.159.196...
+[8/5/2026 3:40:56 AM] ***REJECTED*** {ip: "176.53.159.196", user: "orangepi", pass:"123456789"}
