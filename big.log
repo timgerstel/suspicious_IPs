@@ -236154,3 +236154,17 @@
 [8/5/2026 7:18:23 AM] ***REJECTED*** {ip: "2.57.121.112", user: "nayely", pass:"nayely1234"}
 [8/5/2026 7:18:23 AM] ***REJECTED*** {ip: "2.57.121.112", user: "nayely", pass:"nayely12345"}
 [8/5/2026 7:18:24 AM] 2.57.121.112 >>> Disconnected.
+[8/5/2026 7:44:30 AM] Connection attempt from IP: 35.233.88.2...
+[8/5/2026 7:44:30 AM] Connection attempt from IP: 35.233.88.2...
+[8/5/2026 7:44:30 AM] 35.233.88.2 >>> Disconnected.
+[8/5/2026 7:48:14 AM] Connection attempt from IP: 2.57.121.25...
+[8/5/2026 7:48:15 AM] ***REJECTED*** {ip: "2.57.121.25", user: "admin", pass:"lisboa"}
+[8/5/2026 7:48:16 AM] ***REJECTED*** {ip: "2.57.121.25", user: "admin", pass:"lindsay1"}
+[8/5/2026 7:48:16 AM] ***REJECTED*** {ip: "2.57.121.25", user: "admin", pass:"limpopo"}
+[8/5/2026 7:48:16 AM] 2.57.121.25 >>> Disconnected.
+[8/5/2026 7:52:15 AM] Connection attempt from IP: 211.225.139.200...
+[8/5/2026 7:52:17 AM] ***REJECTED*** {ip: "211.225.139.200", user: "root", pass:"1013089"}
+[8/5/2026 7:52:17 AM] 211.225.139.200 >>> Disconnected.
+[8/5/2026 7:58:27 AM] Connection attempt from IP: 211.225.139.200...
+[8/5/2026 7:58:29 AM] ***REJECTED*** {ip: "211.225.139.200", user: "root", pass:"1013089"}
+[8/5/2026 7:58:29 AM] 211.225.139.200 >>> Disconnected.
