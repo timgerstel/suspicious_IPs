@@ -236958,3 +236958,59 @@
 [8/5/2026 9:59:50 PM] Connection attempt from IP: 116.99.171.102...
 [8/5/2026 9:59:52 PM] ***REJECTED*** {ip: "116.99.171.102", user: "installer", pass:"installer"}
 [8/5/2026 9:59:52 PM] 116.99.171.102 >>> Disconnected.
+[8/5/2026 10:02:11 PM] Connection attempt from IP: 116.99.171.102...
+[8/5/2026 10:02:15 PM] ***REJECTED*** {ip: "116.99.171.102", user: "user", pass:"user"}
+[8/5/2026 10:02:15 PM] 116.99.171.102 >>> Disconnected.
+[8/5/2026 10:05:31 PM] Connection attempt from IP: 116.99.171.102...
+[8/5/2026 10:05:41 PM] ***REJECTED*** {ip: "116.99.171.102", user: "ubnt", pass:"ubnt"}
+[8/5/2026 10:05:42 PM] 116.99.171.102 >>> Disconnected.
+[8/5/2026 10:07:47 PM] Connection attempt from IP: 45.148.10.147...
+[8/5/2026 10:08:24 PM] Connection attempt from IP: 2.57.121.25...
+[8/5/2026 10:08:25 PM] ***REJECTED*** {ip: "2.57.121.25", user: "admin", pass:"haynes"}
+[8/5/2026 10:08:26 PM] ***REJECTED*** {ip: "2.57.121.25", user: "admin", pass:"havoc"}
+[8/5/2026 10:08:26 PM] ***REJECTED*** {ip: "2.57.121.25", user: "admin", pass:"hart"}
+[8/5/2026 10:08:26 PM] 2.57.121.25 >>> Disconnected.
+[8/5/2026 10:11:12 PM] Connection attempt from IP: 116.99.171.102...
+[8/5/2026 10:11:16 PM] ***REJECTED*** {ip: "116.99.171.102", user: "squid", pass:"squid"}
+[8/5/2026 10:11:16 PM] 116.99.171.102 >>> Disconnected.
+[8/5/2026 10:13:01 PM] Connection attempt from IP: 1.255.171.167...
+[8/5/2026 10:13:02 PM] ***REJECTED*** {ip: "1.255.171.167", user: "root", pass:"root"}
+[8/5/2026 10:13:02 PM] ***REJECTED*** {ip: "1.255.171.167", user: "root", pass:"admin"}
+[8/5/2026 10:13:03 PM] ***REJECTED*** {ip: "1.255.171.167", user: "root", pass:"12345"}
+[8/5/2026 10:13:03 PM] ***REJECTED*** {ip: "1.255.171.167", user: "root", pass:"guest"}
+[8/5/2026 10:13:04 PM] ***REJECTED*** {ip: "1.255.171.167", user: "root", pass:"123456"}
+[8/5/2026 10:13:04 PM] ***REJECTED*** {ip: "1.255.171.167", user: "root", pass:"1234"}
+[8/5/2026 10:13:04 PM] ***REJECTED*** {ip: "1.255.171.167", user: "root", pass:"123"}
+[8/5/2026 10:13:05 PM] ***REJECTED*** {ip: "1.255.171.167", user: "root", pass:"hlL0mlNAabiR"}
+[8/5/2026 10:13:05 PM] ***REJECTED*** {ip: "1.255.171.167", user: "root", pass:"test"}
+[8/5/2026 10:13:06 PM] ***REJECTED*** {ip: "1.255.171.167", user: "root", pass:"toor"}
+[8/5/2026 10:13:06 PM] ***REJECTED*** {ip: "1.255.171.167", user: "root", pass:"qwerty"}
+[8/5/2026 10:13:06 PM] ***REJECTED*** {ip: "1.255.171.167", user: "root", pass:"pfsense"}
+[8/5/2026 10:13:07 PM] ***REJECTED*** {ip: "1.255.171.167", user: "root", pass:"ubuntu"}
+[8/5/2026 10:13:07 PM] ***REJECTED*** {ip: "1.255.171.167", user: "root", pass:"2glehe5t24th1issZs"}
+[8/5/2026 10:13:08 PM] ***REJECTED*** {ip: "1.255.171.167", user: "root", pass:"5nWt3P-fF4WosQm5O"}
+[8/5/2026 10:13:08 PM] ***REJECTED*** {ip: "1.255.171.167", user: "root", pass:"FAqY7=MZk66k-ob3Rmk"}
+[8/5/2026 10:13:08 PM] 1.255.171.167 >>> Disconnected.
+[8/5/2026 10:13:15 PM] Connection attempt from IP: 2.57.121.112...
+[8/5/2026 10:13:16 PM] ***REJECTED*** {ip: "2.57.121.112", user: "wallace", pass:"wallace"}
+[8/5/2026 10:13:16 PM] ***REJECTED*** {ip: "2.57.121.112", user: "wallace", pass:"wallace1"}
+[8/5/2026 10:13:16 PM] ***REJECTED*** {ip: "2.57.121.112", user: "wallace", pass:"wallace123"}
+[8/5/2026 10:13:17 PM] ***REJECTED*** {ip: "2.57.121.112", user: "wallace", pass:"wallace1234"}
+[8/5/2026 10:13:17 PM] ***REJECTED*** {ip: "2.57.121.112", user: "wallace", pass:"wallace12345"}
+[8/5/2026 10:13:17 PM] 2.57.121.112 >>> Disconnected.
+[8/5/2026 10:15:09 PM] Connection attempt from IP: 116.99.171.102...
+[8/5/2026 10:15:12 PM] ***REJECTED*** {ip: "116.99.171.102", user: "config", pass:"config"}
+[8/5/2026 10:15:13 PM] 116.99.171.102 >>> Disconnected.
+[8/5/2026 10:20:03 PM] Connection attempt from IP: 116.110.157.234...
+[8/5/2026 10:20:10 PM] ***REJECTED*** {ip: "116.110.157.234", user: "support", pass:"support"}
+[8/5/2026 10:20:18 PM] 116.110.157.234 >>> Disconnected.
+[8/5/2026 10:21:42 PM] Connection attempt from IP: 116.99.171.102...
+[8/5/2026 10:21:58 PM] ***REJECTED*** {ip: "116.99.171.102", user: "root", pass:"@"}
+[8/5/2026 10:21:58 PM] 116.99.171.102 >>> Disconnected.
+[8/5/2026 10:27:09 PM] Connection attempt from IP: 116.99.171.102...
+[8/5/2026 10:27:13 PM] ***REJECTED*** {ip: "116.99.171.102", user: "root", pass:"root"}
+[8/5/2026 10:27:14 PM] 116.99.171.102 >>> Disconnected.
+[8/5/2026 10:27:45 PM] Connection attempt from IP: 193.24.211.204...
+[8/5/2026 10:27:46 PM] ***REJECTED*** {ip: "193.24.211.204", user: "root", pass:"1357924680"}
+[8/5/2026 10:27:46 PM] 193.24.211.204 >>> Disconnected.
+[8/5/2026 10:29:58 PM] Connection attempt from IP: 116.99.171.102...
