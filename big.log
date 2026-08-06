@@ -237263,3 +237263,9 @@
 [8/6/2026 5:14:41 AM] 193.24.211.204 >>> Disconnected.
 [8/6/2026 5:20:23 AM] Connection attempt from IP: 176.53.159.196...
 [8/6/2026 5:20:24 AM] ***REJECTED*** {ip: "176.53.159.196", user: "orangepi", pass:"123456789"}
+[8/6/2026 5:39:33 AM] Connection attempt from IP: 45.154.244.193...
+[8/6/2026 5:39:34 AM] ***REJECTED*** {ip: "45.154.244.193", user: "system", pass:"budda279056"}
+[8/6/2026 5:39:34 AM] 45.154.244.193 >>> Disconnected.
+[8/6/2026 5:57:05 AM] Connection attempt from IP: 193.24.211.204...
+[8/6/2026 5:57:06 AM] ***REJECTED*** {ip: "193.24.211.204", user: "root", pass:"reverse"}
+[8/6/2026 5:57:07 AM] 193.24.211.204 >>> Disconnected.
