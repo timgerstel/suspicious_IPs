@@ -238784,3 +238784,19 @@
 [8/6/2026 9:29:14 PM] Connection attempt from IP: 45.154.244.193...
 [8/6/2026 9:29:14 PM] ***REJECTED*** {ip: "45.154.244.193", user: "alex", pass:"1234"}
 [8/6/2026 9:29:15 PM] 45.154.244.193 >>> Disconnected.
+[8/6/2026 9:39:29 PM] Connection attempt from IP: 2.57.121.25...
+[8/6/2026 9:39:30 PM] ***REJECTED*** {ip: "2.57.121.25", user: "admin", pass:"danmark"}
+[8/6/2026 9:39:30 PM] ***REJECTED*** {ip: "2.57.121.25", user: "admin", pass:"DANDFA"}
+[8/6/2026 9:39:31 PM] ***REJECTED*** {ip: "2.57.121.25", user: "admin", pass:"dalejr8"}
+[8/6/2026 9:39:31 PM] 2.57.121.25 >>> Disconnected.
+[8/6/2026 9:51:24 PM] Connection attempt from IP: 193.24.211.204...
+[8/6/2026 9:51:25 PM] ***REJECTED*** {ip: "193.24.211.204", user: "root", pass:"dev123"}
+[8/6/2026 9:51:25 PM] 193.24.211.204 >>> Disconnected.
+[8/6/2026 9:57:51 PM] Connection attempt from IP: 193.46.255.86...
+[8/6/2026 9:57:52 PM] ***REJECTED*** {ip: "193.46.255.86", user: "admin", pass:"Abcd1234"}
+[8/6/2026 9:57:53 PM] ***REJECTED*** {ip: "193.46.255.86", user: "admin", pass:"admin123456"}
+[8/6/2026 9:57:53 PM] ***REJECTED*** {ip: "193.46.255.86", user: "admin", pass:"1qaz@WSX3edc"}
+[8/6/2026 9:57:53 PM] 193.46.255.86 >>> Disconnected.
+[8/6/2026 9:59:41 PM] Connection attempt from IP: 45.154.244.193...
+[8/6/2026 9:59:42 PM] ***REJECTED*** {ip: "45.154.244.193", user: "root", pass:"realtek"}
+[8/6/2026 9:59:42 PM] 45.154.244.193 >>> Disconnected.
