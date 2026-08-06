@@ -237446,3 +237446,14 @@
 [8/6/2026 8:42:59 AM] ***REJECTED*** {ip: "193.46.255.86", user: "odoo", pass:"admin"}
 [8/6/2026 8:43:00 AM] ***REJECTED*** {ip: "193.46.255.86", user: "odoo", pass:"123456"}
 [8/6/2026 8:43:00 AM] 193.46.255.86 >>> Disconnected.
+[8/6/2026 9:03:06 AM] Connection attempt from IP: 2.57.121.25...
+[8/6/2026 9:03:07 AM] ***REJECTED*** {ip: "2.57.121.25", user: "admin", pass:"fuckfest"}
+[8/6/2026 9:03:07 AM] ***REJECTED*** {ip: "2.57.121.25", user: "admin", pass:"fuck12"}
+[8/6/2026 9:03:08 AM] ***REJECTED*** {ip: "2.57.121.25", user: "admin", pass:"franki"}
+[8/6/2026 9:03:08 AM] 2.57.121.25 >>> Disconnected.
+[8/6/2026 9:03:22 AM] Connection attempt from IP: 193.24.211.204...
+[8/6/2026 9:03:23 AM] ***REJECTED*** {ip: "193.24.211.204", user: "root", pass:"pollyO0O!#%&"}
+[8/6/2026 9:03:23 AM] 193.24.211.204 >>> Disconnected.
+[8/6/2026 9:27:09 AM] Connection attempt from IP: 45.154.244.193...
+[8/6/2026 9:27:09 AM] ***REJECTED*** {ip: "45.154.244.193", user: "raspberrypi", pass:"mymagicpass228"}
+[8/6/2026 9:27:10 AM] 45.154.244.193 >>> Disconnected.
