@@ -237477,3 +237477,9 @@
 [8/6/2026 9:59:25 AM] ***REJECTED*** {ip: "2.57.121.112", user: "keren", pass:"keren1234"}
 [8/6/2026 9:59:25 AM] ***REJECTED*** {ip: "2.57.121.112", user: "keren", pass:"keren12345"}
 [8/6/2026 9:59:25 AM] 2.57.121.112 >>> Disconnected.
+[8/6/2026 10:02:03 AM] Connection attempt from IP: 2.57.121.25...
+[8/6/2026 10:02:05 AM] ***REJECTED*** {ip: "2.57.121.25", user: "admin", pass:"forgiven"}
+[8/6/2026 10:02:05 AM] ***REJECTED*** {ip: "2.57.121.25", user: "admin", pass:"flhtyfkby"}
+[8/6/2026 10:02:05 AM] ***REJECTED*** {ip: "2.57.121.25", user: "admin", pass:"flapjack"}
+[8/6/2026 10:02:06 AM] 2.57.121.25 >>> Disconnected.
+[8/6/2026 10:07:29 AM] Connection attempt from IP: 45.148.10.152...
