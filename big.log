@@ -237315,3 +237315,24 @@
 [8/6/2026 6:39:55 AM] Connection attempt from IP: 193.24.211.204...
 [8/6/2026 6:39:56 AM] ***REJECTED*** {ip: "193.24.211.204", user: "1andrewscudder", pass:"1andrewscudder"}
 [8/6/2026 6:39:56 AM] 193.24.211.204 >>> Disconnected.
+[8/6/2026 7:05:02 AM] Connection attempt from IP: 2.57.121.25...
+[8/6/2026 7:05:03 AM] ***REJECTED*** {ip: "2.57.121.25", user: "admin", pass:"gfdkbr"}
+[8/6/2026 7:05:03 AM] ***REJECTED*** {ip: "2.57.121.25", user: "admin", pass:"germany1"}
+[8/6/2026 7:05:03 AM] ***REJECTED*** {ip: "2.57.121.25", user: "admin", pass:"gangrel"}
+[8/6/2026 7:05:04 AM] 2.57.121.25 >>> Disconnected.
+[8/6/2026 7:07:22 AM] Connection attempt from IP: 45.148.10.141...
+[8/6/2026 7:23:59 AM] Connection attempt from IP: 2.57.121.112...
+[8/6/2026 7:24:01 AM] ***REJECTED*** {ip: "2.57.121.112", user: "kaylene", pass:"kaylene"}
+[8/6/2026 7:24:01 AM] ***REJECTED*** {ip: "2.57.121.112", user: "kaylene", pass:"kaylene1"}
+[8/6/2026 7:24:01 AM] ***REJECTED*** {ip: "2.57.121.112", user: "kaylene", pass:"kaylene123"}
+[8/6/2026 7:24:01 AM] ***REJECTED*** {ip: "2.57.121.112", user: "kaylene", pass:"kaylene1234"}
+[8/6/2026 7:24:02 AM] ***REJECTED*** {ip: "2.57.121.112", user: "kaylene", pass:"kaylene12345"}
+[8/6/2026 7:24:02 AM] 2.57.121.112 >>> Disconnected.
+[8/6/2026 7:27:19 AM] Connection attempt from IP: 193.24.211.204...
+[8/6/2026 7:27:20 AM] ***REJECTED*** {ip: "193.24.211.204", user: "oleg", pass:"oleg"}
+[8/6/2026 7:27:21 AM] 193.24.211.204 >>> Disconnected.
+[8/6/2026 7:29:45 AM] Connection attempt from IP: 193.46.255.86...
+[8/6/2026 7:29:46 AM] ***REJECTED*** {ip: "193.46.255.86", user: "admin", pass:"gateway"}
+[8/6/2026 7:29:46 AM] ***REJECTED*** {ip: "193.46.255.86", user: "admin", pass:"Aa@123456"}
+[8/6/2026 7:29:47 AM] ***REJECTED*** {ip: "193.46.255.86", user: "admin", pass:"Welcome@123"}
+[8/6/2026 7:29:47 AM] 193.46.255.86 >>> Disconnected.
