@@ -238245,3 +238245,23 @@
 [8/6/2026 4:23:47 PM] 2.57.121.112 >>> Disconnected.
 [8/6/2026 4:26:30 PM] Connection attempt from IP: 176.53.159.196...
 [8/6/2026 4:26:31 PM] ***REJECTED*** {ip: "176.53.159.196", user: "orangepi", pass:"123456789"}
+[8/6/2026 4:47:10 PM] Connection attempt from IP: 175.100.126.158...
+[8/6/2026 4:47:12 PM] ***REJECTED*** {ip: "175.100.126.158", user: "root", pass:"ionos2024"}
+[8/6/2026 4:47:12 PM] 175.100.126.158 >>> Disconnected.
+[8/6/2026 4:47:13 PM] Connection attempt from IP: 175.100.126.158...
+[8/6/2026 4:47:14 PM] ***REJECTED*** {ip: "175.100.126.158", user: "root", pass:"ionos2025"}
+[8/6/2026 4:47:15 PM] 175.100.126.158 >>> Disconnected.
+[8/6/2026 4:47:15 PM] Connection attempt from IP: 175.100.126.158...
+[8/6/2026 4:47:16 PM] ***REJECTED*** {ip: "175.100.126.158", user: "root", pass:"ionos2026"}
+[8/6/2026 4:47:17 PM] 175.100.126.158 >>> Disconnected.
+[8/6/2026 4:47:17 PM] Connection attempt from IP: 175.100.126.158...
+[8/6/2026 4:47:19 PM] ***REJECTED*** {ip: "175.100.126.158", user: "root", pass:"IONOS2024"}
+[8/6/2026 4:47:19 PM] 175.100.126.158 >>> Disconnected.
+[8/6/2026 4:51:06 PM] Connection attempt from IP: 2.57.121.25...
+[8/6/2026 4:51:07 PM] ***REJECTED*** {ip: "2.57.121.25", user: "admin", pass:"dripping"}
+[8/6/2026 4:51:08 PM] ***REJECTED*** {ip: "2.57.121.25", user: "admin", pass:"dreamers"}
+[8/6/2026 4:51:08 PM] ***REJECTED*** {ip: "2.57.121.25", user: "admin", pass:"dreamer1"}
+[8/6/2026 4:51:08 PM] 2.57.121.25 >>> Disconnected.
+[8/6/2026 4:56:28 PM] Connection attempt from IP: 193.24.211.204...
+[8/6/2026 4:56:29 PM] ***REJECTED*** {ip: "193.24.211.204", user: "oscar", pass:"oscar"}
+[8/6/2026 4:56:29 PM] 193.24.211.204 >>> Disconnected.
