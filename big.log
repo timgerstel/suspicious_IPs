@@ -238801,3 +238801,24 @@
 [8/6/2026 9:59:42 PM] ***REJECTED*** {ip: "45.154.244.193", user: "root", pass:"realtek"}
 [8/6/2026 9:59:42 PM] 45.154.244.193 >>> Disconnected.
 [8/6/2026 10:06:59 PM] Connection attempt from IP: 45.148.10.151...
+[8/6/2026 10:30:06 PM] Connection attempt from IP: 205.210.31.174...
+[8/6/2026 10:30:08 PM] 205.210.31.174 >>> Disconnected.
+[8/6/2026 10:36:48 PM] Connection attempt from IP: 2.57.121.25...
+[8/6/2026 10:36:49 PM] ***REJECTED*** {ip: "2.57.121.25", user: "admin", pass:"cynthia1"}
+[8/6/2026 10:36:50 PM] ***REJECTED*** {ip: "2.57.121.25", user: "admin", pass:"cyberonline"}
+[8/6/2026 10:36:50 PM] ***REJECTED*** {ip: "2.57.121.25", user: "admin", pass:"cvbhyjd"}
+[8/6/2026 10:36:50 PM] 2.57.121.25 >>> Disconnected.
+[8/6/2026 10:38:06 PM] Connection attempt from IP: 193.24.211.204...
+[8/6/2026 10:38:07 PM] ***REJECTED*** {ip: "193.24.211.204", user: "temp", pass:"temp123"}
+[8/6/2026 10:38:08 PM] 193.24.211.204 >>> Disconnected.
+[8/6/2026 10:40:49 PM] Connection attempt from IP: 2.57.121.112...
+[8/6/2026 10:40:50 PM] ***REJECTED*** {ip: "2.57.121.112", user: "armon", pass:"armon"}
+[8/6/2026 10:40:50 PM] ***REJECTED*** {ip: "2.57.121.112", user: "armon", pass:"armon1"}
+[8/6/2026 10:40:50 PM] ***REJECTED*** {ip: "2.57.121.112", user: "armon", pass:"armon123"}
+[8/6/2026 10:40:51 PM] ***REJECTED*** {ip: "2.57.121.112", user: "armon", pass:"armon1234"}
+[8/6/2026 10:40:51 PM] ***REJECTED*** {ip: "2.57.121.112", user: "armon", pass:"armon12345"}
+[8/6/2026 10:40:51 PM] 2.57.121.112 >>> Disconnected.
+[8/6/2026 10:46:02 PM] Connection attempt from IP: 176.53.159.196...
+[8/6/2026 10:46:03 PM] ***REJECTED*** {ip: "176.53.159.196", user: "orangepi", pass:"123456789"}
+[8/6/2026 10:53:54 PM] Connection attempt from IP: 195.178.110.137...
+[8/6/2026 10:53:54 PM] 195.178.110.137 >>> Disconnected.
