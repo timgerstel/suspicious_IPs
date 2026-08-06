@@ -237188,3 +237188,8 @@
 [8/6/2026 2:25:54 AM] 193.24.211.204 >>> Disconnected.
 [8/6/2026 2:28:48 AM] Connection attempt from IP: 104.152.52.104...
 [8/6/2026 2:28:48 AM] 104.152.52.104 >>> Disconnected.
+[8/6/2026 2:35:23 AM] Connection attempt from IP: 193.46.255.86...
+[8/6/2026 2:35:25 AM] ***REJECTED*** {ip: "193.46.255.86", user: "admin", pass:"power"}
+[8/6/2026 2:35:25 AM] ***REJECTED*** {ip: "193.46.255.86", user: "admin", pass:"********"}
+[8/6/2026 2:35:25 AM] ***REJECTED*** {ip: "193.46.255.86", user: "admin", pass:"12345"}
+[8/6/2026 2:35:26 AM] 193.46.255.86 >>> Disconnected.
