@@ -238231,3 +238231,17 @@
 [8/6/2026 3:59:35 PM] ***REJECTED*** {ip: "193.46.255.86", user: "admin", pass:"aerohive"}
 [8/6/2026 3:59:36 PM] ***REJECTED*** {ip: "193.46.255.86", user: "admin", pass:"nimda"}
 [8/6/2026 3:59:36 PM] 193.46.255.86 >>> Disconnected.
+[8/6/2026 4:12:07 PM] Connection attempt from IP: 193.24.211.204...
+[8/6/2026 4:12:08 PM] ***REJECTED*** {ip: "193.24.211.204", user: "anon", pass:"anon"}
+[8/6/2026 4:12:08 PM] 193.24.211.204 >>> Disconnected.
+[8/6/2026 4:21:01 PM] Connection attempt from IP: 170.64.167.72...
+[8/6/2026 4:21:06 PM] 170.64.167.72 >>> Disconnected.
+[8/6/2026 4:23:44 PM] Connection attempt from IP: 2.57.121.112...
+[8/6/2026 4:23:45 PM] ***REJECTED*** {ip: "2.57.121.112", user: "scarlet", pass:"scarlet"}
+[8/6/2026 4:23:46 PM] ***REJECTED*** {ip: "2.57.121.112", user: "scarlet", pass:"scarlet1"}
+[8/6/2026 4:23:46 PM] ***REJECTED*** {ip: "2.57.121.112", user: "scarlet", pass:"scarlet123"}
+[8/6/2026 4:23:46 PM] ***REJECTED*** {ip: "2.57.121.112", user: "scarlet", pass:"scarlet1234"}
+[8/6/2026 4:23:47 PM] ***REJECTED*** {ip: "2.57.121.112", user: "scarlet", pass:"scarlet12345"}
+[8/6/2026 4:23:47 PM] 2.57.121.112 >>> Disconnected.
+[8/6/2026 4:26:30 PM] Connection attempt from IP: 176.53.159.196...
+[8/6/2026 4:26:31 PM] ***REJECTED*** {ip: "176.53.159.196", user: "orangepi", pass:"123456789"}
