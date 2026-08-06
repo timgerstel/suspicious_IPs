@@ -237213,3 +237213,13 @@
 [8/6/2026 3:29:05 AM] ***REJECTED*** {ip: "2.57.121.112", user: "izabel", pass:"izabel1234"}
 [8/6/2026 3:29:06 AM] ***REJECTED*** {ip: "2.57.121.112", user: "izabel", pass:"izabel12345"}
 [8/6/2026 3:29:06 AM] 2.57.121.112 >>> Disconnected.
+[8/6/2026 3:49:02 AM] Connection attempt from IP: 193.46.255.86...
+[8/6/2026 3:49:03 AM] ***REJECTED*** {ip: "193.46.255.86", user: "user", pass:"ghbdtn"}
+[8/6/2026 3:49:03 AM] ***REJECTED*** {ip: "193.46.255.86", user: "user", pass:"auto"}
+[8/6/2026 3:49:04 AM] ***REJECTED*** {ip: "193.46.255.86", user: "user", pass:"admin"}
+[8/6/2026 3:49:04 AM] 193.46.255.86 >>> Disconnected.
+[8/6/2026 3:49:44 AM] Connection attempt from IP: 85.217.149.18...
+[8/6/2026 3:49:44 AM] 85.217.149.18 >>> Disconnected.
+[8/6/2026 3:50:16 AM] Connection attempt from IP: 193.24.211.204...
+[8/6/2026 3:50:17 AM] ***REJECTED*** {ip: "193.24.211.204", user: "root", pass:"admin123!@"}
+[8/6/2026 3:50:17 AM] 193.24.211.204 >>> Disconnected.
