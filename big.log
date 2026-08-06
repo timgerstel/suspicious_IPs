@@ -237312,3 +237312,6 @@
 [8/6/2026 6:24:13 AM] 170.64.167.72 >>> Disconnected.
 [8/6/2026 6:26:25 AM] Connection attempt from IP: 47.239.189.201...
 [8/6/2026 6:27:06 AM] 47.239.189.201 >>> Disconnected.
+[8/6/2026 6:39:55 AM] Connection attempt from IP: 193.24.211.204...
+[8/6/2026 6:39:56 AM] ***REJECTED*** {ip: "193.24.211.204", user: "1andrewscudder", pass:"1andrewscudder"}
+[8/6/2026 6:39:56 AM] 193.24.211.204 >>> Disconnected.
