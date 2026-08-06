@@ -237951,3 +237951,25 @@
 [8/6/2026 1:24:28 PM] 195.178.110.137 >>> Disconnected.
 [8/6/2026 1:26:22 PM] Connection attempt from IP: 176.53.159.196...
 [8/6/2026 1:26:23 PM] ***REJECTED*** {ip: "176.53.159.196", user: "orangepi", pass:"123456789"}
+[8/6/2026 1:34:25 PM] Connection attempt from IP: 193.46.255.86...
+[8/6/2026 1:34:26 PM] ***REJECTED*** {ip: "193.46.255.86", user: "mysql", pass:"mysql@1234"}
+[8/6/2026 1:34:27 PM] ***REJECTED*** {ip: "193.46.255.86", user: "mysql", pass:"password"}
+[8/6/2026 1:34:27 PM] ***REJECTED*** {ip: "193.46.255.86", user: "mysql", pass:"qwer1234"}
+[8/6/2026 1:34:27 PM] 193.46.255.86 >>> Disconnected.
+[8/6/2026 1:49:03 PM] Connection attempt from IP: 192.248.150.180...
+[8/6/2026 1:49:03 PM] 192.248.150.180 >>> Disconnected.
+[8/6/2026 1:49:51 PM] Connection attempt from IP: 193.24.211.204...
+[8/6/2026 1:49:52 PM] ***REJECTED*** {ip: "193.24.211.204", user: "root", pass:"999999"}
+[8/6/2026 1:49:52 PM] 193.24.211.204 >>> Disconnected.
+[8/6/2026 1:50:44 PM] Connection attempt from IP: 2.57.121.112...
+[8/6/2026 1:50:46 PM] ***REJECTED*** {ip: "2.57.121.112", user: "pricilla", pass:"pricilla"}
+[8/6/2026 1:50:46 PM] ***REJECTED*** {ip: "2.57.121.112", user: "pricilla", pass:"pricilla1"}
+[8/6/2026 1:50:46 PM] ***REJECTED*** {ip: "2.57.121.112", user: "pricilla", pass:"pricilla123"}
+[8/6/2026 1:50:47 PM] ***REJECTED*** {ip: "2.57.121.112", user: "pricilla", pass:"pricilla1234"}
+[8/6/2026 1:50:47 PM] ***REJECTED*** {ip: "2.57.121.112", user: "pricilla", pass:"pricilla12345"}
+[8/6/2026 1:50:47 PM] 2.57.121.112 >>> Disconnected.
+[8/6/2026 1:56:31 PM] Connection attempt from IP: 2.57.121.25...
+[8/6/2026 1:56:32 PM] ***REJECTED*** {ip: "2.57.121.25", user: "admin", pass:"exploite"}
+[8/6/2026 1:56:32 PM] ***REJECTED*** {ip: "2.57.121.25", user: "admin", pass:"embassy"}
+[8/6/2026 1:56:33 PM] ***REJECTED*** {ip: "2.57.121.25", user: "admin", pass:"elrond"}
+[8/6/2026 1:56:33 PM] 2.57.121.25 >>> Disconnected.
