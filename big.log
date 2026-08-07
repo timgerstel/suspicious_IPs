@@ -238955,3 +238955,13 @@
 [8/7/2026 1:28:20 AM] ***REJECTED*** {ip: "2.57.121.25", user: "admin", pass:"clubber"}
 [8/7/2026 1:28:21 AM] ***REJECTED*** {ip: "2.57.121.25", user: "admin", pass:"chocobo"}
 [8/7/2026 1:28:21 AM] 2.57.121.25 >>> Disconnected.
+[8/7/2026 1:31:17 AM] Connection attempt from IP: 193.46.255.86...
+[8/7/2026 1:31:18 AM] ***REJECTED*** {ip: "193.46.255.86", user: "admin1", pass:"admin123"}
+[8/7/2026 1:31:18 AM] ***REJECTED*** {ip: "193.46.255.86", user: "admin1", pass:"admin1"}
+[8/7/2026 1:31:18 AM] ***REJECTED*** {ip: "193.46.255.86", user: "admin1", pass:"admin@123"}
+[8/7/2026 1:31:19 AM] 193.46.255.86 >>> Disconnected.
+[8/7/2026 1:44:24 AM] Connection attempt from IP: 193.24.211.204...
+[8/7/2026 1:44:24 AM] ***REJECTED*** {ip: "193.24.211.204", user: "tester", pass:"12345"}
+[8/7/2026 1:44:25 AM] 193.24.211.204 >>> Disconnected.
+[8/7/2026 1:50:17 AM] Connection attempt from IP: 176.53.159.196...
+[8/7/2026 1:50:18 AM] ***REJECTED*** {ip: "176.53.159.196", user: "orangepi", pass:"123456789"}
