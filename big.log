@@ -240286,3 +240286,12 @@
 [8/7/2026 3:50:49 PM] ***REJECTED*** {ip: "193.46.255.86", user: "user", pass:"user"}
 [8/7/2026 3:50:49 PM] ***REJECTED*** {ip: "193.46.255.86", user: "user", pass:"26111994"}
 [8/7/2026 3:50:49 PM] 193.46.255.86 >>> Disconnected.
+[8/7/2026 4:05:57 PM] Connection attempt from IP: 45.148.10.157...
+[8/7/2026 4:10:04 PM] Connection attempt from IP: 2.57.121.25...
+[8/7/2026 4:10:05 PM] ***REJECTED*** {ip: "2.57.121.25", user: "admin", pass:"appleton"}
+[8/7/2026 4:10:06 PM] ***REJECTED*** {ip: "2.57.121.25", user: "admin", pass:"annabelle"}
+[8/7/2026 4:10:06 PM] ***REJECTED*** {ip: "2.57.121.25", user: "admin", pass:"ambition"}
+[8/7/2026 4:10:06 PM] 2.57.121.25 >>> Disconnected.
+[8/7/2026 4:27:25 PM] Connection attempt from IP: 45.154.244.193...
+[8/7/2026 4:27:26 PM] ***REJECTED*** {ip: "45.154.244.193", user: "admin", pass:"admin123"}
+[8/7/2026 4:27:26 PM] 45.154.244.193 >>> Disconnected.
