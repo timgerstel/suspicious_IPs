@@ -239757,3 +239757,10 @@
 [8/7/2026 1:46:03 PM] ***REJECTED*** {ip: "2.57.121.25", user: "admin", pass:"ashes"}
 [8/7/2026 1:46:03 PM] ***REJECTED*** {ip: "2.57.121.25", user: "admin", pass:"art131313"}
 [8/7/2026 1:46:04 PM] 2.57.121.25 >>> Disconnected.
+[8/7/2026 2:07:24 PM] Connection attempt from IP: 64.89.162.15...
+[8/7/2026 2:07:24 PM] 64.89.162.15 >>> Disconnected.
+[8/7/2026 2:25:02 PM] Connection attempt from IP: 193.46.255.86...
+[8/7/2026 2:25:03 PM] ***REJECTED*** {ip: "193.46.255.86", user: "ubnt", pass:"ubnt"}
+[8/7/2026 2:25:03 PM] ***REJECTED*** {ip: "193.46.255.86", user: "ubnt", pass:"ubnt1"}
+[8/7/2026 2:25:03 PM] ***REJECTED*** {ip: "193.46.255.86", user: "ubnt", pass:"admin"}
+[8/7/2026 2:25:04 PM] 193.46.255.86 >>> Disconnected.
