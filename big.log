@@ -238965,3 +238965,15 @@
 [8/7/2026 1:44:25 AM] 193.24.211.204 >>> Disconnected.
 [8/7/2026 1:50:17 AM] Connection attempt from IP: 176.53.159.196...
 [8/7/2026 1:50:18 AM] ***REJECTED*** {ip: "176.53.159.196", user: "orangepi", pass:"123456789"}
+[8/7/2026 2:24:35 AM] Connection attempt from IP: 2.57.121.112...
+[8/7/2026 2:24:36 AM] ***REJECTED*** {ip: "2.57.121.112", user: "malique", pass:"malique"}
+[8/7/2026 2:24:36 AM] ***REJECTED*** {ip: "2.57.121.112", user: "malique", pass:"malique1"}
+[8/7/2026 2:24:36 AM] ***REJECTED*** {ip: "2.57.121.112", user: "malique", pass:"malique123"}
+[8/7/2026 2:24:37 AM] ***REJECTED*** {ip: "2.57.121.112", user: "malique", pass:"malique1234"}
+[8/7/2026 2:24:37 AM] ***REJECTED*** {ip: "2.57.121.112", user: "malique", pass:"malique12345"}
+[8/7/2026 2:24:37 AM] 2.57.121.112 >>> Disconnected.
+[8/7/2026 2:25:25 AM] Connection attempt from IP: 2.57.121.25...
+[8/7/2026 2:25:27 AM] ***REJECTED*** {ip: "2.57.121.25", user: "admin", pass:"chisox"}
+[8/7/2026 2:25:27 AM] ***REJECTED*** {ip: "2.57.121.25", user: "admin", pass:"cheer"}
+[8/7/2026 2:25:27 AM] ***REJECTED*** {ip: "2.57.121.25", user: "admin", pass:"charlies"}
+[8/7/2026 2:25:28 AM] 2.57.121.25 >>> Disconnected.
