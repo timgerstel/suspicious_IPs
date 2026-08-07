@@ -240980,3 +240980,17 @@
 [8/7/2026 8:56:38 PM] Connection attempt from IP: 193.24.211.204...
 [8/7/2026 8:56:39 PM] ***REJECTED*** {ip: "193.24.211.204", user: "darkkiss", pass:"darkkiss"}
 [8/7/2026 8:56:39 PM] 193.24.211.204 >>> Disconnected.
+[8/7/2026 9:04:44 PM] Connection attempt from IP: 176.53.159.196...
+[8/7/2026 9:04:45 PM] ***REJECTED*** {ip: "176.53.159.196", user: "orangepi", pass:"123456789"}
+[8/7/2026 9:23:42 PM] Connection attempt from IP: 193.46.255.86...
+[8/7/2026 9:23:44 PM] ***REJECTED*** {ip: "193.46.255.86", user: "user", pass:"9090"}
+[8/7/2026 9:23:44 PM] ***REJECTED*** {ip: "193.46.255.86", user: "user", pass:"rocknroll"}
+[8/7/2026 9:23:44 PM] ***REJECTED*** {ip: "193.46.255.86", user: "user", pass:"password"}
+[8/7/2026 9:23:44 PM] 193.46.255.86 >>> Disconnected.
+[8/7/2026 9:29:41 PM] Connection attempt from IP: 2.57.121.112...
+[8/7/2026 9:29:42 PM] ***REJECTED*** {ip: "2.57.121.112", user: "ayah", pass:"ayah"}
+[8/7/2026 9:29:42 PM] ***REJECTED*** {ip: "2.57.121.112", user: "ayah", pass:"ayah1"}
+[8/7/2026 9:29:43 PM] ***REJECTED*** {ip: "2.57.121.112", user: "ayah", pass:"ayah123"}
+[8/7/2026 9:29:43 PM] ***REJECTED*** {ip: "2.57.121.112", user: "ayah", pass:"ayah1234"}
+[8/7/2026 9:29:43 PM] ***REJECTED*** {ip: "2.57.121.112", user: "ayah", pass:"ayah12345"}
+[8/7/2026 9:29:43 PM] 2.57.121.112 >>> Disconnected.
