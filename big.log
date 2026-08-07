@@ -240972,3 +240972,11 @@
 [8/7/2026 8:11:54 PM] 193.24.211.204 >>> Disconnected.
 [8/7/2026 8:17:39 PM] Connection attempt from IP: 216.180.246.4...
 [8/7/2026 8:17:41 PM] 216.180.246.4 >>> Disconnected.
+[8/7/2026 8:45:30 PM] Connection attempt from IP: 2.57.121.25...
+[8/7/2026 8:45:31 PM] ***REJECTED*** {ip: "2.57.121.25", user: "admin", pass:"abcdefghi"}
+[8/7/2026 8:45:31 PM] ***REJECTED*** {ip: "2.57.121.25", user: "admin", pass:"9111"}
+[8/7/2026 8:45:31 PM] ***REJECTED*** {ip: "2.57.121.25", user: "admin", pass:"777888999"}
+[8/7/2026 8:45:32 PM] 2.57.121.25 >>> Disconnected.
+[8/7/2026 8:56:38 PM] Connection attempt from IP: 193.24.211.204...
+[8/7/2026 8:56:39 PM] ***REJECTED*** {ip: "193.24.211.204", user: "darkkiss", pass:"darkkiss"}
+[8/7/2026 8:56:39 PM] 193.24.211.204 >>> Disconnected.
