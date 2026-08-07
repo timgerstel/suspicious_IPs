@@ -240318,3 +240318,8 @@
 [8/7/2026 5:20:06 PM] ***REJECTED*** {ip: "2.57.121.25", user: "admin", pass:"alex11"}
 [8/7/2026 5:20:06 PM] ***REJECTED*** {ip: "2.57.121.25", user: "admin", pass:"akatsuki"}
 [8/7/2026 5:20:07 PM] 2.57.121.25 >>> Disconnected.
+[8/7/2026 5:35:45 PM] Connection attempt from IP: 45.154.244.193...
+[8/7/2026 5:35:45 PM] ***REJECTED*** {ip: "45.154.244.193", user: "ubnt", pass:"ubnt1"}
+[8/7/2026 5:35:46 PM] 45.154.244.193 >>> Disconnected.
+[8/7/2026 5:37:52 PM] Connection attempt from IP: 176.53.159.196...
+[8/7/2026 5:37:53 PM] ***REJECTED*** {ip: "176.53.159.196", user: "orangepi", pass:"123456789"}
