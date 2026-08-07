@@ -240308,3 +240308,13 @@
 [8/7/2026 4:48:27 PM] 198.235.24.182 >>> Disconnected.
 [8/7/2026 4:56:32 PM] Connection attempt from IP: 194.187.178.216...
 [8/7/2026 4:56:33 PM] 194.187.178.216 >>> Disconnected.
+[8/7/2026 5:15:23 PM] Connection attempt from IP: 193.46.255.86...
+[8/7/2026 5:15:24 PM] ***REJECTED*** {ip: "193.46.255.86", user: "root", pass:"aDm8H%MdA"}
+[8/7/2026 5:15:24 PM] ***REJECTED*** {ip: "193.46.255.86", user: "root", pass:"root"}
+[8/7/2026 5:15:25 PM] ***REJECTED*** {ip: "193.46.255.86", user: "root", pass:"stfu_and_be_quite"}
+[8/7/2026 5:15:25 PM] 193.46.255.86 >>> Disconnected.
+[8/7/2026 5:20:05 PM] Connection attempt from IP: 2.57.121.25...
+[8/7/2026 5:20:06 PM] ***REJECTED*** {ip: "2.57.121.25", user: "admin", pass:"ally"}
+[8/7/2026 5:20:06 PM] ***REJECTED*** {ip: "2.57.121.25", user: "admin", pass:"alex11"}
+[8/7/2026 5:20:06 PM] ***REJECTED*** {ip: "2.57.121.25", user: "admin", pass:"akatsuki"}
+[8/7/2026 5:20:07 PM] 2.57.121.25 >>> Disconnected.
