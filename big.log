@@ -239624,3 +239624,15 @@
 [8/7/2026 9:22:54 AM] Connection attempt from IP: 77.90.185.20...
 [8/7/2026 9:22:55 AM] ***REJECTED*** {ip: "77.90.185.20", user: "root", pass:"5201314"}
 [8/7/2026 9:22:56 AM] 77.90.185.20 >>> Disconnected.
+[8/7/2026 9:49:01 AM] Connection attempt from IP: 2.57.121.112...
+[8/7/2026 9:49:03 AM] ***REJECTED*** {ip: "2.57.121.112", user: "teagan", pass:"teagan"}
+[8/7/2026 9:49:03 AM] ***REJECTED*** {ip: "2.57.121.112", user: "teagan", pass:"teagan1"}
+[8/7/2026 9:49:03 AM] ***REJECTED*** {ip: "2.57.121.112", user: "teagan", pass:"teagan123"}
+[8/7/2026 9:49:03 AM] ***REJECTED*** {ip: "2.57.121.112", user: "teagan", pass:"teagan1234"}
+[8/7/2026 9:49:04 AM] ***REJECTED*** {ip: "2.57.121.112", user: "teagan", pass:"teagan12345"}
+[8/7/2026 9:49:04 AM] 2.57.121.112 >>> Disconnected.
+[8/7/2026 9:56:30 AM] Connection attempt from IP: 193.24.211.204...
+[8/7/2026 9:56:31 AM] ***REJECTED*** {ip: "193.24.211.204", user: "xmas", pass:"xmas"}
+[8/7/2026 9:56:32 AM] 193.24.211.204 >>> Disconnected.
+[8/7/2026 9:58:21 AM] Connection attempt from IP: 170.64.167.72...
+[8/7/2026 9:58:26 AM] 170.64.167.72 >>> Disconnected.
