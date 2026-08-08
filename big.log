@@ -242183,3 +242183,12 @@
 [8/8/2026 3:28:40 PM] ***REJECTED*** {ip: "2.57.121.112", user: "spencer", pass:"spencer1234"}
 [8/8/2026 3:28:40 PM] ***REJECTED*** {ip: "2.57.121.112", user: "spencer", pass:"spencer12345"}
 [8/8/2026 3:28:41 PM] 2.57.121.112 >>> Disconnected.
+[8/8/2026 3:42:00 PM] Connection attempt from IP: 193.46.255.86...
+[8/8/2026 3:42:01 PM] ***REJECTED*** {ip: "193.46.255.86", user: "root", pass:"Aa112211"}
+[8/8/2026 3:42:01 PM] ***REJECTED*** {ip: "193.46.255.86", user: "root", pass:"goodlife"}
+[8/8/2026 3:42:01 PM] ***REJECTED*** {ip: "193.46.255.86", user: "root", pass:"team2"}
+[8/8/2026 3:42:02 PM] 193.46.255.86 >>> Disconnected.
+[8/8/2026 3:43:45 PM] Connection attempt from IP: 195.178.110.137...
+[8/8/2026 3:43:46 PM] 195.178.110.137 >>> Disconnected.
+[8/8/2026 3:57:36 PM] Connection attempt from IP: 77.239.124.236...
+[8/8/2026 3:57:44 PM] 77.239.124.236 >>> Disconnected.
