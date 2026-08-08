@@ -241947,3 +241947,20 @@
 [8/8/2026 9:27:14 AM] ***REJECTED*** {ip: "193.46.255.86", user: "ftpuser", pass:"ftppass"}
 [8/8/2026 9:27:15 AM] ***REJECTED*** {ip: "193.46.255.86", user: "ftpuser", pass:"ftp"}
 [8/8/2026 9:27:15 AM] 193.46.255.86 >>> Disconnected.
+[8/8/2026 9:37:34 AM] Connection attempt from IP: 2.57.121.112...
+[8/8/2026 9:37:35 AM] ***REJECTED*** {ip: "2.57.121.112", user: "laurie", pass:"laurie"}
+[8/8/2026 9:37:35 AM] ***REJECTED*** {ip: "2.57.121.112", user: "laurie", pass:"laurie1"}
+[8/8/2026 9:37:36 AM] ***REJECTED*** {ip: "2.57.121.112", user: "laurie", pass:"laurie123"}
+[8/8/2026 9:37:36 AM] ***REJECTED*** {ip: "2.57.121.112", user: "laurie", pass:"laurie1234"}
+[8/8/2026 9:37:36 AM] ***REJECTED*** {ip: "2.57.121.112", user: "laurie", pass:"laurie12345"}
+[8/8/2026 9:37:36 AM] 2.57.121.112 >>> Disconnected.
+[8/8/2026 9:43:40 AM] Connection attempt from IP: 193.24.211.204...
+[8/8/2026 9:43:41 AM] ***REJECTED*** {ip: "193.24.211.204", user: "friend", pass:"friend"}
+[8/8/2026 9:43:41 AM] 193.24.211.204 >>> Disconnected.
+[8/8/2026 9:50:16 AM] Connection attempt from IP: 176.53.159.196...
+[8/8/2026 9:50:17 AM] ***REJECTED*** {ip: "176.53.159.196", user: "orangepi", pass:"123456789"}
+[8/8/2026 9:59:34 AM] Connection attempt from IP: 2.57.121.25...
+[8/8/2026 9:59:35 AM] ***REJECTED*** {ip: "2.57.121.25", user: "admin", pass:"27111979"}
+[8/8/2026 9:59:35 AM] ***REJECTED*** {ip: "2.57.121.25", user: "admin", pass:"27101981"}
+[8/8/2026 9:59:36 AM] ***REJECTED*** {ip: "2.57.121.25", user: "admin", pass:"270885"}
+[8/8/2026 9:59:36 AM] 2.57.121.25 >>> Disconnected.
