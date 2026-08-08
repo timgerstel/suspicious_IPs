@@ -242489,3 +242489,30 @@
 [8/8/2026 7:13:55 PM] Connection attempt from IP: 193.24.211.204...
 [8/8/2026 7:13:56 PM] ***REJECTED*** {ip: "193.24.211.204", user: "root", pass:"123@123"}
 [8/8/2026 7:13:56 PM] 193.24.211.204 >>> Disconnected.
+[8/8/2026 7:35:55 PM] Connection attempt from IP: 193.46.255.86...
+[8/8/2026 7:35:56 PM] ***REJECTED*** {ip: "193.46.255.86", user: "admin", pass:"P@ssw0rd"}
+[8/8/2026 7:35:56 PM] ***REJECTED*** {ip: "193.46.255.86", user: "admin", pass:"creative"}
+[8/8/2026 7:35:56 PM] ***REJECTED*** {ip: "193.46.255.86", user: "admin", pass:"Aa12345678"}
+[8/8/2026 7:35:57 PM] 193.46.255.86 >>> Disconnected.
+[8/8/2026 7:36:40 PM] Connection attempt from IP: 45.79.181.179...
+[8/8/2026 7:36:40 PM] 45.79.181.179 >>> Disconnected.
+[8/8/2026 7:36:40 PM] Connection attempt from IP: 45.79.181.179...
+[8/8/2026 7:36:40 PM] 45.79.181.179 >>> Disconnected.
+[8/8/2026 7:36:40 PM] Connection attempt from IP: 45.79.181.179...
+[8/8/2026 7:36:40 PM] 45.79.181.179 >>> Disconnected.
+[8/8/2026 7:37:51 PM] Connection attempt from IP: 2.57.121.25...
+[8/8/2026 7:37:52 PM] ***REJECTED*** {ip: "2.57.121.25", user: "admin", pass:"26021982"}
+[8/8/2026 7:37:52 PM] ***REJECTED*** {ip: "2.57.121.25", user: "admin", pass:"26021979"}
+[8/8/2026 7:37:53 PM] ***REJECTED*** {ip: "2.57.121.25", user: "admin", pass:"26021977"}
+[8/8/2026 7:37:53 PM] 2.57.121.25 >>> Disconnected.
+[8/8/2026 7:41:38 PM] Connection attempt from IP: 176.53.159.196...
+[8/8/2026 7:41:39 PM] ***REJECTED*** {ip: "176.53.159.196", user: "orangepi", pass:"123456789"}
+[8/8/2026 7:47:14 PM] Connection attempt from IP: 2.57.121.112...
+[8/8/2026 7:47:16 PM] ***REJECTED*** {ip: "2.57.121.112", user: "cason", pass:"cason"}
+[8/8/2026 7:47:16 PM] ***REJECTED*** {ip: "2.57.121.112", user: "cason", pass:"cason1"}
+[8/8/2026 7:47:16 PM] ***REJECTED*** {ip: "2.57.121.112", user: "cason", pass:"cason123"}
+[8/8/2026 7:47:17 PM] ***REJECTED*** {ip: "2.57.121.112", user: "cason", pass:"cason1234"}
+[8/8/2026 7:47:17 PM] ***REJECTED*** {ip: "2.57.121.112", user: "cason", pass:"cason12345"}
+[8/8/2026 7:47:17 PM] 2.57.121.112 >>> Disconnected.
+[8/8/2026 7:52:47 PM] Connection attempt from IP: 18.218.118.203...
+[8/8/2026 7:52:47 PM] 18.218.118.203 >>> Disconnected.
