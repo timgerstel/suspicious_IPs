@@ -242590,3 +242590,13 @@
 [8/8/2026 9:14:08 PM] ***REJECTED*** {ip: "164.92.109.155", user: "oracle", pass:"qwerty"}
 [8/8/2026 9:14:09 PM] ***ACCEPTED*** {ip: "164.92.109.155", user: "oracle", pass:"test"}
 [8/8/2026 9:14:25 PM] 164.92.109.155 >>> Disconnected.
+[8/8/2026 9:36:02 PM] Connection attempt from IP: 193.24.211.204...
+[8/8/2026 9:36:03 PM] ***REJECTED*** {ip: "193.24.211.204", user: "root", pass:"wvhlyf"}
+[8/8/2026 9:36:03 PM] 193.24.211.204 >>> Disconnected.
+[8/8/2026 9:44:17 PM] Connection attempt from IP: 2.57.121.25...
+[8/8/2026 9:44:18 PM] ***REJECTED*** {ip: "2.57.121.25", user: "admin", pass:"251087"}
+[8/8/2026 9:44:18 PM] ***REJECTED*** {ip: "2.57.121.25", user: "admin", pass:"250981"}
+[8/8/2026 9:44:19 PM] ***REJECTED*** {ip: "2.57.121.25", user: "admin", pass:"250886"}
+[8/8/2026 9:44:19 PM] 2.57.121.25 >>> Disconnected.
+[8/8/2026 9:48:09 PM] Connection attempt from IP: 176.53.159.196...
+[8/8/2026 9:48:10 PM] ***REJECTED*** {ip: "176.53.159.196", user: "orangepi", pass:"123456789"}
