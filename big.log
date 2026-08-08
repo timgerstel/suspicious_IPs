@@ -242168,3 +242168,18 @@
 [8/8/2026 2:30:27 PM] Connection attempt from IP: 193.24.211.204...
 [8/8/2026 2:30:28 PM] ***REJECTED*** {ip: "193.24.211.204", user: "uucp", pass:"admin123"}
 [8/8/2026 2:30:29 PM] 193.24.211.204 >>> Disconnected.
+[8/8/2026 3:17:41 PM] Connection attempt from IP: 193.24.211.204...
+[8/8/2026 3:17:42 PM] ***REJECTED*** {ip: "193.24.211.204", user: "system", pass:"P@ssword1"}
+[8/8/2026 3:17:44 PM] 193.24.211.204 >>> Disconnected.
+[8/8/2026 3:22:20 PM] Connection attempt from IP: 2.57.121.25...
+[8/8/2026 3:22:21 PM] ***REJECTED*** {ip: "2.57.121.25", user: "admin", pass:"27031976"}
+[8/8/2026 3:22:21 PM] ***REJECTED*** {ip: "2.57.121.25", user: "admin", pass:"270283"}
+[8/8/2026 3:22:21 PM] ***REJECTED*** {ip: "2.57.121.25", user: "admin", pass:"27011992"}
+[8/8/2026 3:22:22 PM] 2.57.121.25 >>> Disconnected.
+[8/8/2026 3:28:38 PM] Connection attempt from IP: 2.57.121.112...
+[8/8/2026 3:28:39 PM] ***REJECTED*** {ip: "2.57.121.112", user: "spencer", pass:"spencer"}
+[8/8/2026 3:28:39 PM] ***REJECTED*** {ip: "2.57.121.112", user: "spencer", pass:"spencer1"}
+[8/8/2026 3:28:40 PM] ***REJECTED*** {ip: "2.57.121.112", user: "spencer", pass:"spencer123"}
+[8/8/2026 3:28:40 PM] ***REJECTED*** {ip: "2.57.121.112", user: "spencer", pass:"spencer1234"}
+[8/8/2026 3:28:40 PM] ***REJECTED*** {ip: "2.57.121.112", user: "spencer", pass:"spencer12345"}
+[8/8/2026 3:28:41 PM] 2.57.121.112 >>> Disconnected.
