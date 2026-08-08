@@ -242600,3 +242600,11 @@
 [8/8/2026 9:44:19 PM] 2.57.121.25 >>> Disconnected.
 [8/8/2026 9:48:09 PM] Connection attempt from IP: 176.53.159.196...
 [8/8/2026 9:48:10 PM] ***REJECTED*** {ip: "176.53.159.196", user: "orangepi", pass:"123456789"}
+[8/8/2026 10:10:19 PM] Connection attempt from IP: 193.46.255.86...
+[8/8/2026 10:10:20 PM] ***REJECTED*** {ip: "193.46.255.86", user: "service", pass:"service"}
+[8/8/2026 10:10:21 PM] ***REJECTED*** {ip: "193.46.255.86", user: "service", pass:"abcd1234"}
+[8/8/2026 10:10:21 PM] ***REJECTED*** {ip: "193.46.255.86", user: "service", pass:"123456"}
+[8/8/2026 10:10:21 PM] 193.46.255.86 >>> Disconnected.
+[8/8/2026 10:23:13 PM] Connection attempt from IP: 193.24.211.204...
+[8/8/2026 10:23:14 PM] ***REJECTED*** {ip: "193.24.211.204", user: "prometheus", pass:"prometheus"}
+[8/8/2026 10:23:14 PM] 193.24.211.204 >>> Disconnected.
