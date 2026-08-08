@@ -242229,3 +242229,11 @@
 [8/8/2026 4:55:23 PM] ***REJECTED*** {ip: "2.57.121.112", user: "yuliana", pass:"yuliana1234"}
 [8/8/2026 4:55:23 PM] ***REJECTED*** {ip: "2.57.121.112", user: "yuliana", pass:"yuliana12345"}
 [8/8/2026 4:55:24 PM] 2.57.121.112 >>> Disconnected.
+[8/8/2026 5:00:22 PM] Connection attempt from IP: 193.46.255.86...
+[8/8/2026 5:00:23 PM] ***REJECTED*** {ip: "193.46.255.86", user: "admin", pass:"black13"}
+[8/8/2026 5:00:24 PM] ***REJECTED*** {ip: "193.46.255.86", user: "admin", pass:"vertex25"}
+[8/8/2026 5:00:24 PM] ***REJECTED*** {ip: "193.46.255.86", user: "admin", pass:"bjk1903"}
+[8/8/2026 5:00:24 PM] 193.46.255.86 >>> Disconnected.
+[8/8/2026 5:19:28 PM] Connection attempt from IP: 45.154.244.193...
+[8/8/2026 5:19:29 PM] ***REJECTED*** {ip: "45.154.244.193", user: "root", pass:"!"}
+[8/8/2026 5:19:29 PM] 45.154.244.193 >>> Disconnected.
