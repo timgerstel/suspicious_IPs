@@ -242020,3 +242020,13 @@
 [8/8/2026 12:55:37 PM] Connection attempt from IP: 193.24.211.204...
 [8/8/2026 12:55:38 PM] ***REJECTED*** {ip: "193.24.211.204", user: "default", pass:"friend"}
 [8/8/2026 12:55:39 PM] 193.24.211.204 >>> Disconnected.
+[8/8/2026 1:04:43 PM] Connection attempt from IP: 193.46.255.86...
+[8/8/2026 1:04:44 PM] ***REJECTED*** {ip: "193.46.255.86", user: "ftp", pass:"ftp"}
+[8/8/2026 1:04:44 PM] ***REJECTED*** {ip: "193.46.255.86", user: "ftp", pass:"123456"}
+[8/8/2026 1:04:45 PM] ***REJECTED*** {ip: "193.46.255.86", user: "ftp", pass:"12345"}
+[8/8/2026 1:04:45 PM] 193.46.255.86 >>> Disconnected.
+[8/8/2026 1:13:40 PM] Connection attempt from IP: 2.57.121.25...
+[8/8/2026 1:13:41 PM] ***REJECTED*** {ip: "2.57.121.25", user: "admin", pass:"27051980"}
+[8/8/2026 1:13:41 PM] ***REJECTED*** {ip: "2.57.121.25", user: "admin", pass:"27051976"}
+[8/8/2026 1:13:41 PM] ***REJECTED*** {ip: "2.57.121.25", user: "admin", pass:"27051975"}
+[8/8/2026 1:13:42 PM] 2.57.121.25 >>> Disconnected.
