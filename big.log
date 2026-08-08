@@ -241995,3 +241995,8 @@
 [8/8/2026 11:19:50 AM] Connection attempt from IP: 193.24.211.204...
 [8/8/2026 11:19:51 AM] ***REJECTED*** {ip: "193.24.211.204", user: "edi", pass:"y1w4ll4H"}
 [8/8/2026 11:19:51 AM] 193.24.211.204 >>> Disconnected.
+[8/8/2026 11:46:18 AM] Connection attempt from IP: 193.46.255.86...
+[8/8/2026 11:46:19 AM] ***REJECTED*** {ip: "193.46.255.86", user: "postgres", pass:"postgres"}
+[8/8/2026 11:46:19 AM] ***REJECTED*** {ip: "193.46.255.86", user: "postgres", pass:"admin"}
+[8/8/2026 11:46:19 AM] ***REJECTED*** {ip: "193.46.255.86", user: "postgres", pass:"root"}
+[8/8/2026 11:46:20 AM] 193.46.255.86 >>> Disconnected.
