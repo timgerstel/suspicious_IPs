@@ -242000,3 +242000,11 @@
 [8/8/2026 11:46:19 AM] ***REJECTED*** {ip: "193.46.255.86", user: "postgres", pass:"admin"}
 [8/8/2026 11:46:19 AM] ***REJECTED*** {ip: "193.46.255.86", user: "postgres", pass:"root"}
 [8/8/2026 11:46:20 AM] 193.46.255.86 >>> Disconnected.
+[8/8/2026 12:07:49 PM] Connection attempt from IP: 193.24.211.204...
+[8/8/2026 12:07:50 PM] ***REJECTED*** {ip: "193.24.211.204", user: "uucp", pass:"admin123"}
+[8/8/2026 12:07:50 PM] 193.24.211.204 >>> Disconnected.
+[8/8/2026 12:09:09 PM] Connection attempt from IP: 2.57.121.25...
+[8/8/2026 12:09:10 PM] ***REJECTED*** {ip: "2.57.121.25", user: "admin", pass:"27061979"}
+[8/8/2026 12:09:10 PM] ***REJECTED*** {ip: "2.57.121.25", user: "admin", pass:"27061976"}
+[8/8/2026 12:09:10 PM] ***REJECTED*** {ip: "2.57.121.25", user: "admin", pass:"27051981"}
+[8/8/2026 12:09:11 PM] 2.57.121.25 >>> Disconnected.
