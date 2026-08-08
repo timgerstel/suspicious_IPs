@@ -242165,3 +242165,6 @@
 [8/8/2026 2:23:18 PM] ***REJECTED*** {ip: "193.46.255.86", user: "admin", pass:"Aa123456"}
 [8/8/2026 2:23:19 PM] ***REJECTED*** {ip: "193.46.255.86", user: "admin", pass:"pfsense"}
 [8/8/2026 2:23:19 PM] 193.46.255.86 >>> Disconnected.
+[8/8/2026 2:30:27 PM] Connection attempt from IP: 193.24.211.204...
+[8/8/2026 2:30:28 PM] ***REJECTED*** {ip: "193.24.211.204", user: "uucp", pass:"admin123"}
+[8/8/2026 2:30:29 PM] 193.24.211.204 >>> Disconnected.
