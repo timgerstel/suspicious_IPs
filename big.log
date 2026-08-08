@@ -241939,3 +241939,11 @@
 [8/8/2026 8:55:33 AM] 193.24.211.204 >>> Disconnected.
 [8/8/2026 8:57:13 AM] Connection attempt from IP: 176.53.159.196...
 [8/8/2026 8:57:14 AM] ***REJECTED*** {ip: "176.53.159.196", user: "orangepi", pass:"123456789"}
+[8/8/2026 9:23:31 AM] Connection attempt from IP: 45.154.244.193...
+[8/8/2026 9:23:31 AM] ***ACCEPTED*** {ip: "45.154.244.193", user: "postgres", pass:"postgres"}
+[8/8/2026 9:23:32 AM] 45.154.244.193 >>> Disconnected.
+[8/8/2026 9:27:13 AM] Connection attempt from IP: 193.46.255.86...
+[8/8/2026 9:27:14 AM] ***REJECTED*** {ip: "193.46.255.86", user: "ftpuser", pass:"ftpuser"}
+[8/8/2026 9:27:14 AM] ***REJECTED*** {ip: "193.46.255.86", user: "ftpuser", pass:"ftppass"}
+[8/8/2026 9:27:15 AM] ***REJECTED*** {ip: "193.46.255.86", user: "ftpuser", pass:"ftp"}
+[8/8/2026 9:27:15 AM] 193.46.255.86 >>> Disconnected.
