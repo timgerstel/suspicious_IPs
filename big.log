@@ -253192,3 +253192,16 @@
 [8/9/2026 8:40:56 PM] ***REJECTED*** {ip: "36.189.81.101", user: "root", pass:"﻿------fuck------"}
 [8/9/2026 8:40:58 PM] 36.189.81.101 >>> Disconnected.
 [8/9/2026 8:40:59 PM] Connection attempt from IP: 36.189.81.101...
+[8/9/2026 9:05:30 PM] Connection attempt from IP: 193.24.211.204...
+[8/9/2026 9:05:31 PM] ***REJECTED*** {ip: "193.24.211.204", user: "root", pass:"0000"}
+[8/9/2026 9:05:32 PM] 193.24.211.204 >>> Disconnected.
+[8/9/2026 9:06:53 PM] Connection attempt from IP: 45.154.244.193...
+[8/9/2026 9:06:54 PM] ***REJECTED*** {ip: "45.154.244.193", user: "root", pass:"1qaz!QAZ"}
+[8/9/2026 9:06:54 PM] 45.154.244.193 >>> Disconnected.
+[8/9/2026 9:23:17 PM] Connection attempt from IP: 176.53.159.196...
+[8/9/2026 9:23:18 PM] ***REJECTED*** {ip: "176.53.159.196", user: "orangepi", pass:"123456789"}
+[8/9/2026 9:26:40 PM] Connection attempt from IP: 2.57.121.25...
+[8/9/2026 9:26:41 PM] ***REJECTED*** {ip: "2.57.121.25", user: "admin", pass:"210684"}
+[8/9/2026 9:26:41 PM] ***REJECTED*** {ip: "2.57.121.25", user: "admin", pass:"21061975"}
+[8/9/2026 9:26:42 PM] ***REJECTED*** {ip: "2.57.121.25", user: "admin", pass:"21051994"}
+[8/9/2026 9:26:42 PM] 2.57.121.25 >>> Disconnected.
