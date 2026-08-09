@@ -242690,3 +242690,12 @@
 [8/9/2026 1:55:21 AM] ***REJECTED*** {ip: "2.57.121.25", user: "admin", pass:"241182"}
 [8/9/2026 1:55:21 AM] ***REJECTED*** {ip: "2.57.121.25", user: "admin", pass:"24111975"}
 [8/9/2026 1:55:22 AM] 2.57.121.25 >>> Disconnected.
+[8/9/2026 2:00:07 AM] Connection attempt from IP: 193.46.255.86...
+[8/9/2026 2:00:09 AM] ***REJECTED*** {ip: "193.46.255.86", user: "admin", pass:"dagmarka1304"}
+[8/9/2026 2:00:09 AM] ***REJECTED*** {ip: "193.46.255.86", user: "admin", pass:"88888888"}
+[8/9/2026 2:00:09 AM] ***REJECTED*** {ip: "193.46.255.86", user: "admin", pass:"@dmin"}
+[8/9/2026 2:00:10 AM] 193.46.255.86 >>> Disconnected.
+[8/9/2026 2:10:38 AM] Connection attempt from IP: 81.19.219.215...
+[8/9/2026 2:18:21 AM] Connection attempt from IP: 193.24.211.204...
+[8/9/2026 2:18:22 AM] ***REJECTED*** {ip: "193.24.211.204", user: "kb", pass:"kb"}
+[8/9/2026 2:18:22 AM] 193.24.211.204 >>> Disconnected.
