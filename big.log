@@ -253205,3 +253205,21 @@
 [8/9/2026 9:26:41 PM] ***REJECTED*** {ip: "2.57.121.25", user: "admin", pass:"21061975"}
 [8/9/2026 9:26:42 PM] ***REJECTED*** {ip: "2.57.121.25", user: "admin", pass:"21051994"}
 [8/9/2026 9:26:42 PM] 2.57.121.25 >>> Disconnected.
+[8/9/2026 9:33:23 PM] Connection attempt from IP: 193.46.255.86...
+[8/9/2026 9:33:25 PM] ***REJECTED*** {ip: "193.46.255.86", user: "debian", pass:"temppwd"}
+[8/9/2026 9:33:25 PM] ***REJECTED*** {ip: "193.46.255.86", user: "debian", pass:"debian"}
+[8/9/2026 9:33:25 PM] ***REJECTED*** {ip: "193.46.255.86", user: "debian", pass:"12345"}
+[8/9/2026 9:33:26 PM] 193.46.255.86 >>> Disconnected.
+[8/9/2026 9:35:39 PM] Connection attempt from IP: 45.154.244.193...
+[8/9/2026 9:35:39 PM] ***REJECTED*** {ip: "45.154.244.193", user: "root", pass:"abc123"}
+[8/9/2026 9:35:40 PM] 45.154.244.193 >>> Disconnected.
+[8/9/2026 9:49:38 PM] Connection attempt from IP: 2.57.121.112...
+[8/9/2026 9:49:39 PM] ***REJECTED*** {ip: "2.57.121.112", user: "madelaine", pass:"madelaine"}
+[8/9/2026 9:49:39 PM] ***REJECTED*** {ip: "2.57.121.112", user: "madelaine", pass:"madelaine1"}
+[8/9/2026 9:49:40 PM] ***REJECTED*** {ip: "2.57.121.112", user: "madelaine", pass:"madelaine123"}
+[8/9/2026 9:49:40 PM] ***REJECTED*** {ip: "2.57.121.112", user: "madelaine", pass:"madelaine1234"}
+[8/9/2026 9:49:40 PM] ***REJECTED*** {ip: "2.57.121.112", user: "madelaine", pass:"madelaine12345"}
+[8/9/2026 9:49:41 PM] 2.57.121.112 >>> Disconnected.
+[8/9/2026 9:58:40 PM] Connection attempt from IP: 193.24.211.204...
+[8/9/2026 9:58:41 PM] ***REJECTED*** {ip: "193.24.211.204", user: "root", pass:"1q2w3e"}
+[8/9/2026 9:58:42 PM] 193.24.211.204 >>> Disconnected.
