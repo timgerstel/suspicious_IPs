@@ -253124,3 +253124,7 @@
 [8/9/2026 6:24:44 PM] ***REJECTED*** {ip: "2.57.121.25", user: "admin", pass:"22031993"}
 [8/9/2026 6:24:44 PM] ***REJECTED*** {ip: "2.57.121.25", user: "admin", pass:"220292"}
 [8/9/2026 6:24:45 PM] 2.57.121.25 >>> Disconnected.
+[8/9/2026 6:35:26 PM] Connection attempt from IP: 54.221.75.112...
+[8/9/2026 6:35:27 PM] 54.221.75.112 >>> Disconnected.
+[8/9/2026 6:44:17 PM] Connection attempt from IP: 176.53.159.196...
+[8/9/2026 6:44:18 PM] ***REJECTED*** {ip: "176.53.159.196", user: "orangepi", pass:"123456789"}
