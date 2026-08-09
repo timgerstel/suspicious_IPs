@@ -242699,3 +242699,22 @@
 [8/9/2026 2:18:21 AM] Connection attempt from IP: 193.24.211.204...
 [8/9/2026 2:18:22 AM] ***REJECTED*** {ip: "193.24.211.204", user: "kb", pass:"kb"}
 [8/9/2026 2:18:22 AM] 193.24.211.204 >>> Disconnected.
+[8/9/2026 2:43:29 AM] Connection attempt from IP: 45.154.244.193...
+[8/9/2026 2:43:30 AM] ***REJECTED*** {ip: "45.154.244.193", user: "juan", pass:"123456"}
+[8/9/2026 2:43:30 AM] 45.154.244.193 >>> Disconnected.
+[8/9/2026 2:47:34 AM] Connection attempt from IP: 167.99.109.29...
+[8/9/2026 2:47:34 AM] 167.99.109.29 >>> Disconnected.
+[8/9/2026 2:48:07 AM] Connection attempt from IP: 2.57.121.112...
+[8/9/2026 2:48:08 AM] ***REJECTED*** {ip: "2.57.121.112", user: "keion", pass:"keion"}
+[8/9/2026 2:48:09 AM] ***REJECTED*** {ip: "2.57.121.112", user: "keion", pass:"keion1"}
+[8/9/2026 2:48:09 AM] ***REJECTED*** {ip: "2.57.121.112", user: "keion", pass:"keion123"}
+[8/9/2026 2:48:09 AM] ***REJECTED*** {ip: "2.57.121.112", user: "keion", pass:"keion1234"}
+[8/9/2026 2:48:10 AM] ***REJECTED*** {ip: "2.57.121.112", user: "keion", pass:"keion12345"}
+[8/9/2026 2:48:10 AM] 2.57.121.112 >>> Disconnected.
+[8/9/2026 2:57:03 AM] Connection attempt from IP: 176.53.159.196...
+[8/9/2026 2:57:04 AM] ***REJECTED*** {ip: "176.53.159.196", user: "orangepi", pass:"123456789"}
+[8/9/2026 2:57:52 AM] Connection attempt from IP: 2.57.121.25...
+[8/9/2026 2:57:53 AM] ***REJECTED*** {ip: "2.57.121.25", user: "admin", pass:"240988"}
+[8/9/2026 2:57:53 AM] ***REJECTED*** {ip: "2.57.121.25", user: "admin", pass:"24081981"}
+[8/9/2026 2:57:53 AM] ***REJECTED*** {ip: "2.57.121.25", user: "admin", pass:"240782"}
+[8/9/2026 2:57:54 AM] 2.57.121.25 >>> Disconnected.
