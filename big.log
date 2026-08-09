@@ -253128,3 +253128,26 @@
 [8/9/2026 6:35:27 PM] 54.221.75.112 >>> Disconnected.
 [8/9/2026 6:44:17 PM] Connection attempt from IP: 176.53.159.196...
 [8/9/2026 6:44:18 PM] ***REJECTED*** {ip: "176.53.159.196", user: "orangepi", pass:"123456789"}
+[8/9/2026 7:04:24 PM] Connection attempt from IP: 45.148.10.152...
+[8/9/2026 7:04:50 PM] Connection attempt from IP: 193.46.255.86...
+[8/9/2026 7:04:51 PM] ***REJECTED*** {ip: "193.46.255.86", user: "admin", pass:"power"}
+[8/9/2026 7:04:52 PM] ***REJECTED*** {ip: "193.46.255.86", user: "admin", pass:"********"}
+[8/9/2026 7:04:52 PM] ***REJECTED*** {ip: "193.46.255.86", user: "admin", pass:"12345"}
+[8/9/2026 7:04:52 PM] 193.46.255.86 >>> Disconnected.
+[8/9/2026 7:09:47 PM] Connection attempt from IP: 2.57.121.112...
+[8/9/2026 7:09:48 PM] ***REJECTED*** {ip: "2.57.121.112", user: "karis", pass:"karis"}
+[8/9/2026 7:09:49 PM] ***REJECTED*** {ip: "2.57.121.112", user: "karis", pass:"karis1"}
+[8/9/2026 7:09:49 PM] ***REJECTED*** {ip: "2.57.121.112", user: "karis", pass:"karis123"}
+[8/9/2026 7:09:49 PM] ***REJECTED*** {ip: "2.57.121.112", user: "karis", pass:"karis1234"}
+[8/9/2026 7:09:49 PM] ***REJECTED*** {ip: "2.57.121.112", user: "karis", pass:"karis12345"}
+[8/9/2026 7:09:50 PM] 2.57.121.112 >>> Disconnected.
+[8/9/2026 7:11:54 PM] Connection attempt from IP: 176.53.159.196...
+[8/9/2026 7:11:55 PM] ***REJECTED*** {ip: "176.53.159.196", user: "orangepi", pass:"123456789"}
+[8/9/2026 7:23:44 PM] Connection attempt from IP: 45.154.244.193...
+[8/9/2026 7:23:45 PM] ***REJECTED*** {ip: "45.154.244.193", user: "ftpuser", pass:"ftpuser"}
+[8/9/2026 7:23:45 PM] 45.154.244.193 >>> Disconnected.
+[8/9/2026 7:25:25 PM] Connection attempt from IP: 2.57.121.25...
+[8/9/2026 7:25:26 PM] ***REJECTED*** {ip: "2.57.121.25", user: "admin", pass:"220186"}
+[8/9/2026 7:25:27 PM] ***REJECTED*** {ip: "2.57.121.25", user: "admin", pass:"211186"}
+[8/9/2026 7:25:27 PM] ***REJECTED*** {ip: "2.57.121.25", user: "admin", pass:"210984"}
+[8/9/2026 7:25:27 PM] 2.57.121.25 >>> Disconnected.
