@@ -242659,3 +242659,16 @@
 [8/9/2026 12:29:21 AM] Connection attempt from IP: 31.77.227.120...
 [8/9/2026 12:29:22 AM] ***REJECTED*** {ip: "31.77.227.120", user: "test", pass:"test"}
 [8/9/2026 12:29:22 AM] 31.77.227.120 >>> Disconnected.
+[8/9/2026 12:43:32 AM] Connection attempt from IP: 193.46.255.86...
+[8/9/2026 12:43:33 AM] ***REJECTED*** {ip: "193.46.255.86", user: "admin", pass:"default"}
+[8/9/2026 12:43:34 AM] ***REJECTED*** {ip: "193.46.255.86", user: "admin", pass:"nosoup4u"}
+[8/9/2026 12:43:34 AM] ***REJECTED*** {ip: "193.46.255.86", user: "admin", pass:"126845"}
+[8/9/2026 12:43:34 AM] 193.46.255.86 >>> Disconnected.
+[8/9/2026 12:44:39 AM] Connection attempt from IP: 193.24.211.204...
+[8/9/2026 12:44:40 AM] ***REJECTED*** {ip: "193.24.211.204", user: "root", pass:"oelinux123"}
+[8/9/2026 12:44:40 AM] 193.24.211.204 >>> Disconnected.
+[8/9/2026 12:52:48 AM] Connection attempt from IP: 2.57.121.25...
+[8/9/2026 12:52:50 AM] ***REJECTED*** {ip: "2.57.121.25", user: "admin", pass:"25011981"}
+[8/9/2026 12:52:50 AM] ***REJECTED*** {ip: "2.57.121.25", user: "admin", pass:"2442"}
+[8/9/2026 12:52:50 AM] ***REJECTED*** {ip: "2.57.121.25", user: "admin", pass:"241290"}
+[8/9/2026 12:52:50 AM] 2.57.121.25 >>> Disconnected.
