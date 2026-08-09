@@ -253246,3 +253246,15 @@
 [8/9/2026 10:50:50 PM] Connection attempt from IP: 193.24.211.204...
 [8/9/2026 10:50:51 PM] ***REJECTED*** {ip: "193.24.211.204", user: "root", pass:"calvin"}
 [8/9/2026 10:50:51 PM] 193.24.211.204 >>> Disconnected.
+[8/9/2026 11:08:41 PM] Connection attempt from IP: 2.57.121.112...
+[8/9/2026 11:08:43 PM] ***REJECTED*** {ip: "2.57.121.112", user: "salina", pass:"salina"}
+[8/9/2026 11:08:43 PM] ***REJECTED*** {ip: "2.57.121.112", user: "salina", pass:"salina1"}
+[8/9/2026 11:08:43 PM] ***REJECTED*** {ip: "2.57.121.112", user: "salina", pass:"salina123"}
+[8/9/2026 11:08:44 PM] ***REJECTED*** {ip: "2.57.121.112", user: "salina", pass:"salina1234"}
+[8/9/2026 11:08:44 PM] ***REJECTED*** {ip: "2.57.121.112", user: "salina", pass:"salina12345"}
+[8/9/2026 11:08:44 PM] 2.57.121.112 >>> Disconnected.
+[8/9/2026 11:27:31 PM] Connection attempt from IP: 2.57.121.25...
+[8/9/2026 11:27:32 PM] ***REJECTED*** {ip: "2.57.121.25", user: "admin", pass:"210385"}
+[8/9/2026 11:27:32 PM] ***REJECTED*** {ip: "2.57.121.25", user: "admin", pass:"21021993"}
+[8/9/2026 11:27:33 PM] ***REJECTED*** {ip: "2.57.121.25", user: "admin", pass:"20121992"}
+[8/9/2026 11:27:33 PM] 2.57.121.25 >>> Disconnected.
