@@ -253033,3 +253033,23 @@
 [8/9/2026 3:58:34 PM] Connection attempt from IP: 195.178.110.137...
 [8/9/2026 3:58:35 PM] ***REJECTED*** {ip: "195.178.110.137", user: "support", pass:"support"}
 [8/9/2026 3:58:36 PM] 195.178.110.137 >>> Disconnected.
+[8/9/2026 4:17:11 PM] Connection attempt from IP: 195.178.110.137...
+[8/9/2026 4:17:12 PM] ***REJECTED*** {ip: "195.178.110.137", user: "AdminGPON", pass:"ALC#FGU"}
+[8/9/2026 4:17:13 PM] 195.178.110.137 >>> Disconnected.
+[8/9/2026 4:19:29 PM] Connection attempt from IP: 45.154.244.193...
+[8/9/2026 4:19:30 PM] ***REJECTED*** {ip: "45.154.244.193", user: "tunnel", pass:"tunnel"}
+[8/9/2026 4:19:30 PM] 45.154.244.193 >>> Disconnected.
+[8/9/2026 4:22:20 PM] Connection attempt from IP: 2.57.121.25...
+[8/9/2026 4:22:21 PM] ***REJECTED*** {ip: "2.57.121.25", user: "admin", pass:"22071979"}
+[8/9/2026 4:22:21 PM] ***REJECTED*** {ip: "2.57.121.25", user: "admin", pass:"22071977"}
+[8/9/2026 4:22:21 PM] ***REJECTED*** {ip: "2.57.121.25", user: "admin", pass:"22061996"}
+[8/9/2026 4:22:22 PM] 2.57.121.25 >>> Disconnected.
+[8/9/2026 4:28:40 PM] Connection attempt from IP: 2.57.121.112...
+[8/9/2026 4:28:41 PM] ***REJECTED*** {ip: "2.57.121.112", user: "kailah", pass:"kailah"}
+[8/9/2026 4:28:42 PM] ***REJECTED*** {ip: "2.57.121.112", user: "kailah", pass:"kailah1"}
+[8/9/2026 4:28:42 PM] ***REJECTED*** {ip: "2.57.121.112", user: "kailah", pass:"kailah123"}
+[8/9/2026 4:28:42 PM] ***REJECTED*** {ip: "2.57.121.112", user: "kailah", pass:"kailah1234"}
+[8/9/2026 4:28:43 PM] ***REJECTED*** {ip: "2.57.121.112", user: "kailah", pass:"kailah12345"}
+[8/9/2026 4:28:43 PM] 2.57.121.112 >>> Disconnected.
+[8/9/2026 4:28:51 PM] Connection attempt from IP: 176.53.159.196...
+[8/9/2026 4:28:52 PM] ***REJECTED*** {ip: "176.53.159.196", user: "orangepi", pass:"123456789"}
