@@ -242680,3 +242680,13 @@
 [8/9/2026 1:24:43 AM] ***REJECTED*** {ip: "2.57.121.112", user: "karsten", pass:"karsten1234"}
 [8/9/2026 1:24:44 AM] ***REJECTED*** {ip: "2.57.121.112", user: "karsten", pass:"karsten12345"}
 [8/9/2026 1:24:44 AM] 2.57.121.112 >>> Disconnected.
+[8/9/2026 1:31:27 AM] Connection attempt from IP: 193.24.211.204...
+[8/9/2026 1:31:28 AM] ***REJECTED*** {ip: "193.24.211.204", user: "noc", pass:"noc"}
+[8/9/2026 1:31:28 AM] 193.24.211.204 >>> Disconnected.
+[8/9/2026 1:38:36 AM] Connection attempt from IP: 176.53.159.196...
+[8/9/2026 1:38:37 AM] ***REJECTED*** {ip: "176.53.159.196", user: "orangepi", pass:"123456789"}
+[8/9/2026 1:55:19 AM] Connection attempt from IP: 2.57.121.25...
+[8/9/2026 1:55:21 AM] ***REJECTED*** {ip: "2.57.121.25", user: "admin", pass:"24121992"}
+[8/9/2026 1:55:21 AM] ***REJECTED*** {ip: "2.57.121.25", user: "admin", pass:"241182"}
+[8/9/2026 1:55:21 AM] ***REJECTED*** {ip: "2.57.121.25", user: "admin", pass:"24111975"}
+[8/9/2026 1:55:22 AM] 2.57.121.25 >>> Disconnected.
