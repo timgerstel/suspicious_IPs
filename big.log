@@ -254222,3 +254222,24 @@
 [8/10/2026 12:39:00 PM] Connection attempt from IP: 193.24.211.204...
 [8/10/2026 12:39:01 PM] ***REJECTED*** {ip: "193.24.211.204", user: "root", pass:"12qwaszx"}
 [8/10/2026 12:39:01 PM] 193.24.211.204 >>> Disconnected.
+[8/10/2026 1:03:36 PM] Connection attempt from IP: 45.148.10.152...
+[8/10/2026 1:16:05 PM] Connection attempt from IP: 2.57.121.25...
+[8/10/2026 1:16:07 PM] ***REJECTED*** {ip: "2.57.121.25", user: "admin", pass:"17071977"}
+[8/10/2026 1:16:07 PM] ***REJECTED*** {ip: "2.57.121.25", user: "admin", pass:"170590"}
+[8/10/2026 1:16:07 PM] ***REJECTED*** {ip: "2.57.121.25", user: "admin", pass:"17041981"}
+[8/10/2026 1:16:07 PM] 2.57.121.25 >>> Disconnected.
+[8/10/2026 1:26:13 PM] Connection attempt from IP: 193.24.211.204...
+[8/10/2026 1:26:14 PM] ***REJECTED*** {ip: "193.24.211.204", user: "admin", pass:"admin1"}
+[8/10/2026 1:26:14 PM] 193.24.211.204 >>> Disconnected.
+[8/10/2026 1:27:44 PM] Connection attempt from IP: 2.57.121.112...
+[8/10/2026 1:27:45 PM] ***REJECTED*** {ip: "2.57.121.112", user: "ryker", pass:"ryker"}
+[8/10/2026 1:27:46 PM] ***REJECTED*** {ip: "2.57.121.112", user: "ryker", pass:"ryker1"}
+[8/10/2026 1:27:46 PM] ***REJECTED*** {ip: "2.57.121.112", user: "ryker", pass:"ryker123"}
+[8/10/2026 1:27:46 PM] ***REJECTED*** {ip: "2.57.121.112", user: "ryker", pass:"ryker1234"}
+[8/10/2026 1:27:46 PM] ***REJECTED*** {ip: "2.57.121.112", user: "ryker", pass:"ryker12345"}
+[8/10/2026 1:27:47 PM] 2.57.121.112 >>> Disconnected.
+[8/10/2026 1:28:20 PM] Connection attempt from IP: 193.46.255.86...
+[8/10/2026 1:28:22 PM] ***REJECTED*** {ip: "193.46.255.86", user: "oracle", pass:"oracle"}
+[8/10/2026 1:28:22 PM] ***REJECTED*** {ip: "193.46.255.86", user: "oracle", pass:"admin123"}
+[8/10/2026 1:28:22 PM] ***REJECTED*** {ip: "193.46.255.86", user: "oracle", pass:"oracle1"}
+[8/10/2026 1:28:23 PM] 193.46.255.86 >>> Disconnected.
