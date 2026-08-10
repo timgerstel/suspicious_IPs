@@ -253481,3 +253481,19 @@
 [8/10/2026 4:25:26 AM] 2.57.121.25 >>> Disconnected.
 [8/10/2026 4:28:05 AM] Connection attempt from IP: 205.210.31.133...
 [8/10/2026 4:28:07 AM] 205.210.31.133 >>> Disconnected.
+[8/10/2026 4:42:16 AM] Connection attempt from IP: 195.178.110.137...
+[8/10/2026 4:42:17 AM] ***REJECTED*** {ip: "195.178.110.137", user: "admin", pass:"admin"}
+[8/10/2026 4:42:17 AM] 195.178.110.137 >>> Disconnected.
+[8/10/2026 4:43:00 AM] Connection attempt from IP: 193.24.211.204...
+[8/10/2026 4:43:01 AM] ***REJECTED*** {ip: "193.24.211.204", user: "root", pass:"1qaz@WSX"}
+[8/10/2026 4:43:01 AM] 193.24.211.204 >>> Disconnected.
+[8/10/2026 4:55:20 AM] Connection attempt from IP: 64.62.197.120...
+[8/10/2026 4:55:24 AM] 64.62.197.120 >>> Disconnected.
+[8/10/2026 4:56:12 AM] Connection attempt from IP: 193.46.255.86...
+[8/10/2026 4:56:13 AM] ***REJECTED*** {ip: "193.46.255.86", user: "root", pass:"1234"}
+[8/10/2026 4:56:13 AM] ***REJECTED*** {ip: "193.46.255.86", user: "root", pass:"welc0me"}
+[8/10/2026 4:56:14 AM] ***REJECTED*** {ip: "193.46.255.86", user: "root", pass:"admin12"}
+[8/10/2026 4:56:14 AM] 193.46.255.86 >>> Disconnected.
+[8/10/2026 4:58:39 AM] Connection attempt from IP: 195.178.110.137...
+[8/10/2026 4:58:40 AM] ***REJECTED*** {ip: "195.178.110.137", user: "root", pass:"admin"}
+[8/10/2026 4:58:40 AM] 195.178.110.137 >>> Disconnected.
