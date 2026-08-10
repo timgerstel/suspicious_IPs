@@ -254279,3 +254279,14 @@
 [8/10/2026 2:54:55 PM] Connection attempt from IP: 45.154.244.193...
 [8/10/2026 2:54:56 PM] ***REJECTED*** {ip: "45.154.244.193", user: "administrator", pass:"admin"}
 [8/10/2026 2:54:56 PM] 45.154.244.193 >>> Disconnected.
+[8/10/2026 3:00:53 PM] Connection attempt from IP: 193.24.211.204...
+[8/10/2026 3:00:54 PM] ***REJECTED*** {ip: "193.24.211.204", user: "root", pass:"Zte521"}
+[8/10/2026 3:00:54 PM] 193.24.211.204 >>> Disconnected.
+[8/10/2026 3:13:07 PM] Connection attempt from IP: 2.57.121.25...
+[8/10/2026 3:13:08 PM] ***REJECTED*** {ip: "2.57.121.25", user: "admin", pass:"16121993"}
+[8/10/2026 3:13:08 PM] ***REJECTED*** {ip: "2.57.121.25", user: "admin", pass:"160890"}
+[8/10/2026 3:13:09 PM] ***REJECTED*** {ip: "2.57.121.25", user: "admin", pass:"16081996"}
+[8/10/2026 3:13:09 PM] 2.57.121.25 >>> Disconnected.
+[8/10/2026 3:15:00 PM] Connection attempt from IP: 58.76.159.170...
+[8/10/2026 3:15:03 PM] ***REJECTED*** {ip: "58.76.159.170", user: "ubuntu", pass:"admin123!@"}
+[8/10/2026 3:15:04 PM] 58.76.159.170 >>> Disconnected.
