@@ -254378,3 +254378,16 @@
 [8/10/2026 5:50:55 PM] Connection attempt from IP: 45.154.244.193...
 [8/10/2026 5:50:55 PM] ***REJECTED*** {ip: "45.154.244.193", user: "222222", pass:"222222"}
 [8/10/2026 5:50:56 PM] 45.154.244.193 >>> Disconnected.
+[8/10/2026 6:08:53 PM] Connection attempt from IP: 2.57.121.25...
+[8/10/2026 6:08:54 PM] ***REJECTED*** {ip: "2.57.121.25", user: "admin", pass:"15151"}
+[8/10/2026 6:08:55 PM] ***REJECTED*** {ip: "2.57.121.25", user: "admin", pass:"151289"}
+[8/10/2026 6:08:55 PM] ***REJECTED*** {ip: "2.57.121.25", user: "admin", pass:"151188"}
+[8/10/2026 6:08:55 PM] 2.57.121.25 >>> Disconnected.
+[8/10/2026 6:19:59 PM] Connection attempt from IP: 193.46.255.86...
+[8/10/2026 6:20:00 PM] ***REJECTED*** {ip: "193.46.255.86", user: "admin1", pass:"admin123"}
+[8/10/2026 6:20:00 PM] ***REJECTED*** {ip: "193.46.255.86", user: "admin1", pass:"admin1"}
+[8/10/2026 6:20:01 PM] ***REJECTED*** {ip: "193.46.255.86", user: "admin1", pass:"admin@123"}
+[8/10/2026 6:20:01 PM] 193.46.255.86 >>> Disconnected.
+[8/10/2026 6:29:14 PM] Connection attempt from IP: 193.24.211.204...
+[8/10/2026 6:29:15 PM] ***REJECTED*** {ip: "193.24.211.204", user: "root", pass:"letmein"}
+[8/10/2026 6:29:16 PM] 193.24.211.204 >>> Disconnected.
