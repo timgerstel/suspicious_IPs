@@ -254194,3 +254194,22 @@
 [8/10/2026 11:58:53 AM] Connection attempt from IP: 45.154.244.193...
 [8/10/2026 11:58:54 AM] ***REJECTED*** {ip: "45.154.244.193", user: "bin", pass:"smoker666"}
 [8/10/2026 11:58:54 AM] 45.154.244.193 >>> Disconnected.
+[8/10/2026 12:10:36 PM] Connection attempt from IP: 2.57.121.112...
+[8/10/2026 12:10:37 PM] ***REJECTED*** {ip: "2.57.121.112", user: "otis", pass:"otis"}
+[8/10/2026 12:10:37 PM] ***REJECTED*** {ip: "2.57.121.112", user: "otis", pass:"otis1"}
+[8/10/2026 12:10:38 PM] ***REJECTED*** {ip: "2.57.121.112", user: "otis", pass:"otis123"}
+[8/10/2026 12:10:38 PM] ***REJECTED*** {ip: "2.57.121.112", user: "otis", pass:"otis1234"}
+[8/10/2026 12:10:38 PM] ***REJECTED*** {ip: "2.57.121.112", user: "otis", pass:"otis12345"}
+[8/10/2026 12:10:39 PM] 2.57.121.112 >>> Disconnected.
+[8/10/2026 12:15:32 PM] Connection attempt from IP: 193.46.255.86...
+[8/10/2026 12:15:33 PM] ***REJECTED*** {ip: "193.46.255.86", user: "admin", pass:"123456789"}
+[8/10/2026 12:15:33 PM] ***REJECTED*** {ip: "193.46.255.86", user: "admin", pass:"Password1"}
+[8/10/2026 12:15:33 PM] ***REJECTED*** {ip: "193.46.255.86", user: "admin", pass:"topo133"}
+[8/10/2026 12:15:34 PM] 193.46.255.86 >>> Disconnected.
+[8/10/2026 12:17:28 PM] Connection attempt from IP: 2.57.121.25...
+[8/10/2026 12:17:29 PM] ***REJECTED*** {ip: "2.57.121.25", user: "admin", pass:"17091980"}
+[8/10/2026 12:17:30 PM] ***REJECTED*** {ip: "2.57.121.25", user: "admin", pass:"17091976"}
+[8/10/2026 12:17:30 PM] ***REJECTED*** {ip: "2.57.121.25", user: "admin", pass:"17071979"}
+[8/10/2026 12:17:30 PM] 2.57.121.25 >>> Disconnected.
+[8/10/2026 12:18:59 PM] Connection attempt from IP: 176.53.159.196...
+[8/10/2026 12:19:01 PM] ***REJECTED*** {ip: "176.53.159.196", user: "orangepi", pass:"123456789"}
