@@ -254251,3 +254251,13 @@
 [8/10/2026 1:55:10 PM] 159.89.135.245 >>> Disconnected.
 [8/10/2026 1:56:05 PM] Connection attempt from IP: 18.218.118.203...
 [8/10/2026 1:56:05 PM] 18.218.118.203 >>> Disconnected.
+[8/10/2026 2:13:35 PM] Connection attempt from IP: 193.24.211.204...
+[8/10/2026 2:13:36 PM] ***REJECTED*** {ip: "193.24.211.204", user: "root", pass:"q1w2e3r4"}
+[8/10/2026 2:13:36 PM] 193.24.211.204 >>> Disconnected.
+[8/10/2026 2:14:39 PM] Connection attempt from IP: 2.57.121.25...
+[8/10/2026 2:14:40 PM] ***REJECTED*** {ip: "2.57.121.25", user: "admin", pass:"17041974"}
+[8/10/2026 2:14:40 PM] ***REJECTED*** {ip: "2.57.121.25", user: "admin", pass:"170288"}
+[8/10/2026 2:14:41 PM] ***REJECTED*** {ip: "2.57.121.25", user: "admin", pass:"17011978"}
+[8/10/2026 2:14:41 PM] 2.57.121.25 >>> Disconnected.
+[8/10/2026 2:14:58 PM] Connection attempt from IP: 45.156.87.147...
+[8/10/2026 2:15:06 PM] 45.156.87.147 >>> Disconnected.
