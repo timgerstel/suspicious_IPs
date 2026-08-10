@@ -254326,3 +254326,9 @@
 [8/10/2026 4:28:11 PM] Connection attempt from IP: 193.24.211.204...
 [8/10/2026 4:28:12 PM] ***REJECTED*** {ip: "193.24.211.204", user: "root", pass:"123123123"}
 [8/10/2026 4:28:12 PM] 193.24.211.204 >>> Disconnected.
+[8/10/2026 4:32:15 PM] Connection attempt from IP: 195.178.110.137...
+[8/10/2026 4:32:16 PM] ***REJECTED*** {ip: "195.178.110.137", user: "admin", pass:"admin"}
+[8/10/2026 4:32:16 PM] 195.178.110.137 >>> Disconnected.
+[8/10/2026 4:49:00 PM] Connection attempt from IP: 195.178.110.137...
+[8/10/2026 4:49:01 PM] ***REJECTED*** {ip: "195.178.110.137", user: "root", pass:"admin"}
+[8/10/2026 4:49:01 PM] 195.178.110.137 >>> Disconnected.
