@@ -253548,3 +253548,10 @@
 [8/10/2026 6:24:05 AM] ***REJECTED*** {ip: "2.57.121.25", user: "admin", pass:"19091977"}
 [8/10/2026 6:24:05 AM] ***REJECTED*** {ip: "2.57.121.25", user: "admin", pass:"19081980"}
 [8/10/2026 6:24:06 AM] 2.57.121.25 >>> Disconnected.
+[8/10/2026 6:59:52 AM] Connection attempt from IP: 2.57.121.112...
+[8/10/2026 6:59:53 AM] ***REJECTED*** {ip: "2.57.121.112", user: "jarren", pass:"jarren"}
+[8/10/2026 6:59:54 AM] ***REJECTED*** {ip: "2.57.121.112", user: "jarren", pass:"jarren1"}
+[8/10/2026 6:59:54 AM] ***REJECTED*** {ip: "2.57.121.112", user: "jarren", pass:"jarren123"}
+[8/10/2026 6:59:54 AM] ***REJECTED*** {ip: "2.57.121.112", user: "jarren", pass:"jarren1234"}
+[8/10/2026 6:59:54 AM] ***REJECTED*** {ip: "2.57.121.112", user: "jarren", pass:"jarren12345"}
+[8/10/2026 6:59:55 AM] 2.57.121.112 >>> Disconnected.
