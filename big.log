@@ -253569,3 +253569,16 @@
 [8/10/2026 7:23:15 AM] ***REJECTED*** {ip: "2.57.121.25", user: "admin", pass:"19051982"}
 [8/10/2026 7:23:16 AM] ***REJECTED*** {ip: "2.57.121.25", user: "admin", pass:"19021978"}
 [8/10/2026 7:23:16 AM] 2.57.121.25 >>> Disconnected.
+[8/10/2026 7:34:29 AM] Connection attempt from IP: 185.107.80.93...
+[8/10/2026 7:34:29 AM] 185.107.80.93 >>> Disconnected.
+[8/10/2026 7:34:47 AM] Connection attempt from IP: 101.36.228.201...
+[8/10/2026 7:34:50 AM] ***REJECTED*** {ip: "101.36.228.201", user: "root", pass:"ubuntu"}
+[8/10/2026 7:34:50 AM] 101.36.228.201 >>> Disconnected.
+[8/10/2026 7:34:57 AM] Connection attempt from IP: 101.36.228.201...
+[8/10/2026 7:34:59 AM] ***REJECTED*** {ip: "101.36.228.201", user: "root", pass:"debian"}
+[8/10/2026 7:35:00 AM] 101.36.228.201 >>> Disconnected.
+[8/10/2026 7:52:20 AM] Connection attempt from IP: 193.24.211.204...
+[8/10/2026 7:52:21 AM] ***REJECTED*** {ip: "193.24.211.204", user: "root", pass:"uClinux"}
+[8/10/2026 7:52:22 AM] 193.24.211.204 >>> Disconnected.
+[8/10/2026 7:57:05 AM] Connection attempt from IP: 176.53.159.196...
+[8/10/2026 7:57:06 AM] ***REJECTED*** {ip: "176.53.159.196", user: "orangepi", pass:"123456789"}
