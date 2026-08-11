@@ -260614,3 +260614,6 @@
 [8/11/2026 6:58:09 PM] ***REJECTED*** {ip: "2.57.121.25", user: "admin", pass:"12051976"}
 [8/11/2026 6:58:10 PM] ***REJECTED*** {ip: "2.57.121.25", user: "admin", pass:"120480"}
 [8/11/2026 6:58:10 PM] 2.57.121.25 >>> Disconnected.
+[8/11/2026 7:08:22 PM] Connection attempt from IP: 45.148.10.141...
+[8/11/2026 7:15:44 PM] Connection attempt from IP: 176.53.159.196...
+[8/11/2026 7:15:45 PM] ***REJECTED*** {ip: "176.53.159.196", user: "orangepi", pass:"123456789"}
