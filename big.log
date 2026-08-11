@@ -259937,3 +259937,9 @@
 [8/11/2026 7:17:58 AM] 170.106.105.73 >>> Disconnected.
 [8/11/2026 7:17:58 AM] ***REJECTED*** {ip: "170.106.105.73", user: "root", pass:"sinko@"}
 [8/11/2026 7:17:58 AM] 170.106.105.73 >>> Disconnected.
+[8/11/2026 7:35:45 AM] Connection attempt from IP: 2.57.121.25...
+[8/11/2026 7:35:46 AM] ***REJECTED*** {ip: "2.57.121.25", user: "admin", pass:"13081976"}
+[8/11/2026 7:35:46 AM] ***REJECTED*** {ip: "2.57.121.25", user: "admin", pass:"130789"}
+[8/11/2026 7:35:46 AM] ***REJECTED*** {ip: "2.57.121.25", user: "admin", pass:"13061995"}
+[8/11/2026 7:35:47 AM] 2.57.121.25 >>> Disconnected.
+[8/11/2026 7:48:55 AM] Connection attempt from IP: 60.28.38.66...
