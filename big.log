@@ -260688,3 +260688,20 @@
 [8/11/2026 8:58:42 PM] ***REJECTED*** {ip: "193.46.255.86", user: "admin", pass:"admin01"}
 [8/11/2026 8:58:42 PM] ***REJECTED*** {ip: "193.46.255.86", user: "admin", pass:"admin1"}
 [8/11/2026 8:58:43 PM] 193.46.255.86 >>> Disconnected.
+[8/11/2026 9:00:47 PM] Connection attempt from IP: 85.217.149.24...
+[8/11/2026 9:00:47 PM] 85.217.149.24 >>> Disconnected.
+[8/11/2026 9:02:52 PM] Connection attempt from IP: 2.57.121.112...
+[8/11/2026 9:02:53 PM] ***REJECTED*** {ip: "2.57.121.112", user: "egypt", pass:"egypt"}
+[8/11/2026 9:02:53 PM] ***REJECTED*** {ip: "2.57.121.112", user: "egypt", pass:"egypt1"}
+[8/11/2026 9:02:54 PM] ***REJECTED*** {ip: "2.57.121.112", user: "egypt", pass:"egypt123"}
+[8/11/2026 9:02:54 PM] ***REJECTED*** {ip: "2.57.121.112", user: "egypt", pass:"egypt1234"}
+[8/11/2026 9:02:54 PM] ***REJECTED*** {ip: "2.57.121.112", user: "egypt", pass:"egypt12345"}
+[8/11/2026 9:02:54 PM] 2.57.121.112 >>> Disconnected.
+[8/11/2026 9:09:26 PM] Connection attempt from IP: 2.57.121.25...
+[8/11/2026 9:09:27 PM] ***REJECTED*** {ip: "2.57.121.25", user: "admin", pass:"12021996"}
+[8/11/2026 9:09:27 PM] ***REJECTED*** {ip: "2.57.121.25", user: "admin", pass:"112263"}
+[8/11/2026 9:09:27 PM] ***REJECTED*** {ip: "2.57.121.25", user: "admin", pass:"111188"}
+[8/11/2026 9:09:28 PM] 2.57.121.25 >>> Disconnected.
+[8/11/2026 9:17:52 PM] Connection attempt from IP: 142.249.174.12...
+[8/11/2026 9:17:54 PM] ***REJECTED*** {ip: "142.249.174.12", user: "ftpuser", pass:"123456"}
+[8/11/2026 9:17:54 PM] 142.249.174.12 >>> Disconnected.
