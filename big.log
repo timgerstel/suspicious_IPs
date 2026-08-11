@@ -259981,3 +259981,13 @@
 [8/11/2026 9:26:05 AM] Connection attempt from IP: 58.76.159.170...
 [8/11/2026 9:26:08 AM] ***REJECTED*** {ip: "58.76.159.170", user: "ubuntu", pass:"admin@123"}
 [8/11/2026 9:26:08 AM] 58.76.159.170 >>> Disconnected.
+[8/11/2026 9:56:51 AM] Connection attempt from IP: 2.57.121.25...
+[8/11/2026 9:56:53 AM] ***REJECTED*** {ip: "2.57.121.25", user: "admin", pass:"130489"}
+[8/11/2026 9:56:53 AM] ***REJECTED*** {ip: "2.57.121.25", user: "admin", pass:"13041994"}
+[8/11/2026 9:56:53 AM] ***REJECTED*** {ip: "2.57.121.25", user: "admin", pass:"130289"}
+[8/11/2026 9:56:54 AM] 2.57.121.25 >>> Disconnected.
+[8/11/2026 9:58:58 AM] Connection attempt from IP: 193.46.255.86...
+[8/11/2026 9:58:59 AM] ***REJECTED*** {ip: "193.46.255.86", user: "root", pass:"aDm8H%MdA"}
+[8/11/2026 9:58:59 AM] ***REJECTED*** {ip: "193.46.255.86", user: "root", pass:"root"}
+[8/11/2026 9:58:59 AM] ***REJECTED*** {ip: "193.46.255.86", user: "root", pass:"stfu_and_be_quite"}
+[8/11/2026 9:59:00 AM] 193.46.255.86 >>> Disconnected.
