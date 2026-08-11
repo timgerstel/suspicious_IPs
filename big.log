@@ -259712,3 +259712,61 @@
 [8/11/2026 6:23:17 AM] ***REJECTED*** {ip: "2.57.121.25", user: "admin", pass:"13111978"}
 [8/11/2026 6:23:17 AM] ***REJECTED*** {ip: "2.57.121.25", user: "admin", pass:"13091976"}
 [8/11/2026 6:23:17 AM] 2.57.121.25 >>> Disconnected.
+[8/11/2026 6:31:39 AM] Connection attempt from IP: 8.211.173.56...
+[8/11/2026 6:31:40 AM] ***REJECTED*** {ip: "8.211.173.56", user: "deploy", pass:"deploy1234"}
+[8/11/2026 6:31:41 AM] 8.211.173.56 >>> Disconnected.
+[8/11/2026 6:31:41 AM] Connection attempt from IP: 8.211.173.56...
+[8/11/2026 6:31:42 AM] ***REJECTED*** {ip: "8.211.173.56", user: "admin", pass:"Admin123"}
+[8/11/2026 6:31:42 AM] 8.211.173.56 >>> Disconnected.
+[8/11/2026 6:31:43 AM] Connection attempt from IP: 8.211.173.56...
+[8/11/2026 6:31:44 AM] ***REJECTED*** {ip: "8.211.173.56", user: "vpn", pass:"vpn"}
+[8/11/2026 6:31:44 AM] 8.211.173.56 >>> Disconnected.
+[8/11/2026 6:31:44 AM] Connection attempt from IP: 8.211.173.56...
+[8/11/2026 6:31:46 AM] ***REJECTED*** {ip: "8.211.173.56", user: "ansadmin", pass:"ansadmin"}
+[8/11/2026 6:31:46 AM] 8.211.173.56 >>> Disconnected.
+[8/11/2026 6:31:46 AM] Connection attempt from IP: 8.211.173.56...
+[8/11/2026 6:31:47 AM] ***REJECTED*** {ip: "8.211.173.56", user: "vyos", pass:"vyos"}
+[8/11/2026 6:31:48 AM] 8.211.173.56 >>> Disconnected.
+[8/11/2026 6:31:48 AM] Connection attempt from IP: 8.211.173.56...
+[8/11/2026 6:31:49 AM] ***REJECTED*** {ip: "8.211.173.56", user: "admin", pass:"admin123"}
+[8/11/2026 6:31:49 AM] 8.211.173.56 >>> Disconnected.
+[8/11/2026 6:31:50 AM] Connection attempt from IP: 8.211.173.56...
+[8/11/2026 6:31:51 AM] ***REJECTED*** {ip: "8.211.173.56", user: "postgres", pass:"123456"}
+[8/11/2026 6:31:51 AM] 8.211.173.56 >>> Disconnected.
+[8/11/2026 6:31:51 AM] Connection attempt from IP: 8.211.173.56...
+[8/11/2026 6:31:53 AM] ***REJECTED*** {ip: "8.211.173.56", user: "hadoop", pass:"123456"}
+[8/11/2026 6:31:53 AM] 8.211.173.56 >>> Disconnected.
+[8/11/2026 6:31:53 AM] Connection attempt from IP: 8.211.173.56...
+[8/11/2026 6:31:54 AM] ***REJECTED*** {ip: "8.211.173.56", user: "devopsadmin", pass:"devopsadmin"}
+[8/11/2026 6:31:55 AM] 8.211.173.56 >>> Disconnected.
+[8/11/2026 6:31:55 AM] Connection attempt from IP: 8.211.173.56...
+[8/11/2026 6:31:56 AM] ***REJECTED*** {ip: "8.211.173.56", user: "root", pass:"Root@123456"}
+[8/11/2026 6:31:56 AM] 8.211.173.56 >>> Disconnected.
+[8/11/2026 6:32:00 AM] Connection attempt from IP: 8.211.173.56...
+[8/11/2026 6:32:01 AM] ***REJECTED*** {ip: "8.211.173.56", user: "pi", pass:"123456"}
+[8/11/2026 6:32:02 AM] 8.211.173.56 >>> Disconnected.
+[8/11/2026 6:32:03 AM] Connection attempt from IP: 8.211.173.56...
+[8/11/2026 6:32:04 AM] ***REJECTED*** {ip: "8.211.173.56", user: "root", pass:"password123"}
+[8/11/2026 6:32:04 AM] 8.211.173.56 >>> Disconnected.
+[8/11/2026 6:32:05 AM] Connection attempt from IP: 8.211.173.56...
+[8/11/2026 6:32:06 AM] ***REJECTED*** {ip: "8.211.173.56", user: "oracle", pass:"oracle"}
+[8/11/2026 6:32:06 AM] 8.211.173.56 >>> Disconnected.
+[8/11/2026 6:32:09 AM] Connection attempt from IP: 8.211.173.56...
+[8/11/2026 6:32:11 AM] ***REJECTED*** {ip: "8.211.173.56", user: "dspace", pass:"dspace"}
+[8/11/2026 6:32:11 AM] 8.211.173.56 >>> Disconnected.
+[8/11/2026 6:32:11 AM] Connection attempt from IP: 8.211.173.56...
+[8/11/2026 6:32:12 AM] ***REJECTED*** {ip: "8.211.173.56", user: "vpnuser", pass:"vpnuser"}
+[8/11/2026 6:32:13 AM] 8.211.173.56 >>> Disconnected.
+[8/11/2026 6:32:16 AM] Connection attempt from IP: 8.211.173.56...
+[8/11/2026 6:32:17 AM] ***REJECTED*** {ip: "8.211.173.56", user: "kafka", pass:"kafka"}
+[8/11/2026 6:32:18 AM] 8.211.173.56 >>> Disconnected.
+[8/11/2026 6:32:46 AM] Connection attempt from IP: 8.211.173.56...
+[8/11/2026 6:32:47 AM] ***REJECTED*** {ip: "8.211.173.56", user: "vps", pass:"vps"}
+[8/11/2026 6:32:47 AM] 8.211.173.56 >>> Disconnected.
+[8/11/2026 6:38:52 AM] Connection attempt from IP: 2.57.121.112...
+[8/11/2026 6:38:53 AM] ***REJECTED*** {ip: "2.57.121.112", user: "anakin", pass:"anakin"}
+[8/11/2026 6:38:53 AM] ***REJECTED*** {ip: "2.57.121.112", user: "anakin", pass:"anakin1"}
+[8/11/2026 6:38:54 AM] ***REJECTED*** {ip: "2.57.121.112", user: "anakin", pass:"anakin123"}
+[8/11/2026 6:38:54 AM] ***REJECTED*** {ip: "2.57.121.112", user: "anakin", pass:"anakin1234"}
+[8/11/2026 6:38:54 AM] ***REJECTED*** {ip: "2.57.121.112", user: "anakin", pass:"anakin12345"}
+[8/11/2026 6:38:54 AM] 2.57.121.112 >>> Disconnected.
