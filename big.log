@@ -259991,3 +259991,11 @@
 [8/11/2026 9:58:59 AM] ***REJECTED*** {ip: "193.46.255.86", user: "root", pass:"root"}
 [8/11/2026 9:58:59 AM] ***REJECTED*** {ip: "193.46.255.86", user: "root", pass:"stfu_and_be_quite"}
 [8/11/2026 9:59:00 AM] 193.46.255.86 >>> Disconnected.
+[8/11/2026 10:02:41 AM] Connection attempt from IP: 2.57.121.112...
+[8/11/2026 10:02:42 AM] ***REJECTED*** {ip: "2.57.121.112", user: "elton", pass:"elton"}
+[8/11/2026 10:02:43 AM] ***REJECTED*** {ip: "2.57.121.112", user: "elton", pass:"elton1"}
+[8/11/2026 10:02:43 AM] ***REJECTED*** {ip: "2.57.121.112", user: "elton", pass:"elton123"}
+[8/11/2026 10:02:43 AM] ***REJECTED*** {ip: "2.57.121.112", user: "elton", pass:"elton1234"}
+[8/11/2026 10:02:44 AM] ***REJECTED*** {ip: "2.57.121.112", user: "elton", pass:"elton12345"}
+[8/11/2026 10:02:44 AM] 2.57.121.112 >>> Disconnected.
+[8/11/2026 10:08:35 AM] Connection attempt from IP: 45.148.10.147...
