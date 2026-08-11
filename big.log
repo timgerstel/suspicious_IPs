@@ -260745,3 +260745,8 @@
 [8/11/2026 10:53:46 PM] Connection attempt from IP: 45.154.244.193...
 [8/11/2026 10:53:47 PM] ***REJECTED*** {ip: "45.154.244.193", user: "reboot", pass:"reboot"}
 [8/11/2026 10:53:47 PM] 45.154.244.193 >>> Disconnected.
+[8/11/2026 11:19:45 PM] Connection attempt from IP: 2.57.121.25...
+[8/11/2026 11:19:47 PM] ***REJECTED*** {ip: "2.57.121.25", user: "admin", pass:"11091996"}
+[8/11/2026 11:19:47 PM] ***REJECTED*** {ip: "2.57.121.25", user: "admin", pass:"11091979"}
+[8/11/2026 11:19:47 PM] ***REJECTED*** {ip: "2.57.121.25", user: "admin", pass:"110889"}
+[8/11/2026 11:19:48 PM] 2.57.121.25 >>> Disconnected.
