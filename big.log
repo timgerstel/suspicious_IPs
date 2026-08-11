@@ -260604,3 +260604,13 @@
 [8/11/2026 6:16:58 PM] ***REJECTED*** {ip: "193.46.255.86", user: "admin", pass:"P@ssw0rd@123"}
 [8/11/2026 6:16:58 PM] ***REJECTED*** {ip: "193.46.255.86", user: "admin", pass:"1234"}
 [8/11/2026 6:16:59 PM] 193.46.255.86 >>> Disconnected.
+[8/11/2026 6:36:32 PM] Connection attempt from IP: 18.234.140.213...
+[8/11/2026 6:36:32 PM] 18.234.140.213 >>> Disconnected.
+[8/11/2026 6:48:36 PM] Connection attempt from IP: 45.154.244.193...
+[8/11/2026 6:48:37 PM] ***REJECTED*** {ip: "45.154.244.193", user: "odroid", pass:"odroid"}
+[8/11/2026 6:48:37 PM] 45.154.244.193 >>> Disconnected.
+[8/11/2026 6:58:08 PM] Connection attempt from IP: 2.57.121.25...
+[8/11/2026 6:58:09 PM] ***REJECTED*** {ip: "2.57.121.25", user: "admin", pass:"120586"}
+[8/11/2026 6:58:09 PM] ***REJECTED*** {ip: "2.57.121.25", user: "admin", pass:"12051976"}
+[8/11/2026 6:58:10 PM] ***REJECTED*** {ip: "2.57.121.25", user: "admin", pass:"120480"}
+[8/11/2026 6:58:10 PM] 2.57.121.25 >>> Disconnected.
