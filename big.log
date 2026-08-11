@@ -259943,3 +259943,15 @@
 [8/11/2026 7:35:46 AM] ***REJECTED*** {ip: "2.57.121.25", user: "admin", pass:"13061995"}
 [8/11/2026 7:35:47 AM] 2.57.121.25 >>> Disconnected.
 [8/11/2026 7:48:55 AM] Connection attempt from IP: 60.28.38.66...
+[8/11/2026 8:06:40 AM] Connection attempt from IP: 176.53.159.196...
+[8/11/2026 8:06:41 AM] ***REJECTED*** {ip: "176.53.159.196", user: "orangepi", pass:"123456789"}
+[8/11/2026 8:19:30 AM] Connection attempt from IP: 45.154.244.193...
+[8/11/2026 8:19:31 AM] ***REJECTED*** {ip: "45.154.244.193", user: "monitor", pass:"monitor"}
+[8/11/2026 8:19:31 AM] 45.154.244.193 >>> Disconnected.
+[8/11/2026 8:22:34 AM] Connection attempt from IP: 2.57.121.112...
+[8/11/2026 8:22:35 AM] ***REJECTED*** {ip: "2.57.121.112", user: "dave", pass:"dave"}
+[8/11/2026 8:22:36 AM] ***REJECTED*** {ip: "2.57.121.112", user: "dave", pass:"dave1"}
+[8/11/2026 8:22:36 AM] ***REJECTED*** {ip: "2.57.121.112", user: "dave", pass:"dave123"}
+[8/11/2026 8:22:36 AM] ***REJECTED*** {ip: "2.57.121.112", user: "dave", pass:"dave1234"}
+[8/11/2026 8:22:37 AM] ***REJECTED*** {ip: "2.57.121.112", user: "dave", pass:"dave12345"}
+[8/11/2026 8:22:37 AM] 2.57.121.112 >>> Disconnected.
