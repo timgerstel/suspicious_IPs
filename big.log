@@ -282734,3 +282734,22 @@
 [8/12/2026 9:58:08 AM] Connection attempt from IP: 45.154.244.193...
 [8/12/2026 9:58:09 AM] ***REJECTED*** {ip: "45.154.244.193", user: "sshd", pass:"123456"}
 [8/12/2026 9:58:09 AM] 45.154.244.193 >>> Disconnected.
+[8/12/2026 10:03:32 AM] Connection attempt from IP: 2.57.121.25...
+[8/12/2026 10:03:33 AM] ***REJECTED*** {ip: "2.57.121.25", user: "admin", pass:"09061979"}
+[8/12/2026 10:03:34 AM] ***REJECTED*** {ip: "2.57.121.25", user: "admin", pass:"09061975"}
+[8/12/2026 10:03:34 AM] ***REJECTED*** {ip: "2.57.121.25", user: "admin", pass:"09061972"}
+[8/12/2026 10:03:34 AM] 2.57.121.25 >>> Disconnected.
+[8/12/2026 10:07:47 AM] Connection attempt from IP: 45.154.244.193...
+[8/12/2026 10:07:47 AM] ***REJECTED*** {ip: "45.154.244.193", user: "odoo", pass:"odoo"}
+[8/12/2026 10:07:48 AM] 45.154.244.193 >>> Disconnected.
+[8/12/2026 10:17:31 AM] Connection attempt from IP: 2.57.121.112...
+[8/12/2026 10:17:32 AM] ***REJECTED*** {ip: "2.57.121.112", user: "sapphire", pass:"sapphire"}
+[8/12/2026 10:17:32 AM] ***REJECTED*** {ip: "2.57.121.112", user: "sapphire", pass:"sapphire1"}
+[8/12/2026 10:17:33 AM] ***REJECTED*** {ip: "2.57.121.112", user: "sapphire", pass:"sapphire123"}
+[8/12/2026 10:17:33 AM] ***REJECTED*** {ip: "2.57.121.112", user: "sapphire", pass:"sapphire1234"}
+[8/12/2026 10:17:33 AM] ***REJECTED*** {ip: "2.57.121.112", user: "sapphire", pass:"sapphire12345"}
+[8/12/2026 10:17:34 AM] 2.57.121.112 >>> Disconnected.
+[8/12/2026 10:20:26 AM] Connection attempt from IP: 91.92.47.90...
+[8/12/2026 10:20:34 AM] 91.92.47.90 >>> Disconnected.
+[8/12/2026 10:27:18 AM] Connection attempt from IP: 176.53.159.196...
+[8/12/2026 10:27:19 AM] ***REJECTED*** {ip: "176.53.159.196", user: "orangepi", pass:"123456789"}
