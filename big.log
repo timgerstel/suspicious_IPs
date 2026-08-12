@@ -282800,3 +282800,17 @@
 [8/12/2026 12:34:23 PM] Connection attempt from IP: 195.178.110.137...
 [8/12/2026 12:34:24 PM] ***ACCEPTED*** {ip: "195.178.110.137", user: "AdminGPON", pass:"ALC#FGU"}
 [8/12/2026 12:34:27 PM] 195.178.110.137 >>> Disconnected.
+[8/12/2026 1:09:24 PM] Connection attempt from IP: 2.57.121.112...
+[8/12/2026 1:09:25 PM] ***REJECTED*** {ip: "2.57.121.112", user: "sunshine", pass:"sunshine"}
+[8/12/2026 1:09:25 PM] ***REJECTED*** {ip: "2.57.121.112", user: "sunshine", pass:"sunshine1"}
+[8/12/2026 1:09:26 PM] ***REJECTED*** {ip: "2.57.121.112", user: "sunshine", pass:"sunshine123"}
+[8/12/2026 1:09:26 PM] ***REJECTED*** {ip: "2.57.121.112", user: "sunshine", pass:"sunshine1234"}
+[8/12/2026 1:09:26 PM] ***REJECTED*** {ip: "2.57.121.112", user: "sunshine", pass:"sunshine12345"}
+[8/12/2026 1:09:27 PM] 2.57.121.112 >>> Disconnected.
+[8/12/2026 1:13:26 PM] Connection attempt from IP: 176.53.159.196...
+[8/12/2026 1:13:28 PM] ***REJECTED*** {ip: "176.53.159.196", user: "orangepi", pass:"123456789"}
+[8/12/2026 1:13:44 PM] Connection attempt from IP: 2.57.121.25...
+[8/12/2026 1:13:45 PM] ***REJECTED*** {ip: "2.57.121.25", user: "admin", pass:"08091977"}
+[8/12/2026 1:13:46 PM] ***REJECTED*** {ip: "2.57.121.25", user: "admin", pass:"080889"}
+[8/12/2026 1:13:46 PM] ***REJECTED*** {ip: "2.57.121.25", user: "admin", pass:"08071980"}
+[8/12/2026 1:13:46 PM] 2.57.121.25 >>> Disconnected.
