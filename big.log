@@ -283094,3 +283094,19 @@
 [8/12/2026 10:27:36 PM] ***REJECTED*** {ip: "193.46.255.86", user: "root", pass:"medion"}
 [8/12/2026 10:27:36 PM] ***REJECTED*** {ip: "193.46.255.86", user: "root", pass:"pgj-heu05HQM=bMvz"}
 [8/12/2026 10:27:37 PM] 193.46.255.86 >>> Disconnected.
+[8/12/2026 10:36:41 PM] Connection attempt from IP: 2.57.121.25...
+[8/12/2026 10:36:43 PM] ***REJECTED*** {ip: "2.57.121.25", user: "admin", pass:"06101978"}
+[8/12/2026 10:36:43 PM] ***REJECTED*** {ip: "2.57.121.25", user: "admin", pass:"06091992"}
+[8/12/2026 10:36:43 PM] ***REJECTED*** {ip: "2.57.121.25", user: "admin", pass:"06091976"}
+[8/12/2026 10:36:43 PM] 2.57.121.25 >>> Disconnected.
+[8/12/2026 10:37:31 PM] Connection attempt from IP: 176.53.159.196...
+[8/12/2026 10:37:32 PM] ***REJECTED*** {ip: "176.53.159.196", user: "orangepi", pass:"123456789"}
+[8/12/2026 10:52:05 PM] Connection attempt from IP: 147.185.132.64...
+[8/12/2026 10:52:07 PM] 147.185.132.64 >>> Disconnected.
+[8/12/2026 10:58:56 PM] Connection attempt from IP: 2.57.121.112...
+[8/12/2026 10:58:57 PM] ***REJECTED*** {ip: "2.57.121.112", user: "jaelen", pass:"jaelen"}
+[8/12/2026 10:58:58 PM] ***REJECTED*** {ip: "2.57.121.112", user: "jaelen", pass:"jaelen1"}
+[8/12/2026 10:58:58 PM] ***REJECTED*** {ip: "2.57.121.112", user: "jaelen", pass:"jaelen123"}
+[8/12/2026 10:58:58 PM] ***REJECTED*** {ip: "2.57.121.112", user: "jaelen", pass:"jaelen1234"}
+[8/12/2026 10:58:59 PM] ***REJECTED*** {ip: "2.57.121.112", user: "jaelen", pass:"jaelen12345"}
+[8/12/2026 10:58:59 PM] 2.57.121.112 >>> Disconnected.
