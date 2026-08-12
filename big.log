@@ -260787,3 +260787,11 @@
 [8/12/2026 12:24:41 AM] ***REJECTED*** {ip: "2.57.121.25", user: "admin", pass:"110682"}
 [8/12/2026 12:24:41 AM] ***REJECTED*** {ip: "2.57.121.25", user: "admin", pass:"11061975"}
 [8/12/2026 12:24:42 AM] 2.57.121.25 >>> Disconnected.
+[8/12/2026 12:53:40 AM] Connection attempt from IP: 45.154.244.193...
+[8/12/2026 12:53:41 AM] ***REJECTED*** {ip: "45.154.244.193", user: "andy", pass:"andy"}
+[8/12/2026 12:53:41 AM] 45.154.244.193 >>> Disconnected.
+[8/12/2026 12:57:57 AM] Connection attempt from IP: 193.46.255.86...
+[8/12/2026 12:57:58 AM] ***REJECTED*** {ip: "193.46.255.86", user: "admin", pass:"Huawei12#$"}
+[8/12/2026 12:57:59 AM] ***REJECTED*** {ip: "193.46.255.86", user: "admin", pass:"admin1234"}
+[8/12/2026 12:57:59 AM] ***REJECTED*** {ip: "193.46.255.86", user: "admin", pass:"123456"}
+[8/12/2026 12:57:59 AM] 193.46.255.86 >>> Disconnected.
