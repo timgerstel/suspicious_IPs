@@ -282814,3 +282814,12 @@
 [8/12/2026 1:13:46 PM] ***REJECTED*** {ip: "2.57.121.25", user: "admin", pass:"080889"}
 [8/12/2026 1:13:46 PM] ***REJECTED*** {ip: "2.57.121.25", user: "admin", pass:"08071980"}
 [8/12/2026 1:13:46 PM] 2.57.121.25 >>> Disconnected.
+[8/12/2026 1:36:03 PM] Connection attempt from IP: 45.156.87.204...
+[8/12/2026 1:36:11 PM] 45.156.87.204 >>> Disconnected.
+[8/12/2026 1:37:38 PM] Connection attempt from IP: 176.53.159.196...
+[8/12/2026 1:37:39 PM] ***REJECTED*** {ip: "176.53.159.196", user: "orangepi", pass:"123456789"}
+[8/12/2026 1:46:15 PM] Connection attempt from IP: 193.46.255.86...
+[8/12/2026 1:46:16 PM] ***REJECTED*** {ip: "193.46.255.86", user: "root", pass:"qweasdzxc123"}
+[8/12/2026 1:46:16 PM] ***REJECTED*** {ip: "193.46.255.86", user: "root", pass:"root123"}
+[8/12/2026 1:46:16 PM] ***REJECTED*** {ip: "193.46.255.86", user: "root", pass:"admin123"}
+[8/12/2026 1:46:17 PM] 193.46.255.86 >>> Disconnected.
