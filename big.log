@@ -260795,3 +260795,9 @@
 [8/12/2026 12:57:59 AM] ***REJECTED*** {ip: "193.46.255.86", user: "admin", pass:"admin1234"}
 [8/12/2026 12:57:59 AM] ***REJECTED*** {ip: "193.46.255.86", user: "admin", pass:"123456"}
 [8/12/2026 12:57:59 AM] 193.46.255.86 >>> Disconnected.
+[8/12/2026 1:02:06 AM] Connection attempt from IP: 45.148.10.151...
+[8/12/2026 1:29:25 AM] Connection attempt from IP: 2.57.121.25...
+[8/12/2026 1:29:26 AM] ***REJECTED*** {ip: "2.57.121.25", user: "admin", pass:"110584"}
+[8/12/2026 1:29:26 AM] ***REJECTED*** {ip: "2.57.121.25", user: "admin", pass:"11051992"}
+[8/12/2026 1:29:26 AM] ***REJECTED*** {ip: "2.57.121.25", user: "admin", pass:"11041975"}
+[8/12/2026 1:29:27 AM] 2.57.121.25 >>> Disconnected.
