@@ -283047,3 +283047,10 @@
 [8/12/2026 8:12:24 PM] ***REJECTED*** {ip: "2.57.121.112", user: "gerson", pass:"gerson1234"}
 [8/12/2026 8:12:25 PM] ***REJECTED*** {ip: "2.57.121.112", user: "gerson", pass:"gerson12345"}
 [8/12/2026 8:12:25 PM] 2.57.121.112 >>> Disconnected.
+[8/12/2026 8:32:41 PM] Connection attempt from IP: 2.57.121.25...
+[8/12/2026 8:32:42 PM] ***REJECTED*** {ip: "2.57.121.25", user: "admin", pass:"06121990"}
+[8/12/2026 8:32:42 PM] ***REJECTED*** {ip: "2.57.121.25", user: "admin", pass:"06111993"}
+[8/12/2026 8:32:43 PM] ***REJECTED*** {ip: "2.57.121.25", user: "admin", pass:"0611"}
+[8/12/2026 8:32:43 PM] 2.57.121.25 >>> Disconnected.
+[8/12/2026 8:53:56 PM] Connection attempt from IP: 176.53.159.196...
+[8/12/2026 8:53:57 PM] ***REJECTED*** {ip: "176.53.159.196", user: "orangepi", pass:"123456789"}
