@@ -260750,3 +260750,13 @@
 [8/11/2026 11:19:47 PM] ***REJECTED*** {ip: "2.57.121.25", user: "admin", pass:"11091979"}
 [8/11/2026 11:19:47 PM] ***REJECTED*** {ip: "2.57.121.25", user: "admin", pass:"110889"}
 [8/11/2026 11:19:48 PM] 2.57.121.25 >>> Disconnected.
+[8/11/2026 11:38:28 PM] Connection attempt from IP: 193.46.255.86...
+[8/11/2026 11:38:30 PM] ***REJECTED*** {ip: "193.46.255.86", user: "administrator", pass:"1234"}
+[8/11/2026 11:38:30 PM] ***REJECTED*** {ip: "193.46.255.86", user: "administrator", pass:"administrator123"}
+[8/11/2026 11:38:30 PM] ***REJECTED*** {ip: "193.46.255.86", user: "administrator", pass:"administrator"}
+[8/11/2026 11:38:31 PM] 193.46.255.86 >>> Disconnected.
+[8/11/2026 11:53:44 PM] Connection attempt from IP: 45.154.244.193...
+[8/11/2026 11:53:45 PM] ***REJECTED*** {ip: "45.154.244.193", user: "usuario", pass:"123456"}
+[8/11/2026 11:53:46 PM] 45.154.244.193 >>> Disconnected.
+[8/11/2026 11:54:16 PM] Connection attempt from IP: 176.53.159.196...
+[8/11/2026 11:54:17 PM] ***REJECTED*** {ip: "176.53.159.196", user: "orangepi", pass:"123456789"}
