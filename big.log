@@ -282828,3 +282828,12 @@
 [8/12/2026 2:16:56 PM] ***REJECTED*** {ip: "2.57.121.25", user: "admin", pass:"08051988"}
 [8/12/2026 2:16:56 PM] ***REJECTED*** {ip: "2.57.121.25", user: "admin", pass:"08051977"}
 [8/12/2026 2:16:57 PM] 2.57.121.25 >>> Disconnected.
+[8/12/2026 2:34:52 PM] Connection attempt from IP: 2.57.121.112...
+[8/12/2026 2:34:53 PM] ***REJECTED*** {ip: "2.57.121.112", user: "trina", pass:"trina"}
+[8/12/2026 2:34:53 PM] ***REJECTED*** {ip: "2.57.121.112", user: "trina", pass:"trina1"}
+[8/12/2026 2:34:54 PM] ***REJECTED*** {ip: "2.57.121.112", user: "trina", pass:"trina123"}
+[8/12/2026 2:34:54 PM] ***REJECTED*** {ip: "2.57.121.112", user: "trina", pass:"trina1234"}
+[8/12/2026 2:34:54 PM] ***REJECTED*** {ip: "2.57.121.112", user: "trina", pass:"trina12345"}
+[8/12/2026 2:34:55 PM] 2.57.121.112 >>> Disconnected.
+[8/12/2026 2:51:00 PM] Connection attempt from IP: 185.247.137.95...
+[8/12/2026 2:51:00 PM] 185.247.137.95 >>> Disconnected.
