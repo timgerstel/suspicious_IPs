@@ -282726,3 +282726,11 @@
 [8/12/2026 9:28:27 AM] Connection attempt from IP: 211.225.139.200...
 [8/12/2026 9:28:29 AM] ***REJECTED*** {ip: "211.225.139.200", user: "root", pass:"1013089"}
 [8/12/2026 9:28:30 AM] 211.225.139.200 >>> Disconnected.
+[8/12/2026 9:51:57 AM] Connection attempt from IP: 193.46.255.86...
+[8/12/2026 9:51:58 AM] ***REJECTED*** {ip: "193.46.255.86", user: "admin", pass:"black13"}
+[8/12/2026 9:51:59 AM] ***REJECTED*** {ip: "193.46.255.86", user: "admin", pass:"vertex25"}
+[8/12/2026 9:51:59 AM] ***REJECTED*** {ip: "193.46.255.86", user: "admin", pass:"bjk1903"}
+[8/12/2026 9:51:59 AM] 193.46.255.86 >>> Disconnected.
+[8/12/2026 9:58:08 AM] Connection attempt from IP: 45.154.244.193...
+[8/12/2026 9:58:09 AM] ***REJECTED*** {ip: "45.154.244.193", user: "sshd", pass:"123456"}
+[8/12/2026 9:58:09 AM] 45.154.244.193 >>> Disconnected.
