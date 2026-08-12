@@ -283028,3 +283028,22 @@
 [8/12/2026 7:55:55 PM] Connection attempt from IP: 195.178.110.137...
 [8/12/2026 7:55:56 PM] ***REJECTED*** {ip: "195.178.110.137", user: "root", pass:"root"}
 [8/12/2026 7:55:56 PM] 195.178.110.137 >>> Disconnected.
+[8/12/2026 8:02:10 PM] ***REJECTED*** {ip: "117.176.220.76", user: "root", pass:"debian"}
+[8/12/2026 8:02:10 PM] 117.176.220.76 >>> Disconnected.
+[8/12/2026 8:02:11 PM] Connection attempt from IP: 117.176.220.76...
+[8/12/2026 8:02:13 PM] ***ACCEPTED*** {ip: "117.176.220.76", user: "root", pass:"centos"}
+[8/12/2026 8:02:14 PM] 117.176.220.76 >>> Disconnected.
+[8/12/2026 8:05:56 PM] Connection attempt from IP: 195.178.110.137...
+[8/12/2026 8:05:57 PM] 195.178.110.137 >>> Disconnected.
+[8/12/2026 8:07:53 PM] Connection attempt from IP: 193.46.255.86...
+[8/12/2026 8:07:54 PM] ***REJECTED*** {ip: "193.46.255.86", user: "root", pass:""}
+[8/12/2026 8:07:55 PM] ***REJECTED*** {ip: "193.46.255.86", user: "root", pass:"2wsx#EDC"}
+[8/12/2026 8:07:55 PM] ***REJECTED*** {ip: "193.46.255.86", user: "root", pass:"12345678"}
+[8/12/2026 8:07:55 PM] 193.46.255.86 >>> Disconnected.
+[8/12/2026 8:12:22 PM] Connection attempt from IP: 2.57.121.112...
+[8/12/2026 8:12:23 PM] ***REJECTED*** {ip: "2.57.121.112", user: "gerson", pass:"gerson"}
+[8/12/2026 8:12:24 PM] ***REJECTED*** {ip: "2.57.121.112", user: "gerson", pass:"gerson1"}
+[8/12/2026 8:12:24 PM] ***REJECTED*** {ip: "2.57.121.112", user: "gerson", pass:"gerson123"}
+[8/12/2026 8:12:24 PM] ***REJECTED*** {ip: "2.57.121.112", user: "gerson", pass:"gerson1234"}
+[8/12/2026 8:12:25 PM] ***REJECTED*** {ip: "2.57.121.112", user: "gerson", pass:"gerson12345"}
+[8/12/2026 8:12:25 PM] 2.57.121.112 >>> Disconnected.
