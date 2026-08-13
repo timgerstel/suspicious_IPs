@@ -284286,3 +284286,25 @@
 [8/13/2026 9:12:45 PM] Connection attempt from IP: 45.154.244.193...
 [8/13/2026 9:12:46 PM] ***REJECTED*** {ip: "45.154.244.193", user: "telegram", pass:"telegram"}
 [8/13/2026 9:12:46 PM] 45.154.244.193 >>> Disconnected.
+[8/13/2026 9:38:19 PM] Connection attempt from IP: 176.53.159.196...
+[8/13/2026 9:38:20 PM] ***REJECTED*** {ip: "176.53.159.196", user: "orangepi", pass:"123456789"}
+[8/13/2026 9:43:28 PM] Connection attempt from IP: 2.57.121.112...
+[8/13/2026 9:43:29 PM] ***REJECTED*** {ip: "2.57.121.112", user: "taelor", pass:"taelor"}
+[8/13/2026 9:43:29 PM] ***REJECTED*** {ip: "2.57.121.112", user: "taelor", pass:"taelor1"}
+[8/13/2026 9:43:29 PM] ***REJECTED*** {ip: "2.57.121.112", user: "taelor", pass:"taelor123"}
+[8/13/2026 9:43:30 PM] ***REJECTED*** {ip: "2.57.121.112", user: "taelor", pass:"taelor1234"}
+[8/13/2026 9:43:30 PM] ***REJECTED*** {ip: "2.57.121.112", user: "taelor", pass:"taelor12345"}
+[8/13/2026 9:43:30 PM] 2.57.121.112 >>> Disconnected.
+[8/13/2026 9:45:35 PM] Connection attempt from IP: 2.57.121.25...
+[8/13/2026 9:45:36 PM] ***REJECTED*** {ip: "2.57.121.25", user: "admin", pass:"yxcvbn"}
+[8/13/2026 9:45:36 PM] ***REJECTED*** {ip: "2.57.121.25", user: "admin", pass:"yukon"}
+[8/13/2026 9:45:37 PM] ***REJECTED*** {ip: "2.57.121.25", user: "admin", pass:"yayaya"}
+[8/13/2026 9:45:37 PM] 2.57.121.25 >>> Disconnected.
+[8/13/2026 9:47:39 PM] Connection attempt from IP: 45.154.244.193...
+[8/13/2026 9:47:40 PM] ***REJECTED*** {ip: "45.154.244.193", user: "autana", pass:"L@salud!"}
+[8/13/2026 9:47:40 PM] 45.154.244.193 >>> Disconnected.
+[8/13/2026 9:49:48 PM] Connection attempt from IP: 193.46.255.86...
+[8/13/2026 9:49:50 PM] ***REJECTED*** {ip: "193.46.255.86", user: "root", pass:"1234"}
+[8/13/2026 9:49:50 PM] ***REJECTED*** {ip: "193.46.255.86", user: "root", pass:"welc0me"}
+[8/13/2026 9:49:50 PM] ***REJECTED*** {ip: "193.46.255.86", user: "root", pass:"admin12"}
+[8/13/2026 9:49:51 PM] 193.46.255.86 >>> Disconnected.
