@@ -283332,3 +283332,13 @@
 [8/13/2026 3:58:46 AM] Connection attempt from IP: 45.154.244.193...
 [8/13/2026 3:58:46 AM] ***REJECTED*** {ip: "45.154.244.193", user: "jenkins", pass:"jenkins"}
 [8/13/2026 3:58:47 AM] 45.154.244.193 >>> Disconnected.
+[8/13/2026 4:20:20 AM] Connection attempt from IP: 45.154.244.193...
+[8/13/2026 4:20:21 AM] ***REJECTED*** {ip: "45.154.244.193", user: "testuser", pass:"test"}
+[8/13/2026 4:20:22 AM] 45.154.244.193 >>> Disconnected.
+[8/13/2026 4:28:40 AM] Connection attempt from IP: 2.57.121.112...
+[8/13/2026 4:28:41 AM] ***REJECTED*** {ip: "2.57.121.112", user: "nicklas", pass:"nicklas"}
+[8/13/2026 4:28:41 AM] ***REJECTED*** {ip: "2.57.121.112", user: "nicklas", pass:"nicklas1"}
+[8/13/2026 4:28:41 AM] ***REJECTED*** {ip: "2.57.121.112", user: "nicklas", pass:"nicklas123"}
+[8/13/2026 4:28:42 AM] ***REJECTED*** {ip: "2.57.121.112", user: "nicklas", pass:"nicklas1234"}
+[8/13/2026 4:28:42 AM] ***REJECTED*** {ip: "2.57.121.112", user: "nicklas", pass:"nicklas12345"}
+[8/13/2026 4:28:42 AM] 2.57.121.112 >>> Disconnected.
