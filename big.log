@@ -284036,3 +284036,12 @@
 [8/13/2026 7:59:27 PM] Connection attempt from IP: 45.154.244.193...
 [8/13/2026 7:59:28 PM] ***REJECTED*** {ip: "45.154.244.193", user: "root", pass:"admin@123"}
 [8/13/2026 7:59:28 PM] 45.154.244.193 >>> Disconnected.
+[8/13/2026 8:18:49 PM] Connection attempt from IP: 176.53.159.196...
+[8/13/2026 8:18:50 PM] ***REJECTED*** {ip: "176.53.159.196", user: "orangepi", pass:"123456789"}
+[8/13/2026 8:25:55 PM] Connection attempt from IP: 2.57.121.112...
+[8/13/2026 8:25:56 PM] ***REJECTED*** {ip: "2.57.121.112", user: "portia", pass:"portia"}
+[8/13/2026 8:25:57 PM] ***REJECTED*** {ip: "2.57.121.112", user: "portia", pass:"portia1"}
+[8/13/2026 8:25:57 PM] ***REJECTED*** {ip: "2.57.121.112", user: "portia", pass:"portia123"}
+[8/13/2026 8:25:57 PM] ***REJECTED*** {ip: "2.57.121.112", user: "portia", pass:"portia1234"}
+[8/13/2026 8:25:58 PM] ***REJECTED*** {ip: "2.57.121.112", user: "portia", pass:"portia12345"}
+[8/13/2026 8:25:58 PM] 2.57.121.112 >>> Disconnected.
