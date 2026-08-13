@@ -283862,3 +283862,8 @@
 [8/13/2026 4:57:17 PM] ***REJECTED*** {ip: "193.46.255.86", user: "admin", pass:"Aa@123456"}
 [8/13/2026 4:57:17 PM] ***REJECTED*** {ip: "193.46.255.86", user: "admin", pass:"Welcome@123"}
 [8/13/2026 4:57:17 PM] 193.46.255.86 >>> Disconnected.
+[8/13/2026 5:02:17 PM] Connection attempt from IP: 45.154.244.193...
+[8/13/2026 5:02:17 PM] ***REJECTED*** {ip: "45.154.244.193", user: "admin", pass:"12345678"}
+[8/13/2026 5:02:18 PM] 45.154.244.193 >>> Disconnected.
+[8/13/2026 5:28:36 PM] Connection attempt from IP: 176.53.159.196...
+[8/13/2026 5:28:37 PM] ***REJECTED*** {ip: "176.53.159.196", user: "orangepi", pass:"123456789"}
