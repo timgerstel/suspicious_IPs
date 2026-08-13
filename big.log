@@ -283796,3 +283796,17 @@
 [8/13/2026 2:29:36 PM] ***REJECTED*** {ip: "193.46.255.86", user: "debian", pass:"debian"}
 [8/13/2026 2:29:37 PM] ***REJECTED*** {ip: "193.46.255.86", user: "debian", pass:"12345"}
 [8/13/2026 2:29:37 PM] 193.46.255.86 >>> Disconnected.
+[8/13/2026 2:35:37 PM] Connection attempt from IP: 172.236.228.229...
+[8/13/2026 2:35:37 PM] 172.236.228.229 >>> Disconnected.
+[8/13/2026 2:35:38 PM] Connection attempt from IP: 172.236.228.229...
+[8/13/2026 2:35:38 PM] 172.236.228.229 >>> Disconnected.
+[8/13/2026 2:35:39 PM] Connection attempt from IP: 172.236.228.229...
+[8/13/2026 2:35:39 PM] 172.236.228.229 >>> Disconnected.
+[8/13/2026 2:43:32 PM] Connection attempt from IP: 45.154.244.193...
+[8/13/2026 2:43:33 PM] ***REJECTED*** {ip: "45.154.244.193", user: "ftp", pass:"ftp"}
+[8/13/2026 2:43:34 PM] 45.154.244.193 >>> Disconnected.
+[8/13/2026 2:53:07 PM] Connection attempt from IP: 2.57.121.25...
+[8/13/2026 2:53:08 PM] ***REJECTED*** {ip: "2.57.121.25", user: "admin", pass:"013579"}
+[8/13/2026 2:53:09 PM] ***REJECTED*** {ip: "2.57.121.25", user: "admin", pass:"01121994"}
+[8/13/2026 2:53:09 PM] ***REJECTED*** {ip: "2.57.121.25", user: "admin", pass:"01091995"}
+[8/13/2026 2:53:09 PM] 2.57.121.25 >>> Disconnected.
