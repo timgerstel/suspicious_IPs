@@ -283766,3 +283766,23 @@
 [8/13/2026 1:24:49 PM] Connection attempt from IP: 45.154.244.193...
 [8/13/2026 1:24:50 PM] ***REJECTED*** {ip: "45.154.244.193", user: "x", pass:"x"}
 [8/13/2026 1:24:51 PM] 45.154.244.193 >>> Disconnected.
+[8/13/2026 1:33:29 PM] Connection attempt from IP: 195.178.110.137...
+[8/13/2026 1:33:30 PM] ***REJECTED*** {ip: "195.178.110.137", user: "ubnt", pass:"ubnt"}
+[8/13/2026 1:33:30 PM] 195.178.110.137 >>> Disconnected.
+[8/13/2026 1:42:40 PM] Connection attempt from IP: 45.154.244.193...
+[8/13/2026 1:42:41 PM] ***REJECTED*** {ip: "45.154.244.193", user: "raspberrypi", pass:"mymagicpass228"}
+[8/13/2026 1:42:41 PM] 45.154.244.193 >>> Disconnected.
+[8/13/2026 1:48:55 PM] Connection attempt from IP: 195.178.110.137...
+[8/13/2026 1:48:56 PM] ***REJECTED*** {ip: "195.178.110.137", user: "root", pass:"root"}
+[8/13/2026 1:48:56 PM] 195.178.110.137 >>> Disconnected.
+[8/13/2026 1:53:18 PM] Connection attempt from IP: 2.57.121.112...
+[8/13/2026 1:53:19 PM] ***REJECTED*** {ip: "2.57.121.112", user: "dionna", pass:"dionna"}
+[8/13/2026 1:53:20 PM] ***REJECTED*** {ip: "2.57.121.112", user: "dionna", pass:"dionna1"}
+[8/13/2026 1:53:20 PM] ***REJECTED*** {ip: "2.57.121.112", user: "dionna", pass:"dionna123"}
+[8/13/2026 1:53:20 PM] ***REJECTED*** {ip: "2.57.121.112", user: "dionna", pass:"dionna1234"}
+[8/13/2026 1:53:20 PM] ***REJECTED*** {ip: "2.57.121.112", user: "dionna", pass:"dionna12345"}
+[8/13/2026 1:53:21 PM] 2.57.121.112 >>> Disconnected.
+[8/13/2026 1:53:39 PM] Connection attempt from IP: 2.57.121.25...
+[8/13/2026 1:53:40 PM] ***REJECTED*** {ip: "2.57.121.25", user: "admin", pass:"02081992"}
+[8/13/2026 1:53:41 PM] ***ACCEPTED*** {ip: "2.57.121.25", user: "admin", pass:"02051996"}
+[8/13/2026 1:53:41 PM] 2.57.121.25 >>> Disconnected.
