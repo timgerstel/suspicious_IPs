@@ -285186,3 +285186,21 @@
 [8/14/2026 5:09:20 PM] 45.154.244.193 >>> Disconnected.
 [8/14/2026 5:24:52 PM] Connection attempt from IP: 195.178.110.137...
 [8/14/2026 5:24:52 PM] 195.178.110.137 >>> Disconnected.
+[8/14/2026 5:42:12 PM] Connection attempt from IP: 195.178.110.137...
+[8/14/2026 5:42:13 PM] ***REJECTED*** {ip: "195.178.110.137", user: "support", pass:"support"}
+[8/14/2026 5:42:13 PM] 195.178.110.137 >>> Disconnected.
+[8/14/2026 5:46:46 PM] Connection attempt from IP: 45.154.244.193...
+[8/14/2026 5:46:47 PM] ***REJECTED*** {ip: "45.154.244.193", user: "daniel", pass:"daniel"}
+[8/14/2026 5:46:47 PM] 45.154.244.193 >>> Disconnected.
+[8/14/2026 5:53:14 PM] Connection attempt from IP: 2.57.121.25...
+[8/14/2026 5:53:15 PM] ***REJECTED*** {ip: "2.57.121.25", user: "admin", pass:"sports1"}
+[8/14/2026 5:53:16 PM] ***REJECTED*** {ip: "2.57.121.25", user: "admin", pass:"southsid"}
+[8/14/2026 5:53:16 PM] ***REJECTED*** {ip: "2.57.121.25", user: "admin", pass:"sonnyboy"}
+[8/14/2026 5:53:16 PM] 2.57.121.25 >>> Disconnected.
+[8/14/2026 5:56:48 PM] Connection attempt from IP: 2.57.121.112...
+[8/14/2026 5:56:49 PM] ***REJECTED*** {ip: "2.57.121.112", user: "elayna", pass:"elayna"}
+[8/14/2026 5:56:49 PM] ***REJECTED*** {ip: "2.57.121.112", user: "elayna", pass:"elayna1"}
+[8/14/2026 5:56:49 PM] ***REJECTED*** {ip: "2.57.121.112", user: "elayna", pass:"elayna123"}
+[8/14/2026 5:56:50 PM] ***REJECTED*** {ip: "2.57.121.112", user: "elayna", pass:"elayna1234"}
+[8/14/2026 5:56:50 PM] ***REJECTED*** {ip: "2.57.121.112", user: "elayna", pass:"elayna12345"}
+[8/14/2026 5:56:50 PM] 2.57.121.112 >>> Disconnected.
