@@ -284805,3 +284805,13 @@
 [8/14/2026 7:29:19 AM] 193.46.255.86 >>> Disconnected.
 [8/14/2026 7:29:56 AM] Connection attempt from IP: 176.53.159.196...
 [8/14/2026 7:29:58 AM] ***REJECTED*** {ip: "176.53.159.196", user: "orangepi", pass:"123456789"}
+[8/14/2026 7:30:41 AM] Connection attempt from IP: 45.154.244.193...
+[8/14/2026 7:30:42 AM] ***REJECTED*** {ip: "45.154.244.193", user: "uucp", pass:"uucp"}
+[8/14/2026 7:30:42 AM] 45.154.244.193 >>> Disconnected.
+[8/14/2026 7:57:28 AM] Connection attempt from IP: 2.57.121.112...
+[8/14/2026 7:57:30 AM] ***REJECTED*** {ip: "2.57.121.112", user: "tarik", pass:"tarik"}
+[8/14/2026 7:57:30 AM] ***REJECTED*** {ip: "2.57.121.112", user: "tarik", pass:"tarik1"}
+[8/14/2026 7:57:30 AM] ***REJECTED*** {ip: "2.57.121.112", user: "tarik", pass:"tarik123"}
+[8/14/2026 7:57:30 AM] ***REJECTED*** {ip: "2.57.121.112", user: "tarik", pass:"tarik1234"}
+[8/14/2026 7:57:31 AM] ***REJECTED*** {ip: "2.57.121.112", user: "tarik", pass:"tarik12345"}
+[8/14/2026 7:57:31 AM] 2.57.121.112 >>> Disconnected.
