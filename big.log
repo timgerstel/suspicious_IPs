@@ -285157,3 +285157,22 @@
 [8/14/2026 4:12:41 PM] 186.179.80.12 >>> Disconnected.
 [8/14/2026 4:15:00 PM] Connection attempt from IP: 216.219.89.86...
 [8/14/2026 4:15:00 PM] 216.219.89.86 >>> Disconnected.
+[8/14/2026 4:38:28 PM] Connection attempt from IP: 176.53.159.196...
+[8/14/2026 4:38:29 PM] ***REJECTED*** {ip: "176.53.159.196", user: "orangepi", pass:"123456789"}
+[8/14/2026 4:41:30 PM] Connection attempt from IP: 205.210.31.153...
+[8/14/2026 4:41:31 PM] 205.210.31.153 >>> Disconnected.
+[8/14/2026 4:42:11 PM] Connection attempt from IP: 2.57.121.112...
+[8/14/2026 4:42:12 PM] ***REJECTED*** {ip: "2.57.121.112", user: "dynasty", pass:"dynasty"}
+[8/14/2026 4:42:12 PM] ***REJECTED*** {ip: "2.57.121.112", user: "dynasty", pass:"dynasty1"}
+[8/14/2026 4:42:12 PM] ***REJECTED*** {ip: "2.57.121.112", user: "dynasty", pass:"dynasty123"}
+[8/14/2026 4:42:13 PM] ***REJECTED*** {ip: "2.57.121.112", user: "dynasty", pass:"dynasty1234"}
+[8/14/2026 4:42:13 PM] ***REJECTED*** {ip: "2.57.121.112", user: "dynasty", pass:"dynasty12345"}
+[8/14/2026 4:42:13 PM] 2.57.121.112 >>> Disconnected.
+[8/14/2026 4:43:07 PM] Connection attempt from IP: 45.154.244.193...
+[8/14/2026 4:43:08 PM] ***REJECTED*** {ip: "45.154.244.193", user: "root", pass:"123qwe"}
+[8/14/2026 4:43:08 PM] 45.154.244.193 >>> Disconnected.
+[8/14/2026 4:56:46 PM] Connection attempt from IP: 2.57.121.25...
+[8/14/2026 4:56:47 PM] ***REJECTED*** {ip: "2.57.121.25", user: "admin", pass:"steelhea"}
+[8/14/2026 4:56:48 PM] ***REJECTED*** {ip: "2.57.121.25", user: "admin", pass:"started"}
+[8/14/2026 4:56:48 PM] ***REJECTED*** {ip: "2.57.121.25", user: "admin", pass:"stand"}
+[8/14/2026 4:56:48 PM] 2.57.121.25 >>> Disconnected.
