@@ -285839,3 +285839,26 @@
 [8/14/2026 9:18:20 PM] Connection attempt from IP: 45.154.244.193...
 [8/14/2026 9:18:21 PM] ***REJECTED*** {ip: "45.154.244.193", user: "monitor", pass:"monitor"}
 [8/14/2026 9:18:21 PM] 45.154.244.193 >>> Disconnected.
+[8/14/2026 9:45:30 PM] Connection attempt from IP: 2.57.121.25...
+[8/14/2026 9:45:31 PM] ***REJECTED*** {ip: "2.57.121.25", user: "admin", pass:"slimed123"}
+[8/14/2026 9:45:31 PM] ***REJECTED*** {ip: "2.57.121.25", user: "admin", pass:"sk8ter"}
+[8/14/2026 9:45:32 PM] ***REJECTED*** {ip: "2.57.121.25", user: "admin", pass:"signals"}
+[8/14/2026 9:45:32 PM] 2.57.121.25 >>> Disconnected.
+[8/14/2026 9:52:06 PM] Connection attempt from IP: 31.14.254.37...
+[8/14/2026 9:55:06 PM] Connection attempt from IP: 91.92.47.96...
+[8/14/2026 9:55:14 PM] 91.92.47.96 >>> Disconnected.
+[8/14/2026 9:55:45 PM] Connection attempt from IP: 2.57.121.112...
+[8/14/2026 9:55:47 PM] ***REJECTED*** {ip: "2.57.121.112", user: "gracen", pass:"gracen"}
+[8/14/2026 9:55:47 PM] ***REJECTED*** {ip: "2.57.121.112", user: "gracen", pass:"gracen1"}
+[8/14/2026 9:55:47 PM] ***REJECTED*** {ip: "2.57.121.112", user: "gracen", pass:"gracen123"}
+[8/14/2026 9:55:48 PM] ***REJECTED*** {ip: "2.57.121.112", user: "gracen", pass:"gracen1234"}
+[8/14/2026 9:55:48 PM] ***REJECTED*** {ip: "2.57.121.112", user: "gracen", pass:"gracen12345"}
+[8/14/2026 9:55:48 PM] 2.57.121.112 >>> Disconnected.
+[8/14/2026 9:56:51 PM] Connection attempt from IP: 45.154.244.193...
+[8/14/2026 9:56:52 PM] ***REJECTED*** {ip: "45.154.244.193", user: "root", pass:"NSSpassword1"}
+[8/14/2026 9:56:53 PM] 45.154.244.193 >>> Disconnected.
+[8/14/2026 9:59:15 PM] Connection attempt from IP: 193.46.255.86...
+[8/14/2026 9:59:16 PM] ***REJECTED*** {ip: "193.46.255.86", user: "support", pass:"support"}
+[8/14/2026 9:59:17 PM] ***REJECTED*** {ip: "193.46.255.86", user: "support", pass:"support@123"}
+[8/14/2026 9:59:17 PM] ***REJECTED*** {ip: "193.46.255.86", user: "support", pass:"123456"}
+[8/14/2026 9:59:17 PM] 193.46.255.86 >>> Disconnected.
