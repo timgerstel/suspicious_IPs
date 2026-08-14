@@ -285049,3 +285049,14 @@
 [8/14/2026 12:59:14 PM] ***REJECTED*** {ip: "2.57.121.112", user: "carsyn", pass:"carsyn1234"}
 [8/14/2026 12:59:14 PM] ***REJECTED*** {ip: "2.57.121.112", user: "carsyn", pass:"carsyn12345"}
 [8/14/2026 12:59:14 PM] 2.57.121.112 >>> Disconnected.
+[8/14/2026 1:09:34 PM] Connection attempt from IP: 45.148.10.141...
+[8/14/2026 1:10:48 PM] Connection attempt from IP: 2.57.121.25...
+[8/14/2026 1:10:49 PM] ***REJECTED*** {ip: "2.57.121.25", user: "admin", pass:"teres"}
+[8/14/2026 1:10:49 PM] ***REJECTED*** {ip: "2.57.121.25", user: "admin", pass:"tenpin"}
+[8/14/2026 1:10:50 PM] ***REJECTED*** {ip: "2.57.121.25", user: "admin", pass:"televizor"}
+[8/14/2026 1:10:50 PM] 2.57.121.25 >>> Disconnected.
+[8/14/2026 1:27:55 PM] Connection attempt from IP: 193.46.255.86...
+[8/14/2026 1:27:56 PM] ***REJECTED*** {ip: "193.46.255.86", user: "root", pass:"casa"}
+[8/14/2026 1:27:56 PM] ***REJECTED*** {ip: "193.46.255.86", user: "root", pass:"router"}
+[8/14/2026 1:27:57 PM] ***REJECTED*** {ip: "193.46.255.86", user: "root", pass:"hacker123"}
+[8/14/2026 1:27:57 PM] 193.46.255.86 >>> Disconnected.
