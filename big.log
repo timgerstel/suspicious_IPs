@@ -285836,3 +285836,6 @@
 [8/14/2026 8:54:41 PM] 45.154.244.193 >>> Disconnected.
 [8/14/2026 8:56:19 PM] Connection attempt from IP: 18.97.5.118...
 [8/14/2026 8:56:20 PM] 18.97.5.118 >>> Disconnected.
+[8/14/2026 9:18:20 PM] Connection attempt from IP: 45.154.244.193...
+[8/14/2026 9:18:21 PM] ***REJECTED*** {ip: "45.154.244.193", user: "monitor", pass:"monitor"}
+[8/14/2026 9:18:21 PM] 45.154.244.193 >>> Disconnected.
