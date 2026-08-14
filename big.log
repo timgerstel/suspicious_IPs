@@ -284793,3 +284793,15 @@
 [8/14/2026 6:57:21 AM] Connection attempt from IP: 45.154.244.193...
 [8/14/2026 6:57:22 AM] ***REJECTED*** {ip: "45.154.244.193", user: "backup", pass:"backup"}
 [8/14/2026 6:57:22 AM] 45.154.244.193 >>> Disconnected.
+[8/14/2026 7:26:58 AM] Connection attempt from IP: 2.57.121.25...
+[8/14/2026 7:26:59 AM] ***REJECTED*** {ip: "2.57.121.25", user: "admin", pass:"tupelo"}
+[8/14/2026 7:26:59 AM] ***REJECTED*** {ip: "2.57.121.25", user: "admin", pass:"tugger"}
+[8/14/2026 7:27:00 AM] ***REJECTED*** {ip: "2.57.121.25", user: "admin", pass:"tripp"}
+[8/14/2026 7:27:00 AM] 2.57.121.25 >>> Disconnected.
+[8/14/2026 7:29:17 AM] Connection attempt from IP: 193.46.255.86...
+[8/14/2026 7:29:19 AM] ***REJECTED*** {ip: "193.46.255.86", user: "admin", pass:"Abcd1234"}
+[8/14/2026 7:29:19 AM] ***REJECTED*** {ip: "193.46.255.86", user: "admin", pass:"admin123456"}
+[8/14/2026 7:29:19 AM] ***REJECTED*** {ip: "193.46.255.86", user: "admin", pass:"1qaz@WSX3edc"}
+[8/14/2026 7:29:19 AM] 193.46.255.86 >>> Disconnected.
+[8/14/2026 7:29:56 AM] Connection attempt from IP: 176.53.159.196...
+[8/14/2026 7:29:58 AM] ***REJECTED*** {ip: "176.53.159.196", user: "orangepi", pass:"123456789"}
