@@ -284733,3 +284733,18 @@
 [8/14/2026 4:54:17 AM] 34.79.7.67 >>> Disconnected.
 [8/14/2026 4:54:20 AM] Connection attempt from IP: 34.79.7.67...
 [8/14/2026 4:54:21 AM] 34.79.7.67 >>> Disconnected.
+[8/14/2026 5:04:45 AM] Connection attempt from IP: 193.46.255.86...
+[8/14/2026 5:04:46 AM] ***REJECTED*** {ip: "193.46.255.86", user: "admin", pass:"123456789"}
+[8/14/2026 5:04:47 AM] ***REJECTED*** {ip: "193.46.255.86", user: "admin", pass:"Password1"}
+[8/14/2026 5:04:47 AM] ***REJECTED*** {ip: "193.46.255.86", user: "admin", pass:"topo133"}
+[8/14/2026 5:04:47 AM] 193.46.255.86 >>> Disconnected.
+[8/14/2026 5:18:07 AM] Connection attempt from IP: 45.154.244.193...
+[8/14/2026 5:18:08 AM] ***REJECTED*** {ip: "45.154.244.193", user: "testuser", pass:"testuser"}
+[8/14/2026 5:18:08 AM] 45.154.244.193 >>> Disconnected.
+[8/14/2026 5:24:53 AM] Connection attempt from IP: 2.57.121.112...
+[8/14/2026 5:24:54 AM] ***REJECTED*** {ip: "2.57.121.112", user: "matias", pass:"matias"}
+[8/14/2026 5:24:55 AM] ***REJECTED*** {ip: "2.57.121.112", user: "matias", pass:"matias1"}
+[8/14/2026 5:24:55 AM] ***REJECTED*** {ip: "2.57.121.112", user: "matias", pass:"matias123"}
+[8/14/2026 5:24:55 AM] ***REJECTED*** {ip: "2.57.121.112", user: "matias", pass:"matias1234"}
+[8/14/2026 5:24:56 AM] ***REJECTED*** {ip: "2.57.121.112", user: "matias", pass:"matias12345"}
+[8/14/2026 5:24:56 AM] 2.57.121.112 >>> Disconnected.
