@@ -284465,3 +284465,11 @@
 [8/13/2026 11:15:39 PM] 216.23.121.41 >>> Disconnected.
 [8/13/2026 11:24:43 PM] Connection attempt from IP: 176.53.159.196...
 [8/13/2026 11:24:44 PM] ***REJECTED*** {ip: "176.53.159.196", user: "orangepi", pass:"123456789"}
+[8/13/2026 11:42:23 PM] Connection attempt from IP: 2.57.121.25...
+[8/13/2026 11:42:24 PM] ***REJECTED*** {ip: "2.57.121.25", user: "admin", pass:"xmen"}
+[8/13/2026 11:42:24 PM] ***REJECTED*** {ip: "2.57.121.25", user: "admin", pass:"xfactor"}
+[8/13/2026 11:42:25 PM] ***REJECTED*** {ip: "2.57.121.25", user: "admin", pass:"world1"}
+[8/13/2026 11:42:25 PM] 2.57.121.25 >>> Disconnected.
+[8/13/2026 11:52:43 PM] Connection attempt from IP: 45.154.244.193...
+[8/13/2026 11:52:44 PM] ***REJECTED*** {ip: "45.154.244.193", user: "juan", pass:"123456"}
+[8/13/2026 11:52:44 PM] 45.154.244.193 >>> Disconnected.
