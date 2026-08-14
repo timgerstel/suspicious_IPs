@@ -285204,3 +285204,12 @@
 [8/14/2026 5:56:50 PM] ***REJECTED*** {ip: "2.57.121.112", user: "elayna", pass:"elayna1234"}
 [8/14/2026 5:56:50 PM] ***REJECTED*** {ip: "2.57.121.112", user: "elayna", pass:"elayna12345"}
 [8/14/2026 5:56:50 PM] 2.57.121.112 >>> Disconnected.
+[8/14/2026 6:01:28 PM] Connection attempt from IP: 195.178.110.137...
+[8/14/2026 6:01:29 PM] ***REJECTED*** {ip: "195.178.110.137", user: "AdminGPON", pass:"ALC#FGU"}
+[8/14/2026 6:01:29 PM] 195.178.110.137 >>> Disconnected.
+[8/14/2026 6:12:00 PM] Connection attempt from IP: 45.154.244.193...
+[8/14/2026 6:12:01 PM] ***REJECTED*** {ip: "45.154.244.193", user: "test", pass:"admin"}
+[8/14/2026 6:12:01 PM] 45.154.244.193 >>> Disconnected.
+[8/14/2026 6:18:29 PM] Connection attempt from IP: 195.178.110.137...
+[8/14/2026 6:18:30 PM] ***REJECTED*** {ip: "195.178.110.137", user: "root", pass:"admin"}
+[8/14/2026 6:18:30 PM] 195.178.110.137 >>> Disconnected.
