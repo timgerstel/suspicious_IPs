@@ -285034,3 +285034,18 @@
 [8/14/2026 12:25:27 PM] Connection attempt from IP: 45.154.244.193...
 [8/14/2026 12:25:28 PM] ***REJECTED*** {ip: "45.154.244.193", user: "root", pass:"passwd"}
 [8/14/2026 12:25:28 PM] 45.154.244.193 >>> Disconnected.
+[8/14/2026 12:48:07 PM] Connection attempt from IP: 58.76.159.170...
+[8/14/2026 12:48:10 PM] ***REJECTED*** {ip: "58.76.159.170", user: "ubuntu", pass:"admin123!"}
+[8/14/2026 12:48:11 PM] 58.76.159.170 >>> Disconnected.
+[8/14/2026 12:54:45 PM] Connection attempt from IP: 45.154.244.193...
+[8/14/2026 12:54:46 PM] ***REJECTED*** {ip: "45.154.244.193", user: "alarm", pass:"alarm"}
+[8/14/2026 12:54:46 PM] 45.154.244.193 >>> Disconnected.
+[8/14/2026 12:56:48 PM] Connection attempt from IP: 176.53.159.196...
+[8/14/2026 12:56:49 PM] ***REJECTED*** {ip: "176.53.159.196", user: "orangepi", pass:"123456789"}
+[8/14/2026 12:59:12 PM] Connection attempt from IP: 2.57.121.112...
+[8/14/2026 12:59:13 PM] ***REJECTED*** {ip: "2.57.121.112", user: "carsyn", pass:"carsyn"}
+[8/14/2026 12:59:13 PM] ***REJECTED*** {ip: "2.57.121.112", user: "carsyn", pass:"carsyn1"}
+[8/14/2026 12:59:13 PM] ***REJECTED*** {ip: "2.57.121.112", user: "carsyn", pass:"carsyn123"}
+[8/14/2026 12:59:14 PM] ***REJECTED*** {ip: "2.57.121.112", user: "carsyn", pass:"carsyn1234"}
+[8/14/2026 12:59:14 PM] ***REJECTED*** {ip: "2.57.121.112", user: "carsyn", pass:"carsyn12345"}
+[8/14/2026 12:59:14 PM] 2.57.121.112 >>> Disconnected.
