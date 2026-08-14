@@ -285144,3 +285144,16 @@
 [8/14/2026 3:53:38 PM] Connection attempt from IP: 58.76.159.170...
 [8/14/2026 3:53:43 PM] ***REJECTED*** {ip: "58.76.159.170", user: "ubuntu", pass:"admin...123"}
 [8/14/2026 3:53:44 PM] 58.76.159.170 >>> Disconnected.
+[8/14/2026 4:00:10 PM] Connection attempt from IP: 2.57.121.25...
+[8/14/2026 4:00:11 PM] ***REJECTED*** {ip: "2.57.121.25", user: "admin", pass:"summer12"}
+[8/14/2026 4:00:11 PM] ***REJECTED*** {ip: "2.57.121.25", user: "admin", pass:"stroller"}
+[8/14/2026 4:00:12 PM] ***REJECTED*** {ip: "2.57.121.25", user: "admin", pass:"stinger1"}
+[8/14/2026 4:00:12 PM] 2.57.121.25 >>> Disconnected.
+[8/14/2026 4:06:15 PM] Connection attempt from IP: 45.154.244.193...
+[8/14/2026 4:06:16 PM] ***REJECTED*** {ip: "45.154.244.193", user: "222222", pass:"222222"}
+[8/14/2026 4:06:17 PM] 45.154.244.193 >>> Disconnected.
+[8/14/2026 4:12:38 PM] Connection attempt from IP: 186.179.80.12...
+[8/14/2026 4:12:40 PM] ***REJECTED*** {ip: "186.179.80.12", user: "blank", pass:"66666"}
+[8/14/2026 4:12:41 PM] 186.179.80.12 >>> Disconnected.
+[8/14/2026 4:15:00 PM] Connection attempt from IP: 216.219.89.86...
+[8/14/2026 4:15:00 PM] 216.219.89.86 >>> Disconnected.
