@@ -284825,3 +284825,20 @@
 [8/14/2026 8:25:09 AM] ***REJECTED*** {ip: "2.57.121.25", user: "admin", pass:"tracie"}
 [8/14/2026 8:25:09 AM] ***REJECTED*** {ip: "2.57.121.25", user: "admin", pass:"toys"}
 [8/14/2026 8:25:09 AM] 2.57.121.25 >>> Disconnected.
+[8/14/2026 8:32:16 AM] Connection attempt from IP: 45.154.244.193...
+[8/14/2026 8:32:16 AM] ***REJECTED*** {ip: "45.154.244.193", user: "scan", pass:"scan"}
+[8/14/2026 8:32:17 AM] 45.154.244.193 >>> Disconnected.
+[8/14/2026 8:35:02 AM] Connection attempt from IP: 172.236.228.208...
+[8/14/2026 8:35:02 AM] 172.236.228.208 >>> Disconnected.
+[8/14/2026 8:35:02 AM] Connection attempt from IP: 172.236.228.208...
+[8/14/2026 8:35:02 AM] 172.236.228.208 >>> Disconnected.
+[8/14/2026 8:35:02 AM] Connection attempt from IP: 172.236.228.208...
+[8/14/2026 8:35:02 AM] 172.236.228.208 >>> Disconnected.
+[8/14/2026 8:36:32 AM] Connection attempt from IP: 45.154.244.193...
+[8/14/2026 8:36:33 AM] ***REJECTED*** {ip: "45.154.244.193", user: "root", pass:"1qaz!QAZ"}
+[8/14/2026 8:36:33 AM] 45.154.244.193 >>> Disconnected.
+[8/14/2026 8:41:51 AM] Connection attempt from IP: 193.46.255.86...
+[8/14/2026 8:41:52 AM] ***REJECTED*** {ip: "193.46.255.86", user: "admin", pass:"0l0ctyQh243O63uD"}
+[8/14/2026 8:41:53 AM] ***REJECTED*** {ip: "193.46.255.86", user: "admin", pass:"qwe123"}
+[8/14/2026 8:41:53 AM] ***REJECTED*** {ip: "193.46.255.86", user: "admin", pass:"openmediavault"}
+[8/14/2026 8:41:53 AM] 193.46.255.86 >>> Disconnected.
