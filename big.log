@@ -285133,3 +285133,14 @@
 [8/14/2026 3:27:46 PM] ***REJECTED*** {ip: "2.57.121.112", user: "dena", pass:"dena1234"}
 [8/14/2026 3:27:46 PM] ***REJECTED*** {ip: "2.57.121.112", user: "dena", pass:"dena12345"}
 [8/14/2026 3:27:46 PM] 2.57.121.112 >>> Disconnected.
+[8/14/2026 3:39:09 PM] Connection attempt from IP: 45.154.244.193...
+[8/14/2026 3:39:10 PM] ***REJECTED*** {ip: "45.154.244.193", user: "scan", pass:"scan"}
+[8/14/2026 3:39:10 PM] 45.154.244.193 >>> Disconnected.
+[8/14/2026 3:50:34 PM] Connection attempt from IP: 193.46.255.86...
+[8/14/2026 3:50:35 PM] ***REJECTED*** {ip: "193.46.255.86", user: "root", pass:"goodidea"}
+[8/14/2026 3:50:36 PM] ***REJECTED*** {ip: "193.46.255.86", user: "root", pass:"adminpass"}
+[8/14/2026 3:50:36 PM] ***REJECTED*** {ip: "193.46.255.86", user: "root", pass:"poptarts"}
+[8/14/2026 3:50:36 PM] 193.46.255.86 >>> Disconnected.
+[8/14/2026 3:53:38 PM] Connection attempt from IP: 58.76.159.170...
+[8/14/2026 3:53:43 PM] ***REJECTED*** {ip: "58.76.159.170", user: "ubuntu", pass:"admin...123"}
+[8/14/2026 3:53:44 PM] 58.76.159.170 >>> Disconnected.
