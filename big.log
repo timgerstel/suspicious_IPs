@@ -287180,3 +287180,18 @@
 [8/15/2026 10:54:40 PM] 153.67.107.108 >>> Disconnected.
 [8/15/2026 10:58:25 PM] Connection attempt from IP: 103.203.57.2...
 [8/15/2026 10:58:35 PM] 103.203.57.2 >>> Disconnected.
+[8/15/2026 11:15:36 PM] Connection attempt from IP: 193.46.255.86...
+[8/15/2026 11:15:37 PM] ***REJECTED*** {ip: "193.46.255.86", user: "ftp", pass:"ftp"}
+[8/15/2026 11:15:37 PM] ***REJECTED*** {ip: "193.46.255.86", user: "ftp", pass:"123456"}
+[8/15/2026 11:15:38 PM] ***REJECTED*** {ip: "193.46.255.86", user: "ftp", pass:"12345"}
+[8/15/2026 11:15:38 PM] 193.46.255.86 >>> Disconnected.
+[8/15/2026 11:17:35 PM] Connection attempt from IP: 45.154.244.193...
+[8/15/2026 11:17:36 PM] ***REJECTED*** {ip: "45.154.244.193", user: "root", pass:"scricideea"}
+[8/15/2026 11:17:36 PM] 45.154.244.193 >>> Disconnected.
+[8/15/2026 11:18:25 PM] Connection attempt from IP: 2.57.121.25...
+[8/15/2026 11:18:26 PM] ***REJECTED*** {ip: "2.57.121.25", user: "admin", pass:"pass01"}
+[8/15/2026 11:18:27 PM] ***REJECTED*** {ip: "2.57.121.25", user: "admin", pass:"parties"}
+[8/15/2026 11:18:27 PM] ***REJECTED*** {ip: "2.57.121.25", user: "admin", pass:"paroll"}
+[8/15/2026 11:18:27 PM] 2.57.121.25 >>> Disconnected.
+[8/15/2026 11:27:23 PM] Connection attempt from IP: 176.53.159.196...
+[8/15/2026 11:27:24 PM] ***REJECTED*** {ip: "176.53.159.196", user: "orangepi", pass:"123456789"}
