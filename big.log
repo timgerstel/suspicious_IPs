@@ -286324,3 +286324,24 @@
 [8/15/2026 7:15:24 AM] Connection attempt from IP: 45.154.244.193...
 [8/15/2026 7:15:25 AM] ***REJECTED*** {ip: "45.154.244.193", user: "root", pass:"1234aaaa"}
 [8/15/2026 7:15:26 AM] 45.154.244.193 >>> Disconnected.
+[8/15/2026 7:43:54 AM] Connection attempt from IP: 77.239.124.243...
+[8/15/2026 7:44:02 AM] 77.239.124.243 >>> Disconnected.
+[8/15/2026 7:44:42 AM] Connection attempt from IP: 64.89.162.15...
+[8/15/2026 7:44:42 AM] 64.89.162.15 >>> Disconnected.
+[8/15/2026 7:45:01 AM] Connection attempt from IP: 2.57.121.112...
+[8/15/2026 7:45:02 AM] ***REJECTED*** {ip: "2.57.121.112", user: "nakayla", pass:"nakayla"}
+[8/15/2026 7:45:02 AM] ***REJECTED*** {ip: "2.57.121.112", user: "nakayla", pass:"nakayla1"}
+[8/15/2026 7:45:03 AM] ***REJECTED*** {ip: "2.57.121.112", user: "nakayla", pass:"nakayla123"}
+[8/15/2026 7:45:03 AM] ***REJECTED*** {ip: "2.57.121.112", user: "nakayla", pass:"nakayla1234"}
+[8/15/2026 7:45:03 AM] ***REJECTED*** {ip: "2.57.121.112", user: "nakayla", pass:"nakayla12345"}
+[8/15/2026 7:45:04 AM] 2.57.121.112 >>> Disconnected.
+[8/15/2026 7:46:42 AM] Connection attempt from IP: 193.46.255.86...
+[8/15/2026 7:46:43 AM] ***REJECTED*** {ip: "193.46.255.86", user: "user", pass:"9090"}
+[8/15/2026 7:46:43 AM] ***REJECTED*** {ip: "193.46.255.86", user: "user", pass:"rocknroll"}
+[8/15/2026 7:46:43 AM] ***REJECTED*** {ip: "193.46.255.86", user: "user", pass:"password"}
+[8/15/2026 7:46:44 AM] 193.46.255.86 >>> Disconnected.
+[8/15/2026 7:51:51 AM] Connection attempt from IP: 45.154.244.193...
+[8/15/2026 7:51:52 AM] ***REJECTED*** {ip: "45.154.244.193", user: "root", pass:"987654321"}
+[8/15/2026 7:51:52 AM] 45.154.244.193 >>> Disconnected.
+[8/15/2026 7:53:08 AM] Connection attempt from IP: 176.53.159.196...
+[8/15/2026 7:53:09 AM] ***REJECTED*** {ip: "176.53.159.196", user: "orangepi", pass:"123456789"}
