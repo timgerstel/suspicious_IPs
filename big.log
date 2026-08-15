@@ -286806,3 +286806,10 @@
 [8/15/2026 2:53:08 PM] Connection attempt from IP: 58.76.159.170...
 [8/15/2026 2:53:11 PM] ***REJECTED*** {ip: "58.76.159.170", user: "ubuntu", pass:"Admin12"}
 [8/15/2026 2:53:12 PM] 58.76.159.170 >>> Disconnected.
+[8/15/2026 3:18:41 PM] Connection attempt from IP: 2.57.121.112...
+[8/15/2026 3:18:42 PM] ***REJECTED*** {ip: "2.57.121.112", user: "darrick", pass:"darrick"}
+[8/15/2026 3:18:43 PM] ***REJECTED*** {ip: "2.57.121.112", user: "darrick", pass:"darrick1"}
+[8/15/2026 3:18:43 PM] ***REJECTED*** {ip: "2.57.121.112", user: "darrick", pass:"darrick123"}
+[8/15/2026 3:18:43 PM] ***REJECTED*** {ip: "2.57.121.112", user: "darrick", pass:"darrick1234"}
+[8/15/2026 3:18:44 PM] ***REJECTED*** {ip: "2.57.121.112", user: "darrick", pass:"darrick12345"}
+[8/15/2026 3:18:44 PM] 2.57.121.112 >>> Disconnected.
