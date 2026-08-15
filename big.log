@@ -286923,3 +286923,16 @@
 [8/15/2026 6:32:43 PM] 3.131.220.121 >>> Disconnected.
 [8/15/2026 6:34:51 PM] Connection attempt from IP: 107.21.191.211...
 [8/15/2026 6:34:51 PM] 107.21.191.211 >>> Disconnected.
+[8/15/2026 7:04:30 PM] Connection attempt from IP: 176.53.159.196...
+[8/15/2026 7:04:31 PM] ***REJECTED*** {ip: "176.53.159.196", user: "orangepi", pass:"123456789"}
+[8/15/2026 7:05:34 PM] Connection attempt from IP: 2.57.121.25...
+[8/15/2026 7:05:35 PM] ***REJECTED*** {ip: "2.57.121.25", user: "admin", pass:"plus"}
+[8/15/2026 7:05:36 PM] ***REJECTED*** {ip: "2.57.121.25", user: "admin", pass:"playoffs"}
+[8/15/2026 7:05:36 PM] ***REJECTED*** {ip: "2.57.121.25", user: "admin", pass:"playful"}
+[8/15/2026 7:05:36 PM] 2.57.121.25 >>> Disconnected.
+[8/15/2026 7:18:09 PM] Connection attempt from IP: 45.154.244.193...
+[8/15/2026 7:18:10 PM] ***REJECTED*** {ip: "45.154.244.193", user: "debian", pass:"debian"}
+[8/15/2026 7:18:10 PM] 45.154.244.193 >>> Disconnected.
+[8/15/2026 7:25:59 PM] Connection attempt from IP: 45.154.244.193...
+[8/15/2026 7:26:00 PM] ***REJECTED*** {ip: "45.154.244.193", user: "test3", pass:"test3"}
+[8/15/2026 7:26:01 PM] 45.154.244.193 >>> Disconnected.
