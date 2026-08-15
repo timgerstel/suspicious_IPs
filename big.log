@@ -285910,3 +285910,19 @@
 [8/14/2026 11:59:30 PM] Connection attempt from IP: 20.171.125.128...
 [8/14/2026 11:59:30 PM] ***REJECTED*** {ip: "20.171.125.128", user: "administrator", pass:"12345"}
 [8/14/2026 11:59:30 PM] 20.171.125.128 >>> Disconnected.
+[8/15/2026 12:00:47 AM] Connection attempt from IP: 45.154.244.193...
+[8/15/2026 12:00:48 AM] ***REJECTED*** {ip: "45.154.244.193", user: "root", pass:"987654321"}
+[8/15/2026 12:00:49 AM] 45.154.244.193 >>> Disconnected.
+[8/15/2026 12:11:50 AM] Connection attempt from IP: 58.76.159.170...
+[8/15/2026 12:11:53 AM] ***REJECTED*** {ip: "58.76.159.170", user: "ubuntu", pass:"admin*123"}
+[8/15/2026 12:11:54 AM] 58.76.159.170 >>> Disconnected.
+[8/15/2026 12:14:26 AM] Connection attempt from IP: 2.57.121.25...
+[8/15/2026 12:14:28 AM] ***REJECTED*** {ip: "2.57.121.25", user: "admin", pass:"shakti"}
+[8/15/2026 12:14:28 AM] ***REJECTED*** {ip: "2.57.121.25", user: "admin", pass:"seren"}
+[8/15/2026 12:14:28 AM] ***ACCEPTED*** {ip: "2.57.121.25", user: "admin", pass:"semaj"}
+[8/15/2026 12:14:29 AM] 2.57.121.25 >>> Disconnected.
+[8/15/2026 12:18:02 AM] Connection attempt from IP: 176.53.159.196...
+[8/15/2026 12:18:03 AM] ***REJECTED*** {ip: "176.53.159.196", user: "orangepi", pass:"123456789"}
+[8/15/2026 12:27:52 AM] Connection attempt from IP: 213.230.64.246...
+[8/15/2026 12:27:54 AM] ***REJECTED*** {ip: "213.230.64.246", user: "teamspeak", pass:"teamspeak"}
+[8/15/2026 12:27:55 AM] 213.230.64.246 >>> Disconnected.
