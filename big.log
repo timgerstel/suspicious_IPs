@@ -286466,3 +286466,10 @@
 [8/15/2026 12:19:34 PM] 2.57.121.112 >>> Disconnected.
 [8/15/2026 12:19:50 PM] Connection attempt from IP: 20.163.15.207...
 [8/15/2026 12:20:00 PM] 20.163.15.207 >>> Disconnected.
+[8/15/2026 12:38:39 PM] Connection attempt from IP: 2.57.121.25...
+[8/15/2026 12:38:40 PM] ***REJECTED*** {ip: "2.57.121.25", user: "admin", pass:"ramazan"}
+[8/15/2026 12:38:40 PM] ***REJECTED*** {ip: "2.57.121.25", user: "admin", pass:"raging"}
+[8/15/2026 12:38:41 PM] ***REJECTED*** {ip: "2.57.121.25", user: "admin", pass:"qwe789"}
+[8/15/2026 12:38:41 PM] 2.57.121.25 >>> Disconnected.
+[8/15/2026 12:59:56 PM] Connection attempt from IP: 176.53.159.196...
+[8/15/2026 12:59:58 PM] ***REJECTED*** {ip: "176.53.159.196", user: "orangepi", pass:"123456789"}
