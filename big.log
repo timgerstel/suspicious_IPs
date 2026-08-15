@@ -286345,3 +286345,16 @@
 [8/15/2026 7:51:52 AM] 45.154.244.193 >>> Disconnected.
 [8/15/2026 7:53:08 AM] Connection attempt from IP: 176.53.159.196...
 [8/15/2026 7:53:09 AM] ***REJECTED*** {ip: "176.53.159.196", user: "orangepi", pass:"123456789"}
+[8/15/2026 8:13:13 AM] Connection attempt from IP: 45.154.244.193...
+[8/15/2026 8:13:14 AM] ***REJECTED*** {ip: "45.154.244.193", user: "music", pass:"music"}
+[8/15/2026 8:13:14 AM] 45.154.244.193 >>> Disconnected.
+[8/15/2026 8:15:14 AM] Connection attempt from IP: 58.76.159.170...
+[8/15/2026 8:15:17 AM] ***REJECTED*** {ip: "58.76.159.170", user: "ubuntu", pass:"Admin123"}
+[8/15/2026 8:15:18 AM] 58.76.159.170 >>> Disconnected.
+[8/15/2026 8:15:29 AM] Connection attempt from IP: 2.57.121.25...
+[8/15/2026 8:15:30 AM] ***REJECTED*** {ip: "2.57.121.25", user: "admin", pass:"robert2"}
+[8/15/2026 8:15:31 AM] ***REJECTED*** {ip: "2.57.121.25", user: "admin", pass:"riding"}
+[8/15/2026 8:15:31 AM] ***REJECTED*** {ip: "2.57.121.25", user: "admin", pass:"retail"}
+[8/15/2026 8:15:31 AM] 2.57.121.25 >>> Disconnected.
+[8/15/2026 8:18:51 AM] Connection attempt from IP: 161.35.67.236...
+[8/15/2026 8:18:51 AM] 161.35.67.236 >>> Disconnected.
