@@ -288140,3 +288140,19 @@
 [8/16/2026 11:59:56 AM] ***REJECTED*** {ip: "193.46.255.86", user: "admin", pass:"88888888"}
 [8/16/2026 11:59:57 AM] ***REJECTED*** {ip: "193.46.255.86", user: "admin", pass:"@dmin"}
 [8/16/2026 11:59:57 AM] 193.46.255.86 >>> Disconnected.
+[8/16/2026 12:00:41 PM] Connection attempt from IP: 195.178.110.137...
+[8/16/2026 12:00:42 PM] ***REJECTED*** {ip: "195.178.110.137", user: "support", pass:"support"}
+[8/16/2026 12:00:42 PM] 195.178.110.137 >>> Disconnected.
+[8/16/2026 12:18:16 PM] Connection attempt from IP: 106.13.48.135...
+[8/16/2026 12:18:16 PM] Connection attempt from IP: 195.178.110.137...
+[8/16/2026 12:18:17 PM] ***REJECTED*** {ip: "195.178.110.137", user: "AdminGPON", pass:"ALC#FGU"}
+[8/16/2026 12:18:17 PM] ***REJECTED*** {ip: "106.13.48.135", user: "root", pass:"ubuntu"}
+[8/16/2026 12:18:17 PM] 195.178.110.137 >>> Disconnected.
+[8/16/2026 12:18:17 PM] 106.13.48.135 >>> Disconnected.
+[8/16/2026 12:27:20 PM] Connection attempt from IP: 91.231.89.57...
+[8/16/2026 12:27:24 PM] Connection attempt from IP: 91.231.89.185...
+[8/16/2026 12:27:31 PM] 91.231.89.57 >>> Disconnected.
+[8/16/2026 12:27:35 PM] 91.231.89.185 >>> Disconnected.
+[8/16/2026 12:28:23 PM] Connection attempt from IP: 101.126.146.145...
+[8/16/2026 12:28:31 PM] ***REJECTED*** {ip: "101.126.146.145", user: "root", pass:"﻿------fuck------"}
+[8/16/2026 12:28:32 PM] 101.126.146.145 >>> Disconnected.
