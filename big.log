@@ -288290,3 +288290,28 @@
 [8/16/2026 2:14:17 PM] ***REJECTED*** {ip: "193.46.255.86", user: "user", pass:"spanner"}
 [8/16/2026 2:14:17 PM] ***REJECTED*** {ip: "193.46.255.86", user: "user", pass:"123456"}
 [8/16/2026 2:14:17 PM] 193.46.255.86 >>> Disconnected.
+[8/16/2026 2:35:50 PM] Connection attempt from IP: 45.154.244.193...
+[8/16/2026 2:35:50 PM] ***REJECTED*** {ip: "45.154.244.193", user: "root", pass:"1"}
+[8/16/2026 2:35:51 PM] 45.154.244.193 >>> Disconnected.
+[8/16/2026 2:38:55 PM] Connection attempt from IP: 178.128.183.16...
+[8/16/2026 2:38:56 PM] ***REJECTED*** {ip: "178.128.183.16", user: "root", pass:"ubuntu"}
+[8/16/2026 2:38:56 PM] 178.128.183.16 >>> Disconnected.
+[8/16/2026 2:38:58 PM] Connection attempt from IP: 178.128.183.16...
+[8/16/2026 2:38:58 PM] ***REJECTED*** {ip: "178.128.183.16", user: "root", pass:"debian"}
+[8/16/2026 2:38:58 PM] 178.128.183.16 >>> Disconnected.
+[8/16/2026 2:39:01 PM] Connection attempt from IP: 178.128.183.16...
+[8/16/2026 2:39:01 PM] ***REJECTED*** {ip: "178.128.183.16", user: "root", pass:"centos"}
+[8/16/2026 2:39:01 PM] 178.128.183.16 >>> Disconnected.
+[8/16/2026 2:42:16 PM] Connection attempt from IP: 170.80.48.27...
+[8/16/2026 2:42:16 PM] ***REJECTED*** {ip: "170.80.48.27", user: "root", pass:"4dminSejal"}
+[8/16/2026 2:42:17 PM] 170.80.48.27 >>> Disconnected.
+[8/16/2026 2:52:46 PM] Connection attempt from IP: 2.57.121.25...
+[8/16/2026 2:52:47 PM] ***REJECTED*** {ip: "2.57.121.25", user: "admin", pass:"medicina"}
+[8/16/2026 2:52:47 PM] ***REJECTED*** {ip: "2.57.121.25", user: "admin", pass:"mcleod"}
+[8/16/2026 2:52:47 PM] ***REJECTED*** {ip: "2.57.121.25", user: "admin", pass:"mavericks"}
+[8/16/2026 2:52:48 PM] 2.57.121.25 >>> Disconnected.
+[8/16/2026 2:56:56 PM] Connection attempt from IP: 45.154.244.193...
+[8/16/2026 2:56:56 PM] ***REJECTED*** {ip: "45.154.244.193", user: "server", pass:"server"}
+[8/16/2026 2:56:57 PM] 45.154.244.193 >>> Disconnected.
+[8/16/2026 2:57:40 PM] Connection attempt from IP: 36.89.252.58...
+[8/16/2026 2:57:41 PM] 36.89.252.58 >>> Disconnected.
