@@ -288250,3 +288250,13 @@
 [8/16/2026 12:58:37 PM] Connection attempt from IP: 45.154.244.193...
 [8/16/2026 12:58:38 PM] ***REJECTED*** {ip: "45.154.244.193", user: "root", pass:"2wsx"}
 [8/16/2026 12:58:38 PM] 45.154.244.193 >>> Disconnected.
+[8/16/2026 1:00:23 PM] Connection attempt from IP: 193.46.255.86...
+[8/16/2026 1:00:24 PM] ***REJECTED*** {ip: "193.46.255.86", user: "root", pass:""}
+[8/16/2026 1:00:24 PM] ***REJECTED*** {ip: "193.46.255.86", user: "root", pass:"2wsx#EDC"}
+[8/16/2026 1:00:24 PM] ***REJECTED*** {ip: "193.46.255.86", user: "root", pass:"12345678"}
+[8/16/2026 1:00:25 PM] 193.46.255.86 >>> Disconnected.
+[8/16/2026 1:16:50 PM] Connection attempt from IP: 102.220.160.172...
+[8/16/2026 1:16:51 PM] ***REJECTED*** {ip: "102.220.160.172", user: "user", pass:"1234"}
+[8/16/2026 1:16:51 PM] 102.220.160.172 >>> Disconnected.
+[8/16/2026 1:20:53 PM] Connection attempt from IP: 185.242.226.17...
+[8/16/2026 1:21:03 PM] 185.242.226.17 >>> Disconnected.
