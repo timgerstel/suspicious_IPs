@@ -288315,3 +288315,12 @@
 [8/16/2026 2:56:57 PM] 45.154.244.193 >>> Disconnected.
 [8/16/2026 2:57:40 PM] Connection attempt from IP: 36.89.252.58...
 [8/16/2026 2:57:41 PM] 36.89.252.58 >>> Disconnected.
+[8/16/2026 3:16:47 PM] Connection attempt from IP: 2.57.121.112...
+[8/16/2026 3:16:48 PM] ***REJECTED*** {ip: "2.57.121.112", user: "damani", pass:"damani"}
+[8/16/2026 3:16:48 PM] ***REJECTED*** {ip: "2.57.121.112", user: "damani", pass:"damani1"}
+[8/16/2026 3:16:48 PM] ***REJECTED*** {ip: "2.57.121.112", user: "damani", pass:"damani123"}
+[8/16/2026 3:16:49 PM] ***REJECTED*** {ip: "2.57.121.112", user: "damani", pass:"damani1234"}
+[8/16/2026 3:16:49 PM] ***REJECTED*** {ip: "2.57.121.112", user: "damani", pass:"damani12345"}
+[8/16/2026 3:16:49 PM] 2.57.121.112 >>> Disconnected.
+[8/16/2026 3:30:00 PM] Connection attempt from IP: 193.46.255.86...
+[8/16/2026 3:30:01 PM] ***REJECTED*** {ip: "193.46.255.86", user: "root", pass:"7ujMko0admin123"}
