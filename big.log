@@ -288285,3 +288285,8 @@
 [8/16/2026 1:58:06 PM] Connection attempt from IP: 45.154.244.193...
 [8/16/2026 1:58:07 PM] ***REJECTED*** {ip: "45.154.244.193", user: "root", pass:"qwerty123"}
 [8/16/2026 1:58:07 PM] 45.154.244.193 >>> Disconnected.
+[8/16/2026 2:14:15 PM] Connection attempt from IP: 193.46.255.86...
+[8/16/2026 2:14:17 PM] ***REJECTED*** {ip: "193.46.255.86", user: "user", pass:"12345"}
+[8/16/2026 2:14:17 PM] ***REJECTED*** {ip: "193.46.255.86", user: "user", pass:"spanner"}
+[8/16/2026 2:14:17 PM] ***REJECTED*** {ip: "193.46.255.86", user: "user", pass:"123456"}
+[8/16/2026 2:14:17 PM] 193.46.255.86 >>> Disconnected.
