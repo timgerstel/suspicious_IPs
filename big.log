@@ -288260,3 +288260,28 @@
 [8/16/2026 1:16:51 PM] 102.220.160.172 >>> Disconnected.
 [8/16/2026 1:20:53 PM] Connection attempt from IP: 185.242.226.17...
 [8/16/2026 1:21:03 PM] 185.242.226.17 >>> Disconnected.
+[8/16/2026 1:36:11 PM] Connection attempt from IP: 45.154.244.193...
+[8/16/2026 1:36:12 PM] ***REJECTED*** {ip: "45.154.244.193", user: "root", pass:"Password1!"}
+[8/16/2026 1:36:12 PM] 45.154.244.193 >>> Disconnected.
+[8/16/2026 1:43:10 PM] Connection attempt from IP: 66.132.172.214...
+[8/16/2026 1:43:27 PM] 66.132.172.214 >>> Disconnected.
+[8/16/2026 1:45:08 PM] Connection attempt from IP: 176.53.159.196...
+[8/16/2026 1:45:09 PM] ***REJECTED*** {ip: "176.53.159.196", user: "orangepi", pass:"123456789"}
+[8/16/2026 1:51:17 PM] Connection attempt from IP: 2.57.121.25...
+[8/16/2026 1:51:18 PM] ***REJECTED*** {ip: "2.57.121.25", user: "admin", pass:"mewtwo"}
+[8/16/2026 1:51:18 PM] ***REJECTED*** {ip: "2.57.121.25", user: "admin", pass:"metals"}
+[8/16/2026 1:51:18 PM] ***REJECTED*** {ip: "2.57.121.25", user: "admin", pass:"metalica"}
+[8/16/2026 1:51:19 PM] 2.57.121.25 >>> Disconnected.
+[8/16/2026 1:52:39 PM] Connection attempt from IP: 130.12.182.107...
+[8/16/2026 1:52:40 PM] ***REJECTED*** {ip: "130.12.182.107", user: "ubuntu", pass:"Michelle@123"}
+[8/16/2026 1:52:40 PM] 130.12.182.107 >>> Disconnected.
+[8/16/2026 1:54:47 PM] Connection attempt from IP: 2.57.121.112...
+[8/16/2026 1:54:48 PM] ***REJECTED*** {ip: "2.57.121.112", user: "zhane", pass:"zhane"}
+[8/16/2026 1:54:48 PM] ***REJECTED*** {ip: "2.57.121.112", user: "zhane", pass:"zhane1"}
+[8/16/2026 1:54:49 PM] ***REJECTED*** {ip: "2.57.121.112", user: "zhane", pass:"zhane123"}
+[8/16/2026 1:54:49 PM] ***REJECTED*** {ip: "2.57.121.112", user: "zhane", pass:"zhane1234"}
+[8/16/2026 1:54:49 PM] ***REJECTED*** {ip: "2.57.121.112", user: "zhane", pass:"zhane12345"}
+[8/16/2026 1:54:50 PM] 2.57.121.112 >>> Disconnected.
+[8/16/2026 1:58:06 PM] Connection attempt from IP: 45.154.244.193...
+[8/16/2026 1:58:07 PM] ***REJECTED*** {ip: "45.154.244.193", user: "root", pass:"qwerty123"}
+[8/16/2026 1:58:07 PM] 45.154.244.193 >>> Disconnected.
