@@ -287215,3 +287215,11 @@
 [8/16/2026 12:25:22 AM] Connection attempt from IP: 45.154.244.193...
 [8/16/2026 12:25:23 AM] ***REJECTED*** {ip: "45.154.244.193", user: "client", pass:"123456"}
 [8/16/2026 12:25:23 AM] 45.154.244.193 >>> Disconnected.
+[8/16/2026 12:32:38 AM] Connection attempt from IP: 193.46.255.86...
+[8/16/2026 12:32:39 AM] ***REJECTED*** {ip: "193.46.255.86", user: "admin", pass:"12345678"}
+[8/16/2026 12:32:39 AM] ***REJECTED*** {ip: "193.46.255.86", user: "admin", pass:"Aa123456"}
+[8/16/2026 12:32:40 AM] ***REJECTED*** {ip: "193.46.255.86", user: "admin", pass:"pfsense"}
+[8/16/2026 12:32:40 AM] 193.46.255.86 >>> Disconnected.
+[8/16/2026 12:52:53 AM] Connection attempt from IP: 45.154.244.193...
+[8/16/2026 12:52:53 AM] ***REJECTED*** {ip: "45.154.244.193", user: "pi", pass:"admin"}
+[8/16/2026 12:52:54 AM] 45.154.244.193 >>> Disconnected.
