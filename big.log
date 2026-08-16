@@ -287873,3 +287873,19 @@
 [8/16/2026 7:58:58 AM] Connection attempt from IP: 45.154.244.193...
 [8/16/2026 7:58:59 AM] ***REJECTED*** {ip: "45.154.244.193", user: "admin", pass:"admin12345"}
 [8/16/2026 7:58:59 AM] 45.154.244.193 >>> Disconnected.
+[8/16/2026 8:02:12 AM] Connection attempt from IP: 47.236.225.191...
+[8/16/2026 8:02:14 AM] 47.236.225.191 >>> Disconnected.
+[8/16/2026 8:12:09 AM] Connection attempt from IP: 193.46.255.86...
+[8/16/2026 8:12:11 AM] ***REJECTED*** {ip: "193.46.255.86", user: "service", pass:"service"}
+[8/16/2026 8:12:11 AM] ***REJECTED*** {ip: "193.46.255.86", user: "service", pass:"abcd1234"}
+[8/16/2026 8:12:11 AM] ***REJECTED*** {ip: "193.46.255.86", user: "service", pass:"123456"}
+[8/16/2026 8:12:12 AM] 193.46.255.86 >>> Disconnected.
+[8/16/2026 8:22:52 AM] Connection attempt from IP: 176.53.159.196...
+[8/16/2026 8:22:53 AM] ***REJECTED*** {ip: "176.53.159.196", user: "orangepi", pass:"123456789"}
+[8/16/2026 8:24:05 AM] Connection attempt from IP: 2.57.121.112...
+[8/16/2026 8:24:06 AM] ***REJECTED*** {ip: "2.57.121.112", user: "milan", pass:"milan"}
+[8/16/2026 8:24:06 AM] ***REJECTED*** {ip: "2.57.121.112", user: "milan", pass:"milan1"}
+[8/16/2026 8:24:06 AM] ***REJECTED*** {ip: "2.57.121.112", user: "milan", pass:"milan123"}
+[8/16/2026 8:24:07 AM] ***REJECTED*** {ip: "2.57.121.112", user: "milan", pass:"milan1234"}
+[8/16/2026 8:24:07 AM] ***REJECTED*** {ip: "2.57.121.112", user: "milan", pass:"milan12345"}
+[8/16/2026 8:24:07 AM] 2.57.121.112 >>> Disconnected.
