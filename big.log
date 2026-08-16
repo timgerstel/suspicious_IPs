@@ -287207,3 +287207,11 @@
 [8/15/2026 11:58:57 PM] ***REJECTED*** {ip: "2.57.121.112", user: "shay", pass:"shay1234"}
 [8/15/2026 11:58:57 PM] ***REJECTED*** {ip: "2.57.121.112", user: "shay", pass:"shay12345"}
 [8/15/2026 11:58:57 PM] 2.57.121.112 >>> Disconnected.
+[8/16/2026 12:21:13 AM] Connection attempt from IP: 2.57.121.25...
+[8/16/2026 12:21:15 AM] ***REJECTED*** {ip: "2.57.121.25", user: "admin", pass:"parish"}
+[8/16/2026 12:21:15 AM] ***REJECTED*** {ip: "2.57.121.25", user: "admin", pass:"outcast"}
+[8/16/2026 12:21:15 AM] ***REJECTED*** {ip: "2.57.121.25", user: "admin", pass:"ouT3xf"}
+[8/16/2026 12:21:16 AM] 2.57.121.25 >>> Disconnected.
+[8/16/2026 12:25:22 AM] Connection attempt from IP: 45.154.244.193...
+[8/16/2026 12:25:23 AM] ***REJECTED*** {ip: "45.154.244.193", user: "client", pass:"123456"}
+[8/16/2026 12:25:23 AM] 45.154.244.193 >>> Disconnected.
