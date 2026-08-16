@@ -287852,3 +287852,13 @@
 [8/16/2026 6:59:37 AM] Connection attempt from IP: 45.154.244.193...
 [8/16/2026 6:59:38 AM] ***REJECTED*** {ip: "45.154.244.193", user: "music", pass:"music"}
 [8/16/2026 6:59:38 AM] 45.154.244.193 >>> Disconnected.
+[8/16/2026 7:00:25 AM] Connection attempt from IP: 2.57.121.112...
+[8/16/2026 7:00:26 AM] ***REJECTED*** {ip: "2.57.121.112", user: "marcia", pass:"marcia"}
+[8/16/2026 7:00:26 AM] ***REJECTED*** {ip: "2.57.121.112", user: "marcia", pass:"marcia1"}
+[8/16/2026 7:00:27 AM] ***REJECTED*** {ip: "2.57.121.112", user: "marcia", pass:"marcia123"}
+[8/16/2026 7:00:27 AM] ***REJECTED*** {ip: "2.57.121.112", user: "marcia", pass:"marcia1234"}
+[8/16/2026 7:00:27 AM] ***REJECTED*** {ip: "2.57.121.112", user: "marcia", pass:"marcia12345"}
+[8/16/2026 7:00:28 AM] 2.57.121.112 >>> Disconnected.
+[8/16/2026 7:01:44 AM] Connection attempt from IP: 176.53.159.196...
+[8/16/2026 7:01:45 AM] ***REJECTED*** {ip: "176.53.159.196", user: "orangepi", pass:"123456789"}
+[8/16/2026 7:03:21 AM] Connection attempt from IP: 91.224.92.92...
