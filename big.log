@@ -287889,3 +287889,14 @@
 [8/16/2026 8:24:07 AM] ***REJECTED*** {ip: "2.57.121.112", user: "milan", pass:"milan1234"}
 [8/16/2026 8:24:07 AM] ***REJECTED*** {ip: "2.57.121.112", user: "milan", pass:"milan12345"}
 [8/16/2026 8:24:07 AM] 2.57.121.112 >>> Disconnected.
+[8/16/2026 8:36:38 AM] Connection attempt from IP: 45.154.244.193...
+[8/16/2026 8:36:39 AM] ***REJECTED*** {ip: "45.154.244.193", user: "redis", pass:"redis123"}
+[8/16/2026 8:36:39 AM] 45.154.244.193 >>> Disconnected.
+[8/16/2026 8:41:38 AM] Connection attempt from IP: 2.57.121.25...
+[8/16/2026 8:41:39 AM] ***REJECTED*** {ip: "2.57.121.25", user: "admin", pass:"mostwanted"}
+[8/16/2026 8:41:39 AM] ***REJECTED*** {ip: "2.57.121.25", user: "admin", pass:"mosquito"}
+[8/16/2026 8:41:40 AM] ***REJECTED*** {ip: "2.57.121.25", user: "admin", pass:"mopar1"}
+[8/16/2026 8:41:40 AM] 2.57.121.25 >>> Disconnected.
+[8/16/2026 8:59:07 AM] Connection attempt from IP: 45.154.244.193...
+[8/16/2026 8:59:07 AM] ***REJECTED*** {ip: "45.154.244.193", user: "nobody", pass:"admin123"}
+[8/16/2026 8:59:08 AM] 45.154.244.193 >>> Disconnected.
