@@ -297906,3 +297906,13 @@
 [8/17/2026 1:51:21 PM] ***REJECTED*** {ip: "2.57.121.25", user: "admin", pass:"imzadi"}
 [8/17/2026 1:51:21 PM] ***REJECTED*** {ip: "2.57.121.25", user: "admin", pass:"ignacio"}
 [8/17/2026 1:51:22 PM] 2.57.121.25 >>> Disconnected.
+[8/17/2026 2:35:45 PM] Connection attempt from IP: 193.46.255.86...
+[8/17/2026 2:35:46 PM] ***REJECTED*** {ip: "193.46.255.86", user: "root", pass:"1234"}
+[8/17/2026 2:35:46 PM] ***REJECTED*** {ip: "193.46.255.86", user: "root", pass:"welc0me"}
+[8/17/2026 2:35:47 PM] ***REJECTED*** {ip: "193.46.255.86", user: "root", pass:"admin12"}
+[8/17/2026 2:35:47 PM] 193.46.255.86 >>> Disconnected.
+[8/17/2026 2:50:04 PM] Connection attempt from IP: 2.57.121.25...
+[8/17/2026 2:50:05 PM] ***REJECTED*** {ip: "2.57.121.25", user: "admin", pass:"hotwife"}
+[8/17/2026 2:50:05 PM] ***REJECTED*** {ip: "2.57.121.25", user: "admin", pass:"hornyboy"}
+[8/17/2026 2:50:06 PM] ***REJECTED*** {ip: "2.57.121.25", user: "admin", pass:"hooch"}
+[8/17/2026 2:50:06 PM] 2.57.121.25 >>> Disconnected.
