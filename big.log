@@ -297631,3 +297631,13 @@
 [8/17/2026 5:58:36 AM] ***REJECTED*** {ip: "2.57.121.25", user: "admin", pass:"jimi"}
 [8/17/2026 5:58:36 AM] ***REJECTED*** {ip: "2.57.121.25", user: "admin", pass:"jim123"}
 [8/17/2026 5:58:37 AM] 2.57.121.25 >>> Disconnected.
+[8/17/2026 6:02:58 AM] Connection attempt from IP: 193.46.255.86...
+[8/17/2026 6:02:59 AM] ***REJECTED*** {ip: "193.46.255.86", user: "user", pass:"ghbdtn"}
+[8/17/2026 6:02:59 AM] ***REJECTED*** {ip: "193.46.255.86", user: "user", pass:"auto"}
+[8/17/2026 6:02:59 AM] ***REJECTED*** {ip: "193.46.255.86", user: "user", pass:"admin"}
+[8/17/2026 6:03:00 AM] 193.46.255.86 >>> Disconnected.
+[8/17/2026 6:19:51 AM] Connection attempt from IP: 45.154.244.193...
+[8/17/2026 6:19:52 AM] ***ACCEPTED*** {ip: "45.154.244.193", user: "test", pass:"P@ssw0rd"}
+[8/17/2026 6:19:53 AM] 45.154.244.193 >>> Disconnected.
+[8/17/2026 6:24:41 AM] Connection attempt from IP: 176.53.159.196...
+[8/17/2026 6:24:42 AM] ***REJECTED*** {ip: "176.53.159.196", user: "orangepi", pass:"123456789"}
