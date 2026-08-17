@@ -297756,3 +297756,29 @@
 [8/17/2026 10:15:54 AM] 45.153.34.161 >>> Disconnected.
 [8/17/2026 10:26:14 AM] Connection attempt from IP: 147.185.132.255...
 [8/17/2026 10:26:16 AM] 147.185.132.255 >>> Disconnected.
+[8/17/2026 10:50:35 AM] Connection attempt from IP: 211.225.139.200...
+[8/17/2026 10:50:37 AM] ***REJECTED*** {ip: "211.225.139.200", user: "root", pass:"1013089"}
+[8/17/2026 10:50:37 AM] 211.225.139.200 >>> Disconnected.
+[8/17/2026 10:53:23 AM] Connection attempt from IP: 45.126.120.53...
+[8/17/2026 10:53:25 AM] ***REJECTED*** {ip: "45.126.120.53", user: "root", pass:"﻿------fuck------"}
+[8/17/2026 10:53:25 AM] 45.126.120.53 >>> Disconnected.
+[8/17/2026 10:53:37 AM] Connection attempt from IP: 45.126.120.53...
+[8/17/2026 10:53:39 AM] ***REJECTED*** {ip: "45.126.120.53", user: "root", pass:"root123456"}
+[8/17/2026 10:53:39 AM] 45.126.120.53 >>> Disconnected.
+[8/17/2026 10:53:40 AM] Connection attempt from IP: 45.126.120.53...
+[8/17/2026 10:53:41 AM] ***REJECTED*** {ip: "45.126.120.53", user: "root", pass:"h3c.com!"}
+[8/17/2026 10:53:42 AM] 45.126.120.53 >>> Disconnected.
+[8/17/2026 10:53:42 AM] Connection attempt from IP: 45.126.120.53...
+[8/17/2026 10:54:49 AM] Connection attempt from IP: 2.57.121.25...
+[8/17/2026 10:54:50 AM] ***REJECTED*** {ip: "2.57.121.25", user: "admin", pass:"islands"}
+[8/17/2026 10:54:51 AM] ***REJECTED*** {ip: "2.57.121.25", user: "admin", pass:"islam"}
+[8/17/2026 10:54:51 AM] ***REJECTED*** {ip: "2.57.121.25", user: "admin", pass:"isis"}
+[8/17/2026 10:54:51 AM] 2.57.121.25 >>> Disconnected.
+[8/17/2026 10:55:10 AM] Connection attempt from IP: 211.225.139.200...
+[8/17/2026 10:55:12 AM] ***REJECTED*** {ip: "211.225.139.200", user: "root", pass:"1013089"}
+[8/17/2026 10:55:13 AM] 211.225.139.200 >>> Disconnected.
+[8/17/2026 10:56:43 AM] Connection attempt from IP: 193.46.255.86...
+[8/17/2026 10:56:45 AM] ***REJECTED*** {ip: "193.46.255.86", user: "odoo", pass:"odoo"}
+[8/17/2026 10:56:45 AM] ***REJECTED*** {ip: "193.46.255.86", user: "odoo", pass:"admin"}
+[8/17/2026 10:56:45 AM] ***REJECTED*** {ip: "193.46.255.86", user: "odoo", pass:"123456"}
+[8/17/2026 10:56:45 AM] 193.46.255.86 >>> Disconnected.
