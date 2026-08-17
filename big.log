@@ -297933,3 +297933,20 @@
 [8/17/2026 3:05:57 PM] 51.158.205.203 >>> Disconnected.
 [8/17/2026 3:05:57 PM] Connection attempt from IP: 51.158.205.203...
 [8/17/2026 3:05:57 PM] 51.158.205.203 >>> Disconnected.
+[8/17/2026 3:44:21 PM] Connection attempt from IP: 77.239.124.235...
+[8/17/2026 3:44:29 PM] 77.239.124.235 >>> Disconnected.
+[8/17/2026 3:48:24 PM] Connection attempt from IP: 193.46.255.86...
+[8/17/2026 3:48:26 PM] ***REJECTED*** {ip: "193.46.255.86", user: "mysql", pass:"mysql@1234"}
+[8/17/2026 3:48:26 PM] ***REJECTED*** {ip: "193.46.255.86", user: "mysql", pass:"password"}
+[8/17/2026 3:48:26 PM] ***REJECTED*** {ip: "193.46.255.86", user: "mysql", pass:"qwer1234"}
+[8/17/2026 3:48:27 PM] 193.46.255.86 >>> Disconnected.
+[8/17/2026 3:48:42 PM] Connection attempt from IP: 2.57.121.25...
+[8/17/2026 3:48:43 PM] ***REJECTED*** {ip: "2.57.121.25", user: "admin", pass:"hondacivic"}
+[8/17/2026 3:48:43 PM] ***REJECTED*** {ip: "2.57.121.25", user: "admin", pass:"homies"}
+[8/17/2026 3:48:44 PM] ***REJECTED*** {ip: "2.57.121.25", user: "admin", pass:"holley"}
+[8/17/2026 3:48:44 PM] 2.57.121.25 >>> Disconnected.
+[8/17/2026 3:54:18 PM] Connection attempt from IP: 45.154.244.193...
+[8/17/2026 3:54:19 PM] ***REJECTED*** {ip: "45.154.244.193", user: "dev", pass:"dev"}
+[8/17/2026 3:54:20 PM] 45.154.244.193 >>> Disconnected.
+[8/17/2026 3:57:37 PM] Connection attempt from IP: 176.53.159.196...
+[8/17/2026 3:57:38 PM] ***REJECTED*** {ip: "176.53.159.196", user: "orangepi", pass:"123456789"}
