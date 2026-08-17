@@ -297723,3 +297723,9 @@
 [8/17/2026 8:58:16 AM] 130.12.182.230 >>> Disconnected.
 [8/17/2026 8:59:34 AM] Connection attempt from IP: 91.92.40.200...
 [8/17/2026 8:59:42 AM] 91.92.40.200 >>> Disconnected.
+[8/17/2026 9:02:11 AM] Connection attempt from IP: 102.220.160.67...
+[8/17/2026 9:02:12 AM] ***REJECTED*** {ip: "102.220.160.67", user: "root", pass:"stanislas"}
+[8/17/2026 9:02:12 AM] 102.220.160.67 >>> Disconnected.
+[8/17/2026 9:05:03 AM] Connection attempt from IP: 45.154.244.193...
+[8/17/2026 9:05:03 AM] ***REJECTED*** {ip: "45.154.244.193", user: "admin", pass:"admin12345"}
+[8/17/2026 9:05:04 AM] 45.154.244.193 >>> Disconnected.
