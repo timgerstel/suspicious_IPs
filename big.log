@@ -297729,3 +297729,25 @@
 [8/17/2026 9:05:03 AM] Connection attempt from IP: 45.154.244.193...
 [8/17/2026 9:05:03 AM] ***REJECTED*** {ip: "45.154.244.193", user: "admin", pass:"admin12345"}
 [8/17/2026 9:05:04 AM] 45.154.244.193 >>> Disconnected.
+[8/17/2026 9:37:23 AM] Connection attempt from IP: 176.53.159.196...
+[8/17/2026 9:37:24 AM] ***REJECTED*** {ip: "176.53.159.196", user: "orangepi", pass:"123456789"}
+[8/17/2026 9:43:38 AM] Connection attempt from IP: 193.46.255.86...
+[8/17/2026 9:43:39 AM] ***REJECTED*** {ip: "193.46.255.86", user: "admin", pass:"gateway"}
+[8/17/2026 9:43:39 AM] ***REJECTED*** {ip: "193.46.255.86", user: "admin", pass:"Aa@123456"}
+[8/17/2026 9:43:40 AM] ***REJECTED*** {ip: "193.46.255.86", user: "admin", pass:"Welcome@123"}
+[8/17/2026 9:43:40 AM] 193.46.255.86 >>> Disconnected.
+[8/17/2026 9:53:32 AM] Connection attempt from IP: 2.57.121.112...
+[8/17/2026 9:53:33 AM] ***REJECTED*** {ip: "2.57.121.112", user: "janiyah", pass:"janiyah"}
+[8/17/2026 9:53:33 AM] ***REJECTED*** {ip: "2.57.121.112", user: "janiyah", pass:"janiyah1"}
+[8/17/2026 9:53:34 AM] ***REJECTED*** {ip: "2.57.121.112", user: "janiyah", pass:"janiyah123"}
+[8/17/2026 9:53:34 AM] ***REJECTED*** {ip: "2.57.121.112", user: "janiyah", pass:"janiyah1234"}
+[8/17/2026 9:53:34 AM] ***REJECTED*** {ip: "2.57.121.112", user: "janiyah", pass:"janiyah12345"}
+[8/17/2026 9:53:35 AM] 2.57.121.112 >>> Disconnected.
+[8/17/2026 9:55:49 AM] Connection attempt from IP: 2.57.121.25...
+[8/17/2026 9:55:50 AM] ***REJECTED*** {ip: "2.57.121.25", user: "admin", pass:"jamest"}
+[8/17/2026 9:55:50 AM] ***REJECTED*** {ip: "2.57.121.25", user: "admin", pass:"jagr68"}
+[8/17/2026 9:55:51 AM] ***REJECTED*** {ip: "2.57.121.25", user: "admin", pass:"iwantsex"}
+[8/17/2026 9:55:51 AM] 2.57.121.25 >>> Disconnected.
+[8/17/2026 9:59:16 AM] Connection attempt from IP: 45.154.244.193...
+[8/17/2026 9:59:16 AM] ***REJECTED*** {ip: "45.154.244.193", user: "root", pass:"jojo"}
+[8/17/2026 9:59:17 AM] 45.154.244.193 >>> Disconnected.
