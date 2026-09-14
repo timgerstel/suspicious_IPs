@@ -1,0 +1,296 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Honeypot Activity</title>
+<style>
+  :root {
+    color-scheme: light;
+    --page: #f9f9f7; --surface: #fcfcfb; --ink: #0b0b0b; --ink-2: #52514e; --muted: #898781;
+    --grid: #e1e0d9; --axis: #c3c2b7; --border: rgba(11, 11, 11, 0.10);
+    --series-1: #2a78d6;
+    /* sequential blue: 0 = no connections, 6 = busiest */
+    --heat-0: #f0efec; --heat-1: #cde2fb; --heat-2: #9ec5f4; --heat-3: #6da7ec;
+    --heat-4: #3987e5; --heat-5: #256abf; --heat-6: #104281;
+  }
+  @media (prefers-color-scheme: dark) {
+    :root {
+      color-scheme: dark;
+      --page: #0d0d0d; --surface: #1a1a19; --ink: #ffffff; --ink-2: #c3c2b7; --muted: #898781;
+      --grid: #2c2c2a; --axis: #383835; --border: rgba(255, 255, 255, 0.10);
+      --series-1: #3987e5;
+      --heat-0: #262624; --heat-1: #0d366b; --heat-2: #184f95; --heat-3: #256abf;
+      --heat-4: #3987e5; --heat-5: #6da7ec; --heat-6: #b7d3f6;
+    }
+  }
+  [hidden] { display: none !important; }
+  * { box-sizing: border-box; }
+  body {
+    margin: 0; padding: 32px 16px 48px; background: var(--page); color: var(--ink);
+    font: 14px/1.5 system-ui, -apple-system, "Segoe UI", sans-serif;
+  }
+  main { max-width: 1100px; margin: 0 auto; display: grid; gap: 16px; }
+  h1 { font-size: 24px; margin: 0; font-weight: 600; }
+  h2 { font-size: 15px; margin: 0; font-weight: 600; }
+  a { color: inherit; }
+  .muted, .sub { color: var(--ink-2); margin: 2px 0 0; }
+  .sub { font-size: 13px; margin-bottom: 16px; }
+  .card { background: var(--surface); border: 1px solid var(--border); border-radius: 12px; padding: 20px; min-width: 0; }
+  .cols { display: grid; gap: 16px; grid-template-columns: repeat(auto-fit, minmax(min(100%, 420px), 1fr)); }
+  .mono { font-family: ui-monospace, SFMono-Regular, Menlo, monospace; font-size: 12.5px; }
+
+  .kpis { display: grid; gap: 12px; grid-template-columns: repeat(auto-fit, minmax(140px, 1fr)); }
+  .kpi { background: var(--surface); border: 1px solid var(--border); border-radius: 12px; padding: 14px 16px; }
+  .kpi-label { color: var(--ink-2); font-size: 13px; }
+  .kpi-value { font-size: 26px; font-weight: 600; }
+
+  .heat { display: grid; grid-template-columns: 2.5rem repeat(24, minmax(0, 1fr)); gap: 2px; }
+  .heat-cell { aspect-ratio: 1; border-radius: 2px; }
+  .heat-day, .heat-hour { color: var(--muted); font-size: 11px; font-variant-numeric: tabular-nums; }
+  .heat-day { align-self: center; }
+  .heat-hour { white-space: nowrap; }
+  .legend { display: flex; align-items: center; gap: 4px; margin-top: 12px; color: var(--muted); font-size: 12px; }
+  .legend span.sw { width: 14px; height: 14px; border-radius: 2px; }
+
+  .chart { display: grid; grid-template-columns: auto 1fr; column-gap: 8px; }
+  .y { position: relative; height: 160px; color: var(--muted); font-size: 11px; text-align: right; min-width: 2rem; font-variant-numeric: tabular-nums; }
+  .y span { position: absolute; right: 0; transform: translateY(-50%); }
+  .bars {
+    height: 160px; display: flex; align-items: flex-end; gap: 2px; border-bottom: 1px solid var(--axis);
+    background:
+      linear-gradient(var(--grid), var(--grid)) 0 0 / 100% 1px no-repeat,
+      linear-gradient(var(--grid), var(--grid)) 0 50% / 100% 1px no-repeat;
+  }
+  .bar-slot { flex: 1; height: 100%; display: flex; align-items: flex-end; justify-content: center; min-width: 0; }
+  .bar { width: 100%; max-width: 24px; background: var(--series-1); border-radius: 4px 4px 0 0; }
+  .x { grid-column: 2; display: flex; justify-content: space-between; color: var(--muted); font-size: 11px; margin-top: 4px; }
+
+  .table-wrap { overflow-x: auto; }
+  table { width: 100%; border-collapse: collapse; }
+  th { text-align: left; font-weight: 500; color: var(--muted); font-size: 12px; padding: 0 8px 6px 0; border-bottom: 1px solid var(--grid); }
+  td { padding: 6px 8px 6px 0; border-bottom: 1px solid var(--grid); vertical-align: top; }
+  tr:last-child td { border-bottom: 0; }
+  td.mono { word-break: break-all; }
+  td.nowrap { white-space: nowrap; word-break: normal; }
+  @media (max-width: 480px) { .count .meter { display: none; } }
+  .num { text-align: right; white-space: nowrap; font-variant-numeric: tabular-nums; }
+  .count { display: inline-flex; align-items: center; gap: 8px; justify-content: flex-end; }
+  .meter { width: 72px; height: 8px; display: inline-block; }
+  .meter span { display: block; height: 100%; background: var(--series-1); border-radius: 0 4px 4px 0; min-width: 2px; }
+  details { margin-top: 12px; color: var(--ink-2); }
+  details table { font-size: 12px; margin-top: 8px; }
+
+  #tip {
+    position: fixed; z-index: 10; pointer-events: none; background: var(--ink); color: var(--surface);
+    padding: 4px 8px; border-radius: 6px; font-size: 12px; white-space: nowrap;
+  }
+  footer { color: var(--ink-2); font-size: 13px; }
+</style>
+</head>
+<body>
+<main>
+  <header>
+    <h1>SSH honeypot activity</h1>
+    <p class="muted" id="meta">Loading…</p>
+  </header>
+
+  <section class="kpis" id="kpis" aria-label="Totals"></section>
+
+  <section class="card">
+    <h2>When connections arrive</h2>
+    <p class="sub">Connections by weekday and hour, all time, UTC</p>
+    <div id="heatmap"></div>
+  </section>
+
+  <section class="card">
+    <h2>Connections per day</h2>
+    <p class="sub">Last 90 days, UTC</p>
+    <div id="daily"></div>
+  </section>
+
+  <div class="cols">
+    <section class="card"><h2>Countries</h2><p class="sub">Where source IPs are registered</p><div id="countries"></div></section>
+    <section class="card"><h2>Networks</h2><p class="sub">Autonomous system that owns the source IP</p><div id="asns"></div></section>
+  </div>
+
+  <section class="card"><h2>Most active IPs</h2><p class="sub">By connection count</p><div id="ips"></div></section>
+
+  <div class="cols">
+    <section class="card"><h2>Usernames tried</h2><div id="usernames"></div></section>
+    <section class="card"><h2>Passwords tried</h2><div id="passwords"></div></section>
+  </div>
+
+  <section class="card"><h2>Commands run</h2><p class="sub">After a login was accepted, shell and exec</p><div id="commands"></div></section>
+
+  <div class="cols">
+    <section class="card"><h2>Client software</h2><p class="sub">SSH version string the client sent</p><div id="software"></div></section>
+    <section class="card"><h2>Client fingerprints</h2><p class="sub">HASSH: same hash, same SSH tool, whatever the IP</p><div id="hassh"></div></section>
+    <section class="card"><h2>Credential lists</h2><p class="sub">Same ordered wordlist, same hash: likely one bot family</p><div id="credLists"></div></section>
+    <section class="card"><h2>Stage-2 hosts</h2><p class="sub">Download hosts and IPs pulled from attacker commands</p><div id="iocHosts"></div></section>
+  </div>
+
+  <footer>
+    <p id="status"></p>
+    <p>Full IP list: <a href="https://github.com/timgerstel/suspicious_IPs">timgerstel/suspicious_IPs</a> · <a href='https://db-ip.com'>IP Geolocation by DB-IP</a></p>
+  </footer>
+</main>
+<div id="tip" role="tooltip" hidden></div>
+
+<script>
+  // Everything below renders attacker-supplied strings: textContent only, never innerHTML.
+  const $ = (sel) => document.querySelector(sel);
+  const fmt = new Intl.NumberFormat('en-US');
+  const compact = new Intl.NumberFormat('en-US', { notation: 'compact', maximumFractionDigits: 1 });
+  const DAY_NAMES = ['Mon', 'Tue', 'Wed', 'Thu', 'Fri', 'Sat', 'Sun'];
+  const DAY_INDEX = [1, 2, 3, 4, 5, 6, 0]; // stats heatmap rows are getUTCDay(): 0 = Sunday
+  const hh = (h) => String(h).padStart(2, '0');
+
+  function el(tag, props = {}, ...kids) {
+    const e = Object.assign(document.createElement(tag), props);
+    e.append(...kids);
+    return e;
+  }
+  function tipped(e, text) { e.dataset.tip = text; return e; }
+
+  function niceMax(max) {
+    if (max <= 0) return 0;
+    const p = 10 ** Math.floor(Math.log10(max));
+    return Math.ceil(max / p) * p;
+  }
+
+  function renderKpis(t) {
+    const items = [
+      ['Connections', t.connections], ['Unique IPs', t.uniqueIps], ['Login attempts', t.authAttempts],
+      ['Logins accepted', t.loginsAccepted], ['Commands run', t.commands], ['Stage-2 indicators', t.iocs],
+      ['Canary hits', t.canaryHits],
+    ];
+    $('#kpis').replaceChildren(...items.map(([label, v]) => el('div', { className: 'kpi' },
+      el('div', { className: 'kpi-label', textContent: label }),
+      el('div', { className: 'kpi-value', textContent: v >= 10000 ? compact.format(v) : fmt.format(v), title: fmt.format(v) }))));
+  }
+
+  function renderHeatmap(h) {
+    const max = Math.max(0, ...h.flat());
+    const level = (v) => (v === 0 ? 0 : Math.max(1, Math.ceil((v / max) * 6)));
+    const grid = el('div', { className: 'heat' }, el('span'));
+    for (let hr = 0; hr < 24; hr++) grid.append(el('span', { className: 'heat-hour', textContent: hr % 3 ? '' : hh(hr) }));
+    let best = { v: -1 };
+    DAY_INDEX.forEach((d, i) => {
+      grid.append(el('span', { className: 'heat-day', textContent: DAY_NAMES[i] }));
+      for (let hr = 0; hr < 24; hr++) {
+        const v = h[d][hr];
+        const cell = el('span', { className: 'heat-cell' });
+        cell.style.background = `var(--heat-${level(v)})`;
+        grid.append(tipped(cell, `${DAY_NAMES[i]} ${hh(hr)}:00–${hh(hr)}:59 UTC · ${fmt.format(v)} connection${v === 1 ? '' : 's'}`));
+        if (v > best.v) best = { v, label: `${DAY_NAMES[i]} ${hh(hr)}:00 UTC` };
+      }
+    });
+    grid.setAttribute('role', 'img');
+    grid.setAttribute('aria-label', max ? `Busiest hour: ${best.label}, ${fmt.format(best.v)} connections` : 'No connections yet');
+
+    const legend = el('div', { className: 'legend' }, el('span', { textContent: '0' }));
+    for (let i = 0; i <= 6; i++) {
+      const sw = el('span', { className: 'sw' });
+      sw.style.background = `var(--heat-${i})`;
+      legend.append(sw);
+    }
+    legend.append(el('span', { textContent: `${fmt.format(max)} connections` }));
+
+    const rows = DAY_INDEX.map((d, i) => el('tr', {}, el('th', { textContent: DAY_NAMES[i] }),
+      ...h[d].map(v => el('td', { className: 'num', textContent: fmt.format(v) }))));
+    const table = el('div', { className: 'table-wrap' }, el('table', {},
+      el('thead', {}, el('tr', {}, el('th', { textContent: 'UTC' }), ...h[0].map((_, hr) => el('th', { className: 'num', textContent: hh(hr) })))),
+      el('tbody', {}, ...rows)));
+    $('#heatmap').replaceChildren(grid, legend, el('details', {}, el('summary', { textContent: 'Show as table' }), table));
+  }
+
+  function renderDaily(days) {
+    const top = niceMax(Math.max(0, ...days.map(d => d.connections)));
+    const bars = el('div', { className: 'bars' });
+    bars.setAttribute('role', 'img');
+    bars.setAttribute('aria-label', 'Daily connections; values in the table below');
+    for (const d of days) {
+      const bar = el('span', { className: 'bar' });
+      bar.style.height = top ? `${(d.connections / top) * 100}%` : '0';
+      bars.append(tipped(el('span', { className: 'bar-slot' }, bar), `${d.day} · ${fmt.format(d.connections)} connections`));
+    }
+    const y = el('div', { className: 'y' });
+    [[top, 0], [top / 2, 50], [0, 100]].forEach(([v, pct]) => {
+      const s = el('span', { textContent: compact.format(v) });
+      s.style.top = `${pct}%`;
+      y.append(s);
+    });
+    const x = el('div', { className: 'x' },
+      ...[0, Math.floor(days.length / 2), days.length - 1].map(i => el('span', { textContent: days[i].day.slice(5) })));
+    const table = el('div', { className: 'table-wrap' }, el('table', {},
+      el('thead', {}, el('tr', {}, el('th', { textContent: 'Day' }), el('th', { className: 'num', textContent: 'Connections' }))),
+      el('tbody', {}, ...days.slice().reverse().map(d => el('tr', {},
+        el('td', { textContent: d.day }), el('td', { className: 'num', textContent: fmt.format(d.connections) }))))));
+    $('#daily').replaceChildren(el('div', { className: 'chart' }, y, bars, x),
+      el('details', {}, el('summary', { textContent: 'Show as table' }), table));
+  }
+
+  // cols: [{ label, get(row), mono }]; each row also has `count`, drawn as a bar + number.
+  function renderTable(target, cols, rows, countLabel) {
+    if (!rows.length) return $(target).replaceChildren(el('p', { className: 'muted', textContent: 'Nothing yet.' }));
+    const max = Math.max(...rows.map(r => r.count));
+    const head = el('tr', {}, ...cols.map(c => el('th', { textContent: c.label })), el('th', { className: 'num', textContent: countLabel }));
+    const body = rows.map(r => el('tr', {},
+      ...cols.map(c => {
+        const text = c.get(r) ?? 'Unknown';
+        return el('td', { className: [c.mono && 'mono', c.nowrap && 'nowrap'].filter(Boolean).join(' '), textContent: text, title: text });
+      }),
+      el('td', { className: 'num' }, el('span', { className: 'count' },
+        el('span', { className: 'meter' }, Object.assign(el('span'), { style: `width:${(r.count / max) * 100}%` })),
+        el('span', { textContent: fmt.format(r.count) })))));
+    $(target).replaceChildren(el('div', { className: 'table-wrap' }, el('table', {}, el('thead', {}, head), el('tbody', {}, ...body))));
+  }
+
+  const valueTable = (target, label, rows, opts = {}) =>
+    renderTable(target, [{ label, get: r => r.value, mono: opts.mono }], rows, opts.countLabel || 'Count');
+
+  function render(s) {
+    $('#meta').textContent = `Updated ${s.generatedAt.slice(0, 16).replace('T', ' ')} UTC` + (s.since ? ` · data since ${s.since.slice(0, 10)}` : '');
+    renderKpis(s.totals);
+    renderHeatmap(s.heatmap);
+    renderDaily(s.daily);
+    renderTable('#countries', [{ label: 'Country', get: r => (r.name ? `${r.name} (${r.cc})` : null) }],
+      s.countries.map(r => ({ ...r, count: r.connections })), 'Connections');
+    renderTable('#asns', [{ label: 'Network', get: r => (r.org ? `${r.org} (AS${r.asn})` : null) }],
+      s.asns.map(r => ({ ...r, count: r.connections })), 'Connections');
+    renderTable('#ips', [
+      { label: 'IP', get: r => r.ip, mono: true, nowrap: true },
+      { label: 'Country', get: r => r.country },
+      { label: 'Network', get: r => r.org },
+    ], s.topIps.map(r => ({ ...r, count: r.connections })), 'Connections');
+    valueTable('#usernames', 'Username', s.usernames, { mono: true, countLabel: 'Attempts' });
+    valueTable('#passwords', 'Password', s.passwords, { mono: true, countLabel: 'Attempts' });
+    valueTable('#commands', 'Command', s.commands, { mono: true, countLabel: 'Runs' });
+    valueTable('#software', 'Client', s.software, { mono: true, countLabel: 'Connections' });
+    valueTable('#hassh', 'HASSH', s.hassh, { mono: true, countLabel: 'Connections' });
+    valueTable('#credLists', 'List hash', s.credLists.map(r => ({ ...r, value: r.value.slice(0, 16) + '…' })), { mono: true, countLabel: 'Sessions' });
+    valueTable('#iocHosts', 'Host', s.iocHosts, { mono: true, countLabel: 'Sightings' });
+  }
+
+  const tip = $('#tip');
+  document.addEventListener('pointerover', (e) => {
+    const target = e.target.closest('[data-tip]');
+    if (!target) { tip.hidden = true; return; }
+    tip.textContent = target.dataset.tip;
+    tip.hidden = false;
+    const r = target.getBoundingClientRect();
+    const left = Math.min(Math.max(8, r.left + r.width / 2 - tip.offsetWidth / 2), innerWidth - tip.offsetWidth - 8);
+    const above = r.top - tip.offsetHeight - 6;
+    tip.style.left = `${left}px`;
+    tip.style.top = `${above < 8 ? r.bottom + 6 : above}px`;
+  });
+  addEventListener('scroll', () => { tip.hidden = true; }, { passive: true });
+
+  fetch('stats.json', { cache: 'no-store' })
+    .then(r => (r.ok ? r.json() : Promise.reject(new Error(`HTTP ${r.status}`))))
+    .then(render)
+    .catch(err => { $('#meta').textContent = ''; $('#status').textContent = `Could not load stats.json: ${err.message}`; });
+</script>
+</body>
+</html>
