@@ -54,10 +54,10 @@
   .legend span.sw { width: 14px; height: 14px; border-radius: 2px; }
 
   .chart { display: grid; grid-template-columns: auto 1fr; column-gap: 8px; }
-  .y { position: relative; height: 160px; color: var(--muted); font-size: 11px; text-align: right; min-width: 2rem; font-variant-numeric: tabular-nums; }
+  .y { position: relative; height: 120px; color: var(--muted); font-size: 11px; text-align: right; min-width: 2rem; font-variant-numeric: tabular-nums; }
   .y span { position: absolute; right: 0; transform: translateY(-50%); }
   .bars {
-    height: 160px; display: flex; align-items: flex-end; gap: 2px; border-bottom: 1px solid var(--axis);
+    height: 120px; display: flex; align-items: flex-end; gap: 2px; border-bottom: 1px solid var(--axis);
     background:
       linear-gradient(var(--grid), var(--grid)) 0 0 / 100% 1px no-repeat,
       linear-gradient(var(--grid), var(--grid)) 0 50% / 100% 1px no-repeat;
@@ -67,6 +67,8 @@
   .x { grid-column: 2; display: flex; justify-content: space-between; color: var(--muted); font-size: 11px; margin-top: 4px; }
 
   .table-wrap { overflow-x: auto; }
+  #commands .table-wrap { max-height: 400px; overflow-y: auto; }
+  #commands th { position: sticky; top: 0; background: var(--surface); }
   table { width: 100%; border-collapse: collapse; }
   th { text-align: left; font-weight: 500; color: var(--muted); font-size: 12px; padding: 0 8px 6px 0; border-bottom: 1px solid var(--grid); }
   td { padding: 6px 8px 6px 0; border-bottom: 1px solid var(--grid); vertical-align: top; }
@@ -97,17 +99,18 @@
 
   <section class="kpis" id="kpis" aria-label="Totals"></section>
 
-  <section class="card">
-    <h2>When connections arrive</h2>
-    <p class="sub">Connections by weekday and hour, all time, UTC</p>
-    <div id="heatmap"></div>
-  </section>
-
-  <section class="card">
-    <h2>Connections per day</h2>
-    <p class="sub">Last 90 days, UTC</p>
-    <div id="daily"></div>
-  </section>
+  <div class="cols">
+    <section class="card">
+      <h2>When connections arrive</h2>
+      <p class="sub">Connections by weekday and hour, all time, UTC</p>
+      <div id="heatmap"></div>
+    </section>
+    <section class="card">
+      <h2>Connections per day</h2>
+      <p class="sub">Last 90 days, UTC</p>
+      <div id="daily"></div>
+    </section>
+  </div>
 
   <div class="cols">
     <section class="card"><h2>Countries</h2><p class="sub">Where source IPs are registered</p><div id="countries"></div></section>
@@ -121,7 +124,7 @@
     <section class="card"><h2>Passwords tried</h2><div id="passwords"></div></section>
   </div>
 
-  <section class="card"><h2>Commands run</h2><p class="sub">After a login was accepted, shell and exec</p><div id="commands"></div></section>
+  <section class="card"><h2>Commands run</h2><p class="sub">Top 100 after a login was accepted, shell and exec</p><div id="commands"></div></section>
 
   <div class="cols">
     <section class="card"><h2>Client software</h2><p class="sub">SSH version string the client sent</p><div id="software"></div></section>
