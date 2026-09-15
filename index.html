@@ -86,7 +86,8 @@
 
   .table-wrap { overflow-x: auto; }
   #commands .table-wrap, #cities .table-wrap { max-height: 400px; overflow-y: auto; }
-  #commands th, #cities th { position: sticky; top: 0; background: var(--surface); }
+  #daily .table-wrap { max-height: 330px; overflow-y: auto; } /* ~10 rows */
+  .table-wrap thead th { position: sticky; top: 0; background: var(--surface); }
   table { width: 100%; border-collapse: collapse; }
   th { text-align: left; font-weight: 500; color: var(--muted); font-size: 12px; padding: 0 8px 6px 0; border-bottom: 1px solid var(--grid); }
   td { padding: 6px 8px 6px 0; border-bottom: 1px solid var(--grid); vertical-align: top; }
@@ -345,7 +346,8 @@
   function renderTable(target, cols, rows, countLabel) {
     if (!rows.length) return $(target).replaceChildren(el('p', { className: 'muted', textContent: 'Nothing yet.' }));
     const max = Math.max(...rows.map(r => r.count));
-    const head = el('tr', {}, ...cols.map(c => el('th', { textContent: c.label })), el('th', { className: 'num', textContent: countLabel }));
+    const numW = `min-width:${fmt.format(max).length}ch`;
+    const head =el('tr', {}, ...cols.map(c => el('th', { textContent: c.label })), el('th', { className: 'num', textContent: countLabel }));
     const body = rows.map(r => el('tr', {},
       ...cols.map(c => {
         const text = c.get(r) ?? 'Unknown';
@@ -353,7 +355,8 @@
       }),
       el('td', { className: 'num' }, el('span', { className: 'count' },
         el('span', { className: 'meter' }, Object.assign(el('span'), { style: `width:${(r.count / max) * 100}%` })),
-        el('span', { textContent: fmt.format(r.count) })))));
+        // Fixed-width number (widest in table) so every meter starts at the same left edge.
+        el('span', { textContent: fmt.format(r.count), style: numW })))));
     $(target).replaceChildren(el('div', { className: 'table-wrap' }, el('table', {}, el('thead', {}, head), el('tbody', {}, ...body))));
   }
 
