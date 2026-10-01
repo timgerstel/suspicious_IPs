@@ -257,3 +257,5 @@
 {"ts":"2026-10-01T09:07:56.823Z","ip":"216.45.59.110","event":"ratelimited","reason":"global"}
 {"ts":"2026-10-01T09:10:28.365Z","ip":"85.217.149.0","event":"ratelimited","reason":"global"}
 {"ts":"2026-10-01T09:13:54.279Z","ip":"93.123.109.6","event":"ratelimited","reason":"global"}
+{"ts":"2026-10-01T09:39:50.472Z","ip":"92.118.39.50","event":"scanback","sid":"c84476f1-dfab-4484-ad55-5e92d2c09b5c","port":22,"banner":"SSH-2.0-OpenSSH_8.9p1 Ubuntu-3ubuntu0.17","hostKey":"SHA256:427WjrkNP/ZhQGfroIb+og8v8fiKoAFGyqMSOitApk4"}
+{"ts":"2026-10-01T09:39:50.472Z","ip":"92.118.39.50","event":"scanback","sid":"c84476f1-dfab-4484-ad55-5e92d2c09b5c","port":22,"banner":"SSH-2.0-OpenSSH_8.9p1 Ubuntu-3ubuntu0.17","hostKey":"SHA256:427WjrkNP/ZhQGfroIb+og8v8fiKoAFGyqMSOitApk4"}
