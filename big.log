@@ -2134,3 +2134,10 @@
 {"ts":"2026-10-04T12:40:42.911Z","ip":"43.134.107.237","event":"ratelimited","reason":"global"}
 {"ts":"2026-10-04T12:42:44.600Z","ip":"45.148.10.157","event":"ratelimited","reason":"global"}
 {"ts":"2026-10-04T12:47:51.446Z","ip":"45.148.10.152","event":"ratelimited","reason":"global"}
+{"ts":"2026-10-04T12:52:44.116Z","ip":"62.60.130.253","event":"ratelimited","reason":"global"}
+{"ts":"2026-10-04T12:57:38.234Z","ip":"45.148.10.152","event":"ratelimited","reason":"global"}
+{"ts":"2026-10-04T12:59:49.307Z","ip":"176.53.159.196","event":"ratelimited","reason":"global"}
+{"ts":"2026-10-04T13:09:22.563Z","ip":"106.0.166.123","event":"ratelimited","reason":"global"}
+{"ts":"2026-10-04T13:09:23.903Z","ip":"61.186.136.36","event":"ratelimited","reason":"global"}
+{"ts":"2026-10-04T13:09:35.785Z","ip":"69.5.20.133","event":"ratelimited","reason":"global"}
+{"ts":"2026-10-04T13:16:34.799Z","ip":"179.102.26.14","event":"ratelimited","reason":"global"}
