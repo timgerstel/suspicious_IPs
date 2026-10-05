@@ -2427,3 +2427,10 @@
 {"ts":"2026-10-05T03:17:42.218Z","ip":"92.118.39.49","event":"ratelimited","reason":"global"}
 {"ts":"2026-10-05T03:18:50.744Z","ip":"45.148.10.152","event":"ratelimited","reason":"global"}
 {"ts":"2026-10-05T03:20:50.503Z","ip":"103.203.57.2","event":"ratelimited","reason":"global"}
+{"ts":"2026-10-05T03:23:44.150Z","ip":"62.60.130.242","event":"ratelimited","reason":"global"}
+{"ts":"2026-10-05T03:28:34.766Z","ip":"62.60.130.242","event":"ratelimited","reason":"global"}
+{"ts":"2026-10-05T03:33:29.020Z","ip":"45.148.10.152","event":"ratelimited","reason":"global"}
+{"ts":"2026-10-05T03:38:21.709Z","ip":"62.60.130.201","event":"ratelimited","reason":"global"}
+{"ts":"2026-10-05T03:43:11.144Z","ip":"62.60.130.201","event":"ratelimited","reason":"global"}
+{"ts":"2026-10-05T03:48:14.735Z","ip":"193.47.62.69","event":"ratelimited","reason":"global"}
+{"ts":"2026-10-05T03:50:58.636Z","ip":"108.49.21.13","event":"ratelimited","reason":"global"}
