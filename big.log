@@ -2569,3 +2569,8 @@
 {"ts":"2026-10-05T06:45:58.434Z","ip":"193.47.62.69","event":"ratelimited","reason":"global"}
 {"ts":"2026-10-05T06:47:31.300Z","ip":"80.94.92.179","event":"ratelimited","reason":"global"}
 {"ts":"2026-10-05T06:50:53.385Z","ip":"62.60.130.242","event":"ratelimited","reason":"global"}
+{"ts":"2026-10-05T06:54:09.867Z","ip":"94.78.193.73","event":"ratelimited","reason":"global"}
+{"ts":"2026-10-05T06:55:45.602Z","ip":"45.148.10.141","event":"ratelimited","reason":"global"}
+{"ts":"2026-10-05T07:00:46.676Z","ip":"62.60.130.253","event":"ratelimited","reason":"global"}
+{"ts":"2026-10-05T07:01:41.980Z","ip":"165.154.218.158","event":"ratelimited","reason":"global"}
+{"ts":"2026-10-05T07:03:27.668Z","ip":"176.53.159.196","event":"ratelimited","reason":"global"}
