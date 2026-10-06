@@ -12997,3 +12997,10 @@
 {"ts":"2026-10-06T18:45:58.299Z","ip":"176.53.159.196","event":"ratelimited","reason":"global"}
 {"ts":"2026-10-06T18:47:33.206Z","ip":"159.89.235.173","event":"ratelimited","reason":"global"}
 {"ts":"2026-10-06T18:50:26.260Z","ip":"45.148.10.157","event":"ratelimited","reason":"global"}
+{"ts":"2026-10-06T18:55:27.983Z","ip":"62.60.130.201","event":"ratelimited","reason":"global"}
+{"ts":"2026-10-06T19:00:36.733Z","ip":"193.47.62.69","event":"ratelimited","reason":"global"}
+{"ts":"2026-10-06T19:09:06.136Z","ip":"193.24.211.218","event":"ratelimited","reason":"global"}
+{"ts":"2026-10-06T19:13:18.882Z","ip":"43.160.193.94","event":"ratelimited","reason":"global"}
+{"ts":"2026-10-06T19:16:39.438Z","ip":"185.242.226.17","event":"ratelimited","reason":"global"}
+{"ts":"2026-10-06T19:17:33.169Z","ip":"43.160.193.94","event":"ratelimited","reason":"global"}
+{"ts":"2026-10-06T19:21:58.941Z","ip":"223.247.218.112","event":"ratelimited","reason":"global"}
