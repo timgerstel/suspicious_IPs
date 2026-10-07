@@ -13449,3 +13449,10 @@
 {"ts":"2026-10-07T20:46:56.078Z","ip":"211.220.197.170","event":"ratelimited","reason":"global"}
 {"ts":"2026-10-07T20:51:32.360Z","ip":"89.21.67.176","event":"ratelimited","reason":"global"}
 {"ts":"2026-10-07T20:51:46.672Z","ip":"69.5.169.51","event":"ratelimited","reason":"global"}
+{"ts":"2026-10-07T20:52:58.623Z","ip":"106.12.241.195","event":"ratelimited","reason":"global"}
+{"ts":"2026-10-07T20:53:02.429Z","ip":"103.143.168.153","event":"ratelimited","reason":"global"}
+{"ts":"2026-10-07T21:10:21.145Z","ip":"95.90.13.168","event":"ratelimited","reason":"global"}
+{"ts":"2026-10-07T21:10:50.318Z","ip":"129.121.97.74","event":"ratelimited","reason":"global"}
+{"ts":"2026-10-07T21:12:30.531Z","ip":"185.107.80.93","event":"ratelimited","reason":"global"}
+{"ts":"2026-10-07T21:14:02.118Z","ip":"103.43.191.43","event":"ratelimited","reason":"global"}
+{"ts":"2026-10-07T21:18:25.833Z","ip":"115.191.2.208","event":"ratelimited","reason":"global"}
