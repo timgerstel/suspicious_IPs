@@ -13347,3 +13347,10 @@
 {"ts":"2026-10-07T15:34:02.274Z","ip":"185.112.33.84","event":"ratelimited","reason":"global"}
 {"ts":"2026-10-07T15:40:54.529Z","ip":"77.90.185.16","event":"ratelimited","reason":"global"}
 {"ts":"2026-10-07T15:42:42.278Z","ip":"190.211.222.35","event":"ratelimited","reason":"global"}
+{"ts":"2026-10-07T15:59:17.246Z","ip":"176.53.159.196","event":"ratelimited","reason":"global"}
+{"ts":"2026-10-07T16:00:34.827Z","ip":"186.22.24.89","event":"ratelimited","reason":"global"}
+{"ts":"2026-10-07T16:01:41.559Z","ip":"186.22.24.89","event":"ratelimited","reason":"global"}
+{"ts":"2026-10-07T16:03:07.040Z","ip":"62.60.130.253","event":"ratelimited","reason":"global"}
+{"ts":"2026-10-07T16:09:09.016Z","ip":"45.148.10.151","event":"ratelimited","reason":"global"}
+{"ts":"2026-10-07T16:14:13.199Z","ip":"193.47.62.69","event":"ratelimited","reason":"global"}
+{"ts":"2026-10-07T16:19:12.788Z","ip":"62.60.130.253","event":"ratelimited","reason":"global"}
