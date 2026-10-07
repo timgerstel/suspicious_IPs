@@ -13300,3 +13300,8 @@
 {"ts":"2026-10-07T09:58:49.679Z","ip":"203.89.28.114","event":"ratelimited","reason":"global"}
 {"ts":"2026-10-07T09:59:08.818Z","ip":"176.53.159.196","event":"ratelimited","reason":"global"}
 {"ts":"2026-10-07T10:11:44.970Z","ip":"181.29.74.225","event":"ratelimited","reason":"global"}
+{"ts":"2026-10-07T10:22:51.780Z","ip":"109.160.32.105","event":"ratelimited","reason":"global"}
+{"ts":"2026-10-07T10:41:09.427Z","ip":"115.191.21.3","event":"ratelimited","reason":"global"}
+{"ts":"2026-10-07T10:42:02.302Z","ip":"198.235.24.179","event":"ratelimited","reason":"global"}
+{"ts":"2026-10-07T10:46:44.385Z","ip":"50.6.249.246","event":"ratelimited","reason":"global"}
+{"ts":"2026-10-07T10:48:15.292Z","ip":"118.145.66.151","event":"ratelimited","reason":"global"}
