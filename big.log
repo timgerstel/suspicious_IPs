@@ -15892,3 +15892,4 @@
 {"ts":"2026-10-09T16:03:21.420Z","ip":"103.203.59.9","event":"ratelimited","reason":"global"}
 {"ts":"2026-10-09T16:12:05.975Z","ip":"174.138.49.97","event":"ratelimited","reason":"global"}
 {"ts":"2026-10-09T16:16:23.412Z","ip":"3.129.187.38","event":"ratelimited","reason":"global"}
+{"ts":"2026-10-09T16:41:20.782Z","ip":"147.185.132.177","event":"ratelimited","reason":"global"}
