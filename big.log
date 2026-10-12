@@ -21230,3 +21230,9 @@
 {"ts":"2026-10-12T06:55:06.248Z","ip":"45.148.10.151","event":"ratelimited","reason":"global"}
 {"ts":"2026-10-12T06:59:59.821Z","ip":"62.60.130.242","event":"ratelimited","reason":"global"}
 {"ts":"2026-10-12T07:13:23.492Z","ip":"193.187.110.159","event":"ratelimited","reason":"global"}
+{"ts":"2026-10-12T07:22:44.414Z","ip":"92.118.39.14","event":"ratelimited","reason":"global"}
+{"ts":"2026-10-12T07:33:12.398Z","ip":"172.104.210.105","event":"ratelimited","reason":"global"}
+{"ts":"2026-10-12T07:35:09.426Z","ip":"82.198.175.226","event":"ratelimited","reason":"global"}
+{"ts":"2026-10-12T07:40:57.613Z","ip":"66.240.223.208","event":"ratelimited","reason":"global"}
+{"ts":"2026-10-12T07:41:23.549Z","ip":"176.53.159.196","event":"ratelimited","reason":"global"}
+{"ts":"2026-10-12T07:49:59.343Z","ip":"165.154.45.62","event":"ratelimited","reason":"global"}
