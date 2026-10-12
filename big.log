@@ -21240,3 +21240,9 @@
 {"ts":"2026-10-12T08:19:57.756Z","ip":"186.125.95.72","event":"ratelimited","reason":"global"}
 {"ts":"2026-10-12T08:27:50.956Z","ip":"71.6.232.27","event":"ratelimited","reason":"global"}
 {"ts":"2026-10-12T08:48:57.877Z","ip":"185.176.108.5","event":"ratelimited","reason":"global"}
+{"ts":"2026-10-12T08:52:47.814Z","ip":"176.53.159.196","event":"ratelimited","reason":"global"}
+{"ts":"2026-10-12T08:57:59.292Z","ip":"68.183.92.206","event":"ratelimited","reason":"global"}
+{"ts":"2026-10-12T09:01:09.587Z","ip":"120.48.118.142","event":"ratelimited","reason":"global"}
+{"ts":"2026-10-12T09:05:10.715Z","ip":"167.71.72.95","event":"ratelimited","reason":"global"}
+{"ts":"2026-10-12T09:05:15.819Z","ip":"77.239.124.156","event":"ratelimited","reason":"global"}
+{"ts":"2026-10-12T09:11:02.483Z","ip":"37.104.144.35","event":"ratelimited","reason":"global"}
