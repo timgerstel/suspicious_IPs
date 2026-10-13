@@ -22010,3 +22010,10 @@
 {"ts":"2026-10-13T11:20:56.370Z","ip":"77.40.51.90","event":"ratelimited","reason":"global"}
 {"ts":"2026-10-13T11:32:24.771Z","ip":"103.211.76.8","event":"ratelimited","reason":"global"}
 {"ts":"2026-10-13T11:42:22.272Z","ip":"36.103.243.179","event":"ratelimited","reason":"global"}
+{"ts":"2026-10-13T11:53:39.525Z","ip":"103.211.76.8","event":"ratelimited","reason":"global"}
+{"ts":"2026-10-13T12:08:18.304Z","ip":"195.178.110.232","event":"ratelimited","reason":"global"}
+{"ts":"2026-10-13T12:09:28.394Z","ip":"88.205.172.170","event":"ratelimited","reason":"global"}
+{"ts":"2026-10-13T12:14:52.681Z","ip":"103.211.76.8","event":"ratelimited","reason":"global"}
+{"ts":"2026-10-13T12:15:26.273Z","ip":"221.163.5.228","event":"ratelimited","reason":"global"}
+{"ts":"2026-10-13T12:15:27.345Z","ip":"45.148.10.240","event":"ratelimited","reason":"global"}
+{"ts":"2026-10-13T12:17:06.113Z","ip":"129.121.103.78","event":"ratelimited","reason":"global"}
