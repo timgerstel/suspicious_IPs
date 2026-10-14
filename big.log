@@ -22732,3 +22732,4 @@
 {"ts":"2026-10-14T13:32:05.318Z","ip":"203.6.227.164","event":"ratelimited","reason":"global"}
 {"ts":"2026-10-14T13:33:22.932Z","ip":"114.219.157.97","event":"ratelimited","reason":"global"}
 {"ts":"2026-10-14T13:33:44.928Z","ip":"103.132.243.250","event":"ratelimited","reason":"global"}
+{"ts":"2026-10-14T14:04:47.382Z","ip":"109.160.32.166","event":"ratelimited","reason":"global"}
