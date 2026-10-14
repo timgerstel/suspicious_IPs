@@ -22780,3 +22780,10 @@
 {"ts":"2026-10-14T17:08:45.671Z","ip":"45.161.151.175","event":"ratelimited","reason":"global"}
 {"ts":"2026-10-14T17:14:19.936Z","ip":"45.148.10.151","event":"ratelimited","reason":"global"}
 {"ts":"2026-10-14T17:20:53.658Z","ip":"45.148.10.152","event":"ratelimited","reason":"global"}
+{"ts":"2026-10-14T17:23:09.177Z","ip":"103.112.54.86","event":"ratelimited","reason":"global"}
+{"ts":"2026-10-14T17:27:29.381Z","ip":"45.148.10.152","event":"ratelimited","reason":"global"}
+{"ts":"2026-10-14T17:34:07.096Z","ip":"45.148.10.141","event":"ratelimited","reason":"global"}
+{"ts":"2026-10-14T17:39:34.738Z","ip":"176.53.159.196","event":"ratelimited","reason":"global"}
+{"ts":"2026-10-14T17:40:42.064Z","ip":"62.60.130.253","event":"ratelimited","reason":"global"}
+{"ts":"2026-10-14T17:41:37.285Z","ip":"218.78.141.57","event":"ratelimited","reason":"global"}
+{"ts":"2026-10-14T17:47:15.915Z","ip":"45.148.10.151","event":"ratelimited","reason":"global"}
