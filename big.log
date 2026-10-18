@@ -24336,3 +24336,5 @@
 {"ts":"2026-10-18T07:12:00.404Z","ip":"91.247.182.45","event":"ratelimited","reason":"global"}
 {"ts":"2026-10-18T07:12:30.787Z","ip":"88.97.212.250","event":"ratelimited","reason":"global"}
 {"ts":"2026-10-18T07:24:16.285Z","ip":"176.53.159.196","event":"ratelimited","reason":"global"}
+{"ts":"2026-10-18T08:08:10.423Z","ip":"45.33.28.47","event":"ratelimited","reason":"global"}
+{"ts":"2026-10-18T08:21:18.141Z","ip":"77.90.185.16","event":"ratelimited","reason":"global"}
