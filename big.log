@@ -24786,3 +24786,12 @@
 {"ts":"2026-10-19T05:40:39.388Z","ip":"45.148.10.141","event":"ratelimited","reason":"global"}
 {"ts":"2026-10-19T05:43:43.229Z","ip":"2.57.122.209","event":"ratelimited","reason":"global"}
 {"ts":"2026-10-19T05:46:55.653Z","ip":"45.148.10.157","event":"ratelimited","reason":"global"}
+{"ts":"2026-10-19T05:53:14.088Z","ip":"45.148.10.151","event":"ratelimited","reason":"global"}
+{"ts":"2026-10-19T05:55:39.984Z","ip":"34.140.229.2","event":"ratelimited","reason":"global"}
+{"ts":"2026-10-19T05:59:34.972Z","ip":"193.47.62.69","event":"ratelimited","reason":"global"}
+{"ts":"2026-10-19T06:05:52.038Z","ip":"62.60.130.253","event":"ratelimited","reason":"global"}
+{"ts":"2026-10-19T06:06:31.704Z","ip":"106.75.20.224","event":"ratelimited","reason":"global"}
+{"ts":"2026-10-19T06:09:40.491Z","ip":"36.255.97.33","event":"ratelimited","reason":"global"}
+{"ts":"2026-10-19T06:12:09.270Z","ip":"45.148.10.152","event":"ratelimited","reason":"global"}
+{"ts":"2026-10-19T06:14:56.230Z","ip":"77.239.124.39","event":"ratelimited","reason":"global"}
+{"ts":"2026-10-19T06:18:26.781Z","ip":"62.60.130.253","event":"ratelimited","reason":"global"}
