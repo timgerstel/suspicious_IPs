@@ -25002,3 +25002,7 @@
 {"ts":"2026-10-19T18:42:07.459Z","ip":"44.201.163.116","event":"ratelimited","reason":"global"}
 {"ts":"2026-10-19T18:45:52.191Z","ip":"193.47.62.69","event":"ratelimited","reason":"global"}
 {"ts":"2026-10-19T18:52:03.696Z","ip":"45.148.10.157","event":"ratelimited","reason":"global"}
+{"ts":"2026-10-19T18:58:19.368Z","ip":"45.148.10.157","event":"ratelimited","reason":"global"}
+{"ts":"2026-10-19T19:01:20.362Z","ip":"176.53.159.196","event":"ratelimited","reason":"global"}
+{"ts":"2026-10-19T19:10:40.402Z","ip":"103.142.87.3","event":"ratelimited","reason":"global"}
+{"ts":"2026-10-19T19:15:15.196Z","ip":"77.239.124.130","event":"ratelimited","reason":"global"}
