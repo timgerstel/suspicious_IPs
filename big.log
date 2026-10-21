@@ -25714,3 +25714,8 @@
 {"ts":"2026-10-21T15:15:18.067Z","ip":"4.240.126.25","event":"ratelimited","reason":"global"}
 {"ts":"2026-10-21T15:16:18.285Z","ip":"211.105.129.57","event":"ratelimited","reason":"global"}
 {"ts":"2026-10-21T15:18:59.667Z","ip":"37.23.177.236","event":"ratelimited","reason":"global"}
+{"ts":"2026-10-21T15:27:10.017Z","ip":"190.112.176.86","event":"ratelimited","reason":"global"}
+{"ts":"2026-10-21T15:30:17.810Z","ip":"130.49.215.111","event":"ratelimited","reason":"global"}
+{"ts":"2026-10-21T15:31:10.124Z","ip":"109.160.32.152","event":"ratelimited","reason":"global"}
+{"ts":"2026-10-21T15:44:43.879Z","ip":"20.169.84.217","event":"ratelimited","reason":"global"}
+{"ts":"2026-10-21T15:50:40.305Z","ip":"95.46.142.125","event":"ratelimited","reason":"global"}
