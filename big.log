@@ -25905,3 +25905,10 @@
 {"ts":"2026-10-22T05:13:38.714Z","ip":"62.60.130.242","event":"ratelimited","reason":"global"}
 {"ts":"2026-10-22T05:18:57.499Z","ip":"62.60.130.242","event":"ratelimited","reason":"global"}
 {"ts":"2026-10-22T05:20:29.645Z","ip":"5.187.14.34","event":"ratelimited","reason":"global"}
+{"ts":"2026-10-22T05:24:14.712Z","ip":"45.148.10.141","event":"ratelimited","reason":"global"}
+{"ts":"2026-10-22T05:29:34.425Z","ip":"193.47.62.69","event":"ratelimited","reason":"global"}
+{"ts":"2026-10-22T05:34:51.587Z","ip":"193.47.62.69","event":"ratelimited","reason":"global"}
+{"ts":"2026-10-22T05:35:08.861Z","ip":"176.53.159.196","event":"ratelimited","reason":"global"}
+{"ts":"2026-10-22T05:40:08.455Z","ip":"62.60.130.253","event":"ratelimited","reason":"global"}
+{"ts":"2026-10-22T05:45:24.765Z","ip":"45.148.10.151","event":"ratelimited","reason":"global"}
+{"ts":"2026-10-22T05:50:42.133Z","ip":"193.47.62.69","event":"ratelimited","reason":"global"}
