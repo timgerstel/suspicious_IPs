@@ -25980,3 +25980,10 @@
 {"ts":"2026-10-22T09:40:41.380Z","ip":"173.171.197.103","event":"ratelimited","reason":"global"}
 {"ts":"2026-10-22T09:45:29.014Z","ip":"77.25.133.105","event":"ratelimited","reason":"global"}
 {"ts":"2026-10-22T09:46:20.972Z","ip":"75.44.101.146","event":"ratelimited","reason":"global"}
+{"ts":"2026-10-22T10:02:24.668Z","ip":"119.255.245.44","event":"ratelimited","reason":"global"}
+{"ts":"2026-10-22T10:02:36.315Z","ip":"101.66.165.103","event":"ratelimited","reason":"global"}
+{"ts":"2026-10-22T10:03:53.668Z","ip":"115.190.126.68","event":"ratelimited","reason":"global"}
+{"ts":"2026-10-22T10:06:14.448Z","ip":"171.25.158.42","event":"ratelimited","reason":"global"}
+{"ts":"2026-10-22T10:08:01.663Z","ip":"147.185.132.31","event":"ratelimited","reason":"global"}
+{"ts":"2026-10-22T10:11:08.499Z","ip":"175.172.153.161","event":"ratelimited","reason":"global"}
+{"ts":"2026-10-22T10:15:31.311Z","ip":"180.76.235.157","event":"ratelimited","reason":"global"}
