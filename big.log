@@ -34654,3 +34654,10 @@
 {"ts":"2026-11-07T16:37:48.973Z","ip":"89.210.186.233","event":"ratelimited","reason":"global"}
 {"ts":"2026-11-07T16:45:07.500Z","ip":"66.132.195.101","event":"ratelimited","reason":"global"}
 {"ts":"2026-11-07T16:50:15.387Z","ip":"147.185.132.30","event":"ratelimited","reason":"global"}
+{"ts":"2026-11-07T16:52:56.722Z","ip":"153.67.15.79","event":"ratelimited","reason":"global"}
+{"ts":"2026-11-07T16:57:10.705Z","ip":"115.191.30.208","event":"ratelimited","reason":"global"}
+{"ts":"2026-11-07T17:02:56.659Z","ip":"179.216.16.184","event":"ratelimited","reason":"global"}
+{"ts":"2026-11-07T17:10:14.768Z","ip":"43.156.115.178","event":"ratelimited","reason":"global"}
+{"ts":"2026-11-07T17:11:01.766Z","ip":"3.130.168.2","event":"ratelimited","reason":"global"}
+{"ts":"2026-11-07T17:17:02.462Z","ip":"193.32.162.84","event":"ratelimited","reason":"global"}
+{"ts":"2026-11-07T17:19:04.739Z","ip":"193.32.162.15","event":"ratelimited","reason":"global"}
