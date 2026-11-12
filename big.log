@@ -36639,3 +36639,9 @@
 {"ts":"2026-11-12T15:45:58.436Z","ip":"78.128.112.74","event":"ratelimited","reason":"global"}
 {"ts":"2026-11-12T15:46:55.155Z","ip":"193.47.62.69","event":"ratelimited","reason":"global"}
 {"ts":"2026-11-12T15:48:01.582Z","ip":"61.9.6.231","event":"ratelimited","reason":"global"}
+{"ts":"2026-11-12T15:53:57.585Z","ip":"193.47.62.69","event":"ratelimited","reason":"global"}
+{"ts":"2026-11-12T15:56:35.951Z","ip":"80.94.95.115","event":"ratelimited","reason":"global"}
+{"ts":"2026-11-12T16:08:16.011Z","ip":"80.94.95.115","event":"ratelimited","reason":"global"}
+{"ts":"2026-11-12T16:10:33.296Z","ip":"193.47.62.69","event":"ratelimited","reason":"global"}
+{"ts":"2026-11-12T16:17:58.173Z","ip":"45.148.10.152","event":"ratelimited","reason":"global"}
+{"ts":"2026-11-12T16:18:34.320Z","ip":"80.94.95.115","event":"ratelimited","reason":"global"}
