@@ -37021,3 +37021,10 @@
 {"ts":"2026-11-13T12:54:17.821Z","ip":"45.148.10.157","event":"ratelimited","reason":"global"}
 {"ts":"2026-11-13T12:58:08.173Z","ip":"176.53.159.196","event":"ratelimited","reason":"global"}
 {"ts":"2026-11-13T13:17:35.704Z","ip":"31.120.178.109","event":"ratelimited","reason":"global"}
+{"ts":"2026-11-13T13:26:35.462Z","ip":"103.66.143.115","event":"ratelimited","reason":"global"}
+{"ts":"2026-11-13T13:30:53.457Z","ip":"103.66.143.115","event":"ratelimited","reason":"global"}
+{"ts":"2026-11-13T13:38:17.802Z","ip":"52.128.53.125","event":"ratelimited","reason":"global"}
+{"ts":"2026-11-13T13:39:22.752Z","ip":"52.128.53.125","event":"ratelimited","reason":"global"}
+{"ts":"2026-11-13T13:39:36.298Z","ip":"92.118.39.75","event":"ratelimited","reason":"global"}
+{"ts":"2026-11-13T13:42:18.035Z","ip":"176.53.159.196","event":"ratelimited","reason":"global"}
+{"ts":"2026-11-13T13:42:45.572Z","ip":"196.229.129.6","event":"ratelimited","reason":"global"}
