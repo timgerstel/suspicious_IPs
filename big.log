@@ -38137,3 +38137,10 @@
 {"ts":"2026-11-16T01:38:40.569Z","ip":"138.226.239.234","event":"ratelimited","reason":"global"}
 {"ts":"2026-11-16T01:48:00.681Z","ip":"64.89.160.135","event":"ratelimited","reason":"global"}
 {"ts":"2026-11-16T01:50:22.997Z","ip":"138.226.239.234","event":"ratelimited","reason":"global"}
+{"ts":"2026-11-16T01:54:42.535Z","ip":"71.6.232.28","event":"ratelimited","reason":"global"}
+{"ts":"2026-11-16T02:01:41.309Z","ip":"138.226.239.234","event":"ratelimited","reason":"global"}
+{"ts":"2026-11-16T02:05:37.456Z","ip":"106.13.95.77","event":"ratelimited","reason":"global"}
+{"ts":"2026-11-16T02:07:22.612Z","ip":"80.94.95.116","event":"ratelimited","reason":"global"}
+{"ts":"2026-11-16T02:07:36.033Z","ip":"80.94.92.55","event":"ratelimited","reason":"global"}
+{"ts":"2026-11-16T02:09:37.566Z","ip":"176.53.159.196","event":"ratelimited","reason":"global"}
+{"ts":"2026-11-16T02:18:16.700Z","ip":"138.226.239.233","event":"ratelimited","reason":"global"}
