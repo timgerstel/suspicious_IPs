@@ -38204,3 +38204,10 @@
 {"ts":"2026-11-16T05:18:23.158Z","ip":"76.36.254.112","event":"ratelimited","reason":"global"}
 {"ts":"2026-11-16T05:18:45.962Z","ip":"103.148.235.249","event":"ratelimited","reason":"global"}
 {"ts":"2026-11-16T05:20:58.917Z","ip":"76.36.254.112","event":"ratelimited","reason":"global"}
+{"ts":"2026-11-16T05:22:08.108Z","ip":"103.148.235.249","event":"ratelimited","reason":"global"}
+{"ts":"2026-11-16T05:25:34.051Z","ip":"45.148.10.152","event":"ratelimited","reason":"global"}
+{"ts":"2026-11-16T05:27:40.990Z","ip":"80.94.95.115","event":"ratelimited","reason":"global"}
+{"ts":"2026-11-16T05:29:16.258Z","ip":"78.128.112.74","event":"ratelimited","reason":"global"}
+{"ts":"2026-11-16T05:32:47.542Z","ip":"45.148.10.151","event":"ratelimited","reason":"global"}
+{"ts":"2026-11-16T05:40:02.159Z","ip":"45.148.10.157","event":"ratelimited","reason":"global"}
+{"ts":"2026-11-16T05:47:15.877Z","ip":"45.148.10.151","event":"ratelimited","reason":"global"}
