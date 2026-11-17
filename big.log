@@ -38771,3 +38771,9 @@
 {"ts":"2026-11-17T05:03:21.747Z","ip":"128.199.8.140","event":"ratelimited","reason":"global"}
 {"ts":"2026-11-17T05:12:29.386Z","ip":"223.83.183.254","event":"ratelimited","reason":"global"}
 {"ts":"2026-11-17T05:14:22.442Z","ip":"92.118.39.75","event":"ratelimited","reason":"global"}
+{"ts":"2026-11-17T05:25:11.058Z","ip":"195.191.104.82","event":"ratelimited","reason":"global"}
+{"ts":"2026-11-17T05:27:27.227Z","ip":"176.53.159.196","event":"ratelimited","reason":"global"}
+{"ts":"2026-11-17T05:27:59.467Z","ip":"195.191.104.82","event":"ratelimited","reason":"global"}
+{"ts":"2026-11-17T05:28:59.682Z","ip":"85.255.232.223","event":"ratelimited","reason":"global"}
+{"ts":"2026-11-17T05:33:22.781Z","ip":"107.150.123.48","event":"ratelimited","reason":"global"}
+{"ts":"2026-11-17T05:47:06.441Z","ip":"77.90.185.14","event":"ratelimited","reason":"global"}
