@@ -39402,3 +39402,8 @@
 {"ts":"2026-11-18T16:47:50.594Z","ip":"47.111.124.146","event":"ratelimited","reason":"global"}
 {"ts":"2026-11-18T16:48:54.185Z","ip":"47.111.124.146","event":"ratelimited","reason":"global"}
 {"ts":"2026-11-18T16:50:01.875Z","ip":"47.111.124.146","event":"ratelimited","reason":"global"}
+{"ts":"2026-11-18T16:55:26.878Z","ip":"198.235.24.51","event":"ratelimited","reason":"global"}
+{"ts":"2026-11-18T16:55:28.975Z","ip":"107.23.225.70","event":"ratelimited","reason":"global"}
+{"ts":"2026-11-18T17:02:06.867Z","ip":"47.111.124.146","event":"ratelimited","reason":"global"}
+{"ts":"2026-11-18T17:04:15.869Z","ip":"47.111.124.146","event":"ratelimited","reason":"global"}
+{"ts":"2026-11-18T17:07:38.166Z","ip":"85.217.149.65","event":"ratelimited","reason":"global"}
