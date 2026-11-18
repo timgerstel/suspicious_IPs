@@ -39228,3 +39228,8 @@
 {"ts":"2026-11-18T06:42:35.865Z","ip":"45.148.10.157","event":"ratelimited","reason":"global"}
 {"ts":"2026-11-18T06:47:46.794Z","ip":"45.148.10.152","event":"ratelimited","reason":"global"}
 {"ts":"2026-11-18T06:48:05.973Z","ip":"64.62.197.49","event":"ratelimited","reason":"global"}
+{"ts":"2026-11-18T06:52:55.436Z","ip":"62.60.130.219","event":"ratelimited","reason":"global"}
+{"ts":"2026-11-18T06:53:17.393Z","ip":"85.217.149.16","event":"ratelimited","reason":"global"}
+{"ts":"2026-11-18T06:53:27.550Z","ip":"80.94.92.55","event":"ratelimited","reason":"global"}
+{"ts":"2026-11-18T06:55:11.865Z","ip":"78.128.112.74","event":"ratelimited","reason":"global"}
+{"ts":"2026-11-18T06:58:02.870Z","ip":"45.148.10.152","event":"ratelimited","reason":"global"}
