@@ -39233,3 +39233,5 @@
 {"ts":"2026-11-18T06:53:27.550Z","ip":"80.94.92.55","event":"ratelimited","reason":"global"}
 {"ts":"2026-11-18T06:55:11.865Z","ip":"78.128.112.74","event":"ratelimited","reason":"global"}
 {"ts":"2026-11-18T06:58:02.870Z","ip":"45.148.10.152","event":"ratelimited","reason":"global"}
+{"ts":"2026-11-18T07:37:01.603Z","ip":"176.53.159.196","event":"ratelimited","reason":"global"}
+{"ts":"2026-11-18T07:51:00.052Z","ip":"193.160.32.84","event":"ratelimited","reason":"global"}
