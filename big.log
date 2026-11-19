@@ -39992,3 +39992,10 @@
 {"ts":"2026-11-19T23:12:26.083Z","ip":"80.94.95.116","event":"ratelimited","reason":"global"}
 {"ts":"2026-11-19T23:12:54.520Z","ip":"2.57.121.112","event":"ratelimited","reason":"global"}
 {"ts":"2026-11-19T23:17:43.052Z","ip":"80.94.92.55","event":"ratelimited","reason":"global"}
+{"ts":"2026-11-19T23:22:37.796Z","ip":"80.94.95.115","event":"ratelimited","reason":"global"}
+{"ts":"2026-11-19T23:27:31.774Z","ip":"62.60.130.219","event":"ratelimited","reason":"global"}
+{"ts":"2026-11-19T23:30:17.284Z","ip":"85.217.149.20","event":"ratelimited","reason":"global"}
+{"ts":"2026-11-19T23:30:37.633Z","ip":"78.128.112.74","event":"ratelimited","reason":"global"}
+{"ts":"2026-11-19T23:33:06.633Z","ip":"138.226.239.233","event":"ratelimited","reason":"global"}
+{"ts":"2026-11-19T23:44:28.796Z","ip":"80.94.95.115","event":"ratelimited","reason":"global"}
+{"ts":"2026-11-19T23:45:48.240Z","ip":"62.60.130.148","event":"ratelimited","reason":"global"}
