@@ -39863,3 +39863,7 @@
 {"ts":"2026-11-19T14:29:09.011Z","ip":"62.60.130.219","event":"ratelimited","reason":"global"}
 {"ts":"2026-11-19T14:30:36.385Z","ip":"78.128.112.74","event":"ratelimited","reason":"global"}
 {"ts":"2026-11-19T14:47:11.768Z","ip":"62.60.130.219","event":"ratelimited","reason":"global"}
+{"ts":"2026-11-19T14:57:44.230Z","ip":"157.125.31.35","event":"ratelimited","reason":"global"}
+{"ts":"2026-11-19T15:05:07.439Z","ip":"62.60.130.148","event":"ratelimited","reason":"global"}
+{"ts":"2026-11-19T15:06:20.540Z","ip":"176.53.159.196","event":"ratelimited","reason":"global"}
+{"ts":"2026-11-19T15:21:27.555Z","ip":"66.132.172.99","event":"ratelimited","reason":"global"}
