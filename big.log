@@ -39904,3 +39904,10 @@
 {"ts":"2026-11-19T18:12:42.761Z","ip":"181.174.255.63","event":"ratelimited","reason":"global"}
 {"ts":"2026-11-19T18:14:38.686Z","ip":"181.174.255.63","event":"ratelimited","reason":"global"}
 {"ts":"2026-11-19T18:17:18.609Z","ip":"138.226.239.233","event":"ratelimited","reason":"global"}
+{"ts":"2026-11-19T18:28:26.420Z","ip":"80.94.95.115","event":"ratelimited","reason":"global"}
+{"ts":"2026-11-19T18:30:52.728Z","ip":"147.185.132.69","event":"ratelimited","reason":"global"}
+{"ts":"2026-11-19T18:31:09.740Z","ip":"85.217.149.36","event":"ratelimited","reason":"global"}
+{"ts":"2026-11-19T18:37:43.878Z","ip":"138.226.239.234","event":"ratelimited","reason":"global"}
+{"ts":"2026-11-19T18:42:01.883Z","ip":"176.53.159.196","event":"ratelimited","reason":"global"}
+{"ts":"2026-11-19T18:42:50.434Z","ip":"98.81.148.54","event":"ratelimited","reason":"global"}
+{"ts":"2026-11-19T18:48:36.556Z","ip":"138.226.239.234","event":"ratelimited","reason":"global"}
