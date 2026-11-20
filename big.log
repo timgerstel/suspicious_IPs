@@ -40016,3 +40016,10 @@
 {"ts":"2026-11-20T00:37:42.375Z","ip":"80.94.95.116","event":"ratelimited","reason":"global"}
 {"ts":"2026-11-20T00:38:01.326Z","ip":"62.60.130.148","event":"ratelimited","reason":"global"}
 {"ts":"2026-11-20T00:47:33.277Z","ip":"80.94.95.115","event":"ratelimited","reason":"global"}
+{"ts":"2026-11-20T00:55:26.188Z","ip":"62.60.130.148","event":"ratelimited","reason":"global"}
+{"ts":"2026-11-20T00:57:51.355Z","ip":"80.94.95.115","event":"ratelimited","reason":"global"}
+{"ts":"2026-11-20T01:05:12.397Z","ip":"138.226.239.234","event":"ratelimited","reason":"global"}
+{"ts":"2026-11-20T01:10:00.488Z","ip":"66.132.172.219","event":"ratelimited","reason":"global"}
+{"ts":"2026-11-20T01:15:57.566Z","ip":"138.226.239.234","event":"ratelimited","reason":"global"}
+{"ts":"2026-11-20T01:17:02.733Z","ip":"92.118.39.56","event":"ratelimited","reason":"global"}
+{"ts":"2026-11-20T01:21:11.754Z","ip":"64.62.197.97","event":"ratelimited","reason":"global"}
