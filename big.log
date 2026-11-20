@@ -40204,3 +40204,10 @@
 {"ts":"2026-11-20T10:20:41.252Z","ip":"80.94.95.115","event":"ratelimited","reason":"global"}
 {"ts":"2026-11-20T10:20:44.333Z","ip":"31.41.14.208","event":"ratelimited","reason":"global"}
 {"ts":"2026-11-20T10:20:57.352Z","ip":"80.91.214.150","event":"ratelimited","reason":"global"}
+{"ts":"2026-11-20T10:22:37.779Z","ip":"193.187.110.160","event":"ratelimited","reason":"global"}
+{"ts":"2026-11-20T10:24:44.786Z","ip":"209.113.228.80","event":"ratelimited","reason":"global"}
+{"ts":"2026-11-20T10:25:45.499Z","ip":"176.53.159.196","event":"ratelimited","reason":"global"}
+{"ts":"2026-11-20T10:26:12.899Z","ip":"147.185.132.109","event":"ratelimited","reason":"global"}
+{"ts":"2026-11-20T10:31:01.234Z","ip":"138.226.239.234","event":"ratelimited","reason":"global"}
+{"ts":"2026-11-20T10:42:22.734Z","ip":"80.94.95.116","event":"ratelimited","reason":"global"}
+{"ts":"2026-11-20T10:43:38.318Z","ip":"85.217.149.73","event":"ratelimited","reason":"global"}
