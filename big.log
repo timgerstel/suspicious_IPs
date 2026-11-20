@@ -40101,3 +40101,9 @@
 {"ts":"2026-11-20T05:43:53.223Z","ip":"138.226.239.234","event":"ratelimited","reason":"global"}
 {"ts":"2026-11-20T05:48:26.053Z","ip":"62.60.130.219","event":"ratelimited","reason":"global"}
 {"ts":"2026-11-20T05:49:51.808Z","ip":"107.23.225.70","event":"ratelimited","reason":"global"}
+{"ts":"2026-11-20T05:55:19.071Z","ip":"80.94.95.116","event":"ratelimited","reason":"global"}
+{"ts":"2026-11-20T05:59:54.119Z","ip":"176.53.159.196","event":"ratelimited","reason":"global"}
+{"ts":"2026-11-20T06:01:39.301Z","ip":"138.226.239.234","event":"ratelimited","reason":"global"}
+{"ts":"2026-11-20T06:06:12.048Z","ip":"62.60.130.219","event":"ratelimited","reason":"global"}
+{"ts":"2026-11-20T06:12:41.203Z","ip":"138.226.239.234","event":"ratelimited","reason":"global"}
+{"ts":"2026-11-20T06:21:05.927Z","ip":"178.151.150.47","event":"ratelimited","reason":"global"}
