@@ -40288,3 +40288,10 @@
 {"ts":"2026-11-20T15:49:48.056Z","ip":"85.217.140.48","event":"ratelimited","reason":"global"}
 {"ts":"2026-11-20T15:50:19.675Z","ip":"2.57.122.209","event":"ratelimited","reason":"global"}
 {"ts":"2026-11-20T15:51:19.361Z","ip":"80.94.95.115","event":"ratelimited","reason":"global"}
+{"ts":"2026-11-20T15:52:25.089Z","ip":"185.226.196.22","event":"ratelimited","reason":"global"}
+{"ts":"2026-11-20T15:52:25.134Z","ip":"185.226.196.23","event":"ratelimited","reason":"global"}
+{"ts":"2026-11-20T15:52:25.250Z","ip":"185.226.196.25","event":"ratelimited","reason":"global"}
+{"ts":"2026-11-20T16:01:35.457Z","ip":"80.94.95.116","event":"ratelimited","reason":"global"}
+{"ts":"2026-11-20T16:04:15.439Z","ip":"138.226.239.234","event":"ratelimited","reason":"global"}
+{"ts":"2026-11-20T16:15:14.510Z","ip":"80.94.95.115","event":"ratelimited","reason":"global"}
+{"ts":"2026-11-20T16:16:00.555Z","ip":"62.60.130.219","event":"ratelimited","reason":"global"}
