@@ -40061,3 +40061,10 @@
 {"ts":"2026-11-20T03:42:36.441Z","ip":"85.217.140.40","event":"ratelimited","reason":"global"}
 {"ts":"2026-11-20T03:45:11.890Z","ip":"193.187.110.160","event":"ratelimited","reason":"global"}
 {"ts":"2026-11-20T03:50:00.104Z","ip":"80.94.95.116","event":"ratelimited","reason":"global"}
+{"ts":"2026-11-20T04:00:30.710Z","ip":"138.226.239.234","event":"ratelimited","reason":"global"}
+{"ts":"2026-11-20T04:09:07.088Z","ip":"138.226.239.234","event":"ratelimited","reason":"global"}
+{"ts":"2026-11-20T04:11:58.039Z","ip":"60.188.249.64","event":"ratelimited","reason":"global"}
+{"ts":"2026-11-20T04:14:12.366Z","ip":"184.105.139.70","event":"ratelimited","reason":"global"}
+{"ts":"2026-11-20T04:14:25.591Z","ip":"78.128.112.74","event":"ratelimited","reason":"global"}
+{"ts":"2026-11-20T04:18:19.405Z","ip":"62.60.130.219","event":"ratelimited","reason":"global"}
+{"ts":"2026-11-20T04:20:09.693Z","ip":"138.226.239.234","event":"ratelimited","reason":"global"}
