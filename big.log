@@ -40516,3 +40516,8 @@
 {"ts":"2026-11-21T08:32:05.656Z","ip":"80.94.92.234","event":"ratelimited","reason":"global"}
 {"ts":"2026-11-21T08:43:45.392Z","ip":"109.160.32.47","event":"ratelimited","reason":"global"}
 {"ts":"2026-11-21T08:51:04.504Z","ip":"38.253.22.114","event":"ratelimited","reason":"global"}
+{"ts":"2026-11-21T08:55:40.971Z","ip":"38.253.22.114","event":"ratelimited","reason":"global"}
+{"ts":"2026-11-21T09:08:08.282Z","ip":"5.29.20.250","event":"ratelimited","reason":"global"}
+{"ts":"2026-11-21T09:14:08.387Z","ip":"80.14.250.156","event":"ratelimited","reason":"global"}
+{"ts":"2026-11-21T09:15:04.232Z","ip":"192.248.150.180","event":"ratelimited","reason":"global"}
+{"ts":"2026-11-21T09:21:35.106Z","ip":"176.53.159.196","event":"ratelimited","reason":"global"}
