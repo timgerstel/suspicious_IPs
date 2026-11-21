@@ -40441,3 +40441,7 @@
 {"ts":"2026-11-20T23:27:19.487Z","ip":"80.113.20.70","event":"ratelimited","reason":"global"}
 {"ts":"2026-11-20T23:39:04.329Z","ip":"27.21.91.254","event":"ratelimited","reason":"global"}
 {"ts":"2026-11-20T23:42:01.157Z","ip":"217.41.0.87","event":"ratelimited","reason":"global"}
+{"ts":"2026-11-20T23:54:06.670Z","ip":"187.188.26.228","event":"ratelimited","reason":"global"}
+{"ts":"2026-11-21T00:00:37.132Z","ip":"2.57.121.112","event":"ratelimited","reason":"global"}
+{"ts":"2026-11-21T00:04:07.930Z","ip":"77.239.124.148","event":"ratelimited","reason":"global"}
+{"ts":"2026-11-21T00:07:37.675Z","ip":"2.57.121.25","event":"ratelimited","reason":"global"}
