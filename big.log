@@ -40642,3 +40642,9 @@
 {"ts":"2026-11-21T21:15:46.902Z","ip":"209.145.49.158","event":"ratelimited","reason":"global"}
 {"ts":"2026-11-21T21:18:36.788Z","ip":"85.217.149.45","event":"ratelimited","reason":"global"}
 {"ts":"2026-11-21T21:19:19.571Z","ip":"62.60.130.148","event":"ratelimited","reason":"global"}
+{"ts":"2026-11-21T21:25:46.850Z","ip":"209.145.49.158","event":"ratelimited","reason":"global"}
+{"ts":"2026-11-21T21:27:13.870Z","ip":"114.55.132.117","event":"ratelimited","reason":"global"}
+{"ts":"2026-11-21T21:31:33.088Z","ip":"66.132.159.131","event":"ratelimited","reason":"global"}
+{"ts":"2026-11-21T21:36:37.380Z","ip":"62.60.130.219","event":"ratelimited","reason":"global"}
+{"ts":"2026-11-21T21:37:30.914Z","ip":"18.218.118.203","event":"ratelimited","reason":"global"}
+{"ts":"2026-11-21T21:42:30.282Z","ip":"40.119.46.82","event":"ratelimited","reason":"global"}
