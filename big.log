@@ -40635,3 +40635,10 @@
 {"ts":"2026-11-21T20:42:03.700Z","ip":"38.25.38.135","event":"ratelimited","reason":"global"}
 {"ts":"2026-11-21T20:44:01.357Z","ip":"62.60.130.148","event":"ratelimited","reason":"global"}
 {"ts":"2026-11-21T20:48:36.419Z","ip":"92.118.39.78","event":"ratelimited","reason":"global"}
+{"ts":"2026-11-21T21:01:24.980Z","ip":"62.60.130.148","event":"ratelimited","reason":"global"}
+{"ts":"2026-11-21T21:05:22.099Z","ip":"92.114.176.70","event":"ratelimited","reason":"global"}
+{"ts":"2026-11-21T21:11:38.102Z","ip":"177.227.47.78","event":"ratelimited","reason":"global"}
+{"ts":"2026-11-21T21:12:34.489Z","ip":"176.53.159.196","event":"ratelimited","reason":"global"}
+{"ts":"2026-11-21T21:15:46.902Z","ip":"209.145.49.158","event":"ratelimited","reason":"global"}
+{"ts":"2026-11-21T21:18:36.788Z","ip":"85.217.149.45","event":"ratelimited","reason":"global"}
+{"ts":"2026-11-21T21:19:19.571Z","ip":"62.60.130.148","event":"ratelimited","reason":"global"}
