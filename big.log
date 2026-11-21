@@ -40611,3 +40611,10 @@
 {"ts":"2026-11-21T18:34:18.879Z","ip":"3.83.220.42","event":"ratelimited","reason":"global"}
 {"ts":"2026-11-21T18:41:57.793Z","ip":"209.145.49.158","event":"ratelimited","reason":"global"}
 {"ts":"2026-11-21T18:44:40.621Z","ip":"66.228.62.150","event":"ratelimited","reason":"global"}
+{"ts":"2026-11-21T18:59:24.461Z","ip":"176.53.159.196","event":"ratelimited","reason":"global"}
+{"ts":"2026-11-21T19:10:43.009Z","ip":"2.57.122.150","event":"ratelimited","reason":"global"}
+{"ts":"2026-11-21T19:13:15.139Z","ip":"62.60.130.219","event":"ratelimited","reason":"global"}
+{"ts":"2026-11-21T19:15:25.205Z","ip":"195.96.139.139","event":"ratelimited","reason":"global"}
+{"ts":"2026-11-21T19:15:25.484Z","ip":"157.245.245.246","event":"ratelimited","reason":"global"}
+{"ts":"2026-11-21T19:15:30.131Z","ip":"66.132.172.97","event":"ratelimited","reason":"global"}
+{"ts":"2026-11-21T19:17:39.958Z","ip":"85.217.149.24","event":"ratelimited","reason":"global"}
