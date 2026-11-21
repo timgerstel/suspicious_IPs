@@ -40598,3 +40598,10 @@
 {"ts":"2026-11-21T17:21:54.000Z","ip":"85.217.140.52","event":"ratelimited","reason":"global"}
 {"ts":"2026-11-21T17:24:11.083Z","ip":"66.132.159.82","event":"ratelimited","reason":"global"}
 {"ts":"2026-11-21T17:25:11.546Z","ip":"85.217.149.41","event":"ratelimited","reason":"global"}
+{"ts":"2026-11-21T17:58:01.282Z","ip":"193.32.162.15","event":"ratelimited","reason":"global"}
+{"ts":"2026-11-21T17:58:10.067Z","ip":"107.23.225.70","event":"ratelimited","reason":"global"}
+{"ts":"2026-11-21T18:02:33.090Z","ip":"209.145.49.158","event":"ratelimited","reason":"global"}
+{"ts":"2026-11-21T18:08:18.384Z","ip":"36.213.140.70","event":"ratelimited","reason":"global"}
+{"ts":"2026-11-21T18:14:58.421Z","ip":"176.53.159.196","event":"ratelimited","reason":"global"}
+{"ts":"2026-11-21T18:15:52.523Z","ip":"85.217.140.24","event":"ratelimited","reason":"global"}
+{"ts":"2026-11-21T18:16:11.667Z","ip":"50.247.88.58","event":"ratelimited","reason":"global"}
