@@ -40572,3 +40572,9 @@
 {"ts":"2026-11-21T13:50:30.284Z","ip":"176.53.159.196","event":"ratelimited","reason":"global"}
 {"ts":"2026-11-21T14:08:51.899Z","ip":"193.32.162.15","event":"ratelimited","reason":"global"}
 {"ts":"2026-11-21T14:17:26.727Z","ip":"209.145.49.158","event":"ratelimited","reason":"global"}
+{"ts":"2026-11-21T14:25:44.665Z","ip":"219.139.151.55","event":"ratelimited","reason":"global"}
+{"ts":"2026-11-21T14:31:13.113Z","ip":"167.63.181.219","event":"ratelimited","reason":"global"}
+{"ts":"2026-11-21T14:32:23.808Z","ip":"157.125.31.35","event":"ratelimited","reason":"global"}
+{"ts":"2026-11-21T14:38:54.387Z","ip":"167.63.181.219","event":"ratelimited","reason":"global"}
+{"ts":"2026-11-21T14:41:04.821Z","ip":"77.239.124.130","event":"ratelimited","reason":"global"}
+{"ts":"2026-11-21T14:49:28.334Z","ip":"176.53.159.196","event":"ratelimited","reason":"global"}
