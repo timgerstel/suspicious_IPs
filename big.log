@@ -40618,3 +40618,8 @@
 {"ts":"2026-11-21T19:15:25.484Z","ip":"157.245.245.246","event":"ratelimited","reason":"global"}
 {"ts":"2026-11-21T19:15:30.131Z","ip":"66.132.172.97","event":"ratelimited","reason":"global"}
 {"ts":"2026-11-21T19:17:39.958Z","ip":"85.217.149.24","event":"ratelimited","reason":"global"}
+{"ts":"2026-11-21T19:24:45.327Z","ip":"94.228.8.217","event":"ratelimited","reason":"global"}
+{"ts":"2026-11-21T19:33:49.405Z","ip":"62.60.130.219","event":"ratelimited","reason":"global"}
+{"ts":"2026-11-21T19:40:46.379Z","ip":"190.55.220.85","event":"ratelimited","reason":"global"}
+{"ts":"2026-11-21T19:50:00.872Z","ip":"200.107.225.90","event":"ratelimited","reason":"global"}
+{"ts":"2026-11-21T19:51:28.771Z","ip":"62.60.130.219","event":"ratelimited","reason":"global"}
