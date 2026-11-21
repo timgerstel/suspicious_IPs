@@ -40559,3 +40559,10 @@
 {"ts":"2026-11-21T12:45:14.259Z","ip":"189.171.44.95","event":"ratelimited","reason":"global"}
 {"ts":"2026-11-21T12:46:16.184Z","ip":"176.53.159.196","event":"ratelimited","reason":"global"}
 {"ts":"2026-11-21T12:50:22.043Z","ip":"62.60.130.219","event":"ratelimited","reason":"global"}
+{"ts":"2026-11-21T12:57:40.912Z","ip":"190.142.111.77","event":"ratelimited","reason":"global"}
+{"ts":"2026-11-21T12:58:34.455Z","ip":"209.145.49.158","event":"ratelimited","reason":"global"}
+{"ts":"2026-11-21T13:00:13.496Z","ip":"190.142.111.78","event":"ratelimited","reason":"global"}
+{"ts":"2026-11-21T13:06:24.495Z","ip":"209.145.49.158","event":"ratelimited","reason":"global"}
+{"ts":"2026-11-21T13:09:51.235Z","ip":"118.193.45.220","event":"ratelimited","reason":"global"}
+{"ts":"2026-11-21T13:21:05.547Z","ip":"216.228.25.42","event":"ratelimited","reason":"global"}
+{"ts":"2026-11-21T13:22:04.495Z","ip":"209.145.49.158","event":"ratelimited","reason":"global"}
