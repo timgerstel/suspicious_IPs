@@ -40623,3 +40623,8 @@
 {"ts":"2026-11-21T19:40:46.379Z","ip":"190.55.220.85","event":"ratelimited","reason":"global"}
 {"ts":"2026-11-21T19:50:00.872Z","ip":"200.107.225.90","event":"ratelimited","reason":"global"}
 {"ts":"2026-11-21T19:51:28.771Z","ip":"62.60.130.219","event":"ratelimited","reason":"global"}
+{"ts":"2026-11-21T19:56:10.414Z","ip":"209.145.49.158","event":"ratelimited","reason":"global"}
+{"ts":"2026-11-21T20:01:04.677Z","ip":"209.145.49.158","event":"ratelimited","reason":"global"}
+{"ts":"2026-11-21T20:08:52.783Z","ip":"62.60.130.148","event":"ratelimited","reason":"global"}
+{"ts":"2026-11-21T20:19:55.560Z","ip":"176.53.159.196","event":"ratelimited","reason":"global"}
+{"ts":"2026-11-21T20:21:35.903Z","ip":"153.67.15.37","event":"ratelimited","reason":"global"}
