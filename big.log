@@ -40713,3 +40713,8 @@
 {"ts":"2026-11-22T01:31:29.583Z","ip":"176.53.159.196","event":"ratelimited","reason":"global"}
 {"ts":"2026-11-22T01:35:53.040Z","ip":"2.57.121.25","event":"ratelimited","reason":"global"}
 {"ts":"2026-11-22T01:46:18.377Z","ip":"117.80.151.145","event":"ratelimited","reason":"global"}
+{"ts":"2026-11-22T01:52:21.818Z","ip":"209.145.49.158","event":"ratelimited","reason":"global"}
+{"ts":"2026-11-22T01:57:33.683Z","ip":"40.80.204.23","event":"ratelimited","reason":"global"}
+{"ts":"2026-11-22T02:12:41.802Z","ip":"209.145.49.158","event":"ratelimited","reason":"global"}
+{"ts":"2026-11-22T02:17:45.850Z","ip":"209.145.49.158","event":"ratelimited","reason":"global"}
+{"ts":"2026-11-22T02:19:41.242Z","ip":"2.57.121.112","event":"ratelimited","reason":"global"}
