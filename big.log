@@ -40780,3 +40780,5 @@
 {"ts":"2026-11-22T07:32:52.616Z","ip":"190.137.53.89","event":"ratelimited","reason":"global"}
 {"ts":"2026-11-22T07:36:11.097Z","ip":"85.217.140.19","event":"ratelimited","reason":"global"}
 {"ts":"2026-11-22T07:43:26.111Z","ip":"143.110.158.108","event":"ratelimited","reason":"global"}
+{"ts":"2026-11-22T08:15:07.045Z","ip":"176.53.159.196","event":"ratelimited","reason":"global"}
+{"ts":"2026-11-22T08:19:35.637Z","ip":"47.120.30.67","event":"ratelimited","reason":"global"}
