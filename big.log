@@ -40746,3 +40746,10 @@
 {"ts":"2026-11-22T04:28:56.168Z","ip":"85.217.140.24","event":"ratelimited","reason":"global"}
 {"ts":"2026-11-22T04:36:37.675Z","ip":"62.60.130.219","event":"ratelimited","reason":"global"}
 {"ts":"2026-11-22T04:47:04.431Z","ip":"77.239.124.130","event":"ratelimited","reason":"global"}
+{"ts":"2026-11-22T04:53:38.162Z","ip":"198.235.24.15","event":"ratelimited","reason":"global"}
+{"ts":"2026-11-22T04:54:19.963Z","ip":"62.60.130.148","event":"ratelimited","reason":"global"}
+{"ts":"2026-11-22T04:57:13.482Z","ip":"92.118.39.14","event":"ratelimited","reason":"global"}
+{"ts":"2026-11-22T05:11:52.218Z","ip":"62.60.130.219","event":"ratelimited","reason":"global"}
+{"ts":"2026-11-22T05:13:45.657Z","ip":"45.162.134.247","event":"ratelimited","reason":"global"}
+{"ts":"2026-11-22T05:14:57.054Z","ip":"45.162.134.247","event":"ratelimited","reason":"global"}
+{"ts":"2026-11-22T05:20:57.920Z","ip":"176.53.159.196","event":"ratelimited","reason":"global"}
