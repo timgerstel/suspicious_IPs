@@ -40704,3 +40704,6 @@
 {"ts":"2026-11-22T00:14:46.017Z","ip":"46.150.64.47","event":"ratelimited","reason":"global"}
 {"ts":"2026-11-22T00:25:10.404Z","ip":"85.217.149.53","event":"ratelimited","reason":"global"}
 {"ts":"2026-11-22T00:25:26.799Z","ip":"176.53.159.196","event":"ratelimited","reason":"global"}
+{"ts":"2026-11-22T00:52:31.073Z","ip":"2.57.122.209","event":"ratelimited","reason":"global"}
+{"ts":"2026-11-22T01:11:07.792Z","ip":"78.128.112.74","event":"ratelimited","reason":"global"}
+{"ts":"2026-11-22T01:20:46.082Z","ip":"31.210.220.43","event":"ratelimited","reason":"global"}
