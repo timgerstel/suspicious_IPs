@@ -40957,3 +40957,6 @@
 {"ts":"2026-11-22T20:35:56.513Z","ip":"117.176.220.76","event":"ratelimited","reason":"global"}
 {"ts":"2026-11-22T20:43:54.334Z","ip":"45.148.10.61","event":"ratelimited","reason":"global"}
 {"ts":"2026-11-22T20:50:14.692Z","ip":"176.53.159.196","event":"ratelimited","reason":"global"}
+{"ts":"2026-11-22T21:00:11.012Z","ip":"168.196.32.129","event":"ratelimited","reason":"global"}
+{"ts":"2026-11-22T21:02:52.906Z","ip":"168.196.32.129","event":"ratelimited","reason":"global"}
+{"ts":"2026-11-22T21:21:38.142Z","ip":"92.118.39.71","event":"ratelimited","reason":"global"}
