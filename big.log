@@ -40809,3 +40809,6 @@
 {"ts":"2026-11-22T11:18:23.059Z","ip":"193.32.162.15","event":"ratelimited","reason":"global"}
 {"ts":"2026-11-22T11:35:05.802Z","ip":"85.217.149.12","event":"ratelimited","reason":"global"}
 {"ts":"2026-11-22T11:49:35.970Z","ip":"176.53.159.196","event":"ratelimited","reason":"global"}
+{"ts":"2026-11-22T12:09:01.445Z","ip":"217.41.0.87","event":"ratelimited","reason":"global"}
+{"ts":"2026-11-22T12:12:51.494Z","ip":"196.238.254.32","event":"ratelimited","reason":"global"}
+{"ts":"2026-11-22T12:17:27.078Z","ip":"103.148.235.249","event":"ratelimited","reason":"global"}
