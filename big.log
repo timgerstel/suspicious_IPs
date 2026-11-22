@@ -40753,3 +40753,10 @@
 {"ts":"2026-11-22T05:13:45.657Z","ip":"45.162.134.247","event":"ratelimited","reason":"global"}
 {"ts":"2026-11-22T05:14:57.054Z","ip":"45.162.134.247","event":"ratelimited","reason":"global"}
 {"ts":"2026-11-22T05:20:57.920Z","ip":"176.53.159.196","event":"ratelimited","reason":"global"}
+{"ts":"2026-11-22T05:27:57.547Z","ip":"85.217.140.44","event":"ratelimited","reason":"global"}
+{"ts":"2026-11-22T05:29:18.945Z","ip":"62.60.130.219","event":"ratelimited","reason":"global"}
+{"ts":"2026-11-22T05:29:29.271Z","ip":"193.32.162.15","event":"ratelimited","reason":"global"}
+{"ts":"2026-11-22T05:30:28.606Z","ip":"85.217.149.36","event":"ratelimited","reason":"global"}
+{"ts":"2026-11-22T05:36:54.376Z","ip":"78.128.112.74","event":"ratelimited","reason":"global"}
+{"ts":"2026-11-22T05:46:43.759Z","ip":"62.60.130.148","event":"ratelimited","reason":"global"}
+{"ts":"2026-11-22T05:47:34.253Z","ip":"82.147.85.98","event":"ratelimited","reason":"global"}
