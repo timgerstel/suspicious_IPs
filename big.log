@@ -40735,3 +40735,10 @@
 {"ts":"2026-11-22T03:39:20.132Z","ip":"91.240.113.167","event":"ratelimited","reason":"global"}
 {"ts":"2026-11-22T03:40:32.962Z","ip":"91.240.113.167","event":"ratelimited","reason":"global"}
 {"ts":"2026-11-22T03:49:33.801Z","ip":"209.145.49.158","event":"ratelimited","reason":"global"}
+{"ts":"2026-11-22T03:54:42.286Z","ip":"209.145.49.158","event":"ratelimited","reason":"global"}
+{"ts":"2026-11-22T04:04:28.380Z","ip":"80.94.92.234","event":"ratelimited","reason":"global"}
+{"ts":"2026-11-22T04:09:55.561Z","ip":"209.145.49.158","event":"ratelimited","reason":"global"}
+{"ts":"2026-11-22T04:13:35.545Z","ip":"109.160.32.166","event":"ratelimited","reason":"global"}
+{"ts":"2026-11-22T04:14:21.863Z","ip":"176.53.159.196","event":"ratelimited","reason":"global"}
+{"ts":"2026-11-22T04:17:27.603Z","ip":"62.60.130.148","event":"ratelimited","reason":"global"}
+{"ts":"2026-11-22T04:19:20.614Z","ip":"94.121.174.33","event":"ratelimited","reason":"global"}
