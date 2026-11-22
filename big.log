@@ -40863,3 +40863,5 @@
 {"ts":"2026-11-22T14:38:13.621Z","ip":"85.217.149.61","event":"ratelimited","reason":"global"}
 {"ts":"2026-11-22T14:45:28.292Z","ip":"45.77.61.56","event":"ratelimited","reason":"global"}
 {"ts":"2026-11-22T14:48:15.069Z","ip":"62.60.130.219","event":"ratelimited","reason":"global"}
+{"ts":"2026-11-22T15:05:04.941Z","ip":"60.240.45.24","event":"ratelimited","reason":"global"}
+{"ts":"2026-11-22T15:05:31.741Z","ip":"62.60.130.148","event":"ratelimited","reason":"global"}
