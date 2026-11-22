@@ -40707,3 +40707,9 @@
 {"ts":"2026-11-22T00:52:31.073Z","ip":"2.57.122.209","event":"ratelimited","reason":"global"}
 {"ts":"2026-11-22T01:11:07.792Z","ip":"78.128.112.74","event":"ratelimited","reason":"global"}
 {"ts":"2026-11-22T01:20:46.082Z","ip":"31.210.220.43","event":"ratelimited","reason":"global"}
+{"ts":"2026-11-22T01:24:52.889Z","ip":"85.217.149.12","event":"ratelimited","reason":"global"}
+{"ts":"2026-11-22T01:26:39.376Z","ip":"199.165.159.17","event":"ratelimited","reason":"global"}
+{"ts":"2026-11-22T01:30:09.613Z","ip":"200.123.226.210","event":"ratelimited","reason":"global"}
+{"ts":"2026-11-22T01:31:29.583Z","ip":"176.53.159.196","event":"ratelimited","reason":"global"}
+{"ts":"2026-11-22T01:35:53.040Z","ip":"2.57.121.25","event":"ratelimited","reason":"global"}
+{"ts":"2026-11-22T01:46:18.377Z","ip":"117.80.151.145","event":"ratelimited","reason":"global"}
