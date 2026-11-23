@@ -41054,3 +41054,10 @@
 {"ts":"2026-11-23T06:40:01.119Z","ip":"5.226.140.45","event":"ratelimited","reason":"global"}
 {"ts":"2026-11-23T06:40:01.314Z","ip":"31.14.254.39","event":"ratelimited","reason":"global"}
 {"ts":"2026-11-23T06:49:05.163Z","ip":"181.78.180.115","event":"ratelimited","reason":"global"}
+{"ts":"2026-11-23T06:53:17.090Z","ip":"66.132.186.204","event":"ratelimited","reason":"global"}
+{"ts":"2026-11-23T06:55:27.235Z","ip":"192.53.121.87","event":"ratelimited","reason":"global"}
+{"ts":"2026-11-23T07:00:01.445Z","ip":"184.105.139.70","event":"ratelimited","reason":"global"}
+{"ts":"2026-11-23T07:02:00.913Z","ip":"176.53.159.196","event":"ratelimited","reason":"global"}
+{"ts":"2026-11-23T07:14:28.977Z","ip":"46.201.90.92","event":"ratelimited","reason":"global"}
+{"ts":"2026-11-23T07:15:56.278Z","ip":"101.200.243.197","event":"ratelimited","reason":"global"}
+{"ts":"2026-11-23T07:19:57.791Z","ip":"62.60.130.219","event":"ratelimited","reason":"global"}
