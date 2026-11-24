@@ -41290,3 +41290,4 @@
 {"ts":"2026-11-24T00:10:05.157Z","ip":"85.217.140.7","event":"ratelimited","reason":"global"}
 {"ts":"2026-11-24T00:10:18.925Z","ip":"2.57.121.25","event":"ratelimited","reason":"global"}
 {"ts":"2026-11-24T00:15:56.686Z","ip":"217.41.0.87","event":"ratelimited","reason":"global"}
+{"ts":"2026-11-24T00:41:49.123Z","ip":"2.57.121.112","event":"ratelimited","reason":"global"}
