@@ -41588,3 +41588,5 @@
 {"ts":"2026-11-24T18:43:40.264Z","ip":"113.224.153.77","event":"ratelimited","reason":"global"}
 {"ts":"2026-11-24T18:49:08.301Z","ip":"115.191.52.213","event":"ratelimited","reason":"global"}
 {"ts":"2026-11-24T18:49:35.181Z","ip":"186.227.110.135","event":"ratelimited","reason":"global"}
+{"ts":"2026-11-24T18:59:19.520Z","ip":"66.132.159.115","event":"ratelimited","reason":"global"}
+{"ts":"2026-11-24T19:12:45.839Z","ip":"20.40.233.165","event":"ratelimited","reason":"global"}
