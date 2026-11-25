@@ -41748,3 +41748,10 @@
 {"ts":"2026-11-25T10:14:32.121Z","ip":"186.1.185.53","event":"ratelimited","reason":"global"}
 {"ts":"2026-11-25T10:15:32.525Z","ip":"92.118.39.64","event":"ratelimited","reason":"global"}
 {"ts":"2026-11-25T10:17:46.258Z","ip":"62.60.130.148","event":"ratelimited","reason":"global"}
+{"ts":"2026-11-25T10:22:21.087Z","ip":"64.89.160.135","event":"ratelimited","reason":"global"}
+{"ts":"2026-11-25T10:24:27.035Z","ip":"91.196.178.212","event":"ratelimited","reason":"global"}
+{"ts":"2026-11-25T10:26:48.060Z","ip":"91.196.178.212","event":"ratelimited","reason":"global"}
+{"ts":"2026-11-25T10:28:04.127Z","ip":"62.60.130.148","event":"ratelimited","reason":"global"}
+{"ts":"2026-11-25T10:30:06.513Z","ip":"104.43.56.65","event":"ratelimited","reason":"global"}
+{"ts":"2026-11-25T10:38:03.541Z","ip":"62.60.130.219","event":"ratelimited","reason":"global"}
+{"ts":"2026-11-25T10:47:57.184Z","ip":"62.60.130.148","event":"ratelimited","reason":"global"}
