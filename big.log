@@ -42016,3 +42016,8 @@
 {"ts":"2026-11-26T11:17:12.265Z","ip":"8.148.225.178","event":"ratelimited","reason":"global"}
 {"ts":"2026-11-26T11:35:15.987Z","ip":"217.41.0.87","event":"ratelimited","reason":"global"}
 {"ts":"2026-11-26T11:39:35.452Z","ip":"176.53.159.196","event":"ratelimited","reason":"global"}
+{"ts":"2026-11-26T11:53:17.251Z","ip":"109.132.114.163","event":"ratelimited","reason":"global"}
+{"ts":"2026-11-26T12:00:04.316Z","ip":"77.239.124.130","event":"ratelimited","reason":"global"}
+{"ts":"2026-11-26T12:05:50.184Z","ip":"199.165.159.113","event":"ratelimited","reason":"global"}
+{"ts":"2026-11-26T12:05:58.889Z","ip":"184.105.247.252","event":"ratelimited","reason":"global"}
+{"ts":"2026-11-26T12:17:15.585Z","ip":"85.217.149.65","event":"ratelimited","reason":"global"}
