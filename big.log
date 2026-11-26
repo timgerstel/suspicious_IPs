@@ -42027,3 +42027,10 @@
 {"ts":"2026-11-26T12:38:32.799Z","ip":"113.233.195.125","event":"ratelimited","reason":"global"}
 {"ts":"2026-11-26T12:41:14.264Z","ip":"195.184.76.79","event":"ratelimited","reason":"global"}
 {"ts":"2026-11-26T12:41:17.077Z","ip":"195.184.76.153","event":"ratelimited","reason":"global"}
+{"ts":"2026-11-26T12:57:26.469Z","ip":"20.83.51.72","event":"ratelimited","reason":"global"}
+{"ts":"2026-11-26T13:01:11.932Z","ip":"45.148.10.61","event":"ratelimited","reason":"global"}
+{"ts":"2026-11-26T13:05:19.642Z","ip":"109.160.32.176","event":"ratelimited","reason":"global"}
+{"ts":"2026-11-26T13:12:26.652Z","ip":"62.60.130.148","event":"ratelimited","reason":"global"}
+{"ts":"2026-11-26T13:13:15.935Z","ip":"92.118.39.50","event":"ratelimited","reason":"global"}
+{"ts":"2026-11-26T13:16:28.576Z","ip":"85.217.140.52","event":"ratelimited","reason":"global"}
+{"ts":"2026-11-26T13:20:20.040Z","ip":"85.217.140.28","event":"ratelimited","reason":"global"}
