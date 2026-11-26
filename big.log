@@ -42009,3 +42009,5 @@
 {"ts":"2026-11-26T10:12:04.596Z","ip":"85.217.140.11","event":"ratelimited","reason":"global"}
 {"ts":"2026-11-26T10:12:10.653Z","ip":"176.53.159.196","event":"ratelimited","reason":"global"}
 {"ts":"2026-11-26T10:13:30.563Z","ip":"185.146.112.32","event":"ratelimited","reason":"global"}
+{"ts":"2026-11-26T10:30:47.725Z","ip":"147.185.133.141","event":"ratelimited","reason":"global"}
+{"ts":"2026-11-26T10:38:44.897Z","ip":"165.227.194.8","event":"ratelimited","reason":"global"}
