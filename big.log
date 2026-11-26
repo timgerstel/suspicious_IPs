@@ -41990,3 +41990,6 @@
 {"ts":"2026-11-26T07:42:31.745Z","ip":"94.228.8.206","event":"ratelimited","reason":"global"}
 {"ts":"2026-11-26T07:44:33.021Z","ip":"68.190.2.144","event":"ratelimited","reason":"global"}
 {"ts":"2026-11-26T07:50:44.854Z","ip":"77.90.185.14","event":"ratelimited","reason":"global"}
+{"ts":"2026-11-26T08:08:29.149Z","ip":"85.217.149.41","event":"ratelimited","reason":"global"}
+{"ts":"2026-11-26T08:09:37.524Z","ip":"176.105.197.179","event":"ratelimited","reason":"global"}
+{"ts":"2026-11-26T08:12:06.445Z","ip":"85.217.140.3","event":"ratelimited","reason":"global"}
