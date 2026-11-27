@@ -42280,3 +42280,8 @@
 {"ts":"2026-11-27T06:10:16.541Z","ip":"45.176.21.76","event":"ratelimited","reason":"global"}
 {"ts":"2026-11-27T06:13:47.643Z","ip":"99.252.229.188","event":"ratelimited","reason":"global"}
 {"ts":"2026-11-27T06:15:06.060Z","ip":"99.252.229.188","event":"ratelimited","reason":"global"}
+{"ts":"2026-11-27T07:06:33.264Z","ip":"78.128.112.74","event":"ratelimited","reason":"global"}
+{"ts":"2026-11-27T07:06:38.745Z","ip":"208.98.50.197","event":"ratelimited","reason":"global"}
+{"ts":"2026-11-27T07:08:01.837Z","ip":"99.231.144.49","event":"ratelimited","reason":"global"}
+{"ts":"2026-11-27T07:13:20.831Z","ip":"177.141.198.228","event":"ratelimited","reason":"global"}
+{"ts":"2026-11-27T07:15:55.816Z","ip":"177.141.198.228","event":"ratelimited","reason":"global"}
