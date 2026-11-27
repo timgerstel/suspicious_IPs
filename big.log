@@ -42628,3 +42628,7 @@
 {"ts":"2026-11-27T21:41:16.959Z","ip":"223.83.183.254","event":"ratelimited","reason":"global"}
 {"ts":"2026-11-27T21:45:04.038Z","ip":"2.57.122.209","event":"ratelimited","reason":"global"}
 {"ts":"2026-11-27T21:51:17.202Z","ip":"193.47.62.153","event":"ratelimited","reason":"global"}
+{"ts":"2026-11-27T21:54:41.318Z","ip":"92.118.39.49","event":"ratelimited","reason":"global"}
+{"ts":"2026-11-27T22:09:27.818Z","ip":"216.25.90.18","event":"ratelimited","reason":"global"}
+{"ts":"2026-11-27T22:09:34.489Z","ip":"191.113.68.30","event":"ratelimited","reason":"global"}
+{"ts":"2026-11-27T22:10:50.020Z","ip":"191.113.68.30","event":"ratelimited","reason":"global"}
