@@ -42735,3 +42735,6 @@
 {"ts":"2026-11-28T10:09:07.001Z","ip":"92.118.39.75","event":"ratelimited","reason":"global"}
 {"ts":"2026-11-28T10:09:31.027Z","ip":"165.154.68.212","event":"ratelimited","reason":"global"}
 {"ts":"2026-11-28T10:16:26.107Z","ip":"47.252.11.47","event":"ratelimited","reason":"global"}
+{"ts":"2026-11-28T10:22:27.308Z","ip":"197.14.228.89","event":"ratelimited","reason":"global"}
+{"ts":"2026-11-28T10:26:00.955Z","ip":"197.14.228.89","event":"ratelimited","reason":"global"}
+{"ts":"2026-11-28T10:46:58.417Z","ip":"205.210.31.219","event":"ratelimited","reason":"global"}
