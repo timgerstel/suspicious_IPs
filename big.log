@@ -42720,3 +42720,6 @@
 {"ts":"2026-11-28T07:18:08.988Z","ip":"120.48.0.142","event":"ratelimited","reason":"global"}
 {"ts":"2026-11-28T07:37:22.550Z","ip":"109.160.32.106","event":"ratelimited","reason":"global"}
 {"ts":"2026-11-28T08:19:43.927Z","ip":"204.188.251.70","event":"ratelimited","reason":"global"}
+{"ts":"2026-11-28T08:38:22.034Z","ip":"176.53.159.196","event":"ratelimited","reason":"global"}
+{"ts":"2026-11-28T08:41:38.530Z","ip":"45.41.104.163","event":"ratelimited","reason":"global"}
+{"ts":"2026-11-28T08:46:12.559Z","ip":"78.128.112.74","event":"ratelimited","reason":"global"}
